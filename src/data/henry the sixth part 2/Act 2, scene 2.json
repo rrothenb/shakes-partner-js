@@ -1,0 +1,77 @@
+{
+    "sceneName": "Act 2, scene 2",
+    "playName": "henry the sixth part 2",
+    "location": "London. YORKS garden.",
+    "lines": [
+        {
+            "text": "Enter YORK, SALISBURY, and WARWICK"
+        },
+        {
+            "speaker": "york",
+            "text": "Now, my good Lords of Salisbury and Warwick, Our simple supper ended, give me leave In this close walk to satisfy myself, In craving your opinion of my title, Which is infallible, to Englands crown."
+        },
+        {
+            "speaker": "salisbury",
+            "text": "My lord, I long to hear it at full."
+        },
+        {
+            "speaker": "warwick",
+            "text": "Sweet York, begin: and if thy claim be good, The Nevils are thy subjects to command."
+        },
+        {
+            "speaker": "york",
+            "text": "Then thus: Edward the Third, my lords, had seven sons: The first, Edward the Black Prince, Prince of Wales The second, William of Hatfield, and the third, Lionel Duke of Clarence: next to whom Was John of Gaunt, the Duke of Lancaster The fifth was Edmund Langley, Duke of York The sixth was Thomas of Woodstock, Duke of Gloucester William of Windsor was the seventh and last. Edward the Black Prince died before his father And left behind him Richard, his only son, Who after Edward the Thirds death reignd as king Till Henry Bolingbroke, Duke of Lancaster, The eldest son and heir of John of Gaunt, Crownd by the name of Henry the Fourth, Seized on the realm, deposed the rightful king, Sent his poor queen to France, from whence she came, And him to Pomfret where, as all you know, Harmless Richard was murderd traitorously."
+        },
+        {
+            "speaker": "warwick",
+            "text": "Father, the duke hath told the truth: Thus got the house of Lancaster the crown."
+        },
+        {
+            "speaker": "york",
+            "text": "Which now they hold by force and not by right For Richard, the first sons heir, being dead, The issue of the next son should have reignd."
+        },
+        {
+            "speaker": "salisbury",
+            "text": "But William of Hatfield died without an heir."
+        },
+        {
+            "speaker": "york",
+            "text": "The third son, Duke of Clarence, from whose line I claimed the crown, had issue, Philippe, a daughter, Who married Edmund Mortimer, Earl of March: Edmund had issue, Roger Earl of March Roger had issue, Edmund, Anne and Eleanor."
+        },
+        {
+            "speaker": "salisbury",
+            "text": "This Edmund, in the reign of Bolingbroke, As I have read, laid claim unto the crown And, but for Owen Glendower, had been king, Who kept him in captivity till he died. But to the rest."
+        },
+        {
+            "speaker": "york",
+            "text": "His eldest sister, Anne, My mother, being heir unto the crown Married Richard Earl of Cambridge who was son To Edmund Langley, Edward the Thirds fifth son. By her I claim the kingdom: she was heir To Roger Earl of March, who was the son Of Edmund Mortimer, who married Philippe, Sole daughter unto Lionel Duke of Clarence: So, if the issue of the elder son Succeed before the younger, I am king."
+        },
+        {
+            "speaker": "warwick",
+            "text": "What plain proceeding is more plain than this Henry doth claim the crown from John of Gaunt, The fourth son York claims it from the third. Till Lionels issue fails, his should not reign: It fails not yet, but flourishes in thee And in thy sons, fair slips of such a stock. Then, father Salisbury, kneel we together And in this private plot be we the first That shall salute our rightful sovereign With honour of his birthright to the crown."
+        },
+        {
+            "speaker": "both",
+            "text": "Long live our sovereign Richard, Englands king!"
+        },
+        {
+            "speaker": "york",
+            "text": "We thank you, lords. But I am not your king Till I be crownd and that my sword be staind With heartblood of the house of Lancaster And thats not suddenly to be performd, But with advice and silent secrecy. Do you as I do in these dangerous days: Wink at the Duke of Suffolks insolence, At Beauforts pride, at Somersets ambition, At Buckingham and all the crew of them, Till they have snared the shepherd of the flock, That virtuous prince, the good Duke Humphrey: Tis that they seek, and they in seeking that Shall find their deaths, if York can prophesy."
+        },
+        {
+            "speaker": "salisbury",
+            "text": "My lord, break we off we know your mind at full."
+        },
+        {
+            "speaker": "warwick",
+            "text": "My heart assures me that the Earl of Warwick Shall one day make the Duke of York a king."
+        },
+        {
+            "speaker": "york",
+            "text": "And, Nevil, this I do assure myself: Richard shall live to make the Earl of Warwick The greatest man in England but the king."
+        },
+        {
+            "text": "Exeunt"
+        }
+    ]
+}

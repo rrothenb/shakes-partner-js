@@ -1,0 +1,350 @@
+{
+    "sceneName": "Act 4, scene 1",
+    "playName": "the tempest",
+    "location": "Before PROSPEROS cell.",
+    "lines": [
+        {
+            "text": "Enter PROSPERO, FERDINAND, and MIRANDA"
+        },
+        {
+            "speaker": "prospero",
+            "text": "If I have too austerely punishd you, Your compensation makes amends, for I Have given you here a third of mine own life, Or that for which I live who once again I tender to thy hand: all thy vexations Were but my trials of thy love and thou Hast strangely stood the test here, afore Heaven, I ratify this my rich gift. O Ferdinand, Do not smile at me that I boast her off, For thou shalt find she will outstrip all praise And make it halt behind her."
+        },
+        {
+            "speaker": "ferdinand",
+            "text": "I do believe it Against an oracle."
+        },
+        {
+            "speaker": "prospero",
+            "text": "Then, as my gift and thine own acquisition Worthily purchased take my daughter: but If thou dost break her virginknot before All sanctimonious ceremonies may With full and holy rite be ministerd, No sweet aspersion shall the heavens let fall To make this contract grow: but barren hate, Soureyed disdain and discord shall bestrew The union of your bed with weeds so loathly That you shall hate it both: therefore take heed, As Hymens lamps shall light you."
+        },
+        {
+            "speaker": "ferdinand",
+            "text": "As I hope For quiet days, fair issue and long life, With such love as tis now, the murkiest den, The most opportune place, the strongst suggestion. Our worser genius can, shall never melt Mine honour into lust, to take away The edge of that days celebration When I shall think: or Phoebus steeds are founderd, Or Night kept chaind below."
+        },
+        {
+            "speaker": "prospero",
+            "text": "Fairly spoke. Sit then and talk with her she is thine own. What, Ariel! my industrious servant, Ariel!"
+        },
+        {
+            "text": "Enter ARIEL"
+        },
+        {
+            "speaker": "ariel",
+            "text": "What would my potent master here I am."
+        },
+        {
+            "speaker": "prospero",
+            "text": "Thou and thy meaner fellows your last service Did worthily perform and I must use you In such another trick. Go bring the rabble, Oer whom I give thee power, here to this place: Incite them to quick motion for I must Bestow upon the eyes of this young couple Some vanity of mine art: it is my promise, And they expect it from me."
+        },
+        {
+            "speaker": "ariel",
+            "text": "Presently"
+        },
+        {
+            "speaker": "prospero",
+            "text": "Ay, with a twink."
+        },
+        {
+            "speaker": "ariel",
+            "text": "Before you can say come and go, And breathe twice and cry so, so, Each one, tripping on his toe, Will be here with mop and mow. Do you love me, master no"
+        },
+        {
+            "speaker": "prospero",
+            "text": "Dearly my delicate Ariel. Do not approach Till thou dost hear me call."
+        },
+        {
+            "speaker": "ariel",
+            "text": "Well, I conceive."
+        },
+        {
+            "text": "Exit"
+        },
+        {
+            "speaker": "prospero",
+            "text": "Look thou be true do not give dalliance Too much the rein: the strongest oaths are straw To the fire i the blood: be more abstemious, Or else, good night your vow!"
+        },
+        {
+            "speaker": "ferdinand",
+            "text": "I warrant you sir The white cold virgin snow upon my heart Abates the ardour of my liver."
+        },
+        {
+            "speaker": "prospero",
+            "text": "Well. Now come, my Ariel! bring a corollary, Rather than want a spirit: appear and pertly! No tongue! all eyes! be silent."
+        },
+        {
+            "text": "Soft music"
+        },
+        {
+            "text": "Enter IRIS"
+        },
+        {
+            "speaker": "iris",
+            "text": "Ceres, most bounteous lady, thy rich leas Of wheat, rye, barley, vetches, oats and pease Thy turfy mountains, where live nibbling sheep, And flat meads thatchd with stover, them to keep Thy banks with pioned and twilled brims, Which spongy April at thy hest betrims, To make cold nymphs chaste crowns and thy broom groves, Whose shadow the dismissed bachelor loves, Being lasslorn: thy poleclipt vineyard And thy seamarge, sterile and rockyhard, Where thou thyself dost airthe queen o the sky, Whose watery arch and messenger am I, Bids thee leave these, and with her sovereign grace, Here on this grassplot, in this very place, To come and sport: her peacocks fly amain: Approach, rich Ceres, her to entertain."
+        },
+        {
+            "text": "Enter CERES"
+        },
+        {
+            "speaker": "ceres",
+            "text": "Hail, manycolourd messenger, that neer Dost disobey the wife of Jupiter Who with thy saffron wings upon my flowers Diffusest honeydrops, refreshing showers, And with each end of thy blue bow dost crown My bosky acres and my unshrubbd down, Rich scarf to my proud earth why hath thy queen Summond me hither, to this shortgrassd green"
+        },
+        {
+            "speaker": "iris",
+            "text": "A contract of true love to celebrate And some donation freely to estate On the blest lovers."
+        },
+        {
+            "speaker": "ceres",
+            "text": "Tell me, heavenly bow, If Venus or her son, as thou dost know, Do now attend the queen Since they did plot The means that dusky Dis my daughter got, Her and her blind boys scandald company I have forsworn."
+        },
+        {
+            "speaker": "iris",
+            "text": "Of her society Be not afraid: I met her deity Cutting the clouds towards Paphos and her son Dovedrawn with her. Here thought they to have done Some wanton charm upon this man and maid, Whose vows are, that no bedright shall be paid Till Hymens torch be lighted: but vain Marss hot minion is returned again Her waspishheaded son has broke his arrows, Swears he will shoot no more but play with sparrows And be a boy right out."
+        },
+        {
+            "speaker": "ceres",
+            "text": "Highst queen of state, Great Juno, comes I know her by her gait."
+        },
+        {
+            "text": "Enter JUNO"
+        },
+        {
+            "speaker": "juno",
+            "text": "How does my bounteous sister Go with me To bless this twain, that they may prosperous be And honourd in their issue. They sing: Honour, riches, marriageblessing, Long continuance, and increasing, Hourly joys be still upon you! Juno sings her blessings upon you."
+        },
+        {
+            "speaker": "ceres",
+            "text": "Earths increase, foison plenty, Barns and garners never empty, Vines and clustering bunches growing, Plants with goodly burthen bowing Spring come to you at the farthest In the very end of harvest! Scarcity and want shall shun you Ceres blessing so is on you."
+        },
+        {
+            "speaker": "ferdinand",
+            "text": "This is a most majestic vision, and Harmoniously charmingly. May I be bold To think these spirits"
+        },
+        {
+            "speaker": "prospero",
+            "text": "Spirits, which by mine art I have from their confines calld to enact My present fancies."
+        },
+        {
+            "speaker": "ferdinand",
+            "text": "Let me live here ever So rare a wonderd father and a wife Makes this place Paradise."
+        },
+        {
+            "text": "Juno and Ceres whisper, and send Iris on employment"
+        },
+        {
+            "speaker": "prospero",
+            "text": "Sweet, now, silence! Juno and Ceres whisper seriously Theres something else to do: hush, and be mute, Or else our spell is marrd."
+        },
+        {
+            "speaker": "iris",
+            "text": "You nymphs, calld Naiads, of the windring brooks, With your sedged crowns and everharmless looks, Leave your crisp channels and on this green land Answer your summons Juno does command: Come, temperate nymphs, and help to celebrate A contract of true love be not too late. You sunburnt sicklemen, of August weary, Come hither from the furrow and be merry: Make holiday your ryestraw hats put on And these fresh nymphs encounter every one In country footing. Enter certain Reapers, properly habited: they  join with the Nymphs in a graceful dance  towards the end whereof PROSPERO starts  suddenly, and speaks after which, to a  strange, hollow, and confused noise, they heavily vanish"
+        },
+        {
+            "text": "Enter certain Nymphs"
+        },
+        {
+            "speaker": "prospero",
+            "text": "[Aside]  I had forgot that foul conspiracy Of the beast Caliban and his confederates Against my life: the minute of their plot Is almost come. Well done! avoid no more!"
+        },
+        {
+            "text": "To the Spirits"
+        },
+        {
+            "speaker": "ferdinand",
+            "text": "This is strange: your fathers in some passion That works him strongly."
+        },
+        {
+            "speaker": "miranda",
+            "text": "Never till this day Saw I him touchd with anger so distemperd."
+        },
+        {
+            "speaker": "prospero",
+            "text": "You do look, my son, in a moved sort, As if you were dismayd: be cheerful, sir. Our revels now are ended. These our actors, As I foretold you, were all spirits and Are melted into air, into thin air: And, like the baseless fabric of this vision, The cloudcappd towers, the gorgeous palaces, The solemn temples, the great globe itself, Ye all which it inherit, shall dissolve And, like this insubstantial pageant faded, Leave not a rack behind. We are such stuff As dreams are made on, and our little life Is rounded with a sleep. Sir, I am vexd Bear with my weakness my, brain is troubled: Be not disturbd with my infirmity: If you be pleased, retire into my cell And there repose: a turn or two Ill walk, To still my beating mind."
+        },
+        {
+            "speaker": "miranda",
+            "text": "We wish your peace."
+        },
+        {
+            "text": "Exeunt"
+        },
+        {
+            "speaker": "prospero",
+            "text": "Come with a thought I thank thee, Ariel: come."
+        },
+        {
+            "text": "Enter ARIEL"
+        },
+        {
+            "speaker": "ariel",
+            "text": "Thy thoughts I cleave to. Whats thy pleasure"
+        },
+        {
+            "speaker": "prospero",
+            "text": "Spirit, We must prepare to meet with Caliban."
+        },
+        {
+            "speaker": "ariel",
+            "text": "Ay, my commander: when I presented Ceres, I thought to have told thee of it, but I feard Lest I might anger thee."
+        },
+        {
+            "speaker": "prospero",
+            "text": "Say again, where didst thou leave these varlets"
+        },
+        {
+            "speaker": "ariel",
+            "text": "I told you, sir, they were redhot with drinking So fun of valour that they smote the air For breathing in their faces beat the ground For kissing of their feet yet always bending Towards their project. Then I beat my tabour At which, like unbackd colts, they prickd their ears, Advanced their eyelids, lifted up their noses As they smelt music: so I charmd their ears That calflike they my lowing followd through Toothd briers, sharp furzes, pricking goss and thorns, Which entered their frail shins: at last I left them I the filthymantled pool beyond your cell, There dancing up to the chins, that the foul lake Oerstunk their feet."
+        },
+        {
+            "speaker": "prospero",
+            "text": "This was well done, my bird. Thy shape invisible retain thou still: The trumpery in my house, go bring it hither, For stale to catch these thieves."
+        },
+        {
+            "speaker": "ariel",
+            "text": "I go, I go."
+        },
+        {
+            "text": "Exit"
+        },
+        {
+            "speaker": "prospero",
+            "text": "A devil, a born devil, on whose nature Nurture can never stick on whom my pains, Humanely taken, all, all lost, quite lost And as with age his body uglier grows, So his mind cankers. I will plague them all, Even to roaring. Reenter ARIEL, loaden with glistering apparel,  and c Come, hang them on this line."
+        },
+        {
+            "text": "PROSPERO and ARIEL remain invisible. Enter CALIBAN, STEPHANO, and TRINCULO, all wet"
+        },
+        {
+            "speaker": "caliban",
+            "text": "Pray you, tread softly, that the blind mole may not Hear a foot fall: we now are near his cell."
+        },
+        {
+            "speaker": "stephano",
+            "text": "Monster, your fairy, which you say is a harmless fairy, has done little better than played the Jack with us."
+        },
+        {
+            "speaker": "trinculo",
+            "text": "Monster, I do smell all horsepiss at which my nose is in great indignation."
+        },
+        {
+            "speaker": "stephano",
+            "text": "So is mine. Do you hear, monster If I should take a displeasure against you, look you,"
+        },
+        {
+            "speaker": "trinculo",
+            "text": "Thou wert but a lost monster."
+        },
+        {
+            "speaker": "caliban",
+            "text": "Good my lord, give me thy favour still. Be patient, for the prize Ill bring thee to Shall hoodwink this mischance: therefore speak softly. Alls hushd as midnight yet."
+        },
+        {
+            "speaker": "trinculo",
+            "text": "Ay, but to lose our bottles in the pool,"
+        },
+        {
+            "speaker": "stephano",
+            "text": "There is not only disgrace and dishonour in that, monster, but an infinite loss."
+        },
+        {
+            "speaker": "trinculo",
+            "text": "Thats more to me than my wetting: yet this is your harmless fairy, monster."
+        },
+        {
+            "speaker": "stephano",
+            "text": "I will fetch off my bottle, though I be oer ears for my labour."
+        },
+        {
+            "speaker": "caliban",
+            "text": "Prithee, my king, be quiet. Seest thou here, This is the mouth o the cell: no noise, and enter. Do that good mischief which may make this island Thine own for ever, and I, thy Caliban, For aye thy footlicker."
+        },
+        {
+            "speaker": "stephano",
+            "text": "Give me thy hand. I do begin to have bloody thoughts."
+        },
+        {
+            "speaker": "trinculo",
+            "text": "O king Stephano! O peer! O worthy Stephano! look what a wardrobe here is for thee!"
+        },
+        {
+            "speaker": "caliban",
+            "text": "Let it alone, thou fool it is but trash."
+        },
+        {
+            "speaker": "trinculo",
+            "text": "O, ho, monster! we know what belongs to a frippery. O king Stephano!"
+        },
+        {
+            "speaker": "stephano",
+            "text": "Put off that gown, Trinculo by this hand, Ill have that gown."
+        },
+        {
+            "speaker": "trinculo",
+            "text": "Thy grace shall have it."
+        },
+        {
+            "speaker": "caliban",
+            "text": "The dropsy drown this fool I what do you mean To dote thus on such luggage Lets alone And do the murder first: if he awake, From toe to crown hell fill our skins with pinches, Make us strange stuff."
+        },
+        {
+            "speaker": "stephano",
+            "text": "Be you quiet, monster. Mistress line, is not this my jerkin Now is the jerkin under the line: now, jerkin, you are like to lose your hair and prove a bald jerkin."
+        },
+        {
+            "speaker": "trinculo",
+            "text": "Do, do: we steal by line and level, ant like your grace."
+        },
+        {
+            "speaker": "stephano",
+            "text": "I thank thee for that jest heres a garment fort: wit shall not go unrewarded while I am king of this country. Steal by line and level is an excellent pass of pate theres another garment fort."
+        },
+        {
+            "speaker": "trinculo",
+            "text": "Monster, come, put some lime upon your fingers, and away with the rest."
+        },
+        {
+            "speaker": "caliban",
+            "text": "I will have none ont: we shall lose our time, And all be turnd to barnacles, or to apes With foreheads villanous low."
+        },
+        {
+            "speaker": "stephano",
+            "text": "Monster, layto your fingers: help to bear this away where my hogshead of wine is, or Ill turn you out of my kingdom: go to, carry this."
+        },
+        {
+            "speaker": "trinculo",
+            "text": "And this."
+        },
+        {
+            "speaker": "stephano",
+            "text": "Ay, and this."
+        },
+        {
+            "text": "A noise of hunters heard. Enter divers Spirits,  in shape of dogs and hounds, and hunt them about, PROSPERO and ARIEL setting them on"
+        },
+        {
+            "speaker": "prospero",
+            "text": "Hey, Mountain, hey!"
+        },
+        {
+            "speaker": "ariel",
+            "text": "Silver I there it goes, Silver!"
+        },
+        {
+            "speaker": "prospero",
+            "text": "Fury, Fury! there, Tyrant, there! hark! hark! Go charge my goblins that they grind their joints With dry convulsions, shorten up their sinews With aged cramps, and more pinchspotted make them Than pard or cat o mountain."
+        },
+        {
+            "text": "CALIBAN, STEPHANO, and TRINCULO, are driven out"
+        },
+        {
+            "speaker": "ariel",
+            "text": "Hark, they roar!"
+        },
+        {
+            "speaker": "prospero",
+            "text": "Let them be hunted soundly. At this hour Lie at my mercy all mine enemies: Shortly shall all my labours end, and thou Shalt have the air at freedom: for a little Follow, and do me service. Now does my project gather to a head: My charms crack not my spirits obey and time Goes upright with his carriage. Hows the day"
+        },
+        {
+            "text": "Exeunt"
+        }
+    ]
+}

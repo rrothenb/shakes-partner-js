@@ -1,0 +1,305 @@
+{
+    "sceneName": "Act 5, scene 1",
+    "playName": "henry the sixth part 2",
+    "location": "Fields between Dartford and Blackheath.",
+    "lines": [
+        {
+            "text": "Enter YORK, and his army of Irish, with drum and colours"
+        },
+        {
+            "speaker": "york",
+            "text": "From Ireland thus comes York to claim his right, And pluck the crown from feeble Henrys head: Ring, bells, aloud burn, bonfires, clear and bright, To entertain great Englands lawful king. Ah! sancta majestas, who would not buy thee dear Let them obey that know not how to rule This hand was made to handle naught but gold. I cannot give due action to my words, Except a sword or sceptre balance it: A sceptre shall it have, have I a soul, On which Ill toss the flowerdeluce of France. Whom have we here Buckingham, to disturb me The king hath sent him, sure: I must dissemble."
+        },
+        {
+            "text": "Enter BUCKINGHAM"
+        },
+        {
+            "speaker": "buckingham",
+            "text": "York, if thou meanest well, I greet thee well."
+        },
+        {
+            "speaker": "york",
+            "text": "Humphrey of Buckingham, I accept thy greeting. Art thou a messenger, or come of pleasure"
+        },
+        {
+            "speaker": "buckingham",
+            "text": "A messenger from Henry, our dread liege, To know the reason of these arms in peace Or why thou, being a subject as I am, Against thy oath and true allegiance sworn, Should raise so great a power without his leave, Or dare to bring thy force so near the court."
+        },
+        {
+            "speaker": "york",
+            "text": "[Aside]  Scarce can I speak, my choler is so great: O, I could hew up rocks and fight with flint, I am so angry at these abject terms And now, like Ajax Telamonius, On sheep or oxen could I spend my fury. I am far better born than is the king, More like a king, more kingly in my thoughts: But I must make fair weather yet a while, Till Henry be more weak and I more strong, Buckingham, I prithee, pardon me, That I have given no answer all this while My mind was troubled with deep melancholy. The cause why I have brought this army hither Is to remove proud Somerset from the king, Seditious to his grace and to the state."
+        },
+        {
+            "speaker": "buckingham",
+            "text": "That is too much presumption on thy part: But if thy arms be to no other end, The king hath yielded unto thy demand: The Duke of Somerset is in the Tower."
+        },
+        {
+            "speaker": "york",
+            "text": "Upon thine honour, is he prisoner"
+        },
+        {
+            "speaker": "buckingham",
+            "text": "Upon mine honour, he is prisoner."
+        },
+        {
+            "speaker": "york",
+            "text": "Then, Buckingham, I do dismiss my powers. Soldiers, I thank you all disperse yourselves Meet me tomorrow in St. Georges field, You shall have pay and every thing you wish. And let my sovereign, virtuous Henry, Command my eldest son, nay, all my sons, As pledges of my fealty and love Ill send them all as willing as I live: Lands, goods, horse, armour, any thing I have, Is his to use, so Somerset may die."
+        },
+        {
+            "speaker": "buckingham",
+            "text": "York, I commend this kind submission: We twain will go into his highness tent."
+        },
+        {
+            "text": "Enter KING HENRY VI and Attendants"
+        },
+        {
+            "speaker": "king henry the sixth",
+            "text": "Buckingham, doth York intend no harm to us, That thus he marcheth with thee arm in arm"
+        },
+        {
+            "speaker": "york",
+            "text": "In all submission and humility York doth present himself unto your highness."
+        },
+        {
+            "speaker": "king henry the sixth",
+            "text": "Then what intends these forces thou dost bring"
+        },
+        {
+            "speaker": "york",
+            "text": "To heave the traitor Somerset from hence, And fight against that monstrous rebel Cade, Who since I heard to be discomfited."
+        },
+        {
+            "text": "Enter IDEN, with CADES head"
+        },
+        {
+            "speaker": "iden",
+            "text": "If one so rude and of so mean condition May pass into the presence of a king, Lo, I present your grace a traitors head, The head of Cade, whom I in combat slew."
+        },
+        {
+            "speaker": "king henry the sixth",
+            "text": "The head of Cade! Great God, how just art Thou! O, let me view his visage, being dead, That living wrought me such exceeding trouble. Tell me, my friend, art thou the man that slew him"
+        },
+        {
+            "speaker": "iden",
+            "text": "I was, ant like your majesty."
+        },
+        {
+            "speaker": "king henry the sixth",
+            "text": "How art thou calld and what is thy degree"
+        },
+        {
+            "speaker": "iden",
+            "text": "Alexander Iden, thats my name A poor esquire of Kent, that loves his king."
+        },
+        {
+            "speaker": "buckingham",
+            "text": "So please it you, my lord, twere not amiss He were created knight for his good service."
+        },
+        {
+            "speaker": "king henry the sixth",
+            "text": "Iden, kneel down. Rise up a knight. We give thee for reward a thousand marks, And will that thou henceforth attend on us."
+        },
+        {
+            "text": "He kneels"
+        },
+        {
+            "speaker": "iden",
+            "text": "May Iden live to merit such a bounty. And never live but true unto his liege!"
+        },
+        {
+            "text": "Rises"
+        },
+        {
+            "text": "Enter QUEEN MARGARET and SOMERSET"
+        },
+        {
+            "speaker": "king henry the sixth",
+            "text": "See, Buckingham, Somerset comes with the queen: Go, bid her hide him quickly from the duke."
+        },
+        {
+            "speaker": "queen margaret",
+            "text": "For thousand Yorks he shall not hide his head, But boldly stand and front him to his face."
+        },
+        {
+            "speaker": "york",
+            "text": "How now! is Somerset at liberty Then, York, unloose thy longimprisond thoughts, And let thy tongue be equal with thy heart. Shall I endure the sight of Somerset False king! why hast thou broken faith with me, Knowing how hardly I can brook abuse King did I call thee no, thou art not king, Not fit to govern and rule multitudes, Which darest not, no, nor canst not rule a traitor. That head of thine doth not become a crown Thy hand is made to grasp a palmers staff, And not to grace an awful princely sceptre. That gold must round engirt these brows of mine, Whose smile and frown, like to Achilles spear, Is able with the change to kill and cure. Here is a hand to hold a sceptre up And with the same to act controlling laws. Give place: by heaven, thou shalt rule no more Oer him whom heaven created for thy ruler."
+        },
+        {
+            "speaker": "somerset",
+            "text": "O monstrous traitor! I arrest thee, York, Of capital treason gainst the king and crown Obey, audacious traitor kneel for grace."
+        },
+        {
+            "speaker": "york",
+            "text": "Wouldst have me kneel first let me ask of these, If they can brook I bow a knee to man. Sirrah, call in my sons to be my bail I know, ere they will have me go to ward, Theyll pawn their swords for my enfranchisement."
+        },
+        {
+            "text": "Exit Attendant"
+        },
+        {
+            "speaker": "queen margaret",
+            "text": "Call hither Clifford! bid him come amain, To say if that the bastard boys of York Shall be the surety for their traitor father."
+        },
+        {
+            "text": "Exit BUCKINGHAM"
+        },
+        {
+            "speaker": "york",
+            "text": "O bloodbesotted Neapolitan, Outcast of Naples, Englands bloody scourge! The sons of York, thy betters in their birth, Shall be their fathers bail and bane to those That for my surety will refuse the boys! See where they come: Ill warrant theyll make it good."
+        },
+        {
+            "text": "Enter EDWARD and RICHARD"
+        },
+        {
+            "text": "Enter CLIFFORD and YOUNG CLIFFORD"
+        },
+        {
+            "speaker": "queen margaret",
+            "text": "And here comes Clifford to deny their bail."
+        },
+        {
+            "speaker": "clifford",
+            "text": "Health and all happiness to my lord the king!"
+        },
+        {
+            "text": "Kneels"
+        },
+        {
+            "speaker": "york",
+            "text": "I thank thee, Clifford: say, what news with thee Nay, do not fright us with an angry look We are thy sovereign, Clifford, kneel again For thy mistaking so, we pardon thee."
+        },
+        {
+            "speaker": "clifford",
+            "text": "This is my king, York, I do not mistake But thou mistakest me much to think I do: To Bedlam with him! is the man grown mad"
+        },
+        {
+            "speaker": "king henry the sixth",
+            "text": "Ay, Clifford a bedlam and ambitious humour Makes him oppose himself against his king."
+        },
+        {
+            "speaker": "clifford",
+            "text": "He is a traitor let him to the Tower, And chop away that factious pate of his."
+        },
+        {
+            "speaker": "queen margaret",
+            "text": "He is arrested, but will not obey His sons, he says, shall give their words for him."
+        },
+        {
+            "speaker": "york",
+            "text": "Will you not, sons"
+        },
+        {
+            "speaker": "edward",
+            "text": "Ay, noble father, if our words will serve."
+        },
+        {
+            "speaker": "richard",
+            "text": "And if words will not, then our weapons shall."
+        },
+        {
+            "speaker": "clifford",
+            "text": "Why, what a brood of traitors have we here!"
+        },
+        {
+            "speaker": "york",
+            "text": "Look in a glass, and call thy image so: I am thy king, and thou a falseheart traitor. Call hither to the stake my two brave bears, That with the very shaking of their chains They may astonish these felllurking curs: Bid Salisbury and Warwick come to me."
+        },
+        {
+            "text": "Enter the WARWICK and SALISBURY"
+        },
+        {
+            "speaker": "clifford",
+            "text": "Are these thy bears well bait thy bears to death. And manacle the bearward in their chains, If thou darest bring them to the baiting place."
+        },
+        {
+            "speaker": "richard",
+            "text": "Oft have I seen a hot oerweening cur Run back and bite, because he was withheld Who, being sufferd with the bears fell paw, Hath clappd his tail between his legs and cried: And such a piece of service will you do, If you oppose yourselves to match Lord Warwick."
+        },
+        {
+            "speaker": "clifford",
+            "text": "Hence, heap of wrath, foul indigested lump, As crooked in thy manners as thy shape!"
+        },
+        {
+            "speaker": "york",
+            "text": "Nay, we shall heat you thoroughly anon."
+        },
+        {
+            "speaker": "clifford",
+            "text": "Take heed, lest by your heat you burn yourselves."
+        },
+        {
+            "speaker": "king henry the sixth",
+            "text": "Why, Warwick, hath thy knee forgot to bow Old Salisbury, shame to thy silver hair, Thou mad misleader of thy brainsick son! What, wilt thou on thy deathbed play the ruffian, And seek for sorrow with thy spectacles O, where is faith O, where is loyalty If it be banishd from the frosty head, Where shall it find a harbour in the earth Wilt thou go dig a grave to find out war, And shame thine honourable age with blood Why art thou old, and wantst experience Or wherefore dost abuse it, if thou hast it For shame! in duty bend thy knee to me That bows unto the grave with mickle age."
+        },
+        {
+            "speaker": "salisbury",
+            "text": "My lord, I have considerd with myself The title of this most renowned duke And in my conscience do repute his grace The rightful heir to Englands royal seat."
+        },
+        {
+            "speaker": "king henry the sixth",
+            "text": "Hast thou not sworn allegiance unto me"
+        },
+        {
+            "speaker": "salisbury",
+            "text": "I have."
+        },
+        {
+            "speaker": "king henry the sixth",
+            "text": "Canst thou dispense with heaven for such an oath"
+        },
+        {
+            "speaker": "salisbury",
+            "text": "It is great sin to swear unto a sin, But greater sin to keep a sinful oath. Who can be bound by any solemn vow To do a murderous deed, to rob a man, To force a spotless virgins chastity, To reave the orphan of his patrimony, To wring the widow from her customd right, And have no other reason for this wrong But that he was bound by a solemn oath"
+        },
+        {
+            "speaker": "queen margaret",
+            "text": "A subtle traitor needs no sophister."
+        },
+        {
+            "speaker": "king henry the sixth",
+            "text": "Call Buckingham, and bid him arm himself."
+        },
+        {
+            "speaker": "york",
+            "text": "Call Buckingham, and all the friends thou hast, I am resolved for death or dignity."
+        },
+        {
+            "speaker": "clifford",
+            "text": "The first I warrant thee, if dreams prove true."
+        },
+        {
+            "speaker": "warwick",
+            "text": "You were best to go to bed and dream again, To keep thee from the tempest of the field."
+        },
+        {
+            "speaker": "clifford",
+            "text": "I am resolved to bear a greater storm Than any thou canst conjure up today And that Ill write upon thy burgonet, Might I but know thee by thy household badge."
+        },
+        {
+            "speaker": "warwick",
+            "text": "Now, by my fathers badge, old Nevils crest, The rampant bear chaind to the ragged staff, This day Ill wear aloft my burgonet, As on a mountain top the cedar shows That keeps his leaves in spite of any storm, Even to affright thee with the view thereof."
+        },
+        {
+            "speaker": "clifford",
+            "text": "And from thy burgonet Ill rend thy bear And tread it under foot with all contempt, Despite the bearward that protects the bear."
+        },
+        {
+            "speaker": "young clifford",
+            "text": "And so to arms, victorious father, To quell the rebels and their complices."
+        },
+        {
+            "speaker": "richard",
+            "text": "Fie! charity, for shame! speak not in spite, For you shall sup with Jesu Christ tonight."
+        },
+        {
+            "speaker": "young clifford",
+            "text": "Foul stigmatic, thats more than thou canst tell."
+        },
+        {
+            "speaker": "richard",
+            "text": "If not in heaven, youll surely sup in hell."
+        },
+        {
+            "text": "Exeunt severally"
+        }
+    ]
+}

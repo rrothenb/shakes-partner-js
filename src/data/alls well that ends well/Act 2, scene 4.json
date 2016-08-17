@@ -1,0 +1,115 @@
+{
+    "sceneName": "Act 2, scene 4",
+    "playName": "alls well that ends well",
+    "location": "Paris. The KINGs palace.",
+    "lines": [
+        {
+            "text": "Enter HELENA and Clown"
+        },
+        {
+            "speaker": "helena",
+            "text": "My mother greets me kindly is she well"
+        },
+        {
+            "speaker": "clown",
+            "text": "She is not well but yet she has her health: shes very merry but yet she is not well: but thanks be given, shes very well and wants nothing i, the world but yet she is not well."
+        },
+        {
+            "speaker": "helena",
+            "text": "If she be very well, what does she ail, that shes not very well"
+        },
+        {
+            "speaker": "clown",
+            "text": "Truly, shes very well indeed, but for two things."
+        },
+        {
+            "speaker": "helena",
+            "text": "What two things"
+        },
+        {
+            "speaker": "clown",
+            "text": "One, that shes not in heaven, whither God send her quickly! the other that shes in earth, from whence God send her quickly!"
+        },
+        {
+            "text": "Enter PAROLLES"
+        },
+        {
+            "speaker": "parolles",
+            "text": "Bless you, my fortunate lady!"
+        },
+        {
+            "speaker": "helena",
+            "text": "I hope, sir, I have your good will to have mine own good fortunes."
+        },
+        {
+            "speaker": "parolles",
+            "text": "You had my prayers to lead them on and to keep them on, have them still. O, my knave, how does my old lady"
+        },
+        {
+            "speaker": "clown",
+            "text": "So that you had her wrinkles and I her money, I would she did as you say."
+        },
+        {
+            "speaker": "parolles",
+            "text": "Why, I say nothing."
+        },
+        {
+            "speaker": "clown",
+            "text": "Marry, you are the wiser man for many a mans tongue shakes out his masters undoing: to say nothing, to do nothing, to know nothing, and to have nothing, is to be a great part of your title which is within a very little of nothing."
+        },
+        {
+            "speaker": "parolles",
+            "text": "Away! thourt a knave."
+        },
+        {
+            "speaker": "clown",
+            "text": "You should have said, sir, before a knave thourt a knave thats, before me thourt a knave: this had been truth, sir."
+        },
+        {
+            "speaker": "parolles",
+            "text": "Go to, thou art a witty fool I have found thee."
+        },
+        {
+            "speaker": "clown",
+            "text": "Did you find me in yourself, sir or were you taught to find me The search, sir, was profitable and much fool may you find in you, even to the worlds pleasure and the increase of laughter."
+        },
+        {
+            "speaker": "parolles",
+            "text": "A good knave, i faith, and well fed. Madam, my lord will go away tonight A very serious business calls on him. The great prerogative and rite of love, Which, as your due, time claims, he does acknowledge But puts it off to a compelld restraint Whose want, and whose delay, is strewd with sweets, Which they distil now in the curbed time, To make the coming hour oerflow with joy And pleasure drown the brim."
+        },
+        {
+            "speaker": "helena",
+            "text": "Whats his will else"
+        },
+        {
+            "speaker": "parolles",
+            "text": "That you will take your instant leave o the king And make this haste as your own good proceeding, Strengthend with what apology you think May make it probable need."
+        },
+        {
+            "speaker": "helena",
+            "text": "What more commands he"
+        },
+        {
+            "speaker": "parolles",
+            "text": "That, having this obtaind, you presently Attend his further pleasure."
+        },
+        {
+            "speaker": "helena",
+            "text": "In every thing I wait upon his will."
+        },
+        {
+            "speaker": "parolles",
+            "text": "I shall report it so."
+        },
+        {
+            "speaker": "helena",
+            "text": "I pray you. Come, sirrah."
+        },
+        {
+            "text": "Exit PAROLLES"
+        },
+        {
+            "text": "Exeunt"
+        }
+    ]
+}

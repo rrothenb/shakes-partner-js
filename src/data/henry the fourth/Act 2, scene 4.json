@@ -1,0 +1,868 @@
+{
+    "sceneName": "Act 2, scene 4",
+    "playName": "henry the fourth",
+    "location": "The BoarsHead Tavern, Eastcheap.",
+    "lines": [
+        {
+            "text": "Enter PRINCE HENRY and POINS"
+        },
+        {
+            "speaker": "prince henry",
+            "text": "Ned, prithee, come out of that fat room, and lend me thy hand to laugh a little."
+        },
+        {
+            "speaker": "poins",
+            "text": "Where hast been, Hal"
+        },
+        {
+            "speaker": "prince henry",
+            "text": "With three or four loggerheads amongst three or four score hogsheads. I have sounded the very basestring of humility. Sirrah, I am sworn brother to a leash of drawers and can call them all by their christen names, as Tom, Dick, and Francis. They take it already upon their salvation, that though I be but the prince of Wales, yet I am king of courtesy and tell me flatly I am no proud Jack, like Falstaff, but a Corinthian, a lad of mettle, a good boy, by the Lord, so they call me, and when I am king of England, I shall command all the good lads in Eastcheap. They call drinking deep, dyeing scarlet and when you breathe in your watering, they cry  hem! and bid you play it off. To conclude, I am so good a proficient in one quarter of an hour, that I can drink with any tinker in his own language during my life. I tell thee, Ned, thou hast lost much honour, that thou wert not with me in this sweet action. But, sweet Ned,to sweeten which name of Ned, I give thee this pennyworth of sugar, clapped even now into my hand by an underskinker, one that never spake other English in his life than Eight shillings and sixpence and You are welcome, with this shrill addition, Anon, anon, sir! Score a pint of bastard in the HalfMoon, or so. But, Ned, to drive away the time till Falstaff come, I prithee, do thou stand in some byroom, while I question my puny drawer to what end he gave me the sugar and do thou never leave calling Francis, that his tale to me may be nothing but Anon. Step aside, and Ill show thee a precedent."
+        },
+        {
+            "speaker": "poins",
+            "text": "Francis!"
+        },
+        {
+            "speaker": "prince henry",
+            "text": "Thou art perfect."
+        },
+        {
+            "speaker": "poins",
+            "text": "Francis!"
+        },
+        {
+            "text": "Exit POINS"
+        },
+        {
+            "text": "Enter FRANCIS"
+        },
+        {
+            "speaker": "francis",
+            "text": "Anon, anon, sir. Look down into the Pomgarnet, Ralph."
+        },
+        {
+            "speaker": "prince henry",
+            "text": "Come hither, Francis."
+        },
+        {
+            "speaker": "francis",
+            "text": "My lord"
+        },
+        {
+            "speaker": "prince henry",
+            "text": "How long hast thou to serve, Francis"
+        },
+        {
+            "speaker": "francis",
+            "text": "Forsooth, five years, and as much as to"
+        },
+        {
+            "speaker": "poins",
+            "text": "[Within]  Francis!"
+        },
+        {
+            "speaker": "francis",
+            "text": "Anon, anon, sir."
+        },
+        {
+            "speaker": "prince henry",
+            "text": "Five year! byr lady, a long lease for the clinking of pewter. But, Francis, darest thou be so valiant as to play the coward with thy indenture and show it a fair pair of heels and run from it"
+        },
+        {
+            "speaker": "francis",
+            "text": "O Lord, sir, Ill be sworn upon all the books in England, I could find in my heart."
+        },
+        {
+            "speaker": "poins",
+            "text": "[Within]  Francis!"
+        },
+        {
+            "speaker": "francis",
+            "text": "Anon, sir."
+        },
+        {
+            "speaker": "prince henry",
+            "text": "How old art thou, Francis"
+        },
+        {
+            "speaker": "francis",
+            "text": "Let me seeabout Michaelmas next I shall be"
+        },
+        {
+            "speaker": "poins",
+            "text": "[Within]  Francis!"
+        },
+        {
+            "speaker": "francis",
+            "text": "Anon, sir. Pray stay a little, my lord."
+        },
+        {
+            "speaker": "prince henry",
+            "text": "Nay, but hark you, Francis: for the sugar thou gavest me,twas a pennyworth, wastt not"
+        },
+        {
+            "speaker": "francis",
+            "text": "O Lord, I would it had been two!"
+        },
+        {
+            "speaker": "prince henry",
+            "text": "I will give thee for it a thousand pound: ask me when thou wilt, and thou shalt have it."
+        },
+        {
+            "speaker": "poins",
+            "text": "[Within]  Francis!"
+        },
+        {
+            "speaker": "francis",
+            "text": "Anon, anon."
+        },
+        {
+            "speaker": "prince henry",
+            "text": "Anon, Francis No, Francis but tomorrow, Francis or, Francis, o Thursday or indeed, Francis, when thou wilt. But, Francis!"
+        },
+        {
+            "speaker": "francis",
+            "text": "My lord"
+        },
+        {
+            "speaker": "prince henry",
+            "text": "Wilt thou rob this leathern jerkin, crystalbutton, notpated, agatering, pukestocking, caddisgarter, smoothtongue, Spanishpouch,"
+        },
+        {
+            "speaker": "francis",
+            "text": "O Lord, sir, who do you mean"
+        },
+        {
+            "speaker": "prince henry",
+            "text": "Why, then, your brown bastard is your only drink for look you, Francis, your white canvas doublet will sully: in Barbary, sir, it cannot come to so much."
+        },
+        {
+            "speaker": "francis",
+            "text": "What, sir"
+        },
+        {
+            "speaker": "poins",
+            "text": "[Within]  Francis!"
+        },
+        {
+            "speaker": "prince henry",
+            "text": "Away, you rogue! dost thou not hear them call Here they both call him the drawer stands amazed, not knowing which way to go"
+        },
+        {
+            "text": "Enter Vintner"
+        },
+        {
+            "speaker": "vintner",
+            "text": "What, standest thou still, and hearest such a calling Look to the guests within. My lord, old Sir John, with halfadozen more, are at the door: shall I let them in"
+        },
+        {
+            "text": "Exit Francis"
+        },
+        {
+            "speaker": "prince henry",
+            "text": "Let them alone awhile, and then open the door. Poins!"
+        },
+        {
+            "text": "Exit Vintner"
+        },
+        {
+            "text": "Reenter POINS"
+        },
+        {
+            "speaker": "poins",
+            "text": "Anon, anon, sir."
+        },
+        {
+            "speaker": "prince henry",
+            "text": "Sirrah, Falstaff and the rest of the thieves are at the door: shall we be merry"
+        },
+        {
+            "speaker": "poins",
+            "text": "As merry as crickets, my lad. But hark ye what cunning match have you made with this jest of the drawer come, whats the issue"
+        },
+        {
+            "speaker": "prince henry",
+            "text": "I am now of all humours that have showed themselves humours since the old days of goodman Adam to the pupil age of this present twelve oclock at midnight. Whats oclock, Francis"
+        },
+        {
+            "text": "Reenter FRANCIS"
+        },
+        {
+            "speaker": "francis",
+            "text": "Anon, anon, sir."
+        },
+        {
+            "text": "Exit"
+        },
+        {
+            "speaker": "prince henry",
+            "text": "That ever this fellow should have fewer words than a parrot, and yet the son of a woman! His industry is upstairs and downstairs his eloquence the parcel of a reckoning. I am not yet of Percys mind, the Hotspur of the north he that kills me some six or seven dozen of Scots at a breakfast, washes his hands, and says to his wife Fie upon this quiet life! I want work. O my sweet Harry, says she, how many hast thou killed today Give my roan horse a drench, says he and answers Some fourteen, an hour after a trifle, a trifle. I prithee, call in Falstaff: Ill play Percy, and that damned brawn shall play Dame Mortimer his wife. Rivo! says the drunkard. Call in ribs, call in tallow. Enter FALSTAFF, GADSHILL, BARDOLPH, and PETO FRANCIS following with wine"
+        },
+        {
+            "speaker": "poins",
+            "text": "Welcome, Jack: where hast thou been"
+        },
+        {
+            "speaker": "falstaff",
+            "text": "A plague of all cowards, I say, and a vengeance too! marry, and amen! Give me a cup of sack, boy. Ere I lead this life long, Ill sew nether stocks and mend them and foot them too. A plague of all cowards! Give me a cup of sack, rogue. Is there no virtue extant"
+        },
+        {
+            "text": "He drinks"
+        },
+        {
+            "speaker": "prince henry",
+            "text": "Didst thou never see Titan kiss a dish of butter pitifulhearted Titan, that melted at the sweet tale of the suns! if thou didst, then behold that compound."
+        },
+        {
+            "speaker": "falstaff",
+            "text": "You rogue, heres lime in this sack too: there is nothing but roguery to be found in villanous man: yet a coward is worse than a cup of sack with lime in it. A villanous coward! Go thy ways, old Jack die when thou wilt, if manhood, good manhood, be not forgot upon the face of the earth, then am I a shotten herring. There live not three good men unhanged in England and one of them is fat and grows old: God help the while! a bad world, I say. I would I were a weaver I could sing psalms or any thing. A plague of all cowards, I say still."
+        },
+        {
+            "speaker": "prince henry",
+            "text": "How now, woolsack! what mutter you"
+        },
+        {
+            "speaker": "falstaff",
+            "text": "A kings son! If I do not beat thee out of thy kingdom with a dagger of lath, and drive all thy subjects afore thee like a flock of wildgeese, Ill never wear hair on my face more. You Prince of Wales!"
+        },
+        {
+            "speaker": "prince henry",
+            "text": "Why, you whoreson round man, whats the matter"
+        },
+        {
+            "speaker": "falstaff",
+            "text": "Are not you a coward answer me to that: and Poins there"
+        },
+        {
+            "speaker": "poins",
+            "text": "Zounds, ye fat paunch, an ye call me coward, by the Lord, Ill stab thee."
+        },
+        {
+            "speaker": "falstaff",
+            "text": "I call thee coward! Ill see thee damned ere I call thee coward: but I would give a thousand pound I could run as fast as thou canst. You are straight enough in the shoulders, you care not who sees your back: call you that backing of your friends A plague upon such backing! give me them that will face me. Give me a cup of sack: I am a rogue, if I drunk today."
+        },
+        {
+            "speaker": "prince henry",
+            "text": "O villain! thy lips are scarce wiped since thou drunkest last."
+        },
+        {
+            "speaker": "falstaff",
+            "text": "Alls one for that. A plague of all cowards, still say I."
+        },
+        {
+            "text": "He drinks"
+        },
+        {
+            "speaker": "prince henry",
+            "text": "Whats the matter"
+        },
+        {
+            "speaker": "falstaff",
+            "text": "Whats the matter! there be four of us here have taen a thousand pound this day morning."
+        },
+        {
+            "speaker": "prince henry",
+            "text": "Where is it, Jack where is it"
+        },
+        {
+            "speaker": "falstaff",
+            "text": "Where is it! taken from us it is: a hundred upon poor four of us."
+        },
+        {
+            "speaker": "prince henry",
+            "text": "What, a hundred, man"
+        },
+        {
+            "speaker": "falstaff",
+            "text": "I am a rogue, if I were not at halfsword with a dozen of them two hours together. I have scaped by miracle. I am eight times thrust through the doublet, four through the hose my buckler cut through and through my sword hacked like a handsawecce signum! I never dealt better since I was a man: all would not do. A plague of all cowards! Let them speak: if they speak more or less than truth, they are villains and the sons of darkness."
+        },
+        {
+            "speaker": "prince henry",
+            "text": "Speak, sirs how was it"
+        },
+        {
+            "speaker": "gadshill",
+            "text": "We four set upon some dozen"
+        },
+        {
+            "speaker": "falstaff",
+            "text": "Sixteen at least, my lord."
+        },
+        {
+            "speaker": "gadshill",
+            "text": "And bound them."
+        },
+        {
+            "speaker": "peto",
+            "text": "No, no, they were not bound."
+        },
+        {
+            "speaker": "falstaff",
+            "text": "You rogue, they were bound, every man of them or I am a Jew else, an Ebrew Jew."
+        },
+        {
+            "speaker": "gadshill",
+            "text": "As we were sharing, some six or seven fresh men set upon us"
+        },
+        {
+            "speaker": "falstaff",
+            "text": "And unbound the rest, and then come in the other."
+        },
+        {
+            "speaker": "prince henry",
+            "text": "What, fought you with them all"
+        },
+        {
+            "speaker": "falstaff",
+            "text": "All! I know not what you call all but if I fought not with fifty of them, I am a bunch of radish: if there were not two or three and fifty upon poor old Jack, then am I no twolegged creature."
+        },
+        {
+            "speaker": "prince henry",
+            "text": "Pray God you have not murdered some of them."
+        },
+        {
+            "speaker": "falstaff",
+            "text": "Nay, thats past praying for: I have peppered two of them two I am sure I have paid, two rogues in buckram suits. I tell thee what, Hal, if I tell thee a lie, spit in my face, call me horse. Thou knowest my old ward here I lay and thus I bore my point. Four rogues in buckram let drive at me"
+        },
+        {
+            "speaker": "prince henry",
+            "text": "What, four thou saidst but two even now."
+        },
+        {
+            "speaker": "falstaff",
+            "text": "Four, Hal I told thee four."
+        },
+        {
+            "speaker": "poins",
+            "text": "Ay, ay, he said four."
+        },
+        {
+            "speaker": "falstaff",
+            "text": "These four came all afront, and mainly thrust at me. I made me no more ado but took all their seven points in my target, thus."
+        },
+        {
+            "speaker": "prince henry",
+            "text": "Seven why, there were but four even now."
+        },
+        {
+            "speaker": "falstaff",
+            "text": "In buckram"
+        },
+        {
+            "speaker": "poins",
+            "text": "Ay, four, in buckram suits."
+        },
+        {
+            "speaker": "falstaff",
+            "text": "Seven, by these hilts, or I am a villain else."
+        },
+        {
+            "speaker": "prince henry",
+            "text": "Prithee, let him alone we shall have more anon."
+        },
+        {
+            "speaker": "falstaff",
+            "text": "Dost thou hear me, Hal"
+        },
+        {
+            "speaker": "prince henry",
+            "text": "Ay, and mark thee too, Jack."
+        },
+        {
+            "speaker": "falstaff",
+            "text": "Do so, for it is worth the listening to. These nine in buckram that I told thee of"
+        },
+        {
+            "speaker": "prince henry",
+            "text": "So, two more already."
+        },
+        {
+            "speaker": "falstaff",
+            "text": "Their points being broken,"
+        },
+        {
+            "speaker": "poins",
+            "text": "Down fell their hose."
+        },
+        {
+            "speaker": "falstaff",
+            "text": "Began to give me ground: but I followed me close, came in foot and hand and with a thought seven of the eleven I paid."
+        },
+        {
+            "speaker": "prince henry",
+            "text": "O monstrous! eleven buckram men grown out of two!"
+        },
+        {
+            "speaker": "falstaff",
+            "text": "But, as the devil would have it, three misbegotten knaves in Kendal green came at my back and let drive at me for it was so dark, Hal, that thou couldst not see thy hand."
+        },
+        {
+            "speaker": "prince henry",
+            "text": "These lies are like their father that begets them gross as a mountain, open, palpable. Why, thou claybrained guts, thou knottypated fool, thou whoreson, obscene, grease tallowcatch,"
+        },
+        {
+            "speaker": "falstaff",
+            "text": "What, art thou mad art thou mad is not the truth the truth"
+        },
+        {
+            "speaker": "prince henry",
+            "text": "Why, how couldst thou know these men in Kendal green, when it was so dark thou couldst not see thy hand come, tell us your reason: what sayest thou to this"
+        },
+        {
+            "speaker": "poins",
+            "text": "Come, your reason, Jack, your reason."
+        },
+        {
+            "speaker": "falstaff",
+            "text": "What, upon compulsion Zounds, an I were at the strappado, or all the racks in the world, I would not tell you on compulsion. Give you a reason on compulsion! If reasons were as plentiful as blackberries, I would give no man a reason upon compulsion, I."
+        },
+        {
+            "speaker": "prince henry",
+            "text": "Ill be no longer guilty of this sin this sanguine coward, this bedpresser, this horsebackbreaker, this huge hill of flesh,"
+        },
+        {
+            "speaker": "falstaff",
+            "text": "Sblood, you starveling, you elfskin, you dried neats tongue, you bulls pizzle, you stockfish! O for breath to utter what is like thee! you tailorsyard, you sheath, you bowcase you vile standingtuck,"
+        },
+        {
+            "speaker": "prince henry",
+            "text": "Well, breathe awhile, and then to it again: and when thou hast tired thyself in base comparisons, hear me speak but this."
+        },
+        {
+            "speaker": "poins",
+            "text": "Mark, Jack."
+        },
+        {
+            "speaker": "prince henry",
+            "text": "We two saw you four set on four and bound them, and were masters of their wealth. Mark now, how a plain tale shall put you down. Then did we two set on you four and, with a word, outfaced you from your prize, and have it yea, and can show it you here in the house: and, Falstaff, you carried your guts away as nimbly, with as quick dexterity, and roared for mercy and still run and roared, as ever I heard bullcalf. What a slave art thou, to hack thy sword as thou hast done, and then say it was in fight! What trick, what device, what startinghole, canst thou now find out to hide thee from this open and apparent shame"
+        },
+        {
+            "speaker": "poins",
+            "text": "Come, lets hear, Jack what trick hast thou now"
+        },
+        {
+            "speaker": "falstaff",
+            "text": "By the Lord, I knew ye as well as he that made ye. Why, hear you, my masters: was it for me to kill the heirapparent should I turn upon the true prince why, thou knowest I am as valiant as Hercules: but beware instinct the lion will not touch the true prince. Instinct is a great matter I was now a coward on instinct. I shall think the better of myself and thee during my life I for a valiant lion, and thou for a true prince. But, by the Lord, lads, I am glad you have the money. Hostess, clap to the doors: watch tonight, pray tomorrow. Gallants, lads, boys, hearts of gold, all the titles of good fellowship come to you! What, shall we be merry shall we have a play extempore"
+        },
+        {
+            "speaker": "prince henry",
+            "text": "Content and the argument shall be thy running away."
+        },
+        {
+            "speaker": "falstaff",
+            "text": "Ah, no more of that, Hal, an thou lovest me!"
+        },
+        {
+            "text": "Enter Hostess"
+        },
+        {
+            "speaker": "hostess",
+            "text": "O Jesu, my lord the prince!"
+        },
+        {
+            "speaker": "prince henry",
+            "text": "How now, my lady the hostess! what sayest thou to me"
+        },
+        {
+            "speaker": "hostess",
+            "text": "Marry, my lord, there is a nobleman of the court at door would speak with you: he says he comes from your father."
+        },
+        {
+            "speaker": "prince henry",
+            "text": "Give him as much as will make him a royal man, and send him back again to my mother."
+        },
+        {
+            "speaker": "falstaff",
+            "text": "What manner of man is he"
+        },
+        {
+            "speaker": "hostess",
+            "text": "An old man."
+        },
+        {
+            "speaker": "falstaff",
+            "text": "What doth gravity out of his bed at midnight Shall I give him his answer"
+        },
+        {
+            "speaker": "prince henry",
+            "text": "Prithee, do, Jack."
+        },
+        {
+            "speaker": "falstaff",
+            "text": "Faith, and Ill send him packing."
+        },
+        {
+            "text": "Exit FALSTAFF"
+        },
+        {
+            "speaker": "prince henry",
+            "text": "Now, sirs: byr lady, you fought fair so did you, Peto so did you, Bardolph: you are lions too, you ran away upon instinct, you will not touch the true prince no, fie!"
+        },
+        {
+            "speaker": "bardolph",
+            "text": "Faith, I ran when I saw others run."
+        },
+        {
+            "speaker": "prince henry",
+            "text": "Faith, tell me now in earnest, how came Falstaffs sword so hacked"
+        },
+        {
+            "speaker": "peto",
+            "text": "Why, he hacked it with his dagger, and said he would swear truth out of England but he would make you believe it was done in fight, and persuaded us to do the like."
+        },
+        {
+            "speaker": "bardolph",
+            "text": "Yea, and to tickle our noses with speargrass to make them bleed, and then to beslubber our garments with it and swear it was the blood of true men. I did that I did not this seven year before, I blushed to hear his monstrous devices."
+        },
+        {
+            "speaker": "prince henry",
+            "text": "O villain, thou stolest a cup of sack eighteen years ago, and wert taken with the manner, and ever since thou hast blushed extempore. Thou hadst fire and sword on thy side, and yet thou rannest away: what instinct hadst thou for it"
+        },
+        {
+            "speaker": "bardolph",
+            "text": "My lord, do you see these meteors do you behold these exhalations"
+        },
+        {
+            "speaker": "prince henry",
+            "text": "I do."
+        },
+        {
+            "speaker": "bardolph",
+            "text": "What think you they portend"
+        },
+        {
+            "speaker": "prince henry",
+            "text": "Hot livers and cold purses."
+        },
+        {
+            "speaker": "bardolph",
+            "text": "Choler, my lord, if rightly taken."
+        },
+        {
+            "speaker": "prince henry",
+            "text": "No, if rightly taken, halter. Here comes lean Jack, here comes barebone. How now, my sweet creature of bombast! How long ist ago, Jack, since thou sawest thine own knee"
+        },
+        {
+            "text": "Reenter FALSTAFF"
+        },
+        {
+            "speaker": "falstaff",
+            "text": "My own knee! when I was about thy years, Hal, I was not an eagles talon in the waist I could have crept into any aldermans thumbring: a plague of sighing and grief! it blows a man up like a bladder. Theres villanous news abroad: here was Sir John Bracy from your father you must to the court in the morning. That same mad fellow of the north, Percy, and he of Wales, that gave Amamon the bastinado and made Lucifer cuckold and swore the devil his true liegeman upon the cross of a Welsh hookwhat a plague call you him"
+        },
+        {
+            "speaker": "poins",
+            "text": "O, Glendower."
+        },
+        {
+            "speaker": "falstaff",
+            "text": "Owen, Owen, the same and his soninlaw Mortimer, and old Northumberland, and that sprightly Scot of Scots, Douglas, that runs o horseback up a hill perpendicular,"
+        },
+        {
+            "speaker": "prince henry",
+            "text": "He that rides at high speed and with his pistol kills a sparrow flying."
+        },
+        {
+            "speaker": "falstaff",
+            "text": "You have hit it."
+        },
+        {
+            "speaker": "prince henry",
+            "text": "So did he never the sparrow."
+        },
+        {
+            "speaker": "falstaff",
+            "text": "Well, that rascal hath good mettle in him he will not run."
+        },
+        {
+            "speaker": "prince henry",
+            "text": "Why, what a rascal art thou then, to praise him so for running!"
+        },
+        {
+            "speaker": "falstaff",
+            "text": "O horseback, ye cuckoo but afoot he will not budge a foot."
+        },
+        {
+            "speaker": "prince henry",
+            "text": "Yes, Jack, upon instinct."
+        },
+        {
+            "speaker": "falstaff",
+            "text": "I grant ye, upon instinct. Well, he is there too, and one Mordake, and a thousand bluecaps more: Worcester is stolen away tonight thy fathers beard is turned white with the news: you may buy land now as cheap as stinking mackerel."
+        },
+        {
+            "speaker": "prince henry",
+            "text": "Why, then, it is like, if there come a hot June and this civil buffeting hold, we shall buy maidenheads as they buy hobnails, by the hundreds."
+        },
+        {
+            "speaker": "falstaff",
+            "text": "By the mass, lad, thou sayest true it is like we shall have good trading that way. But tell me, Hal, art not thou horrible afeard thou being heirapparent, could the world pick thee out three such enemies again as that fiend Douglas, that spirit Percy, and that devil Glendower Art thou not horribly afraid doth not thy blood thrill at it"
+        },
+        {
+            "speaker": "prince henry",
+            "text": "Not a whit, i faith I lack some of thy instinct."
+        },
+        {
+            "speaker": "falstaff",
+            "text": "Well, thou wert be horribly chid tomorrow when thou comest to thy father: if thou love me, practise an answer."
+        },
+        {
+            "speaker": "prince henry",
+            "text": "Do thou stand for my father, and examine me upon the particulars of my life."
+        },
+        {
+            "speaker": "falstaff",
+            "text": "Shall I content: this chair shall be my state, this dagger my sceptre, and this cushion my crown."
+        },
+        {
+            "speaker": "prince henry",
+            "text": "Thy state is taken for a joinedstool, thy golden sceptre for a leaden dagger, and thy precious rich crown for a pitiful bald crown!"
+        },
+        {
+            "speaker": "falstaff",
+            "text": "Well, an the fire of grace be not quite out of thee, now shalt thou be moved. Give me a cup of sack to make my eyes look red, that it may be thought I have wept for I must speak in passion, and I will do it in King Cambyses vein."
+        },
+        {
+            "speaker": "prince henry",
+            "text": "Well, here is my leg."
+        },
+        {
+            "speaker": "falstaff",
+            "text": "And here is my speech. Stand aside, nobility."
+        },
+        {
+            "speaker": "hostess",
+            "text": "O Jesu, this is excellent sport, i faith!"
+        },
+        {
+            "speaker": "falstaff",
+            "text": "Weep not, sweet queen for trickling tears are vain."
+        },
+        {
+            "speaker": "hostess",
+            "text": "O, the father, how he holds his countenance!"
+        },
+        {
+            "speaker": "falstaff",
+            "text": "For Gods sake, lords, convey my tristful queen For tears do stop the floodgates of her eyes."
+        },
+        {
+            "speaker": "hostess",
+            "text": "O Jesu, he doth it as like one of these harlotry players as ever I see!"
+        },
+        {
+            "speaker": "falstaff",
+            "text": "Peace, good pintpot peace, good ticklebrain. Harry, I do not only marvel where thou spendest thy time, but also how thou art accompanied: for though the camomile, the more it is trodden on the faster it grows, yet youth, the more it is wasted the sooner it wears. That thou art my son, I have partly thy mothers word, partly my own opinion, but chiefly a villanous trick of thine eye and a foolishhanging of thy nether lip, that doth warrant me. If then thou be son to me, here lies the point why, being son to me, art thou so pointed at Shall the blessed sun of heaven prove a micher and eat blackberries a question not to be asked. Shall the sun of England prove a thief and take purses a question to be asked. There is a thing, Harry, which thou hast often heard of and it is known to many in our land by the name of pitch: this pitch, as ancient writers do report, doth defile so doth the company thou keepest: for, Harry, now I do not speak to thee in drink but in tears, not in pleasure but in passion, not in words only, but in woes also: and yet there is a virtuous man whom I have often noted in thy company, but I know not his name."
+        },
+        {
+            "speaker": "prince henry",
+            "text": "What manner of man, an it like your majesty"
+        },
+        {
+            "speaker": "falstaff",
+            "text": "A goodly portly man, i faith, and a corpulent of a cheerful look, a pleasing eye and a most noble carriage and, as I think, his age some fifty, or, byr lady, inclining to three score and now I remember me, his name is Falstaff: if that man should be lewdly given, he deceiveth me for, Harry, I see virtue in his looks. If then the tree may be known by the fruit, as the fruit by the tree, then, peremptorily I speak it, there is virtue in that Falstaff: him keep with, the rest banish. And tell me now, thou naughty varlet, tell me, where hast thou been this month"
+        },
+        {
+            "speaker": "prince henry",
+            "text": "Dost thou speak like a king Do thou stand for me, and Ill play my father."
+        },
+        {
+            "speaker": "falstaff",
+            "text": "Depose me if thou dost it half so gravely, so majestically, both in word and matter, hang me up by the heels for a rabbitsucker or a poulters hare."
+        },
+        {
+            "speaker": "prince henry",
+            "text": "Well, here I am set."
+        },
+        {
+            "speaker": "falstaff",
+            "text": "And here I stand: judge, my masters."
+        },
+        {
+            "speaker": "prince henry",
+            "text": "Now, Harry, whence come you"
+        },
+        {
+            "speaker": "falstaff",
+            "text": "My noble lord, from Eastcheap."
+        },
+        {
+            "speaker": "prince henry",
+            "text": "The complaints I hear of thee are grievous."
+        },
+        {
+            "speaker": "falstaff",
+            "text": "Sblood, my lord, they are false: nay, Ill tickle ye for a young prince, i faith."
+        },
+        {
+            "speaker": "prince henry",
+            "text": "Swearest thou, ungracious boy henceforth neer look on me. Thou art violently carried away from grace: there is a devil haunts thee in the likeness of an old fat man a tun of man is thy companion. Why dost thou converse with that trunk of humours, that boltinghutch of beastliness, that swollen parcel of dropsies, that huge bombard of sack, that stuffed cloakbag of guts, that roasted Manningtree ox with the pudding in his belly, that reverend vice, that grey iniquity, that father ruffian, that vanity in years Wherein is he good, but to taste sack and drink it wherein neat and cleanly, but to carve a capon and eat it wherein cunning, but in craft wherein crafty, but in villany wherein villanous, but in all things wherein worthy, but in nothing"
+        },
+        {
+            "speaker": "falstaff",
+            "text": "I would your grace would take me with you: whom means your grace"
+        },
+        {
+            "speaker": "prince henry",
+            "text": "That villanous abominable misleader of youth, Falstaff, that old whitebearded Satan."
+        },
+        {
+            "speaker": "falstaff",
+            "text": "My lord, the man I know."
+        },
+        {
+            "speaker": "prince henry",
+            "text": "I know thou dost."
+        },
+        {
+            "speaker": "falstaff",
+            "text": "But to say I know more harm in him than in myself, were to say more than I know. That he is old, the more the pity, his white hairs do witness it but that he is, saving your reverence, a whoremaster, that I utterly deny. If sack and sugar be a fault, God help the wicked! if to be old and merry be a sin, then many an old host that I know is damned: if to be fat be to be hated, then Pharaohs lean kine are to be loved. No, my good lord banish Peto, banish Bardolph, banish Poins: but for sweet Jack Falstaff, kind Jack Falstaff, true Jack Falstaff, valiant Jack Falstaff, and therefore more valiant, being, as he is, old Jack Falstaff, banish not him thy Harrys company, banish not him thy Harrys company: banish plump Jack, and banish all the world."
+        },
+        {
+            "speaker": "prince henry",
+            "text": "I do, I will."
+        },
+        {
+            "text": "A knocking heard"
+        },
+        {
+            "text": "Exeunt Hostess, FRANCIS, and BARDOLPH"
+        },
+        {
+            "text": "Reenter BARDOLPH, running"
+        },
+        {
+            "speaker": "bardolph",
+            "text": "O, my lord, my lord! the sheriff with a most monstrous watch is at the door."
+        },
+        {
+            "speaker": "falstaff",
+            "text": "Out, ye rogue! Play out the play: I have much to say in the behalf of that Falstaff."
+        },
+        {
+            "text": "Reenter the Hostess"
+        },
+        {
+            "speaker": "hostess",
+            "text": "O Jesu, my lord, my lord!"
+        },
+        {
+            "speaker": "prince henry",
+            "text": "Heigh, heigh! the devil rides upon a fiddlestick: whats the matter"
+        },
+        {
+            "speaker": "hostess",
+            "text": "The sheriff and all the watch are at the door: they are come to search the house. Shall I let them in"
+        },
+        {
+            "speaker": "falstaff",
+            "text": "Dost thou hear, Hal never call a true piece of gold a counterfeit: thou art essentially mad, without seeming so."
+        },
+        {
+            "speaker": "prince henry",
+            "text": "And thou a natural coward, without instinct."
+        },
+        {
+            "speaker": "falstaff",
+            "text": "I deny your major: if you will deny the sheriff, so if not, let him enter: if I become not a cart as well as another man, a plague on my bringing up! I hope I shall as soon be strangled with a halter as another."
+        },
+        {
+            "speaker": "prince henry",
+            "text": "Go, hide thee behind the arras: the rest walk up above. Now, my masters, for a true face and good conscience."
+        },
+        {
+            "speaker": "falstaff",
+            "text": "Both which I have had: but their date is out, and therefore Ill hide me."
+        },
+        {
+            "speaker": "prince henry",
+            "text": "Call in the sheriff. Now, master sheriff, what is your will with me"
+        },
+        {
+            "text": "Exeunt all except PRINCE HENRY and PETO"
+        },
+        {
+            "text": "Enter Sheriff and the Carrier"
+        },
+        {
+            "speaker": "sheriff",
+            "text": "First, pardon me, my lord. A hue and cry Hath followd certain men unto this house."
+        },
+        {
+            "speaker": "prince henry",
+            "text": "What men"
+        },
+        {
+            "speaker": "sheriff",
+            "text": "One of them is well known, my gracious lord, A gross fat man."
+        },
+        {
+            "speaker": "carrier",
+            "text": "As fat as butter."
+        },
+        {
+            "speaker": "prince henry",
+            "text": "The man, I do assure you, is not here For I myself at this time have employd him. And, sheriff, I will engage my word to thee That I will, by tomorrow dinnertime, Send him to answer thee, or any man, For any thing he shall be charged withal: And so let me entreat you leave the house."
+        },
+        {
+            "speaker": "sheriff",
+            "text": "I will, my lord. There are two gentlemen Have in this robbery lost three hundred marks."
+        },
+        {
+            "speaker": "prince henry",
+            "text": "It may be so: if he have robbd these men, He shall be answerable and so farewell."
+        },
+        {
+            "speaker": "sheriff",
+            "text": "Good night, my noble lord."
+        },
+        {
+            "speaker": "prince henry",
+            "text": "I think it is good morrow, is it not"
+        },
+        {
+            "speaker": "sheriff",
+            "text": "Indeed, my lord, I think it be two oclock."
+        },
+        {
+            "text": "Exeunt Sheriff and Carrier"
+        },
+        {
+            "speaker": "prince henry",
+            "text": "This oily rascal is known as well as Pauls. Go, call him forth."
+        },
+        {
+            "speaker": "peto",
+            "text": "Falstaff!Fast asleep behind the arras, and snorting like a horse."
+        },
+        {
+            "speaker": "prince henry",
+            "text": "Hark, how hard he fetches breath. Search his pockets. What hast thou found"
+        },
+        {
+            "text": "He searcheth his pockets, and findeth certain papers"
+        },
+        {
+            "speaker": "peto",
+            "text": "Nothing but papers, my lord."
+        },
+        {
+            "speaker": "prince henry",
+            "text": "Lets see what they be: read them."
+        },
+        {
+            "speaker": "peto",
+            "text": "[Reads]  Item, A capon,. . 2s. 2d. Item, Sauce,. . . 4d. Item, Sack, two gallons, 5s. 8d. Item, Anchovies and sack after supper, 2s. 6d. Item, Bread,        ob."
+        },
+        {
+            "speaker": "prince henry",
+            "text": "O monstrous! but one halfpennyworth of bread to this intolerable deal of sack! What there is else, keep close well read it at more advantage: there let him sleep till day. Ill to the court in the morning. We must all to the wars, and thy place shall be honourable. Ill procure this fat rogue a charge of foot and I know his death will be a march of twelvescore. The money shall be paid back again with advantage. Be with me betimes in the morning and so, good morrow, Peto."
+        },
+        {
+            "text": "Exeunt"
+        },
+        {
+            "speaker": "peto",
+            "text": "Good morrow, good my lord."
+        }
+    ]
+}

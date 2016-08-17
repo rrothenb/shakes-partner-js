@@ -1,0 +1,43 @@
+{
+    "sceneName": "Act 4, scene 6",
+    "playName": "henry the sixth part 2",
+    "location": "London. Cannon Street.",
+    "lines": [
+        {
+            "text": "Enter CADE and the rest, and strikes his staff on Londonstone"
+        },
+        {
+            "speaker": "cade",
+            "text": "Now is Mortimer lord of this city. And here, sitting upon Londonstone, I charge and command that, of the citys cost, the pissingconduit run nothing but claret wine this first year of our reign. And now henceforward it shall be treason for any that calls me other than Lord Mortimer."
+        },
+        {
+            "text": "Enter a Soldier, running"
+        },
+        {
+            "speaker": "soldier",
+            "text": "Jack Cade! Jack Cade!"
+        },
+        {
+            "speaker": "cade",
+            "text": "Knock him down there."
+        },
+        {
+            "text": "They kill him"
+        },
+        {
+            "speaker": "smith",
+            "text": "If this fellow be wise, hell never call ye Jack Cade more: I think he hath a very fair warning."
+        },
+        {
+            "speaker": "dick",
+            "text": "My lord, theres an army gathered together in Smithfield."
+        },
+        {
+            "speaker": "cade",
+            "text": "Come, then, lets go fight with them but first, go and set London bridge on fire and, if you can, burn down the Tower too. Come, lets away. So, sirs: now go some and pull down the Savoy others to the inns of court down with them all."
+        },
+        {
+            "text": "Exeunt"
+        }
+    ]
+}

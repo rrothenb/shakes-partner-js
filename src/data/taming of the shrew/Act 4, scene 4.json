@@ -1,0 +1,170 @@
+{
+    "sceneName": "Act 4, scene 4",
+    "playName": "taming of the shrew",
+    "location": "Padua. Before BAPTISTAS house.",
+    "lines": [
+        {
+            "text": "Enter TRANIO, and the Pedant dressed like VINCENTIO"
+        },
+        {
+            "speaker": "tranio",
+            "text": "Sir, this is the house: please it you that I call"
+        },
+        {
+            "speaker": "pedant",
+            "text": "Ay, what else and but I be deceived Signior Baptista may remember me, Near twenty years ago, in Genoa, Where we were lodgers at the Pegasus."
+        },
+        {
+            "speaker": "tranio",
+            "text": "Tis well and hold your own, in any case, With such austerity as longeth to a father."
+        },
+        {
+            "speaker": "pedant",
+            "text": "I warrant you. But, sir, here comes your boy Twere good he were schoold."
+        },
+        {
+            "text": "Enter BIONDELLO"
+        },
+        {
+            "speaker": "tranio",
+            "text": "Fear you not him. Sirrah Biondello, Now do your duty throughly, I advise you: Imagine twere the right Vincentio."
+        },
+        {
+            "speaker": "biondello",
+            "text": "Tut, fear not me."
+        },
+        {
+            "speaker": "tranio",
+            "text": "But hast thou done thy errand to Baptista"
+        },
+        {
+            "speaker": "biondello",
+            "text": "I told him that your father was at Venice, And that you lookd for him this day in Padua."
+        },
+        {
+            "speaker": "tranio",
+            "text": "Thourt a tall fellow: hold thee that to drink. Here comes Baptista: set your countenance, sir. Signior Baptista, you are happily met. Sir, this is the gentleman I told you of: I pray you stand good father to me now, Give me Bianca for my patrimony."
+        },
+        {
+            "text": "Enter BAPTISTA and LUCENTIO"
+        },
+        {
+            "text": "To the Pedant"
+        },
+        {
+            "speaker": "pedant",
+            "text": "Soft son! Sir, by your leave: having come to Padua To gather in some debts, my son Lucentio Made me acquainted with a weighty cause Of love between your daughter and himself: And, for the good report I hear of you And for the love he beareth to your daughter And she to him, to stay him not too long, I am content, in a good fathers care, To have him matchd and if you please to like No worse than I, upon some agreement Me shall you find ready and willing With one consent to have her so bestowd For curious I cannot be with you, Signior Baptista, of whom I hear so well."
+        },
+        {
+            "speaker": "baptista",
+            "text": "Sir, pardon me in what I have to say: Your plainness and your shortness please me well. Right true it is, your son Lucentio here Doth love my daughter and she loveth him, Or both dissemble deeply their affections: And therefore, if you say no more than this, That like a father you will deal with him And pass my daughter a sufficient dower, The match is made, and all is done: Your son shall have my daughter with consent."
+        },
+        {
+            "speaker": "tranio",
+            "text": "I thank you, sir. Where then do you know best We be affied and such assurance taen As shall with either parts agreement stand"
+        },
+        {
+            "speaker": "baptista",
+            "text": "Not in my house, Lucentio for, you know, Pitchers have ears, and I have many servants: Besides, old Gremio is hearkening still And happily we might be interrupted."
+        },
+        {
+            "speaker": "tranio",
+            "text": "Then at my lodging, an it like you: There doth my father lie and there, this night, Well pass the business privately and well. Send for your daughter by your servant here: My boy shall fetch the scrivener presently. The worst is this, that, at so slender warning, You are like to have a thin and slender pittance."
+        },
+        {
+            "speaker": "baptista",
+            "text": "It likes me well. Biondello, hie you home, And bid Bianca make her ready straight And, if you will, tell what hath happened, Lucentios father is arrived in Padua, And how shes like to be Lucentios wife."
+        },
+        {
+            "speaker": "biondello",
+            "text": "I pray the gods she may with all my heart!"
+        },
+        {
+            "speaker": "tranio",
+            "text": "Dally not with the gods, but get thee gone. Signior Baptista, shall I lead the way Welcome! one mess is like to be your cheer: Come, sir we will better it in Pisa."
+        },
+        {
+            "text": "Exit BIONDELLO"
+        },
+        {
+            "speaker": "baptista",
+            "text": "I follow you."
+        },
+        {
+            "text": "Exeunt TRANIO, Pedant, and BAPTISTA"
+        },
+        {
+            "text": "Reenter BIONDELLO"
+        },
+        {
+            "speaker": "biondello",
+            "text": "Cambio!"
+        },
+        {
+            "speaker": "lucentio",
+            "text": "What sayest thou, Biondello"
+        },
+        {
+            "speaker": "biondello",
+            "text": "You saw my master wink and laugh upon you"
+        },
+        {
+            "speaker": "lucentio",
+            "text": "Biondello, what of that"
+        },
+        {
+            "speaker": "biondello",
+            "text": "Faith, nothing but has left me here behind, to expound the meaning or moral of his signs and tokens."
+        },
+        {
+            "speaker": "lucentio",
+            "text": "I pray thee, moralize them."
+        },
+        {
+            "speaker": "biondello",
+            "text": "Then thus. Baptista is safe, talking with the deceiving father of a deceitful son."
+        },
+        {
+            "speaker": "lucentio",
+            "text": "And what of him"
+        },
+        {
+            "speaker": "biondello",
+            "text": "His daughter is to be brought by you to the supper."
+        },
+        {
+            "speaker": "lucentio",
+            "text": "And then"
+        },
+        {
+            "speaker": "biondello",
+            "text": "The old priest of Saint Lukes church is at your command at all hours."
+        },
+        {
+            "speaker": "lucentio",
+            "text": "And what of all this"
+        },
+        {
+            "speaker": "biondello",
+            "text": "I cannot tell expect they are busied about a counterfeit assurance: take you assurance of her, cum privilegio ad imprimendum solum: to the church take the priest, clerk, and some sufficient honest witnesses: If this be not that you look for, I have no more to say, But bid Bianca farewell for ever and a day."
+        },
+        {
+            "speaker": "lucentio",
+            "text": "Hearest thou, Biondello"
+        },
+        {
+            "speaker": "biondello",
+            "text": "I cannot tarry: I knew a wench married in an afternoon as she went to the garden for parsley to stuff a rabbit and so may you, sir: and so, adieu, sir. My master hath appointed me to go to Saint Lukes, to bid the priest be ready to come against you come with your appendix."
+        },
+        {
+            "text": "Exit"
+        },
+        {
+            "speaker": "lucentio",
+            "text": "I may, and will, if she be so contented: She will be pleased then wherefore should I doubt Hap what hap may, Ill roundly go about her: It shall go hard if Cambio go without her."
+        },
+        {
+            "text": "Exit"
+        }
+    ]
+}

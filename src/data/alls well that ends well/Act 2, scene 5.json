@@ -1,0 +1,192 @@
+{
+    "sceneName": "Act 2, scene 5",
+    "playName": "alls well that ends well",
+    "location": "Paris. The KINGs palace.",
+    "lines": [
+        {
+            "text": "Enter LAFEU and BERTRAM"
+        },
+        {
+            "speaker": "lafeu",
+            "text": "But I hope your lordship thinks not him a soldier."
+        },
+        {
+            "speaker": "bertram",
+            "text": "Yes, my lord, and of very valiant approof."
+        },
+        {
+            "speaker": "lafeu",
+            "text": "You have it from his own deliverance."
+        },
+        {
+            "speaker": "bertram",
+            "text": "And by other warranted testimony."
+        },
+        {
+            "speaker": "lafeu",
+            "text": "Then my dial goes not true: I took this lark for a bunting."
+        },
+        {
+            "speaker": "bertram",
+            "text": "I do assure you, my lord, he is very great in knowledge and accordingly valiant."
+        },
+        {
+            "speaker": "lafeu",
+            "text": "I have then sinned against his experience and transgressed against his valour and my state that way is dangerous, since I cannot yet find in my heart to repent. Here he comes: I pray you, make us friends I will pursue the amity."
+        },
+        {
+            "text": "Enter PAROLLES"
+        },
+        {
+            "speaker": "parolles",
+            "text": "[To BERTRAM]  These things shall be done, sir."
+        },
+        {
+            "speaker": "lafeu",
+            "text": "Pray you, sir, whos his tailor"
+        },
+        {
+            "speaker": "parolles",
+            "text": "Sir"
+        },
+        {
+            "speaker": "lafeu",
+            "text": "O, I know him well, I, sir he, sir, s a good workman, a very good tailor."
+        },
+        {
+            "speaker": "bertram",
+            "text": "[Aside to PAROLLES]  Is she gone to the king"
+        },
+        {
+            "speaker": "parolles",
+            "text": "She is."
+        },
+        {
+            "speaker": "bertram",
+            "text": "Will she away tonight"
+        },
+        {
+            "speaker": "parolles",
+            "text": "As youll have her."
+        },
+        {
+            "speaker": "bertram",
+            "text": "I have writ my letters, casketed my treasure, Given order for our horses and tonight, When I should take possession of the bride, End ere I do begin."
+        },
+        {
+            "speaker": "lafeu",
+            "text": "A good traveller is something at the latter end of a dinner but one that lies three thirds and uses a known truth to pass a thousand nothings with, should be once heard and thrice beaten. God save you, captain."
+        },
+        {
+            "speaker": "bertram",
+            "text": "Is there any unkindness between my lord and you, monsieur"
+        },
+        {
+            "speaker": "parolles",
+            "text": "I know not how I have deserved to run into my lords displeasure."
+        },
+        {
+            "speaker": "lafeu",
+            "text": "You have made shift to run into t, boots and spurs and all, like him that leaped into the custard and out of it youll run again, rather than suffer question for your residence."
+        },
+        {
+            "speaker": "bertram",
+            "text": "It may be you have mistaken him, my lord."
+        },
+        {
+            "speaker": "lafeu",
+            "text": "And shall do so ever, though I took him at s prayers. Fare you well, my lord and believe this of me, there can be no kernel in this light nut the soul of this man is his clothes. Trust him not in matter of heavy consequence I have kept of them tame, and know their natures. Farewell, monsieur: I have spoken better of you than you have or will to deserve at my hand but we must do good against evil."
+        },
+        {
+            "text": "Exit"
+        },
+        {
+            "speaker": "parolles",
+            "text": "An idle lord. I swear."
+        },
+        {
+            "speaker": "bertram",
+            "text": "I think so."
+        },
+        {
+            "speaker": "parolles",
+            "text": "Why, do you not know him"
+        },
+        {
+            "speaker": "bertram",
+            "text": "Yes, I do know him well, and common speech Gives him a worthy pass. Here comes my clog."
+        },
+        {
+            "text": "Enter HELENA"
+        },
+        {
+            "speaker": "helena",
+            "text": "I have, sir, as I was commanded from you, Spoke with the king and have procured his leave For present parting only he desires Some private speech with you."
+        },
+        {
+            "speaker": "bertram",
+            "text": "I shall obey his will. You must not marvel, Helen, at my course, Which holds not colour with the time, nor does The ministration and required office On my particular. Prepared I was not For such a business therefore am I found So much unsettled: this drives me to entreat you That presently you take our way for home And rather muse than ask why I entreat you, For my respects are better than they seem And my appointments have in them a need Greater than shows itself at the first view To you that know them not. This to my mother: Twill be two days ere I shall see you, so I leave you to your wisdom."
+        },
+        {
+            "text": "Giving a letter"
+        },
+        {
+            "speaker": "helena",
+            "text": "Sir, I can nothing say, But that I am your most obedient servant."
+        },
+        {
+            "speaker": "bertram",
+            "text": "Come, come, no more of that."
+        },
+        {
+            "speaker": "helena",
+            "text": "And ever shall With true observance seek to eke out that Wherein toward me my homely stars have faild To equal my great fortune."
+        },
+        {
+            "speaker": "bertram",
+            "text": "Let that go: My haste is very great: farewell hie home."
+        },
+        {
+            "speaker": "helena",
+            "text": "Pray, sir, your pardon."
+        },
+        {
+            "speaker": "bertram",
+            "text": "Well, what would you say"
+        },
+        {
+            "speaker": "helena",
+            "text": "I am not worthy of the wealth I owe, Nor dare I say tis mine, and yet it is But, like a timorous thief, most fain would steal What law does vouch mine own."
+        },
+        {
+            "speaker": "bertram",
+            "text": "What would you have"
+        },
+        {
+            "speaker": "helena",
+            "text": "Something and scarce so much: nothing, indeed. I would not tell you what I would, my lord: Faith yes Strangers and foes do sunder, and not kiss."
+        },
+        {
+            "speaker": "bertram",
+            "text": "I pray you, stay not, but in haste to horse."
+        },
+        {
+            "speaker": "helena",
+            "text": "I shall not break your bidding, good my lord."
+        },
+        {
+            "speaker": "bertram",
+            "text": "Where are my other men, monsieur Farewell. Go thou toward home where I will never come Whilst I can shake my sword or hear the drum. Away, and for our flight."
+        },
+        {
+            "text": "Exit HELENA"
+        },
+        {
+            "speaker": "parolles",
+            "text": "Bravely, coragio!"
+        },
+        {
+            "text": "Exeunt"
+        }
+    ]
+}

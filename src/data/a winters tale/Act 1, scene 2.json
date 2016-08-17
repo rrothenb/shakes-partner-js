@@ -1,0 +1,471 @@
+{
+    "sceneName": "Act 1, scene 2",
+    "playName": "a winters tale",
+    "location": "A room of state in the same.",
+    "lines": [
+        {
+            "text": "Enter LEONTES, HERMIONE, MAMILLIUS, POLIXENES, CAMILLO, and Attendants"
+        },
+        {
+            "speaker": "polixenes",
+            "text": "Nine changes of the watery star hath been The shepherds note since we have left our throne Without a burthen: time as long again Would be find up, my brother, with our thanks And yet we should, for perpetuity, Go hence in debt: and therefore, like a cipher, Yet standing in rich place, I multiply With one We thank you many thousands moe That go before it."
+        },
+        {
+            "speaker": "leontes",
+            "text": "Stay your thanks a while And pay them when you part."
+        },
+        {
+            "speaker": "polixenes",
+            "text": "Sir, thats tomorrow. I am questiond by my fears, of what may chance Or breed upon our absence that may blow No sneaping winds at home, to make us say This is put forth too truly: besides, I have stayd To tire your royalty."
+        },
+        {
+            "speaker": "leontes",
+            "text": "We are tougher, brother, Than you can put us tot."
+        },
+        {
+            "speaker": "polixenes",
+            "text": "No longer stay."
+        },
+        {
+            "speaker": "leontes",
+            "text": "One sevennight longer."
+        },
+        {
+            "speaker": "polixenes",
+            "text": "Very sooth, tomorrow."
+        },
+        {
+            "speaker": "leontes",
+            "text": "Well part the time betweens then and in that Ill no gainsaying."
+        },
+        {
+            "speaker": "polixenes",
+            "text": "Press me not, beseech you, so. There is no tongue that moves, none, none i the world, So soon as yours could win me: so it should now, Were there necessity in your request, although Twere needful I denied it. My affairs Do even drag me homeward: which to hinder Were in your love a whip to me my stay To you a charge and trouble: to save both, Farewell, our brother."
+        },
+        {
+            "speaker": "leontes",
+            "text": "Tonguetied, our queen speak you."
+        },
+        {
+            "speaker": "hermione",
+            "text": "I had thought, sir, to have held my peace until You have drawn oaths from him not to stay. You, sir, Charge him too coldly. Tell him, you are sure All in Bohemias well this satisfaction The bygone day proclaimd: say this to him, Hes beat from his best ward."
+        },
+        {
+            "speaker": "leontes",
+            "text": "Well said, Hermione."
+        },
+        {
+            "speaker": "hermione",
+            "text": "To tell, he longs to see his son, were strong: But let him say so then, and let him go But let him swear so, and he shall not stay, Well thwack him hence with distaffs. Yet of your royal presence Ill adventure The borrow of a week. When at Bohemia You take my lord, Ill give him my commission To let him there a month behind the gest Prefixd fors parting: yet, good deed, Leontes, I love thee not a jar o the clock behind What ladyshe her lord. Youll stay"
+        },
+        {
+            "speaker": "polixenes",
+            "text": "No, madam."
+        },
+        {
+            "speaker": "hermione",
+            "text": "Nay, but you will"
+        },
+        {
+            "speaker": "polixenes",
+            "text": "I may not, verily."
+        },
+        {
+            "speaker": "hermione",
+            "text": "Verily! You put me off with limber vows but I, Though you would seek to unsphere the stars with oaths, Should yet say Sir, no going. Verily, You shall not go: a ladys Verily s As potent as a lords. Will you go yet Force me to keep you as a prisoner, Not like a guest so you shall pay your fees When you depart, and save your thanks. How say you My prisoner or my guest by your dread Verily, One of them you shall be."
+        },
+        {
+            "speaker": "polixenes",
+            "text": "Your guest, then, madam: To be your prisoner should import offending Which is for me less easy to commit Than you to punish."
+        },
+        {
+            "speaker": "hermione",
+            "text": "Not your gaoler, then, But your kind hostess. Come, Ill question you Of my lords tricks and yours when you were boys: You were pretty lordings then"
+        },
+        {
+            "speaker": "polixenes",
+            "text": "We were, fair queen, Two lads that thought there was no more behind But such a day tomorrow as today, And to be boy eternal."
+        },
+        {
+            "speaker": "hermione",
+            "text": "Was not my lord The verier wag o the two"
+        },
+        {
+            "speaker": "polixenes",
+            "text": "We were as twinnd lambs that did frisk i the sun, And bleat the one at the other: what we changed Was innocence for innocence we knew not The doctrine of illdoing, nor dreamd That any did. Had we pursued that life, And our weak spirits neer been higher reard With stronger blood, we should have answerd heaven Boldly not guilty the imposition cleard Hereditary ours."
+        },
+        {
+            "speaker": "hermione",
+            "text": "By this we gather You have trippd since."
+        },
+        {
+            "speaker": "polixenes",
+            "text": "O my most sacred lady! Temptations have since then been born tos for In those unfledged days was my wife a girl Your precious self had then not crossd the eyes Of my young playfellow."
+        },
+        {
+            "speaker": "hermione",
+            "text": "Grace to boot! Of this make no conclusion, lest you say Your queen and I are devils: yet go on The offences we have made you do well answer, If you first sinnd with us and that with us You did continue fault and that you slippd not With any but with us."
+        },
+        {
+            "speaker": "leontes",
+            "text": "Is he won yet"
+        },
+        {
+            "speaker": "hermione",
+            "text": "Hell stay my lord."
+        },
+        {
+            "speaker": "leontes",
+            "text": "At my request he would not. Hermione, my dearest, thou never spokest To better purpose."
+        },
+        {
+            "speaker": "hermione",
+            "text": "Never"
+        },
+        {
+            "speaker": "leontes",
+            "text": "Never, but once."
+        },
+        {
+            "speaker": "hermione",
+            "text": "What! have I twice said well when wast before I prithee tell me crams with praise, and makes As fat as tame things: one good deed dying tongueless Slaughters a thousand waiting upon that. Our praises are our wages: you may rides With one soft kiss a thousand furlongs ere With spur we beat an acre. But to the goal: My last good deed was to entreat his stay: What was my first it has an elder sister, Or I mistake you: O, would her name were Grace! But once before I spoke to the purpose: when Nay, let me havet I long."
+        },
+        {
+            "speaker": "leontes",
+            "text": "Why, that was when Three crabbed months had sourd themselves to death, Ere I could make thee open thy white hand And clap thyself my love: then didst thou utter I am yours for ever."
+        },
+        {
+            "speaker": "hermione",
+            "text": "Tis grace indeed. Why, lo you now, I have spoke to the purpose twice: The one for ever earnd a royal husband The other for some while a friend."
+        },
+        {
+            "speaker": "leontes",
+            "text": "[Aside]Too hot, too hot! To mingle friendship far is mingling bloods. I have tremor cordis on me: my heart dances But not for joy not joy. This entertainment May a free face put on, derive a liberty From heartiness, from bounty, fertile bosom, And well become the agent t may, I grant But to be paddling palms and pinching fingers, As now they are, and making practised smiles, As in a lookingglass, and then to sigh, as twere The mort o the deer O, that is entertainment My bosom likes not, nor my brows! Mamillius, Art thou my boy"
+        },
+        {
+            "speaker": "mamillius",
+            "text": "Ay, my good lord."
+        },
+        {
+            "speaker": "leontes",
+            "text": "I fecks! Why, thats my bawcock. What, hast smutchd thy nose They say it is a copy out of mine. Come, captain, We must be neat not neat, but cleanly, captain: And yet the steer, the heifer and the calf Are all calld neat.Still virginalling Upon his palm!How now, you wanton calf! Art thou my calf"
+        },
+        {
+            "speaker": "mamillius",
+            "text": "Yes, if you will, my lord."
+        },
+        {
+            "speaker": "leontes",
+            "text": "Thou wantst a rough pash and the shoots that I have, To be full like me: yet they say we are Almost as like as eggs women say so, That will say anything but were they false As oerdyed blacks, as wind, as waters, false As dice are to be wishd by one that fixes No bourn twixt his and mine, yet were it true To say this boy were like me. Come, sir page, Look on me with your welkin eye: sweet villain! Most dearst! my collop! Can thy dammayt be Affection! thy intention stabs the centre: Thou dost make possible things not so held, Communicatest with dreamshow can this be With whats unreal thou coactive art, And fellowst nothing: then tis very credent Thou mayst cojoin with something and thou dost, And that beyond commission, and I find it, And that to the infection of my brains And hardening of my brows."
+        },
+        {
+            "speaker": "polixenes",
+            "text": "What means Sicilia"
+        },
+        {
+            "speaker": "hermione",
+            "text": "He something seems unsettled."
+        },
+        {
+            "speaker": "polixenes",
+            "text": "How, my lord! What cheer how ist with you, best brother"
+        },
+        {
+            "speaker": "hermione",
+            "text": "You look as if you held a brow of much distraction Are you moved, my lord"
+        },
+        {
+            "speaker": "leontes",
+            "text": "No, in good earnest. How sometimes nature will betray its folly, Its tenderness, and make itself a pastime To harder bosoms! Looking on the lines Of my boys face, methoughts I did recoil Twentythree years, and saw myself unbreechd, In my green velvet coat, my dagger muzzled, Lest it should bite its master, and so prove, As ornaments oft do, too dangerous: How like, methought, I then was to this kernel, This squash, this gentleman. Mine honest friend, Will you take eggs for money"
+        },
+        {
+            "speaker": "mamillius",
+            "text": "No, my lord, Ill fight."
+        },
+        {
+            "speaker": "leontes",
+            "text": "You will! why, happy man bes dole! My brother, Are you so fond of your young prince as we Do seem to be of ours"
+        },
+        {
+            "speaker": "polixenes",
+            "text": "If at home, sir, Hes all my exercise, my mirth, my matter, Now my sworn friend and then mine enemy, My parasite, my soldier, statesman, all: He makes a Julys day short as December, And with his varying childness cures in me Thoughts that would thick my blood."
+        },
+        {
+            "speaker": "leontes",
+            "text": "So stands this squire Officed with me: we two will walk, my lord, And leave you to your graver steps. Hermione, How thou lovest us, show in our brothers welcome Let what is dear in Sicily be cheap: Next to thyself and my young rover, hes Apparent to my heart."
+        },
+        {
+            "speaker": "hermione",
+            "text": "If you would seek us, We are yours i the garden: shalls attend you there"
+        },
+        {
+            "speaker": "leontes",
+            "text": "To your own bents dispose you: youll be found, Be you beneath the sky. I am angling now, Though you perceive me not how I give line. Go to, go to! How she holds up the neb, the bill to him! And arms her with the boldness of a wife To her allowing husband! Gone already! Inchthick, kneedeep, oer head and ears a forkd one! Go, play, boy, play: thy mother plays, and I Play too, but so disgraced a part, whose issue Will hiss me to my grave: contempt and clamour Will be my knell. Go, play, boy, play. There have been, Or I am much deceived, cuckolds ere now And many a man there is, even at this present, Now while I speak this, holds his wife by the arm, That little thinks she has been sluiced ins absence And his pond fishd by his next neighbour, by Sir Smile, his neighbour: nay, theres comfort int Whiles other men have gates and those gates opend, As mine, against their will. Should all despair That have revolted wives, the tenth of mankind Would hang themselves. Physic fort there is none It is a bawdy planet, that will strike Where tis predominant and tis powerful, think it, From east, west, north and south: be it concluded, No barricado for a belly knowt It will let in and out the enemy With bag and baggage: many thousand ons Have the disease, and feelt not. How now, boy!"
+        },
+        {
+            "text": "Aside"
+        },
+        {
+            "text": "Exeunt POLIXENES, HERMIONE, and Attendants"
+        },
+        {
+            "speaker": "mamillius",
+            "text": "I am like you, they say."
+        },
+        {
+            "speaker": "leontes",
+            "text": "Why thats some comfort. What, Camillo there"
+        },
+        {
+            "speaker": "camillo",
+            "text": "Ay, my good lord."
+        },
+        {
+            "speaker": "leontes",
+            "text": "Go play, Mamillius thourt an honest man. Camillo, this great sir will yet stay longer."
+        },
+        {
+            "text": "Exit MAMILLIUS"
+        },
+        {
+            "speaker": "camillo",
+            "text": "You had much ado to make his anchor hold: When you cast out, it still came home."
+        },
+        {
+            "speaker": "leontes",
+            "text": "Didst note it"
+        },
+        {
+            "speaker": "camillo",
+            "text": "He would not stay at your petitions: made His business more material."
+        },
+        {
+            "speaker": "leontes",
+            "text": "Didst perceive it Theyre here with me already, whispering, rounding Sicilia is a soforth: tis far gone, When I shall gust it last. How camet, Camillo, That he did stay"
+        },
+        {
+            "text": "Aside"
+        },
+        {
+            "speaker": "camillo",
+            "text": "At the good queens entreaty."
+        },
+        {
+            "speaker": "leontes",
+            "text": "At the queens bet: good should be pertinent But, so it is, it is not. Was this taken By any understanding pate but thine For thy conceit is soaking, will draw in More than the common blocks: not noted, ist, But of the finer natures by some severals Of headpiece extraordinary lower messes Perchance are to this business purblind say."
+        },
+        {
+            "speaker": "camillo",
+            "text": "Business, my lord! I think most understand Bohemia stays here longer."
+        },
+        {
+            "speaker": "leontes",
+            "text": "Ha!"
+        },
+        {
+            "speaker": "camillo",
+            "text": "Stays here longer."
+        },
+        {
+            "speaker": "leontes",
+            "text": "Ay, but why"
+        },
+        {
+            "speaker": "camillo",
+            "text": "To satisfy your highness and the entreaties Of our most gracious mistress."
+        },
+        {
+            "speaker": "leontes",
+            "text": "Satisfy! The entreaties of your mistress! satisfy! Let that suffice. I have trusted thee, Camillo, With all the nearest things to my heart, as well My chambercouncils, wherein, priestlike, thou Hast cleansed my bosom, I from thee departed Thy penitent reformd: but we have been Deceived in thy integrity, deceived In that which seems so."
+        },
+        {
+            "speaker": "camillo",
+            "text": "Be it forbid, my lord!"
+        },
+        {
+            "speaker": "leontes",
+            "text": "To bide upont, thou art not honest, or, If thou inclinest that way, thou art a coward, Which hoxes honesty behind, restraining From course required or else thou must be counted A servant grafted in my serious trust And therein negligent or else a fool That seest a game playd home, the rich stake drawn, And takest it all for jest."
+        },
+        {
+            "speaker": "camillo",
+            "text": "My gracious lord, I may be negligent, foolish and fearful In every one of these no man is free, But that his negligence, his folly, fear, Among the infinite doings of the world, Sometime puts forth. In your affairs, my lord, If ever I were wilfulnegligent, It was my folly if industriously I playd the fool, it was my negligence, Not weighing well the end if ever fearful To do a thing, where I the issue doubted, Where of the execution did cry out Against the nonperformance, twas a fear Which oft infects the wisest: these, my lord, Are such allowd infirmities that honesty Is never free of. But, beseech your grace, Be plainer with me let me know my trespass By its own visage: if I then deny it, Tis none of mine."
+        },
+        {
+            "speaker": "leontes",
+            "text": "Ha not you seen, Camillo, But thats past doubt, you have, or your eyeglass Is thicker than a cuckolds horn,or heard, For to a vision so apparent rumour Cannot be mute,or thought,for cogitation Resides not in that man that does not think, My wife is slippery If thou wilt confess, Or else be impudently negative, To have nor eyes nor ears nor thought, then say My wifes a hobbyhorse, deserves a name As rank as any flaxwench that puts to Before her trothplight: sayt and justifyt."
+        },
+        {
+            "speaker": "camillo",
+            "text": "I would not be a standerby to hear My sovereign mistress clouded so, without My present vengeance taken: shrew my heart, You never spoke what did become you less Than this which to reiterate were sin As deep as that, though true."
+        },
+        {
+            "speaker": "leontes",
+            "text": "Is whispering nothing Is leaning cheek to cheek is meeting noses Kissing with inside lip stopping the career Of laughing with a sigha note infallible Of breaking honestyhorsing foot on foot Skulking in corners wishing clocks more swift Hours, minutes noon, midnight and all eyes Blind with the pin and web but theirs, theirs only, That would unseen be wicked is this nothing Why, then the world and all thats int is nothing The covering sky is nothing Bohemia nothing My wife is nothing nor nothing have these nothings, If this be nothing."
+        },
+        {
+            "speaker": "camillo",
+            "text": "Good my lord, be cured Of this diseased opinion, and betimes For tis most dangerous."
+        },
+        {
+            "speaker": "leontes",
+            "text": "Say it be, tis true."
+        },
+        {
+            "speaker": "camillo",
+            "text": "No, no, my lord."
+        },
+        {
+            "speaker": "leontes",
+            "text": "It is you lie, you lie: I say thou liest, Camillo, and I hate thee, Pronounce thee a gross lout, a mindless slave, Or else a hovering temporizer, that Canst with thine eyes at once see good and evil, Inclining to them both: were my wifes liver Infected as her life, she would not live The running of one glass."
+        },
+        {
+            "speaker": "camillo",
+            "text": "Who does infect her"
+        },
+        {
+            "speaker": "leontes",
+            "text": "Why, he that wears her like a medal, hanging About his neck, Bohemia: who, if I Had servants true about me, that bare eyes To see alike mine honour as their profits, Their own particular thrifts, they would do that Which should undo more doing: ay, and thou, His cupbearer,whom I from meaner form Have benched and reared to worship, who mayst see Plainly as heaven sees earth and earth sees heaven, How I am galled,mightst bespice a cup, To give mine enemy a lasting wink Which draught to me were cordial."
+        },
+        {
+            "speaker": "camillo",
+            "text": "Sir, my lord, I could do this, and that with no rash potion, But with a lingering dram that should not work Maliciously like poison: but I cannot Believe this crack to be in my dread mistress, So sovereignly being honourable. I have loved thee,"
+        },
+        {
+            "speaker": "leontes",
+            "text": "Make that thy question, and go rot! Dost think I am so muddy, so unsettled, To appoint myself in this vexation, sully The purity and whiteness of my sheets, Which to preserve is sleep, which being spotted Is goads, thorns, nettles, tails of wasps, Give scandal to the blood o the prince my son, Who I do think is mine and love as mine, Without ripe moving tot Would I do this Could man so blench"
+        },
+        {
+            "speaker": "camillo",
+            "text": "I must believe you, sir: I do and will fetch off Bohemia fort Provided that, when hes removed, your highness Will take again your queen as yours at first, Even for your sons sake and thereby for sealing The injury of tongues in courts and kingdoms Known and allied to yours."
+        },
+        {
+            "speaker": "leontes",
+            "text": "Thou dost advise me Even so as I mine own course have set down: Ill give no blemish to her honour, none."
+        },
+        {
+            "speaker": "camillo",
+            "text": "My lord, Go then and with a countenance as clear As friendship wears at feasts, keep with Bohemia And with your queen. I am his cupbearer: If from me he have wholesome beverage, Account me not your servant."
+        },
+        {
+            "speaker": "leontes",
+            "text": "This is all: Dot and thou hast the one half of my heart Dot not, thou splitst thine own."
+        },
+        {
+            "speaker": "camillo",
+            "text": "Ill dot, my lord."
+        },
+        {
+            "speaker": "leontes",
+            "text": "I will seem friendly, as thou hast advised me."
+        },
+        {
+            "text": "Exit"
+        },
+        {
+            "speaker": "camillo",
+            "text": "O miserable lady! But, for me, What case stand I in I must be the poisoner Of good Polixenes and my ground to dot Is the obedience to a master, one Who in rebellion with himself will have All that are his so too. To do this deed, Promotion follows. If I could find example Of thousands that had struck anointed kings And flourishd after, Ild not dot but since Nor brass nor stone nor parchment bears not one, Let villany itself forsweart. I must Forsake the court: to dot, or no, is certain To me a breakneck. Happy star, reign now! Here comes Bohemia."
+        },
+        {
+            "text": "Reenter POLIXENES"
+        },
+        {
+            "speaker": "polixenes",
+            "text": "This is strange: methinks My favour here begins to warp. Not speak Good day, Camillo."
+        },
+        {
+            "speaker": "camillo",
+            "text": "Hail, most royal sir!"
+        },
+        {
+            "speaker": "polixenes",
+            "text": "What is the news i the court"
+        },
+        {
+            "speaker": "camillo",
+            "text": "None rare, my lord."
+        },
+        {
+            "speaker": "polixenes",
+            "text": "The king hath on him such a countenance As he had lost some province and a region Loved as he loves himself: even now I met him With customary compliment when he, Wafting his eyes to the contrary and falling A lip of much contempt, speeds from me and So leaves me to consider what is breeding That changeth thus his manners."
+        },
+        {
+            "speaker": "camillo",
+            "text": "I dare not know, my lord."
+        },
+        {
+            "speaker": "polixenes",
+            "text": "How! dare not! do not. Do you know, and dare not Be intelligent to me: tis thereabouts For, to yourself, what you do know, you must. And cannot say, you dare not. Good Camillo, Your changed complexions are to me a mirror Which shows me mine changed too for I must be A party in this alteration, finding Myself thus alterd with t."
+        },
+        {
+            "speaker": "camillo",
+            "text": "There is a sickness Which puts some of us in distemper, but I cannot name the disease and it is caught Of you that yet are well."
+        },
+        {
+            "speaker": "polixenes",
+            "text": "How! caught of me! Make me not sighted like the basilisk: I have lookd on thousands, who have sped the better By my regard, but killd none so. Camillo, As you are certainly a gentleman, thereto Clerklike experienced, which no less adorns Our gentry than our parents noble names, In whose success we are gentle,I beseech you, If you know aught which does behove my knowledge Thereof to be informd, imprisont not In ignorant concealment."
+        },
+        {
+            "speaker": "camillo",
+            "text": "I may not answer."
+        },
+        {
+            "speaker": "polixenes",
+            "text": "A sickness caught of me, and yet I well! I must be answerd. Dost thou hear, Camillo, I conjure thee, by all the parts of man Which honour does acknowledge, whereof the least Is not this suit of mine, that thou declare What incidency thou dost guess of harm Is creeping toward me how far off, how near Which way to be prevented, if to be If not, how best to bear it."
+        },
+        {
+            "speaker": "camillo",
+            "text": "Sir, I will tell you Since I am charged in honour and by him That I think honourable: therefore mark my counsel, Which must be even as swiftly followd as I mean to utter it, or both yourself and me Cry lost, and so good night!"
+        },
+        {
+            "speaker": "polixenes",
+            "text": "On, good Camillo."
+        },
+        {
+            "speaker": "camillo",
+            "text": "I am appointed him to murder you."
+        },
+        {
+            "speaker": "polixenes",
+            "text": "By whom, Camillo"
+        },
+        {
+            "speaker": "camillo",
+            "text": "By the king."
+        },
+        {
+            "speaker": "polixenes",
+            "text": "For what"
+        },
+        {
+            "speaker": "camillo",
+            "text": "He thinks, nay, with all confidence he swears, As he had seent or been an instrument To vice you tot, that you have touchd his queen Forbiddenly."
+        },
+        {
+            "speaker": "polixenes",
+            "text": "O, then my best blood turn To an infected jelly and my name Be yoked with his that did betray the Best! Turn then my freshest reputation to A savour that may strike the dullest nostril Where I arrive, and my approach be shunnd, Nay, hated too, worse than the greatst infection That eer was heard or read!"
+        },
+        {
+            "speaker": "camillo",
+            "text": "Swear his thought over By each particular star in heaven and By all their influences, you may as well Forbid the sea for to obey the moon As or by oath remove or counsel shake The fabric of his folly, whose foundation Is piled upon his faith and will continue The standing of his body."
+        },
+        {
+            "speaker": "polixenes",
+            "text": "How should this grow"
+        },
+        {
+            "speaker": "camillo",
+            "text": "I know not: but I am sure tis safer to Avoid whats grown than question how tis born. If therefore you dare trust my honesty, That lies enclosed in this trunk which you Shall bear along impawnd, away tonight! Your followers I will whisper to the business, And will by twos and threes at several posterns Clear them o the city. For myself, Ill put My fortunes to your service, which are here By this discovery lost. Be not uncertain For, by the honour of my parents, I Have utterd truth: which if you seek to prove, I dare not stand by nor shall you be safer Than one condemnd by the kings own mouth, thereon His execution sworn."
+        },
+        {
+            "speaker": "polixenes",
+            "text": "I do believe thee: I saw his heart in s face. Give me thy hand: Be pilot to me and thy places shall Still neighbour mine. My ships are ready and My people did expect my hence departure Two days ago. This jealousy Is for a precious creature: as shes rare, Must it be great, and as his persons mighty, Must it be violent, and as he does conceive He is dishonourd by a man which ever Professd to him, why, his revenges must In that be made more bitter. Fear oershades me: Good expedition be my friend, and comfort The gracious queen, part of his theme, but nothing Of his illtaen suspicion! Come, Camillo I will respect thee as a father if Thou bearst my life off hence: let us avoid."
+        },
+        {
+            "speaker": "camillo",
+            "text": "It is in mine authority to command The keys of all the posterns: please your highness To take the urgent hour. Come, sir, away."
+        },
+        {
+            "text": "Exeunt"
+        }
+    ]
+}

@@ -1,0 +1,29 @@
+{
+    "sceneName": "Act 3, scene 2",
+    "playName": "othello",
+    "location": "A room in the castle.",
+    "lines": [
+        {
+            "text": "Enter OTHELLO, IAGO, and Gentlemen"
+        },
+        {
+            "speaker": "othello",
+            "text": "These letters give, Iago, to the pilot And by him do my duties to the senate: That done, I will be walking on the works Repair there to me."
+        },
+        {
+            "speaker": "iago",
+            "text": "Well, my good lord, Ill dot."
+        },
+        {
+            "speaker": "othello",
+            "text": "This fortification, gentlemen, shall we seet"
+        },
+        {
+            "speaker": "gentleman",
+            "text": "Well wait upon your lordship."
+        },
+        {
+            "text": "Exeunt"
+        }
+    ]
+}

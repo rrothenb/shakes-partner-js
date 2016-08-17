@@ -1,0 +1,455 @@
+{
+    "sceneName": "Act 2, scene 4",
+    "playName": "king lear",
+    "location": "Before GLOUCESTERs castle. KENT in the stocks.",
+    "lines": [
+        {
+            "text": "Enter KING LEAR, Fool, and Gentleman"
+        },
+        {
+            "speaker": "king lear",
+            "text": "Tis strange that they should so depart from home, And not send back my messenger."
+        },
+        {
+            "speaker": "gentleman",
+            "text": "As I learnd, The night before there was no purpose in them Of this remove."
+        },
+        {
+            "speaker": "kent",
+            "text": "Hail to thee, noble master!"
+        },
+        {
+            "speaker": "king lear",
+            "text": "Ha! Makest thou this shame thy pastime"
+        },
+        {
+            "speaker": "kent",
+            "text": "No, my lord."
+        },
+        {
+            "speaker": "fool",
+            "text": "Ha, ha! he wears cruel garters. Horses are tied by the heads, dogs and bears by the neck, monkeys by the loins, and men by the legs: when a mans overlusty at legs, then he wears wooden netherstocks."
+        },
+        {
+            "speaker": "king lear",
+            "text": "Whats he that hath so much thy place mistook To set thee here"
+        },
+        {
+            "speaker": "kent",
+            "text": "It is both he and she Your son and daughter."
+        },
+        {
+            "speaker": "king lear",
+            "text": "No."
+        },
+        {
+            "speaker": "kent",
+            "text": "Yes."
+        },
+        {
+            "speaker": "king lear",
+            "text": "No, I say."
+        },
+        {
+            "speaker": "kent",
+            "text": "I say, yea."
+        },
+        {
+            "speaker": "king lear",
+            "text": "No, no, they would not."
+        },
+        {
+            "speaker": "kent",
+            "text": "Yes, they have."
+        },
+        {
+            "speaker": "king lear",
+            "text": "By Jupiter, I swear, no."
+        },
+        {
+            "speaker": "kent",
+            "text": "By Juno, I swear, ay."
+        },
+        {
+            "speaker": "king lear",
+            "text": "They durst not do t They could not, would not do t tis worse than murder, To do upon respect such violent outrage: Resolve me, with all modest haste, which way Thou mightst deserve, or they impose, this usage, Coming from us."
+        },
+        {
+            "speaker": "kent",
+            "text": "My lord, when at their home I did commend your highness letters to them, Ere I was risen from the place that showd My duty kneeling, came there a reeking post, Stewd in his haste, half breathless, panting forth From Goneril his mistress salutations Deliverd letters, spite of intermission, Which presently they read: on whose contents, They summond up their meiny, straight took horse Commanded me to follow, and attend The leisure of their answer gave me cold looks: And meeting here the other messenger, Whose welcome, I perceived, had poisond mine, Being the very fellow that of late Displayd so saucily against your highness, Having more man than wit about me, drew: He raised the house with loud and coward cries. Your son and daughter found this trespass worth The shame which here it suffers."
+        },
+        {
+            "speaker": "fool",
+            "text": "Winters not gone yet, if the wildgeese fly that way. Fathers that wear rags Do make their children blind But fathers that bear bags Shall see their children kind. Fortune, that arrant whore, Neer turns the key to the poor. But, for all this, thou shalt have as many dolours for thy daughters as thou canst tell in a year."
+        },
+        {
+            "speaker": "king lear",
+            "text": "O, how this mother swells up toward my heart! Hysterica passio, down, thou climbing sorrow, Thy elements below! Where is this daughter"
+        },
+        {
+            "speaker": "kent",
+            "text": "With the earl, sir, here within."
+        },
+        {
+            "speaker": "king lear",
+            "text": "Follow me not Stay here."
+        },
+        {
+            "text": "Exit"
+        },
+        {
+            "speaker": "gentleman",
+            "text": "Made you no more offence but what you speak of"
+        },
+        {
+            "speaker": "kent",
+            "text": "None. How chance the king comes with so small a train"
+        },
+        {
+            "speaker": "fool",
+            "text": "And thou hadst been set i the stocks for that question, thou hadst well deserved it."
+        },
+        {
+            "speaker": "kent",
+            "text": "Why, fool"
+        },
+        {
+            "speaker": "fool",
+            "text": "Well set thee to school to an ant, to teach thee theres no labouring i the winter. All that follow their noses are led by their eyes but blind men and theres not a nose among twenty but can smell him thats stinking. Let go thy hold when a great wheel runs down a hill, lest it break thy neck with following it: but the great one that goes up the hill, let him draw thee after. When a wise man gives thee better counsel, give me mine again: I would have none but knaves follow it, since a fool gives it. That sir which serves and seeks for gain, And follows but for form, Will pack when it begins to rain, And leave thee in the storm, But I will tarry the fool will stay, And let the wise man fly: The knave turns fool that runs away The fool no knave, perdy."
+        },
+        {
+            "speaker": "kent",
+            "text": "Where learned you this, fool"
+        },
+        {
+            "speaker": "fool",
+            "text": "Not i the stocks, fool."
+        },
+        {
+            "text": "Reenter KING LEAR with GLOUCESTER"
+        },
+        {
+            "speaker": "king lear",
+            "text": "Deny to speak with me They are sick they are weary They have travelld all the night Mere fetches The images of revolt and flying off. Fetch me a better answer."
+        },
+        {
+            "speaker": "gloucester",
+            "text": "My dear lord, You know the fiery quality of the duke How unremoveable and fixd he is In his own course."
+        },
+        {
+            "speaker": "king lear",
+            "text": "Vengeance! plague! death! confusion! Fiery what quality Why, Gloucester, Gloucester, Ild speak with the Duke of Cornwall and his wife."
+        },
+        {
+            "speaker": "gloucester",
+            "text": "Well, my good lord, I have informd them so."
+        },
+        {
+            "speaker": "king lear",
+            "text": "Informd them! Dost thou understand me, man"
+        },
+        {
+            "speaker": "gloucester",
+            "text": "Ay, my good lord."
+        },
+        {
+            "speaker": "king lear",
+            "text": "The king would speak with Cornwall the dear father Would with his daughter speak, commands her service: Are they informd of this My breath and blood! Fiery the fiery duke Tell the hot duke that No, but not yet: may be he is not well: Infirmity doth still neglect all office Whereto our health is bound we are not ourselves When nature, being oppressd, commands the mind To suffer with the body: Ill forbear And am falln out with my more headier will, To take the indisposed and sickly fit For the sound man. Death on my state! wherefore Should he sit here This act persuades me That this remotion of the duke and her Is practise only. Give me my servant forth. Go tell the duke and s wife Ild speak with them, Now, presently: bid them come forth and hear me, Or at their chamberdoor Ill beat the drum Till it cry sleep to death."
+        },
+        {
+            "text": "Looking on KENT"
+        },
+        {
+            "speaker": "gloucester",
+            "text": "I would have all well betwixt you."
+        },
+        {
+            "text": "Exit"
+        },
+        {
+            "speaker": "king lear",
+            "text": "O me, my heart, my rising heart! but, down!"
+        },
+        {
+            "speaker": "fool",
+            "text": "Cry to it, nuncle, as the cockney did to the eels when she put em i the paste alive she knapped em o the coxcombs with a stick, and cried Down, wantons, down! Twas her brother that, in pure kindness to his horse, buttered his hay."
+        },
+        {
+            "text": "Enter CORNWALL, REGAN, GLOUCESTER, and Servants"
+        },
+        {
+            "speaker": "king lear",
+            "text": "Good morrow to you both."
+        },
+        {
+            "speaker": "cornwall",
+            "text": "Hail to your grace!"
+        },
+        {
+            "text": "KENT is set at liberty"
+        },
+        {
+            "speaker": "regan",
+            "text": "I am glad to see your highness."
+        },
+        {
+            "speaker": "king lear",
+            "text": "Regan, I think you are I know what reason I have to think so: if thou shouldst not be glad, I would divorce me from thy mothers tomb, Sepulchring an adultress. O, are you free Some other time for that. Beloved Regan, Thy sisters naught: O Regan, she hath tied Sharptoothd unkindness, like a vulture, here: I can scarce speak to thee thoult not believe With how depraved a qualityO Regan!"
+        },
+        {
+            "text": "To KENT"
+        },
+        {
+            "text": "Points to his heart"
+        },
+        {
+            "speaker": "regan",
+            "text": "I pray you, sir, take patience: I have hope. You less know how to value her desert Than she to scant her duty."
+        },
+        {
+            "speaker": "king lear",
+            "text": "Say, how is that"
+        },
+        {
+            "speaker": "regan",
+            "text": "I cannot think my sister in the least Would fail her obligation: if, sir, perchance She have restraind the riots of your followers, Tis on such ground, and to such wholesome end, As clears her from all blame."
+        },
+        {
+            "speaker": "king lear",
+            "text": "My curses on her!"
+        },
+        {
+            "speaker": "regan",
+            "text": "O, sir, you are old. Nature in you stands on the very verge Of her confine: you should be ruled and led By some discretion, that discerns your state Better than you yourself. Therefore, I pray you, That to our sister you do make return Say you have wrongd her, sir."
+        },
+        {
+            "speaker": "king lear",
+            "text": "Ask her forgiveness Do you but mark how this becomes the house: Dear daughter, I confess that I am old Age is unnecessary: on my knees I beg That youll vouchsafe me raiment, bed, and food."
+        },
+        {
+            "text": "Kneeling"
+        },
+        {
+            "speaker": "regan",
+            "text": "Good sir, no more these are unsightly tricks: Return you to my sister."
+        },
+        {
+            "speaker": "king lear",
+            "text": "[Rising]  Never, Regan: She hath abated me of half my train Lookd black upon me struck me with her tongue, Most serpentlike, upon the very heart: All the stored vengeances of heaven fall On her ingrateful top! Strike her young bones, You taking airs, with lameness!"
+        },
+        {
+            "speaker": "cornwall",
+            "text": "Fie, sir, fie!"
+        },
+        {
+            "speaker": "king lear",
+            "text": "You nimble lightnings, dart your blinding flames Into her scornful eyes! Infect her beauty, You fensuckd fogs, drawn by the powerful sun, To fall and blast her pride!"
+        },
+        {
+            "speaker": "regan",
+            "text": "O the blest gods! so will you wish on me, When the rash mood is on."
+        },
+        {
+            "speaker": "king lear",
+            "text": "No, Regan, thou shalt never have my curse: Thy tenderhefted nature shall not give Thee oer to harshness: her eyes are fierce but thine Do comfort and not burn. Tis not in thee To grudge my pleasures, to cut off my train, To bandy hasty words, to scant my sizes, And in conclusion to oppose the bolt Against my coming in: thou better knowst The offices of nature, bond of childhood, Effects of courtesy, dues of gratitude Thy half o the kingdom hast thou not forgot, Wherein I thee endowd."
+        },
+        {
+            "speaker": "regan",
+            "text": "Good sir, to the purpose."
+        },
+        {
+            "speaker": "king lear",
+            "text": "Who put my man i the stocks"
+        },
+        {
+            "text": "Tucket within"
+        },
+        {
+            "speaker": "cornwall",
+            "text": "What trumpets that"
+        },
+        {
+            "speaker": "regan",
+            "text": "I knowt, my sisters: this approves her letter, That she would soon be here. Is your lady come"
+        },
+        {
+            "text": "Enter OSWALD"
+        },
+        {
+            "speaker": "king lear",
+            "text": "This is a slave, whose easyborrowd pride Dwells in the fickle grace of her he follows. Out, varlet, from my sight!"
+        },
+        {
+            "speaker": "cornwall",
+            "text": "What means your grace"
+        },
+        {
+            "speaker": "king lear",
+            "text": "Who stockd my servant Regan, I have good hope Thou didst not know ont. Who comes here O heavens, If you do love old men, if your sweet sway Allow obedience, if yourselves are old, Make it your cause send down, and take my part! Art not ashamed to look upon this beard O Regan, wilt thou take her by the hand"
+        },
+        {
+            "text": "Enter GONERIL"
+        },
+        {
+            "text": "To GONERIL"
+        },
+        {
+            "speaker": "goneril",
+            "text": "Why not by the hand, sir How have I offended Alls not offence that indiscretion finds And dotage terms so."
+        },
+        {
+            "speaker": "king lear",
+            "text": "O sides, you are too tough Will you yet hold How came my man i the stocks"
+        },
+        {
+            "speaker": "cornwall",
+            "text": "I set him there, sir: but his own disorders Deserved much less advancement."
+        },
+        {
+            "speaker": "king lear",
+            "text": "You! did you"
+        },
+        {
+            "speaker": "regan",
+            "text": "I pray you, father, being weak, seem so. If, till the expiration of your month, You will return and sojourn with my sister, Dismissing half your train, come then to me: I am now from home, and out of that provision Which shall be needful for your entertainment."
+        },
+        {
+            "speaker": "king lear",
+            "text": "Return to her, and fifty men dismissd No, rather I abjure all roofs, and choose To wage against the enmity o the air To be a comrade with the wolf and owl, Necessitys sharp pinch! Return with her Why, the hotblooded France, that dowerless took Our youngest born, I could as well be brought To knee his throne, and, squirelike pension beg To keep base life afoot. Return with her Persuade me rather to be slave and sumpter To this detested groom."
+        },
+        {
+            "text": "Pointing at OSWALD"
+        },
+        {
+            "speaker": "goneril",
+            "text": "At your choice, sir."
+        },
+        {
+            "speaker": "king lear",
+            "text": "I prithee, daughter, do not make me mad: I will not trouble thee, my child farewell: Well no more meet, no more see one another: But yet thou art my flesh, my blood, my daughter Or rather a disease thats in my flesh, Which I must needs call mine: thou art a boil, A plaguesore, an embossed carbuncle, In my corrupted blood. But Ill not chide thee Let shame come when it will, I do not call it: I do not bid the thunderbearer shoot, Nor tell tales of thee to highjudging Jove: Mend when thou canst be better at thy leisure: I can be patient I can stay with Regan, I and my hundred knights."
+        },
+        {
+            "speaker": "regan",
+            "text": "Not altogether so: I lookd not for you yet, nor am provided For your fit welcome. Give ear, sir, to my sister For those that mingle reason with your passion Must be content to think you old, and so But she knows what she does."
+        },
+        {
+            "speaker": "king lear",
+            "text": "Is this well spoken"
+        },
+        {
+            "speaker": "regan",
+            "text": "I dare avouch it, sir: what, fifty followers Is it not well What should you need of more Yea, or so many, sith that both charge and danger Speak gainst so great a number How, in one house, Should many people, under two commands, Hold amity Tis hard almost impossible."
+        },
+        {
+            "speaker": "goneril",
+            "text": "Why might not you, my lord, receive attendance From those that she calls servants or from mine"
+        },
+        {
+            "speaker": "regan",
+            "text": "Why not, my lord If then they chanced to slack you, We could control them. If you will come to me, For now I spy a danger,I entreat you To bring but five and twenty: to no more Will I give place or notice."
+        },
+        {
+            "speaker": "king lear",
+            "text": "I gave you all"
+        },
+        {
+            "speaker": "regan",
+            "text": "And in good time you gave it."
+        },
+        {
+            "speaker": "king lear",
+            "text": "Made you my guardians, my depositaries But kept a reservation to be followd With such a number. What, must I come to you With five and twenty, Regan said you so"
+        },
+        {
+            "speaker": "regan",
+            "text": "And speakt again, my lord no more with me."
+        },
+        {
+            "speaker": "king lear",
+            "text": "Those wicked creatures yet do look wellfavourd, When others are more wicked: not being the worst Stands in some rank of praise. Ill go with thee: Thy fifty yet doth double five and twenty, And thou art twice her love."
+        },
+        {
+            "text": "To GONERIL"
+        },
+        {
+            "speaker": "goneril",
+            "text": "Hear me, my lord What need you five and twenty, ten, or five, To follow in a house where twice so many Have a command to tend you"
+        },
+        {
+            "speaker": "regan",
+            "text": "What need one"
+        },
+        {
+            "speaker": "king lear",
+            "text": "O, reason not the need: our basest beggars Are in the poorest thing superfluous: Allow not nature more than nature needs, Mans lifes as cheap as beasts: thou art a lady If only to go warm were gorgeous, Why, nature needs not what thou gorgeous wearst, Which scarcely keeps thee warm. But, for true need, You heavens, give me that patience, patience I need! You see me here, you gods, a poor old man, As full of grief as age wretched in both! If it be you that stir these daughters hearts Against their father, fool me not so much To bear it tamely touch me with noble anger, And let not womens weapons, waterdrops, Stain my mans cheeks! No, you unnatural hags, I will have such revenges on you both, That all the world shallI will do such things, What they are, yet I know not: but they shall be The terrors of the earth. You think Ill weep No, Ill not weep: I have full cause of weeping but this heart Shall break into a hundred thousand flaws, Or ere Ill weep. O fool, I shall go mad!"
+        },
+        {
+            "text": "Exeunt KING LEAR, GLOUCESTER, KENT, and Fool"
+        },
+        {
+            "text": "Storm and tempest"
+        },
+        {
+            "speaker": "cornwall",
+            "text": "Let us withdraw twill be a storm."
+        },
+        {
+            "speaker": "regan",
+            "text": "This house is little: the old man and his people Cannot be well bestowd."
+        },
+        {
+            "speaker": "goneril",
+            "text": "Tis his own blame hath put himself from rest, And must needs taste his folly."
+        },
+        {
+            "speaker": "regan",
+            "text": "For his particular, Ill receive him gladly, But not one follower."
+        },
+        {
+            "speaker": "goneril",
+            "text": "So am I purposed. Where is my lord of Gloucester"
+        },
+        {
+            "speaker": "cornwall",
+            "text": "Followd the old man forth: he is returnd."
+        },
+        {
+            "text": "Reenter GLOUCESTER"
+        },
+        {
+            "speaker": "gloucester",
+            "text": "The king is in high rage."
+        },
+        {
+            "speaker": "cornwall",
+            "text": "Whither is he going"
+        },
+        {
+            "speaker": "gloucester",
+            "text": "He calls to horse but will I know not whither."
+        },
+        {
+            "speaker": "cornwall",
+            "text": "Tis best to give him way he leads himself."
+        },
+        {
+            "speaker": "goneril",
+            "text": "My lord, entreat him by no means to stay."
+        },
+        {
+            "speaker": "gloucester",
+            "text": "Alack, the night comes on, and the bleak winds Do sorely ruffle for many miles a bout Theres scarce a bush."
+        },
+        {
+            "speaker": "regan",
+            "text": "O, sir, to wilful men, The injuries that they themselves procure Must be their schoolmasters. Shut up your doors: He is attended with a desperate train And what they may incense him to, being apt To have his ear abused, wisdom bids fear."
+        },
+        {
+            "speaker": "cornwall",
+            "text": "Shut up your doors, my lord tis a wild night: My Regan counsels well come out o the storm."
+        },
+        {
+            "text": "Exeunt"
+        }
+    ]
+}

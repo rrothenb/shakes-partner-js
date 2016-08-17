@@ -1,0 +1,408 @@
+{
+    "sceneName": "Act 2, scene 1",
+    "playName": "coriolanus",
+    "location": "Rome. A public place.",
+    "lines": [
+        {
+            "text": "Enter MENENIUS with the two Tribunes of the people, SICINIUS and BRUTUS."
+        },
+        {
+            "speaker": "menenius",
+            "text": "The augurer tells me we shall have news tonight."
+        },
+        {
+            "speaker": "brutus",
+            "text": "Good or bad"
+        },
+        {
+            "speaker": "menenius",
+            "text": "Not according to the prayer of the people, for they love not Marcius."
+        },
+        {
+            "speaker": "sicinius",
+            "text": "Nature teaches beasts to know their friends."
+        },
+        {
+            "speaker": "menenius",
+            "text": "Pray you, who does the wolf love"
+        },
+        {
+            "speaker": "sicinius",
+            "text": "The lamb."
+        },
+        {
+            "speaker": "menenius",
+            "text": "Ay, to devour him as the hungry plebeians would the noble Marcius."
+        },
+        {
+            "speaker": "brutus",
+            "text": "Hes a lamb indeed, that baes like a bear."
+        },
+        {
+            "speaker": "menenius",
+            "text": "Hes a bear indeed, that lives like a lamb. You two are old men: tell me one thing that I shall ask you."
+        },
+        {
+            "speaker": "both",
+            "text": "Well, sir."
+        },
+        {
+            "speaker": "menenius",
+            "text": "In what enormity is Marcius poor in, that you two have not in abundance"
+        },
+        {
+            "speaker": "brutus",
+            "text": "Hes poor in no one fault, but stored with all."
+        },
+        {
+            "speaker": "sicinius",
+            "text": "Especially in pride."
+        },
+        {
+            "speaker": "brutus",
+            "text": "And topping all others in boasting."
+        },
+        {
+            "speaker": "menenius",
+            "text": "This is strange now: do you two know how you are censured here in the city, I mean of us o the righthand file do you"
+        },
+        {
+            "speaker": "both",
+            "text": "Why, how are we censured"
+        },
+        {
+            "speaker": "menenius",
+            "text": "Because you talk of pride now,will you not be angry"
+        },
+        {
+            "speaker": "both",
+            "text": "Well, well, sir, well."
+        },
+        {
+            "speaker": "menenius",
+            "text": "Why, tis no great matter for a very little thief of occasion will rob you of a great deal of patience: give your dispositions the reins, and be angry at your pleasures at the least if you take it as a pleasure to you in being so. You blame Marcius for being proud"
+        },
+        {
+            "speaker": "brutus",
+            "text": "We do it not alone, sir."
+        },
+        {
+            "speaker": "menenius",
+            "text": "I know you can do very little alone for your helps are many, or else your actions would grow wondrous single: your abilities are too infantlike for doing much alone. You talk of pride: O that you could turn your eyes toward the napes of your necks, and make but an interior survey of your good selves! O that you could!"
+        },
+        {
+            "speaker": "brutus",
+            "text": "What then, sir"
+        },
+        {
+            "speaker": "menenius",
+            "text": "Why, then you should discover a brace of unmeriting, proud, violent, testy magistrates, alias fools, as any in Rome."
+        },
+        {
+            "speaker": "sicinius",
+            "text": "Menenius, you are known well enough too."
+        },
+        {
+            "speaker": "menenius",
+            "text": "I am known to be a humorous patrician, and one that loves a cup of hot wine with not a drop of allaying Tiber int said to be something imperfect in favouring the first complaint hasty and tinderlike upon too trivial motion one that converses more with the buttock of the night than with the forehead of the morning: what I think I utter, and spend my malice in my breath. Meeting two such wealsmen as you areI cannot call you Lycurgusesif the drink you give me touch my palate adversely, I make a crooked face at it. I cant say your worships have delivered the matter well, when I find the ass in compound with the major part of your syllables: and though I must be content to bear with those that say you are reverend grave men, yet they lie deadly that tell you you have good faces. If you see this in the map of my microcosm, follows it that I am known well enough too what barm can your bisson conspectuities glean out of this character, if I be known well enough too"
+        },
+        {
+            "speaker": "brutus",
+            "text": "Come, sir, come, we know you well enough."
+        },
+        {
+            "speaker": "menenius",
+            "text": "You know neither me, yourselves nor any thing. You are ambitious for poor knaves caps and legs: you wear out a good wholesome forenoon in hearing a cause between an orange wife and a fossetseller and then rejourn the controversy of three pence to a second day of audience. When you are hearing a matter between party and party, if you chance to be pinched with the colic, you make faces like mummers set up the bloody flag against all patience and, in roaring for a chamberpot, dismiss the controversy bleeding the more entangled by your hearing: all the peace you make in their cause is, calling both the parties knaves. You are a pair of strange ones."
+        },
+        {
+            "speaker": "brutus",
+            "text": "Come, come, you are well understood to be a perfecter giber for the table than a necessary bencher in the Capitol."
+        },
+        {
+            "speaker": "menenius",
+            "text": "Our very priests must become mockers, if they shall encounter such ridiculous subjects as you are. When you speak best unto the purpose, it is not worth the wagging of your beards and your beards deserve not so honourable a grave as to stuff a botchers cushion, or to be entombed in an asss pack saddle. Yet you must be saying, Marcius is proud who in a cheap estimation, is worth predecessors since Deucalion, though peradventure some of the best of em were hereditary hangmen. Godden to your worships: more of your conversation would infect my brain, being the herdsmen of the beastly plebeians: I will be bold to take my leave of you. How now, my as fair as noble ladies,and the moon, were she earthly, no nobler,whither do you follow your eyes so fast"
+        },
+        {
+            "text": "BRUTUS and SICINIUS go aside"
+        },
+        {
+            "text": "Enter VOLUMNIA, VIRGILIA, and VALERIA"
+        },
+        {
+            "speaker": "volumnia",
+            "text": "Honourable Menenius, my boy Marcius approaches for the love of Juno, lets go."
+        },
+        {
+            "speaker": "menenius",
+            "text": "Ha! Marcius coming home!"
+        },
+        {
+            "speaker": "volumnia",
+            "text": "Ay, worthy Menenius and with most prosperous approbation."
+        },
+        {
+            "speaker": "menenius",
+            "text": "Take my cap, Jupiter, and I thank thee. Hoo! Marcius coming home!"
+        },
+        {
+            "speaker": "virgilia",
+            "text": "Nay,tis true."
+        },
+        {
+            "speaker": "volumnia",
+            "text": "Look, heres a letter from him: the state hath another, his wife another and, I think, theres one at home for you."
+        },
+        {
+            "speaker": "menenius",
+            "text": "I will make my very house reel tonight: a letter for me!"
+        },
+        {
+            "speaker": "virgilia",
+            "text": "Yes, certain, theres a letter for you I sawt."
+        },
+        {
+            "speaker": "menenius",
+            "text": "A letter for me! it gives me an estate of seven years health in which time I will make a lip at the physician: the most sovereign prescription in Galen is but empiricutic, and, to this preservative, of no better report than a horsedrench. Is he not wounded he was wont to come home wounded."
+        },
+        {
+            "speaker": "virgilia",
+            "text": "O, no, no, no."
+        },
+        {
+            "speaker": "volumnia",
+            "text": "O, he is wounded I thank the gods fort."
+        },
+        {
+            "speaker": "menenius",
+            "text": "So do I too, if it be not too much: brings a victory in his pocket the wounds become him."
+        },
+        {
+            "speaker": "volumnia",
+            "text": "Ons brows: Menenius, he comes the third time home with the oaken garland."
+        },
+        {
+            "speaker": "menenius",
+            "text": "Has he disciplined Aufidius soundly"
+        },
+        {
+            "speaker": "volumnia",
+            "text": "Titus Lartius writes, they fought together, but Aufidius got off."
+        },
+        {
+            "speaker": "menenius",
+            "text": "And twas time for him too, Ill warrant him that: an he had stayed by him, I would not have been so fidiused for all the chests in Corioli, and the gold thats in them. Is the senate possessed of this"
+        },
+        {
+            "speaker": "volumnia",
+            "text": "Good ladies, lets go. Yes, yes, yes the senate has letters from the general, wherein he gives my son the whole name of the war: he hath in this action outdone his former deeds doubly"
+        },
+        {
+            "speaker": "valeria",
+            "text": "In troth, theres wondrous things spoke of him."
+        },
+        {
+            "speaker": "menenius",
+            "text": "Wondrous! ay, I warrant you, and not without his true purchasing."
+        },
+        {
+            "speaker": "virgilia",
+            "text": "The gods grant them true!"
+        },
+        {
+            "speaker": "volumnia",
+            "text": "True! pow, wow."
+        },
+        {
+            "speaker": "menenius",
+            "text": "True! Ill be sworn they are true. Where is he wounded God save your good worships! Marcius is coming home: he has more cause to be proud. Where is he wounded"
+        },
+        {
+            "text": "To the Tribunes"
+        },
+        {
+            "speaker": "volumnia",
+            "text": "I the shoulder and i the left arm there will be large cicatrices to show the people, when he shall stand for his place. He received in the repulse of Tarquin seven hurts i the body."
+        },
+        {
+            "speaker": "menenius",
+            "text": "One i the neck, and two i the thigh,theres nine that I know."
+        },
+        {
+            "speaker": "volumnia",
+            "text": "He had, before this last expedition, twentyfive wounds upon him."
+        },
+        {
+            "speaker": "menenius",
+            "text": "Now its twentyseven: every gash was an enemys grave. Hark! the trumpets."
+        },
+        {
+            "text": "A shout and flourish"
+        },
+        {
+            "speaker": "volumnia",
+            "text": "These are the ushers of Marcius: before him he carries noise, and behind him he leaves tears: Death, that dark spirit, in s nervy arm doth lie Which, being advanced, declines, and then men die. A sennet. Trumpets sound. Enter COMINIUS the  general, and TITUS LARTIUS between them, CORIOLANUS,  crowned with an oaken garland with Captains and Soldiers, and a Herald"
+        },
+        {
+            "speaker": "herald",
+            "text": "Know, Rome, that all alone Marcius did fight Within Corioli gates: where he hath won, With fame, a name to Caius Marcius these In honour follows Coriolanus. Welcome to Rome, renowned Coriolanus!"
+        },
+        {
+            "text": "Flourish"
+        },
+        {
+            "speaker": "all",
+            "text": "Welcome to Rome, renowned Coriolanus!"
+        },
+        {
+            "speaker": "coriolanus",
+            "text": "No more of this it does offend my heart: Pray now, no more."
+        },
+        {
+            "speaker": "cominius",
+            "text": "Look, sir, your mother!"
+        },
+        {
+            "speaker": "coriolanus",
+            "text": "O, You have, I know, petitiond all the gods For my prosperity!"
+        },
+        {
+            "text": "Kneels"
+        },
+        {
+            "speaker": "volumnia",
+            "text": "Nay, my good soldier, up My gentle Marcius, worthy Caius, and By deedachieving honour newly named, What is itCoriolanus must I call thee But O, thy wife!"
+        },
+        {
+            "speaker": "coriolanus",
+            "text": "My gracious silence, hail! Wouldst thou have laughd had I come coffind home, That weepst to see me triumph Ay, my dear, Such eyes the widows in Corioli wear, And mothers that lack sons."
+        },
+        {
+            "speaker": "menenius",
+            "text": "Now, the gods crown thee!"
+        },
+        {
+            "speaker": "coriolanus",
+            "text": "And live you yet O my sweet lady, pardon."
+        },
+        {
+            "text": "To VALERIA"
+        },
+        {
+            "speaker": "volumnia",
+            "text": "I know not where to turn: O, welcome home: And welcome, general: and yere welcome all."
+        },
+        {
+            "speaker": "menenius",
+            "text": "A hundred thousand welcomes. I could weep And I could laugh, I am light and heavy. Welcome. A curse begin at very root ons heart, That is not glad to see thee! You are three That Rome should dote on: yet, by the faith of men, We have some old crabtrees here at home that will not Be grafted to your relish. Yet welcome, warriors: We call a nettle but a nettle and The faults of fools but folly."
+        },
+        {
+            "speaker": "cominius",
+            "text": "Ever right."
+        },
+        {
+            "speaker": "coriolanus",
+            "text": "Menenius ever, ever."
+        },
+        {
+            "speaker": "herald",
+            "text": "Give way there, and go on!"
+        },
+        {
+            "speaker": "coriolanus",
+            "text": "[To VOLUMNIA and VIRGILIA]  Your hand, and yours: Ere in our own house I do shade my head, The good patricians must be visited From whom I have received not only greetings, But with them change of honours."
+        },
+        {
+            "speaker": "volumnia",
+            "text": "I have lived To see inherited my very wishes And the buildings of my fancy: only Theres one thing wanting, which I doubt not but Our Rome will cast upon thee."
+        },
+        {
+            "speaker": "coriolanus",
+            "text": "Know, good mother, I had rather be their servant in my way, Than sway with them in theirs."
+        },
+        {
+            "speaker": "cominius",
+            "text": "On, to the Capitol!"
+        },
+        {
+            "text": "Flourish. Cornets. Exeunt in state, as before. BRUTUS and SICINIUS come forward"
+        },
+        {
+            "speaker": "brutus",
+            "text": "All tongues speak of him, and the bleared sights Are spectacled to see him: your prattling nurse Into a rapture lets her baby cry While she chats him: the kitchen malkin pins Her richest lockram bout her reechy neck, Clambering the walls to eye him: stalls, bulks, windows, Are smotherd up, leads filld, and ridges horsed With variable complexions, all agreeing In earnestness to see him: seldshown flamens Do press among the popular throngs and puff To win a vulgar station: or veild dames Commit the war of white and damask in Their nicelygawded cheeks to the wanton spoil Of Phoebus burning kisses: such a pother As if that whatsoever god who leads him Were slily crept into his human powers And gave him graceful posture."
+        },
+        {
+            "speaker": "sicinius",
+            "text": "On the sudden, I warrant him consul."
+        },
+        {
+            "speaker": "brutus",
+            "text": "Then our office may, During his power, go sleep."
+        },
+        {
+            "speaker": "sicinius",
+            "text": "He cannot temperately transport his honours From where he should begin and end, but will Lose those he hath won."
+        },
+        {
+            "speaker": "brutus",
+            "text": "In that theres comfort."
+        },
+        {
+            "speaker": "sicinius",
+            "text": "Doubt not The commoners, for whom we stand, but they Upon their ancient malice will forget With the least cause these his new honours, which That he will give them make I as little question As he is proud to dot."
+        },
+        {
+            "speaker": "brutus",
+            "text": "I heard him swear, Were he to stand for consul, never would he Appear i the marketplace nor on him put The napless vesture of humility Nor showing, as the manner is, his wounds To the people, beg their stinking breaths."
+        },
+        {
+            "speaker": "sicinius",
+            "text": "Tis right."
+        },
+        {
+            "speaker": "brutus",
+            "text": "It was his word: O, he would miss it rather Than carry it but by the suit of the gentry to him, And the desire of the nobles."
+        },
+        {
+            "speaker": "sicinius",
+            "text": "I wish no better Than have him hold that purpose and to put it In execution."
+        },
+        {
+            "speaker": "brutus",
+            "text": "Tis most like he will."
+        },
+        {
+            "speaker": "sicinius",
+            "text": "It shall be to him then as our good wills, A sure destruction."
+        },
+        {
+            "speaker": "brutus",
+            "text": "So it must fall out To him or our authorities. For an end, We must suggest the people in what hatred He still hath held them that tos power he would Have made them mules, silenced their pleaders and Dispropertied their freedoms, holding them, In human action and capacity, Of no more soul nor fitness for the world Than camels in the war, who have their provand Only for bearing burdens, and sore blows For sinking under them."
+        },
+        {
+            "speaker": "sicinius",
+            "text": "This, as you say, suggested At some time when his soaring insolence Shall touch the peoplewhich time shall not want, If he be put upon t and thats as easy As to set dogs on sheepwill be his fire To kindle their dry stubble and their blaze Shall darken him for ever."
+        },
+        {
+            "text": "Enter a Messenger"
+        },
+        {
+            "speaker": "brutus",
+            "text": "Whats the matter"
+        },
+        {
+            "speaker": "messenger",
+            "text": "You are sent for to the Capitol. Tis thought That Marcius shall be consul: I have seen the dumb men throng to see him and The blind to bear him speak: matrons flung gloves, Ladies and maids their scarfs and handkerchers, Upon him as he passd: the nobles bended, As to Joves statue, and the commons made A shower and thunder with their caps and shouts: I never saw the like."
+        },
+        {
+            "speaker": "brutus",
+            "text": "Lets to the Capitol And carry with us ears and eyes for the time, But hearts for the event."
+        },
+        {
+            "speaker": "sicinius",
+            "text": "Have with you."
+        },
+        {
+            "text": "Exeunt"
+        }
+    ]
+}

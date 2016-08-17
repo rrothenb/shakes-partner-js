@@ -1,0 +1,33 @@
+{
+    "sceneName": "Act 4, scene 5",
+    "playName": "pericles",
+    "location": "Mytilene. A street before the brothel.",
+    "lines": [
+        {
+            "text": "Enter, from the brothel, two Gentlemen"
+        },
+        {
+            "speaker": "first gentleman",
+            "text": "Did you ever hear the like"
+        },
+        {
+            "speaker": "second gentleman",
+            "text": "No, nor never shall do in such a place as this, she being once gone."
+        },
+        {
+            "speaker": "first gentleman",
+            "text": "But to have divinity preached there! did you ever dream of such a thing"
+        },
+        {
+            "speaker": "second gentleman",
+            "text": "No, no. Come, I am for no more bawdyhouses: shalls go hear the vestals sing"
+        },
+        {
+            "speaker": "first gentleman",
+            "text": "Ill do any thing now that is virtuous but I am out of the road of rutting for ever."
+        },
+        {
+            "text": "Exeunt"
+        }
+    ]
+}

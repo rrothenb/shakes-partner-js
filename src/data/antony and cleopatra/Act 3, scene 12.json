@@ -1,0 +1,70 @@
+{
+    "sceneName": "Act 3, scene 12",
+    "playName": "antony and cleopatra",
+    "location": "Egypt. OCTAVIUS CAESARs camp.",
+    "lines": [
+        {
+            "text": "Enter OCTAVIUS CAESAR, DOLABELLA, THYREUS, with others"
+        },
+        {
+            "speaker": "octavius caesar",
+            "text": "Let him appear thats come from Antony. Know you him"
+        },
+        {
+            "speaker": "dolabella",
+            "text": "Caesar, tis his schoolmaster: An argument that he is pluckd, when hither He sends so poor a pinion off his wing, Which had superfluous kings for messengers Not many moons gone by."
+        },
+        {
+            "text": "Enter EUPHRONIUS, ambassador from MARK ANTONY"
+        },
+        {
+            "speaker": "octavius caesar",
+            "text": "Approach, and speak."
+        },
+        {
+            "speaker": "euphronius",
+            "text": "Such as I am, I come from Antony: I was of late as petty to his ends As is the morndew on the myrtleleaf To his grand sea."
+        },
+        {
+            "speaker": "octavius caesar",
+            "text": "Bet so: declare thine office."
+        },
+        {
+            "speaker": "euphronius",
+            "text": "Lord of his fortunes he salutes thee, and Requires to live in Egypt: which not granted, He lessens his requests and to thee sues To let him breathe between the heavens and earth, A private man in Athens: this for him. Next, Cleopatra does confess thy greatness Submits her to thy might and of thee craves The circle of the Ptolemies for her heirs, Now hazarded to thy grace."
+        },
+        {
+            "speaker": "octavius caesar",
+            "text": "For Antony, I have no ears to his request. The queen Of audience nor desire shall fail, so she From Egypt drive her alldisgraced friend, Or take his life there: this if she perform, She shall not sue unheard. So to them both."
+        },
+        {
+            "speaker": "euphronius",
+            "text": "Fortune pursue thee!"
+        },
+        {
+            "speaker": "octavius caesar",
+            "text": "Bring him through the bands. From Antony win Cleopatra: promise, And in our name, what she requires add more, From thine invention, offers: women are not In their best fortunes strong but want will perjure The neer touchd vestal: try thy cunning, Thyreus Make thine own edict for thy pains, which we Will answer as a law."
+        },
+        {
+            "text": "Exit EUPHRONIUS"
+        },
+        {
+            "text": "To THYREUS"
+        },
+        {
+            "speaker": "thyreus",
+            "text": "Caesar, I go."
+        },
+        {
+            "speaker": "octavius caesar",
+            "text": "Observe how Antony becomes his flaw, And what thou thinkst his very action speaks In every power that moves."
+        },
+        {
+            "speaker": "thyreus",
+            "text": "Caesar, I shall."
+        },
+        {
+            "text": "Exeunt"
+        }
+    ]
+}

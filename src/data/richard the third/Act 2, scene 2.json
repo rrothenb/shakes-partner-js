@@ -1,0 +1,191 @@
+{
+    "sceneName": "Act 2, scene 2",
+    "playName": "richard the third",
+    "location": "The palace.",
+    "lines": [
+        {
+            "text": "Enter the DUCHESS OF YORK, with the two children of CLARENCE"
+        },
+        {
+            "speaker": "boy",
+            "text": "Tell me, good grandam, is our father dead"
+        },
+        {
+            "speaker": "duchess of york",
+            "text": "No, boy."
+        },
+        {
+            "speaker": "boy",
+            "text": "Why do you wring your hands, and beat your breast, And cry O Clarence, my unhappy son!"
+        },
+        {
+            "speaker": "girl",
+            "text": "Why do you look on us, and shake your head, And call us wretches, orphans, castaways If that our noble father be alive"
+        },
+        {
+            "speaker": "duchess of york",
+            "text": "My pretty cousins, you mistake me much I do lament the sickness of the king. As loath to lose him, not your fathers death It were lost sorrow to wail one thats lost."
+        },
+        {
+            "speaker": "boy",
+            "text": "Then, grandam, you conclude that he is dead. The king my uncle is to blame for this: God will revenge it whom I will importune With daily prayers all to that effect."
+        },
+        {
+            "speaker": "girl",
+            "text": "And so will I."
+        },
+        {
+            "speaker": "duchess of york",
+            "text": "Peace, children, peace! the king doth love you well: Incapable and shallow innocents, You cannot guess who caused your fathers death."
+        },
+        {
+            "speaker": "boy",
+            "text": "Grandam, we can for my good uncle Gloucester Told me, the king, provoked by the queen, Devised impeachments to imprison him : And when my uncle told me so, he wept, And huggd me in his arm, and kindly kissd my cheek Bade me rely on him as on my father, And he would love me dearly as his child."
+        },
+        {
+            "speaker": "duchess of york",
+            "text": "Oh, that deceit should steal such gentle shapes, And with a virtuous vizard hide foul guile! He is my son yea, and therein my shame Yet from my dugs he drew not this deceit."
+        },
+        {
+            "speaker": "boy",
+            "text": "Think you my uncle did dissemble, grandam"
+        },
+        {
+            "speaker": "duchess of york",
+            "text": "Ay, boy."
+        },
+        {
+            "speaker": "boy",
+            "text": "I cannot think it. Hark! what noise is this Enter QUEEN ELIZABETH, with her hair about her ears RIVERS, and DORSET after her"
+        },
+        {
+            "speaker": "queen elizabeth",
+            "text": "Oh, who shall hinder me to wail and weep, To chide my fortune, and torment myself Ill join with black despair against my soul, And to myself become an enemy."
+        },
+        {
+            "speaker": "duchess of york",
+            "text": "What means this scene of rude impatience"
+        },
+        {
+            "speaker": "queen elizabeth",
+            "text": "To make an act of tragic violence: Edward, my lord, your son, our king, is dead. Why grow the branches now the root is witherd Why wither not the leaves the sap being gone If you will live, lament if die, be brief, That our swiftwinged souls may catch the kings Or, like obedient subjects, follow him To his new kingdom of perpetual rest."
+        },
+        {
+            "speaker": "duchess of york",
+            "text": "Ah, so much interest have I in thy sorrow As I had title in thy noble husband! I have bewept a worthy husbands death, And lived by looking on his images: But now two mirrors of his princely semblance Are crackd in pieces by malignant death, And I for comfort have but one false glass, Which grieves me when I see my shame in him. Thou art a widow yet thou art a mother, And hast the comfort of thy children left thee: But death hath snatchd my husband from mine arms, And pluckd two crutches from my feeble limbs, Edward and Clarence. O, what cause have I, Thine being but a moiety of my grief, To overgo thy plaints and drown thy cries!"
+        },
+        {
+            "speaker": "boy",
+            "text": "Good aunt, you wept not for our fathers death How can we aid you with our kindred tears"
+        },
+        {
+            "speaker": "girl",
+            "text": "Our fatherless distress was left unmoand Your widowdolour likewise be unwept!"
+        },
+        {
+            "speaker": "queen elizabeth",
+            "text": "Give me no help in lamentation I am not barren to bring forth complaints All springs reduce their currents to mine eyes, That I, being governd by the watery moon, May send forth plenteous tears to drown the world! Oh for my husband, for my dear lord Edward!"
+        },
+        {
+            "speaker": "children",
+            "text": "Oh for our father, for our dear lord Clarence!"
+        },
+        {
+            "speaker": "duchess of york",
+            "text": "Alas for both, both mine, Edward and Clarence!"
+        },
+        {
+            "speaker": "queen elizabeth",
+            "text": "What stay had I but Edward and hes gone."
+        },
+        {
+            "speaker": "children",
+            "text": "What stay had we but Clarence and hes gone."
+        },
+        {
+            "speaker": "duchess of york",
+            "text": "What stays had I but they and they are gone."
+        },
+        {
+            "speaker": "queen elizabeth",
+            "text": "Was never widow had so dear a loss!"
+        },
+        {
+            "speaker": "children",
+            "text": "Were never orphans had so dear a loss!"
+        },
+        {
+            "speaker": "duchess of york",
+            "text": "Was never mother had so dear a loss! Alas, I am the mother of these moans! Their woes are parcelld, mine are general. She for an Edward weeps, and so do I I for a Clarence weep, so doth not she: These babes for Clarence weep and so do I I for an Edward weep, so do not they: Alas, you three, on me, threefold distressd, Pour all your tears! I am your sorrows nurse, And I will pamper it with lamentations."
+        },
+        {
+            "speaker": "dorset",
+            "text": "Comfort, dear mother: God is much displeased That you take with unthankfulness, his doing: In common worldly things, tis calld ungrateful, With dull unwilligness to repay a debt Which with a bounteous hand was kindly lent Much more to be thus opposite with heaven, For it requires the royal debt it lent you."
+        },
+        {
+            "speaker": "rivers",
+            "text": "Madam, bethink you, like a careful mother, Of the young prince your son: send straight for him Let him be crownd in him your comfort lives: Drown desperate sorrow in dead Edwards grave, And plant your joys in living Edwards throne."
+        },
+        {
+            "text": "Enter GLOUCESTER, BUCKINGHAM, DERBY, HASTINGS, and RATCLIFF"
+        },
+        {
+            "speaker": "gloucester",
+            "text": "Madam, have comfort: all of us have cause To wail the dimming of our shining star But none can cure their harms by wailing them. Madam, my mother, I do cry you mercy I did not see your grace: humbly on my knee I crave your blessing."
+        },
+        {
+            "speaker": "duchess of york",
+            "text": "God bless thee and put meekness in thy mind, Love, charity, obedience, and true duty!"
+        },
+        {
+            "speaker": "gloucester",
+            "text": "[Aside]  Amen and make me die a good old man! That is the buttend of a mothers blessing: I marvel why her grace did leave it out."
+        },
+        {
+            "speaker": "buckingham",
+            "text": "You cloudy princes and heartsorrowing peers, That bear this mutual heavy load of moan, Now cheer each other in each others love Though we have spent our harvest of this king, We are to reap the harvest of his son. The broken rancour of your highswoln hearts, But lately splinterd, knit, and joind together, Must gently be preserved, cherishd, and kept: Me seemeth good, that, with some little train, Forthwith from Ludlow the young prince be fetchd Hither to London, to be crownd our king."
+        },
+        {
+            "speaker": "rivers",
+            "text": "Why with some little train, my Lord of Buckingham"
+        },
+        {
+            "speaker": "buckingham",
+            "text": "Marry, my lord, lest, by a multitude, The newheald wound of malice should break out, Which would be so much the more dangerous By how much the estate is green and yet ungovernd: Where every horse bears his commanding rein, And may direct his course as please himself, As well the fear of harm, as harm apparent, In my opinion, ought to be prevented."
+        },
+        {
+            "speaker": "gloucester",
+            "text": "I hope the king made peace with all of us And the compact is firm and true in me."
+        },
+        {
+            "speaker": "rivers",
+            "text": "And so in me and so, I think, in all: Yet, since it is but green, it should be put To no apparent likelihood of breach, Which haply by much company might be urged: Therefore I say with noble Buckingham, That it is meet so few should fetch the prince."
+        },
+        {
+            "speaker": "hastings",
+            "text": "And so say I."
+        },
+        {
+            "speaker": "gloucester",
+            "text": "Then be it so and go we to determine Who they shall be that straight shall post to Ludlow. Madam, and you, my mother, will you go To give your censures in this weighty business"
+        },
+        {
+            "speaker": "duchess of york",
+            "text": "With all our harts."
+        },
+        {
+            "text": "Exeunt all but BUCKINGHAM and GLOUCESTER"
+        },
+        {
+            "speaker": "buckingham",
+            "text": "My lord, whoever journeys to the Prince, For Gods sake, let not us two be behind For, by the way, Ill sort occasion, As index to the story we late talkd of, To part the queens proud kindred from the king."
+        },
+        {
+            "speaker": "gloucester",
+            "text": "My other self, my counsels consistory, My oracle, my prophet! My dear cousin, I, like a child, will go by thy direction. Towards Ludlow then, for well not stay behind."
+        },
+        {
+            "text": "Exeunt"
+        }
+    ]
+}

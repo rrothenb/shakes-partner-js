@@ -1,0 +1,180 @@
+{
+    "bernardo": [
+        "Act 1, scene 1",
+        "Act 1, scene 2"
+    ],
+    "francisco": [
+        "Act 1, scene 1"
+    ],
+    "horatio": [
+        "Act 1, scene 1",
+        "Act 1, scene 2",
+        "Act 1, scene 4",
+        "Act 1, scene 5",
+        "Act 3, scene 2",
+        "Act 4, scene 5",
+        "Act 4, scene 6",
+        "Act 5, scene 1",
+        "Act 5, scene 2"
+    ],
+    "marcellus": [
+        "Act 1, scene 1",
+        "Act 1, scene 2",
+        "Act 1, scene 4",
+        "Act 1, scene 5"
+    ],
+    "king claudius": [
+        "Act 1, scene 2",
+        "Act 2, scene 2",
+        "Act 3, scene 1",
+        "Act 3, scene 2",
+        "Act 3, scene 3",
+        "Act 4, scene 1",
+        "Act 4, scene 3",
+        "Act 4, scene 5",
+        "Act 4, scene 7",
+        "Act 5, scene 1",
+        "Act 5, scene 2"
+    ],
+    "voltimand": [
+        "Act 1, scene 2",
+        "Act 2, scene 2"
+    ],
+    "laertes": [
+        "Act 1, scene 2",
+        "Act 1, scene 3",
+        "Act 4, scene 5",
+        "Act 4, scene 7",
+        "Act 5, scene 1",
+        "Act 5, scene 2"
+    ],
+    "lord polonius": [
+        "Act 1, scene 2",
+        "Act 1, scene 3",
+        "Act 2, scene 1",
+        "Act 2, scene 2",
+        "Act 3, scene 1",
+        "Act 3, scene 2",
+        "Act 3, scene 3",
+        "Act 3, scene 4"
+    ],
+    "hamlet": [
+        "Act 1, scene 2",
+        "Act 1, scene 4",
+        "Act 1, scene 5",
+        "Act 2, scene 2",
+        "Act 3, scene 1",
+        "Act 3, scene 2",
+        "Act 3, scene 3",
+        "Act 3, scene 4",
+        "Act 4, scene 2",
+        "Act 4, scene 3",
+        "Act 4, scene 4",
+        "Act 5, scene 1",
+        "Act 5, scene 2"
+    ],
+    "queen gertrude": [
+        "Act 1, scene 2",
+        "Act 2, scene 2",
+        "Act 3, scene 1",
+        "Act 3, scene 2",
+        "Act 3, scene 4",
+        "Act 4, scene 1",
+        "Act 4, scene 5",
+        "Act 4, scene 7",
+        "Act 5, scene 1",
+        "Act 5, scene 2"
+    ],
+    "all": [
+        "Act 1, scene 2",
+        "Act 3, scene 2",
+        "Act 5, scene 1",
+        "Act 5, scene 2"
+    ],
+    "ophelia": [
+        "Act 1, scene 3",
+        "Act 2, scene 1",
+        "Act 3, scene 1",
+        "Act 3, scene 2",
+        "Act 4, scene 5"
+    ],
+    "ghost": [
+        "Act 1, scene 5",
+        "Act 3, scene 4"
+    ],
+    "reynaldo": [
+        "Act 2, scene 1"
+    ],
+    "rosencrantz": [
+        "Act 2, scene 2",
+        "Act 3, scene 1",
+        "Act 3, scene 2",
+        "Act 3, scene 3",
+        "Act 4, scene 2",
+        "Act 4, scene 3",
+        "Act 4, scene 4"
+    ],
+    "guildenstern": [
+        "Act 2, scene 2",
+        "Act 3, scene 1",
+        "Act 3, scene 2",
+        "Act 3, scene 3",
+        "Act 4, scene 2"
+    ],
+    "first player": [
+        "Act 2, scene 2",
+        "Act 3, scene 2"
+    ],
+    "prologue": [
+        "Act 3, scene 2"
+    ],
+    "player king": [
+        "Act 3, scene 2"
+    ],
+    "player queen": [
+        "Act 3, scene 2"
+    ],
+    "lucianus": [
+        "Act 3, scene 2"
+    ],
+    "prince fortinbras": [
+        "Act 4, scene 4",
+        "Act 5, scene 2"
+    ],
+    "captain": [
+        "Act 4, scene 4"
+    ],
+    "gentleman": [
+        "Act 4, scene 5"
+    ],
+    "danes": [
+        "Act 4, scene 5"
+    ],
+    "servant": [
+        "Act 4, scene 6"
+    ],
+    "first sailor": [
+        "Act 4, scene 6"
+    ],
+    "messenger": [
+        "Act 4, scene 7"
+    ],
+    "first clown": [
+        "Act 5, scene 1"
+    ],
+    "second clown": [
+        "Act 5, scene 1"
+    ],
+    "first priest": [
+        "Act 5, scene 1"
+    ],
+    "osric": [
+        "Act 5, scene 2"
+    ],
+    "lord": [
+        "Act 5, scene 2"
+    ],
+    "first ambassador": [
+        "Act 5, scene 2"
+    ]
+}

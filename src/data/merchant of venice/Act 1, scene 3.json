@@ -1,0 +1,206 @@
+{
+    "sceneName": "Act 1, scene 3",
+    "playName": "merchant of venice",
+    "location": "Venice. A public place.",
+    "lines": [
+        {
+            "text": "Enter BASSANIO and SHYLOCK"
+        },
+        {
+            "speaker": "shylock",
+            "text": "Three thousand ducats well."
+        },
+        {
+            "speaker": "bassanio",
+            "text": "Ay, sir, for three months."
+        },
+        {
+            "speaker": "shylock",
+            "text": "For three months well."
+        },
+        {
+            "speaker": "bassanio",
+            "text": "For the which, as I told you, Antonio shall be bound."
+        },
+        {
+            "speaker": "shylock",
+            "text": "Antonio shall become bound well."
+        },
+        {
+            "speaker": "bassanio",
+            "text": "May you stead me will you pleasure me shall I know your answer"
+        },
+        {
+            "speaker": "shylock",
+            "text": "Three thousand ducats for three months and Antonio bound."
+        },
+        {
+            "speaker": "bassanio",
+            "text": "Your answer to that."
+        },
+        {
+            "speaker": "shylock",
+            "text": "Antonio is a good man."
+        },
+        {
+            "speaker": "bassanio",
+            "text": "Have you heard any imputation to the contrary"
+        },
+        {
+            "speaker": "shylock",
+            "text": "Oh, no, no, no, no: my meaning in saying he is a good man is to have you understand me that he is sufficient. Yet his means are in supposition: he hath an argosy bound to Tripolis, another to the Indies I understand moreover, upon the Rialto, he hath a third at Mexico, a fourth for England, and other ventures he hath, squandered abroad. But ships are but boards, sailors but men: there be landrats and waterrats, waterthieves and landthieves, I mean pirates, and then there is the peril of waters, winds and rocks. The man is, notwithstanding, sufficient. Three thousand ducats I think I may take his bond."
+        },
+        {
+            "speaker": "bassanio",
+            "text": "Be assured you may."
+        },
+        {
+            "speaker": "shylock",
+            "text": "I will be assured I may and, that I may be assured, I will bethink me. May I speak with Antonio"
+        },
+        {
+            "speaker": "bassanio",
+            "text": "If it please you to dine with us."
+        },
+        {
+            "speaker": "shylock",
+            "text": "Yes, to smell pork to eat of the habitation which your prophet the Nazarite conjured the devil into. I will buy with you, sell with you, talk with you, walk with you, and so following, but I will not eat with you, drink with you, nor pray with you. What news on the Rialto Who is he comes here"
+        },
+        {
+            "text": "Enter ANTONIO"
+        },
+        {
+            "speaker": "bassanio",
+            "text": "This is Signior Antonio."
+        },
+        {
+            "speaker": "shylock",
+            "text": "[Aside]  How like a fawning publican he looks! I hate him for he is a Christian, But more for that in low simplicity He lends out money gratis and brings down The rate of usance here with us in Venice. If I can catch him once upon the hip, I will feed fat the ancient grudge I bear him. He hates our sacred nation, and he rails, Even there where merchants most do congregate, On me, my bargains and my wellwon thrift, Which he calls interest. Cursed be my tribe, If I forgive him!"
+        },
+        {
+            "speaker": "bassanio",
+            "text": "Shylock, do you hear"
+        },
+        {
+            "speaker": "shylock",
+            "text": "I am debating of my present store, And, by the near guess of my memory, I cannot instantly raise up the gross Of full three thousand ducats. What of that Tubal, a wealthy Hebrew of my tribe, Will furnish me. But soft! how many months Do you desire Rest you fair, good signior Your worship was the last man in our mouths."
+        },
+        {
+            "text": "To ANTONIO"
+        },
+        {
+            "speaker": "antonio",
+            "text": "Shylock, although I neither lend nor borrow By taking nor by giving of excess, Yet, to supply the ripe wants of my friend, Ill break a custom. Is he yet possessd How much ye would"
+        },
+        {
+            "speaker": "shylock",
+            "text": "Ay, ay, three thousand ducats."
+        },
+        {
+            "speaker": "antonio",
+            "text": "And for three months."
+        },
+        {
+            "speaker": "shylock",
+            "text": "I had forgot three months you told me so. Well then, your bond and let me see but hear you Methought you said you neither lend nor borrow Upon advantage."
+        },
+        {
+            "speaker": "antonio",
+            "text": "I do never use it."
+        },
+        {
+            "speaker": "shylock",
+            "text": "When Jacob grazed his uncle Labans sheep This Jacob from our holy Abram was, As his wise mother wrought in his behalf, The third possessor ay, he was the third"
+        },
+        {
+            "speaker": "antonio",
+            "text": "And what of him did he take interest"
+        },
+        {
+            "speaker": "shylock",
+            "text": "No, not take interest, not, as you would say, Directly interest: mark what Jacob did. When Laban and himself were compromised That all the eanlings which were streakd and pied Should fall as Jacobs hire, the ewes, being rank, In the end of autumn turned to the rams, And, when the work of generation was Between these woolly breeders in the act, The skilful shepherd peeld me certain wands, And, in the doing of the deed of kind, He stuck them up before the fulsome ewes, Who then conceiving did in eaning time Fall particolourd lambs, and those were Jacobs. This was a way to thrive, and he was blest: And thrift is blessing, if men steal it not."
+        },
+        {
+            "speaker": "antonio",
+            "text": "This was a venture, sir, that Jacob served for A thing not in his power to bring to pass, But swayd and fashiond by the hand of heaven. Was this inserted to make interest good Or is your gold and silver ewes and rams"
+        },
+        {
+            "speaker": "shylock",
+            "text": "I cannot tell I make it breed as fast: But note me, signior."
+        },
+        {
+            "speaker": "antonio",
+            "text": "Mark you this, Bassanio, The devil can cite Scripture for his purpose. An evil soul producing holy witness Is like a villain with a smiling cheek, A goodly apple rotten at the heart: O, what a goodly outside falsehood hath!"
+        },
+        {
+            "speaker": "shylock",
+            "text": "Three thousand ducats tis a good round sum. Three months from twelve then, let me see the rate"
+        },
+        {
+            "speaker": "antonio",
+            "text": "Well, Shylock, shall we be beholding to you"
+        },
+        {
+            "speaker": "shylock",
+            "text": "Signior Antonio, many a time and oft In the Rialto you have rated me About my moneys and my usances: Still have I borne it with a patient shrug, For sufferance is the badge of all our tribe. You call me misbeliever, cutthroat dog, And spit upon my Jewish gaberdine, And all for use of that which is mine own. Well then, it now appears you need my help: Go to, then you come to me, and you say Shylock, we would have moneys: you say so You, that did void your rheum upon my beard And foot me as you spurn a stranger cur Over your threshold: moneys is your suit What should I say to you Should I not say Hath a dog money is it possible A cur can lend three thousand ducats Or Shall I bend low and in a bondmans key, With bated breath and whispering humbleness, Say this Fair sir, you spit on me on Wednesday last You spurnd me such a day another time You calld me dog and for these courtesies Ill lend you thus much moneys"
+        },
+        {
+            "speaker": "antonio",
+            "text": "I am as like to call thee so again, To spit on thee again, to spurn thee too. If thou wilt lend this money, lend it not As to thy friends for when did friendship take A breed for barren metal of his friend But lend it rather to thine enemy, Who, if he break, thou mayst with better face Exact the penalty."
+        },
+        {
+            "speaker": "shylock",
+            "text": "Why, look you, how you storm! I would be friends with you and have your love, Forget the shames that you have staind me with, Supply your present wants and take no doit Of usance for my moneys, and youll not hear me: This is kind I offer."
+        },
+        {
+            "speaker": "bassanio",
+            "text": "This were kindness."
+        },
+        {
+            "speaker": "shylock",
+            "text": "This kindness will I show. Go with me to a notary, seal me there Your single bond and, in a merry sport, If you repay me not on such a day, In such a place, such sum or sums as are Expressd in the condition, let the forfeit Be nominated for an equal pound Of your fair flesh, to be cut off and taken In what part of your body pleaseth me."
+        },
+        {
+            "speaker": "antonio",
+            "text": "Content, i faith: Ill seal to such a bond And say there is much kindness in the Jew."
+        },
+        {
+            "speaker": "bassanio",
+            "text": "You shall not seal to such a bond for me: Ill rather dwell in my necessity."
+        },
+        {
+            "speaker": "antonio",
+            "text": "Why, fear not, man I will not forfeit it: Within these two months, thats a month before This bond expires, I do expect return Of thrice three times the value of this bond."
+        },
+        {
+            "speaker": "shylock",
+            "text": "O father Abram, what these Christians are, Whose own hard dealings teaches them suspect The thoughts of others! Pray you, tell me this If he should break his day, what should I gain By the exaction of the forfeiture A pound of mans flesh taken from a man Is not so estimable, profitable neither, As flesh of muttons, beefs, or goats. I say, To buy his favour, I extend this friendship: If he will take it, so if not, adieu And, for my love, I pray you wrong me not."
+        },
+        {
+            "speaker": "antonio",
+            "text": "Yes Shylock, I will seal unto this bond."
+        },
+        {
+            "speaker": "shylock",
+            "text": "Then meet me forthwith at the notarys Give him direction for this merry bond, And I will go and purse the ducats straight, See to my house, left in the fearful guard Of an unthrifty knave, and presently I will be with you."
+        },
+        {
+            "speaker": "antonio",
+            "text": "Hie thee, gentle Jew. The Hebrew will turn Christian: he grows kind."
+        },
+        {
+            "text": "Exit Shylock"
+        },
+        {
+            "speaker": "bassanio",
+            "text": "I like not fair terms and a villains mind."
+        },
+        {
+            "speaker": "antonio",
+            "text": "Come on: in this there can be no dismay My ships come home a month before the day."
+        },
+        {
+            "text": "Exeunt"
+        }
+    ]
+}

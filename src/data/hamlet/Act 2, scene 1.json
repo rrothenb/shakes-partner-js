@@ -1,0 +1,167 @@
+{
+    "sceneName": "Act 2, scene 1",
+    "playName": "hamlet",
+    "location": "A room in POLONIUS house.",
+    "lines": [
+        {
+            "text": "Enter POLONIUS and REYNALDO"
+        },
+        {
+            "speaker": "lord polonius",
+            "text": "Give him this money and these notes, Reynaldo."
+        },
+        {
+            "speaker": "reynaldo",
+            "text": "I will, my lord."
+        },
+        {
+            "speaker": "lord polonius",
+            "text": "You shall do marvellous wisely, good Reynaldo, Before you visit him, to make inquire Of his behavior."
+        },
+        {
+            "speaker": "reynaldo",
+            "text": "My lord, I did intend it."
+        },
+        {
+            "speaker": "lord polonius",
+            "text": "Marry, well said very well said. Look you, sir, Inquire me first what Danskers are in Paris And how, and who, what means, and where they keep, What company, at what expense and finding By this encompassment and drift of question That they do know my son, come you more nearer Than your particular demands will touch it: Take you, as twere, some distant knowledge of him As thus, I know his father and his friends, And in part him:  do you mark this, Reynaldo"
+        },
+        {
+            "speaker": "reynaldo",
+            "text": "Ay, very well, my lord."
+        },
+        {
+            "speaker": "lord polonius",
+            "text": "And in part him but you may say not well: But, ift be he I mean, hes very wild Addicted so and so: and there put on him What forgeries you please marry, none so rank As may dishonour him take heed of that But, sir, such wanton, wild and usual slips As are companions noted and most known To youth and liberty."
+        },
+        {
+            "speaker": "reynaldo",
+            "text": "As gaming, my lord."
+        },
+        {
+            "speaker": "lord polonius",
+            "text": "Ay, or drinking, fencing, swearing, quarrelling, Drabbing: you may go so far."
+        },
+        {
+            "speaker": "reynaldo",
+            "text": "My lord, that would dishonour him."
+        },
+        {
+            "speaker": "lord polonius",
+            "text": "Faith, no as you may season it in the charge You must not put another scandal on him, That he is open to incontinency Thats not my meaning: but breathe his faults so quaintly That they may seem the taints of liberty, The flash and outbreak of a fiery mind, A savageness in unreclaimed blood, Of general assault."
+        },
+        {
+            "speaker": "reynaldo",
+            "text": "But, my good lord,"
+        },
+        {
+            "speaker": "lord polonius",
+            "text": "Wherefore should you do this"
+        },
+        {
+            "speaker": "reynaldo",
+            "text": "Ay, my lord, I would know that."
+        },
+        {
+            "speaker": "lord polonius",
+            "text": "Marry, sir, heres my drift And I believe, it is a fetch of wit: You laying these slight sullies on my son, As twere a thing a little soild i the working, Mark you, Your party in converse, him you would sound, Having ever seen in the prenominate crimes The youth you breathe of guilty, be assured He closes with you in this consequence Good sir, or so, or friend, or gentleman, According to the phrase or the addition Of man and country."
+        },
+        {
+            "speaker": "reynaldo",
+            "text": "Very good, my lord."
+        },
+        {
+            "speaker": "lord polonius",
+            "text": "And then, sir, does he thishe doeswhat was I about to say By the mass, I was about to say something: where did I leave"
+        },
+        {
+            "speaker": "reynaldo",
+            "text": "At closes in the consequence, at friend or so, and gentleman."
+        },
+        {
+            "speaker": "lord polonius",
+            "text": "At closes in the consequence, ay, marry He closes thus: I know the gentleman I saw him yesterday, or t other day, Or then, or then with such, or such and, as you say, There was a gaming there oertook ins rouse There falling out at tennis: or perchance, I saw him enter such a house of sale, Videlicet, a brothel, or so forth. See you now Your bait of falsehood takes this carp of truth: And thus do we of wisdom and of reach, With windlasses and with assays of bias, By indirections find directions out: So by my former lecture and advice, Shall you my son. You have me, have you not"
+        },
+        {
+            "speaker": "reynaldo",
+            "text": "My lord, I have."
+        },
+        {
+            "speaker": "lord polonius",
+            "text": "God be wi you fare you well."
+        },
+        {
+            "speaker": "reynaldo",
+            "text": "Good my lord!"
+        },
+        {
+            "speaker": "lord polonius",
+            "text": "Observe his inclination in yourself."
+        },
+        {
+            "speaker": "reynaldo",
+            "text": "I shall, my lord."
+        },
+        {
+            "speaker": "lord polonius",
+            "text": "And let him ply his music."
+        },
+        {
+            "speaker": "reynaldo",
+            "text": "Well, my lord."
+        },
+        {
+            "speaker": "lord polonius",
+            "text": "Farewell! How now, Ophelia! whats the matter"
+        },
+        {
+            "text": "Exit REYNALDO"
+        },
+        {
+            "text": "Enter OPHELIA"
+        },
+        {
+            "speaker": "ophelia",
+            "text": "O, my lord, my lord, I have been so affrighted!"
+        },
+        {
+            "speaker": "lord polonius",
+            "text": "With what, i the name of God"
+        },
+        {
+            "speaker": "ophelia",
+            "text": "My lord, as I was sewing in my closet, Lord Hamlet, with his doublet all unbraced No hat upon his head his stockings fould, Ungarterd, and downgyved to his ancle Pale as his shirt his knees knocking each other And with a look so piteous in purport As if he had been loosed out of hell To speak of horrors,he comes before me."
+        },
+        {
+            "speaker": "lord polonius",
+            "text": "Mad for thy love"
+        },
+        {
+            "speaker": "ophelia",
+            "text": "My lord, I do not know But truly, I do fear it."
+        },
+        {
+            "speaker": "lord polonius",
+            "text": "What said he"
+        },
+        {
+            "speaker": "ophelia",
+            "text": "He took me by the wrist and held me hard Then goes he to the length of all his arm And, with his other hand thus oer his brow, He falls to such perusal of my face As he would draw it. Long stayd he so At last, a little shaking of mine arm And thrice his head thus waving up and down, He raised a sigh so piteous and profound As it did seem to shatter all his bulk And end his being: that done, he lets me go: And, with his head over his shoulder turnd, He seemd to find his way without his eyes For out o doors he went without their helps, And, to the last, bended their light on me."
+        },
+        {
+            "speaker": "lord polonius",
+            "text": "Come, go with me: I will go seek the king. This is the very ecstasy of love, Whose violent property fordoes itself And leads the will to desperate undertakings As oft as any passion under heaven That does afflict our natures. I am sorry. What, have you given him any hard words of late"
+        },
+        {
+            "speaker": "ophelia",
+            "text": "No, my good lord, but, as you did command, I did repel his fetters and denied His access to me."
+        },
+        {
+            "speaker": "lord polonius",
+            "text": "That hath made him mad. I am sorry that with better heed and judgment I had not quoted him: I feard he did but trifle, And meant to wreck thee but, beshrew my jealousy! By heaven, it is as proper to our age To cast beyond ourselves in our opinions As it is common for the younger sort To lack discretion. Come, go we to the king: This must be known which, being kept close, might move More grief to hide than hate to utter love."
+        },
+        {
+            "text": "Exeunt"
+        }
+    ]
+}

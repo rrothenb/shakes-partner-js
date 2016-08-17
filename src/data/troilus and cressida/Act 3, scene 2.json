@@ -1,0 +1,253 @@
+{
+    "sceneName": "Act 3, scene 2",
+    "playName": "troilus and cressida",
+    "location": "The same. Pandarus orchard.",
+    "lines": [
+        {
+            "text": "Enter PANDARUS and Troiluss Boy, meeting"
+        },
+        {
+            "speaker": "pandarus",
+            "text": "How now! wheres thy master at my cousin Cressidas"
+        },
+        {
+            "speaker": "boy",
+            "text": "No, sir he stays for you to conduct him thither."
+        },
+        {
+            "speaker": "pandarus",
+            "text": "O, here he comes. How now, how now!"
+        },
+        {
+            "text": "Enter TROILUS"
+        },
+        {
+            "speaker": "troilus",
+            "text": "Sirrah, walk off."
+        },
+        {
+            "text": "Exit Boy"
+        },
+        {
+            "speaker": "pandarus",
+            "text": "Have you seen my cousin"
+        },
+        {
+            "speaker": "troilus",
+            "text": "No, Pandarus: I stalk about her door, Like a strange soul upon the Stygian banks Staying for waftage. O, be thou my Charon, And give me swift transportance to those fields Where I may wallow in the lilybeds Proposed for the deserver! O gentle Pandarus, From Cupids shoulder pluck his painted wings And fly with me to Cressid!"
+        },
+        {
+            "speaker": "pandarus",
+            "text": "Walk here i the orchard, Ill bring her straight."
+        },
+        {
+            "text": "Exit"
+        },
+        {
+            "speaker": "troilus",
+            "text": "I am giddy expectation whirls me round. The imaginary relish is so sweet That it enchants my sense: what will it be, When that the watery palate tastes indeed Loves thrice repured nectar death, I fear me, Swooning destruction, or some joy too fine, Too subtlepotent, tuned too sharp in sweetness, For the capacity of my ruder powers: I fear it much and I do fear besides, That I shall lose distinction in my joys As doth a battle, when they charge on heaps The enemy flying."
+        },
+        {
+            "text": "Reenter PANDARUS"
+        },
+        {
+            "speaker": "pandarus",
+            "text": "Shes making her ready, shell come straight: you must be witty now. She does so blush, and fetches her wind so short, as if she were frayed with a sprite: Ill fetch her. It is the prettiest villain: she fetches her breath as short as a newtaen sparrow."
+        },
+        {
+            "text": "Exit"
+        },
+        {
+            "speaker": "troilus",
+            "text": "Even such a passion doth embrace my bosom: My heart beats thicker than a feverous pulse And all my powers do their bestowing lose, Like vassalage at unawares encountering The eye of majesty."
+        },
+        {
+            "text": "Reenter PANDARUS with CRESSIDA"
+        },
+        {
+            "speaker": "pandarus",
+            "text": "Come, come, what need you blush shames a baby. Here she is now: swear the oaths now to her that you have sworn to me. What, are you gone again you must be watched ere you be made tame, must you Come your ways, come your ways an you draw backward, well put you i the fills. Why do you not speak to her Come, draw this curtain, and lets see your picture. Alas the day, how loath you are to offend daylight! an twere dark, yould close sooner. So, so rub on, and kiss the mistress. How now! a kiss in feefarm! build there, carpenter the air is sweet. Nay, you shall fight your hearts out ere I part you. The falcon as the tercel, for all the ducks i the river: go to, go to."
+        },
+        {
+            "speaker": "troilus",
+            "text": "You have bereft me of all words, lady."
+        },
+        {
+            "speaker": "pandarus",
+            "text": "Words pay no debts, give her deeds: but shell bereave you o the deeds too, if she call your activity in question. What, billing again Heres In witness whereof the parties interchangeably Come in, come in: Ill go get a fire."
+        },
+        {
+            "text": "Exit"
+        },
+        {
+            "speaker": "cressida",
+            "text": "Will you walk in, my lord"
+        },
+        {
+            "speaker": "troilus",
+            "text": "O Cressida, how often have I wished me thus!"
+        },
+        {
+            "speaker": "cressida",
+            "text": "Wished, my lord! The gods grant,O my lord!"
+        },
+        {
+            "speaker": "troilus",
+            "text": "What should they grant what makes this pretty abruption What too curious dreg espies my sweet lady in the fountain of our love"
+        },
+        {
+            "speaker": "cressida",
+            "text": "More dregs than water, if my fears have eyes."
+        },
+        {
+            "speaker": "troilus",
+            "text": "Fears make devils of cherubims they never see truly."
+        },
+        {
+            "speaker": "cressida",
+            "text": "Blind fear, that seeing reason leads, finds safer footing than blind reason stumbling without fear: to fear the worst oft cures the worse."
+        },
+        {
+            "speaker": "troilus",
+            "text": "O, let my lady apprehend no fear: in all Cupids pageant there is presented no monster."
+        },
+        {
+            "speaker": "cressida",
+            "text": "Nor nothing monstrous neither"
+        },
+        {
+            "speaker": "troilus",
+            "text": "Nothing, but our undertakings when we vow to weep seas, live in fire, eat rocks, tame tigers thinking it harder for our mistress to devise imposition enough than for us to undergo any difficulty imposed. This is the monstruosity in love, lady, that the will is infinite and the execution confined, that the desire is boundless and the act a slave to limit."
+        },
+        {
+            "speaker": "cressida",
+            "text": "They say all lovers swear more performance than they are able and yet reserve an ability that they never perform, vowing more than the perfection of ten and discharging less than the tenth part of one. They that have the voice of lions and the act of hares, are they not monsters"
+        },
+        {
+            "speaker": "troilus",
+            "text": "Are there such such are not we: praise us as we are tasted, allow us as we prove our head shall go bare till merit crown it: no perfection in reversion shall have a praise in present: we will not name desert before his birth, and, being born, his addition shall be humble. Few words to fair faith: Troilus shall be such to Cressid as what envy can say worst shall be a mock for his truth, and what truth can speak truest not truer than Troilus."
+        },
+        {
+            "speaker": "cressida",
+            "text": "Will you walk in, my lord"
+        },
+        {
+            "text": "Reenter PANDARUS"
+        },
+        {
+            "speaker": "pandarus",
+            "text": "What, blushing still have you not done talking yet"
+        },
+        {
+            "speaker": "cressida",
+            "text": "Well, uncle, what folly I commit, I dedicate to you."
+        },
+        {
+            "speaker": "pandarus",
+            "text": "I thank you for that: if my lord get a boy of you, youll give him me. Be true to my lord: if he flinch, chide me for it."
+        },
+        {
+            "speaker": "troilus",
+            "text": "You know now your hostages your uncles word and my firm faith."
+        },
+        {
+            "speaker": "pandarus",
+            "text": "Nay, Ill give my word for her too: our kindred, though they be long ere they are wooed, they are constant being won: they are burs, I can tell you theyll stick where they are thrown."
+        },
+        {
+            "speaker": "cressida",
+            "text": "Boldness comes to me now, and brings me heart. Prince Troilus, I have loved you night and day For many weary months."
+        },
+        {
+            "speaker": "troilus",
+            "text": "Why was my Cressid then so hard to win"
+        },
+        {
+            "speaker": "cressida",
+            "text": "Hard to seem won: but I was won, my lord, With the first glance that everpardon me If I confess much, you will play the tyrant. I love you now but not, till now, so much But I might master it: in faith, I lie My thoughts were like unbridled children, grown Too headstrong for their mother. See, we fools! Why have I blabbd who shall be true to us, When we are so unsecret to ourselves But, though I loved you well, I wood you not And yet, good faith, I wishd myself a man, Or that we women had mens privilege Of speaking first. Sweet, bid me hold my tongue, For in this rapture I shall surely speak The thing I shall repent. See, see, your silence, Cunning in dumbness, from my weakness draws My very soul of counsel! stop my mouth."
+        },
+        {
+            "speaker": "troilus",
+            "text": "And shall, albeit sweet music issues thence."
+        },
+        {
+            "speaker": "pandarus",
+            "text": "Pretty, i faith."
+        },
+        {
+            "speaker": "cressida",
+            "text": "My lord, I do beseech you, pardon me Twas not my purpose, thus to beg a kiss: I am ashamed. O heavens! what have I done For this time will I take my leave, my lord."
+        },
+        {
+            "speaker": "troilus",
+            "text": "Your leave, sweet Cressid!"
+        },
+        {
+            "speaker": "pandarus",
+            "text": "Leave! an you take leave till tomorrow morning,"
+        },
+        {
+            "speaker": "cressida",
+            "text": "Pray you, content you."
+        },
+        {
+            "speaker": "troilus",
+            "text": "What offends you, lady"
+        },
+        {
+            "speaker": "cressida",
+            "text": "Sir, mine own company."
+        },
+        {
+            "speaker": "troilus",
+            "text": "You cannot shun Yourself."
+        },
+        {
+            "speaker": "cressida",
+            "text": "Let me go and try: I have a kind of self resides with you But an unkind self, that itself will leave, To be anothers fool. I would be gone: Where is my wit I know not what I speak."
+        },
+        {
+            "speaker": "troilus",
+            "text": "Well know they what they speak that speak so wisely."
+        },
+        {
+            "speaker": "cressida",
+            "text": "Perchance, my lord, I show more craft than love And fell so roundly to a large confession, To angle for your thoughts: but you are wise, Or else you love not, for to be wise and love Exceeds mans might that dwells with gods above."
+        },
+        {
+            "speaker": "troilus",
+            "text": "O that I thought it could be in a woman As, if it can, I will presume in you To feed for aye her ramp and flames of love To keep her constancy in plight and youth, Outliving beautys outward, with a mind That doth renew swifter than blood decays! Or that persuasion could but thus convince me, That my integrity and truth to you Might be affronted with the match and weight Of such a winnowd purity in love How were I then uplifted! but, alas! I am as true as truths simplicity And simpler than the infancy of truth."
+        },
+        {
+            "speaker": "cressida",
+            "text": "In that Ill war with you."
+        },
+        {
+            "speaker": "troilus",
+            "text": "O virtuous fight, When right with right wars who shall be most right! True swains in love shall in the world to come Approve their truths by Troilus: when their rhymes, Full of protest, of oath and big compare, Want similes, truth tired with iteration, As true as steel, as plantage to the moon, As sun to day, as turtle to her mate, As iron to adamant, as earth to the centre, Yet, after all comparisons of truth, As truths authentic author to be cited, As true as Troilus shall crown up the verse, And sanctify the numbers."
+        },
+        {
+            "speaker": "cressida",
+            "text": "Prophet may you be! If I be false, or swerve a hair from truth, When time is old and hath forgot itself, When waterdrops have worn the stones of Troy, And blind oblivion swallowd cities up, And mighty states characterless are grated To dusty nothing, yet let memory, From false to false, among false maids in love, Upbraid my falsehood! when theyve said as false As air, as water, wind, or sandy earth, As fox to lamb, as wolf to heifers calf, Pard to the hind, or stepdame to her son, Yea, let them say, to stick the heart of falsehood, As false as Cressid."
+        },
+        {
+            "speaker": "pandarus",
+            "text": "Go to, a bargain made: seal it, seal it Ill be the witness. Here I hold your hand, here my cousins. If ever you prove false one to another, since I have taken such pains to bring you together, let all pitiful goersbetween be called to the worlds end after my name call them all Pandars let all constant men be Troiluses, all false women Cressids, and all brokersbetween Pandars! say, amen."
+        },
+        {
+            "speaker": "troilus",
+            "text": "Amen."
+        },
+        {
+            "speaker": "cressida",
+            "text": "Amen."
+        },
+        {
+            "speaker": "pandarus",
+            "text": "Amen. Whereupon I will show you a chamber with a bed which bed, because it shall not speak of your pretty encounters, press it to death: away! And Cupid grant all tonguetied maidens here Bed, chamber, Pandar to provide this gear!"
+        },
+        {
+            "text": "Exeunt"
+        }
+    ]
+}

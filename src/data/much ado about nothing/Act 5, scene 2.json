@@ -1,0 +1,153 @@
+{
+    "sceneName": "Act 5, scene 2",
+    "playName": "much ado about nothing",
+    "location": "LEONATOS garden.",
+    "lines": [
+        {
+            "text": "Enter BENEDICK and MARGARET, meeting"
+        },
+        {
+            "speaker": "benedick",
+            "text": "Pray thee, sweet Mistress Margaret, deserve well at my hands by helping me to the speech of Beatrice."
+        },
+        {
+            "speaker": "margaret",
+            "text": "Will you then write me a sonnet in praise of my beauty"
+        },
+        {
+            "speaker": "benedick",
+            "text": "In so high a style, Margaret, that no man living shall come over it for, in most comely truth, thou deservest it."
+        },
+        {
+            "speaker": "margaret",
+            "text": "To have no man come over me! why, shall I always keep below stairs"
+        },
+        {
+            "speaker": "benedick",
+            "text": "Thy wit is as quick as the greyhounds mouth it catches."
+        },
+        {
+            "speaker": "margaret",
+            "text": "And yours as blunt as the fencers foils, which hit, but hurt not."
+        },
+        {
+            "speaker": "benedick",
+            "text": "A most manly wit, Margaret it will not hurt a woman: and so, I pray thee, call Beatrice: I give thee the bucklers."
+        },
+        {
+            "speaker": "margaret",
+            "text": "Give us the swords we have bucklers of our own."
+        },
+        {
+            "speaker": "benedick",
+            "text": "If you use them, Margaret, you must put in the pikes with a vice and they are dangerous weapons for maids."
+        },
+        {
+            "speaker": "margaret",
+            "text": "Well, I will call Beatrice to you, who I think hath legs."
+        },
+        {
+            "speaker": "benedick",
+            "text": "And therefore will come. The god of love, That sits above, And knows me, and knows me, How pitiful I deserve, I mean in singing but in loving, Leander the good swimmer, Troilus the first employer of panders, and a whole bookful of these quondam carpetmangers, whose names yet run smoothly in the even road of a blank verse, why, they were never so truly turned over and over as my poor self in love. Marry, I cannot show it in rhyme I have tried: I can find out no rhyme to lady but baby, an innocent rhyme for scorn, horn, a hard rhyme for, school, fool, a babbling rhyme very ominous endings: no, I was not born under a rhyming planet, nor I cannot woo in festival terms. Sweet Beatrice, wouldst thou come when I called thee"
+        },
+        {
+            "text": "Exit MARGARET"
+        },
+        {
+            "text": "Sings"
+        },
+        {
+            "text": "Enter BEATRICE"
+        },
+        {
+            "speaker": "beatrice",
+            "text": "Yea, signior, and depart when you bid me."
+        },
+        {
+            "speaker": "benedick",
+            "text": "O, stay but till then!"
+        },
+        {
+            "speaker": "beatrice",
+            "text": "Then is spoken fare you well now: and yet, ere I go, let me go with that I came which is, with knowing what hath passed between you and Claudio."
+        },
+        {
+            "speaker": "benedick",
+            "text": "Only foul words and thereupon I will kiss thee."
+        },
+        {
+            "speaker": "beatrice",
+            "text": "Foul words is but foul wind, and foul wind is but foul breath, and foul breath is noisome therefore I will depart unkissed."
+        },
+        {
+            "speaker": "benedick",
+            "text": "Thou hast frighted the word out of his right sense, so forcible is thy wit. But I must tell thee plainly, Claudio undergoes my challenge and either I must shortly hear from him, or I will subscribe him a coward. And, I pray thee now, tell me for which of my bad parts didst thou first fall in love with me"
+        },
+        {
+            "speaker": "beatrice",
+            "text": "For them all together which maintained so politic a state of evil that they will not admit any good part to intermingle with them. But for which of my good parts did you first suffer love for me"
+        },
+        {
+            "speaker": "benedick",
+            "text": "Suffer love! a good epithet! I do suffer love indeed, for I love thee against my will."
+        },
+        {
+            "speaker": "beatrice",
+            "text": "In spite of your heart, I think alas, poor heart! If you spite it for my sake, I will spite it for yours for I will never love that which my friend hates."
+        },
+        {
+            "speaker": "benedick",
+            "text": "Thou and I are too wise to woo peaceably."
+        },
+        {
+            "speaker": "beatrice",
+            "text": "It appears not in this confession: theres not one wise man among twenty that will praise himself."
+        },
+        {
+            "speaker": "benedick",
+            "text": "An old, an old instance, Beatrice, that lived in the lime of good neighbours. If a man do not erect in this age his own tomb ere he dies, he shall live no longer in monument than the bell rings and the widow weeps."
+        },
+        {
+            "speaker": "beatrice",
+            "text": "And how long is that, think you"
+        },
+        {
+            "speaker": "benedick",
+            "text": "Question: why, an hour in clamour and a quarter in rheum: therefore is it most expedient for the wise, if Don Worm, his conscience, find no impediment to the contrary, to be the trumpet of his own virtues, as I am to myself. So much for praising myself, who, I myself will bear witness, is praiseworthy: and now tell me, how doth your cousin"
+        },
+        {
+            "speaker": "beatrice",
+            "text": "Very ill."
+        },
+        {
+            "speaker": "benedick",
+            "text": "And how do you"
+        },
+        {
+            "speaker": "beatrice",
+            "text": "Very ill too."
+        },
+        {
+            "speaker": "benedick",
+            "text": "Serve God, love me and mend. There will I leave you too, for here comes one in haste."
+        },
+        {
+            "text": "Enter URSULA"
+        },
+        {
+            "speaker": "ursula",
+            "text": "Madam, you must come to your uncle. Yonders old coil at home: it is proved my Lady Hero hath been falsely accused, the prince and Claudio mightily abused and Don John is the author of all, who is fed and gone. Will you come presently"
+        },
+        {
+            "speaker": "beatrice",
+            "text": "Will you go hear this news, signior"
+        },
+        {
+            "speaker": "benedick",
+            "text": "I will live in thy heart, die in thy lap, and be buried in thy eyes and moreover I will go with thee to thy uncles."
+        },
+        {
+            "text": "Exeunt"
+        }
+    ]
+}

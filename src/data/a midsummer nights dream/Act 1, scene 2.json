@@ -1,0 +1,177 @@
+{
+    "sceneName": "Act 1, scene 2",
+    "playName": "a midsummer nights dream",
+    "location": "Athens. QUINCES house.",
+    "lines": [
+        {
+            "text": "Enter QUINCE, SNUG, BOTTOM, FLUTE, SNOUT, and STARVELING"
+        },
+        {
+            "speaker": "quince",
+            "text": "Is all our company here"
+        },
+        {
+            "speaker": "bottom",
+            "text": "You were best to call them generally, man by man, according to the scrip."
+        },
+        {
+            "speaker": "quince",
+            "text": "Here is the scroll of every mans name, which is thought fit, through all Athens, to play in our interlude before the duke and the duchess, on his weddingday at night."
+        },
+        {
+            "speaker": "bottom",
+            "text": "First, good Peter Quince, say what the play treats on, then read the names of the actors, and so grow to a point."
+        },
+        {
+            "speaker": "quince",
+            "text": "Marry, our play is, The most lamentable comedy, and most cruel death of Pyramus and Thisby."
+        },
+        {
+            "speaker": "bottom",
+            "text": "A very good piece of work, I assure you, and a merry. Now, good Peter Quince, call forth your actors by the scroll. Masters, spread yourselves."
+        },
+        {
+            "speaker": "quince",
+            "text": "Answer as I call you. Nick Bottom, the weaver."
+        },
+        {
+            "speaker": "bottom",
+            "text": "Ready. Name what part I am for, and proceed."
+        },
+        {
+            "speaker": "quince",
+            "text": "You, Nick Bottom, are set down for Pyramus."
+        },
+        {
+            "speaker": "bottom",
+            "text": "What is Pyramus a lover, or a tyrant"
+        },
+        {
+            "speaker": "quince",
+            "text": "A lover, that kills himself most gallant for love."
+        },
+        {
+            "speaker": "bottom",
+            "text": "That will ask some tears in the true performing of it: if I do it, let the audience look to their eyes I will move storms, I will condole in some measure. To the rest: yet my chief humour is for a tyrant: I could play Ercles rarely, or a part to tear a cat in, to make all split. The raging rocks And shivering shocks Shall break the locks Of prison gates And Phibbus car Shall shine from far And make and mar The foolish Fates. This was lofty! Now name the rest of the players. This is Ercles vein, a tyrants vein a lover is more condoling."
+        },
+        {
+            "speaker": "quince",
+            "text": "Francis Flute, the bellowsmender."
+        },
+        {
+            "speaker": "flute",
+            "text": "Here, Peter Quince."
+        },
+        {
+            "speaker": "quince",
+            "text": "Flute, you must take Thisby on you."
+        },
+        {
+            "speaker": "flute",
+            "text": "What is Thisby a wandering knight"
+        },
+        {
+            "speaker": "quince",
+            "text": "It is the lady that Pyramus must love."
+        },
+        {
+            "speaker": "flute",
+            "text": "Nay, faith, let me not play a woman I have a beard coming."
+        },
+        {
+            "speaker": "quince",
+            "text": "Thats all one: you shall play it in a mask, and you may speak as small as you will."
+        },
+        {
+            "speaker": "bottom",
+            "text": "An I may hide my face, let me play Thisby too, Ill speak in a monstrous little voice. Thisne, Thisne Ah, Pyramus, lover dear! thy Thisby dear, and lady dear!"
+        },
+        {
+            "speaker": "quince",
+            "text": "No, no you must play Pyramus: and, Flute, you Thisby."
+        },
+        {
+            "speaker": "bottom",
+            "text": "Well, proceed."
+        },
+        {
+            "speaker": "quince",
+            "text": "Robin Starveling, the tailor."
+        },
+        {
+            "speaker": "starveling",
+            "text": "Here, Peter Quince."
+        },
+        {
+            "speaker": "quince",
+            "text": "Robin Starveling, you must play Thisbys mother. Tom Snout, the tinker."
+        },
+        {
+            "speaker": "snout",
+            "text": "Here, Peter Quince."
+        },
+        {
+            "speaker": "quince",
+            "text": "You, Pyramus father: myself, Thisbys father: Snug, the joiner you, the lions part: and, I hope, here is a play fitted."
+        },
+        {
+            "speaker": "snug",
+            "text": "Have you the lions part written pray you, if it be, give it me, for I am slow of study."
+        },
+        {
+            "speaker": "quince",
+            "text": "You may do it extempore, for it is nothing but roaring."
+        },
+        {
+            "speaker": "bottom",
+            "text": "Let me play the lion too: I will roar, that I will do any mans heart good to hear me I will roar, that I will make the duke say Let him roar again, let him roar again."
+        },
+        {
+            "speaker": "quince",
+            "text": "An you should do it too terribly, you would fright the duchess and the ladies, that they would shriek and that were enough to hang us all."
+        },
+        {
+            "speaker": "all",
+            "text": "That would hang us, every mothers son."
+        },
+        {
+            "speaker": "bottom",
+            "text": "I grant you, friends, if that you should fright the ladies out of their wits, they would have no more discretion but to hang us: but I will aggravate my voice so that I will roar you as gently as any sucking dove I will roar you an twere any nightingale."
+        },
+        {
+            "speaker": "quince",
+            "text": "You can play no part but Pyramus for Pyramus is a sweetfaced man a proper man, as one shall see in a summers day a most lovely gentlemanlike man: therefore you must needs play Pyramus."
+        },
+        {
+            "speaker": "bottom",
+            "text": "Well, I will undertake it. What beard were I best to play it in"
+        },
+        {
+            "speaker": "quince",
+            "text": "Why, what you will."
+        },
+        {
+            "speaker": "bottom",
+            "text": "I will discharge it in either your strawcolour beard, your orangetawny beard, your purpleingrain beard, or your Frenchcrowncolour beard, your perfect yellow."
+        },
+        {
+            "speaker": "quince",
+            "text": "Some of your French crowns have no hair at all, and then you will play barefaced. But, masters, here are your parts: and I am to entreat you, request you and desire you, to con them by tomorrow night and meet me in the palace wood, a mile without the town, by moonlight there will we rehearse, for if we meet in the city, we shall be dogged with company, and our devices known. In the meantime I will draw a bill of properties, such as our play wants. I pray you, fail me not."
+        },
+        {
+            "speaker": "bottom",
+            "text": "We will meet and there we may rehearse most obscenely and courageously. Take pains be perfect: adieu."
+        },
+        {
+            "speaker": "quince",
+            "text": "At the dukes oak we meet."
+        },
+        {
+            "speaker": "bottom",
+            "text": "Enough hold or cut bowstrings."
+        },
+        {
+            "text": "Exeunt"
+        }
+    ]
+}

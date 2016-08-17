@@ -1,0 +1,328 @@
+{
+    "sceneName": "Act 3, scene 7",
+    "playName": "henry the fifth",
+    "location": "The French camp, near Agincourt:",
+    "lines": [
+        {
+            "text": "Enter the Constable of France, the LORD RAMBURES, ORLEANS, DAUPHIN, with others"
+        },
+        {
+            "speaker": "constable",
+            "text": "Tut! I have the best armour of the world. Would it were day!"
+        },
+        {
+            "speaker": "orleans",
+            "text": "You have an excellent armour but let my horse have his due."
+        },
+        {
+            "speaker": "constable",
+            "text": "It is the best horse of Europe."
+        },
+        {
+            "speaker": "orleans",
+            "text": "Will it never be morning"
+        },
+        {
+            "speaker": "dauphin",
+            "text": "My lord of Orleans, and my lord high constable, you talk of horse and armour"
+        },
+        {
+            "speaker": "orleans",
+            "text": "You are as well provided of both as any prince in the world."
+        },
+        {
+            "speaker": "dauphin",
+            "text": "What a long night is this! I will not change my horse with any that treads but on four pasterns. Ca, ha! he bounds from the earth, as if his entrails were hairs le cheval volant, the Pegasus, chez les narines de feu! When I bestride him, I soar, I am a hawk: he trots the air the earth sings when he touches it the basest horn of his hoof is more musical than the pipe of Hermes."
+        },
+        {
+            "speaker": "orleans",
+            "text": "Hes of the colour of the nutmeg."
+        },
+        {
+            "speaker": "dauphin",
+            "text": "And of the heat of the ginger. It is a beast for Perseus: he is pure air and fire and the dull elements of earth and water never appear in him, but only in Patient stillness while his rider mounts him: he is indeed a horse and all other jades you may call beasts."
+        },
+        {
+            "speaker": "constable",
+            "text": "Indeed, my lord, it is a most absolute and excellent horse."
+        },
+        {
+            "speaker": "dauphin",
+            "text": "It is the prince of palfreys his neigh is like the bidding of a monarch and his countenance enforces homage."
+        },
+        {
+            "speaker": "orleans",
+            "text": "No more, cousin."
+        },
+        {
+            "speaker": "dauphin",
+            "text": "Nay, the man hath no wit that cannot, from the rising of the lark to the lodging of the lamb, vary deserved praise on my palfrey: it is a theme as fluent as the sea: turn the sands into eloquent tongues, and my horse is argument for them all: tis a subject for a sovereign to reason on, and for a sovereigns sovereign to ride on and for the world, familiar to us and unknown to lay apart their particular functions and wonder at him. I once writ a sonnet in his praise and began thus: Wonder of nature,"
+        },
+        {
+            "speaker": "orleans",
+            "text": "I have heard a sonnet begin so to ones mistress."
+        },
+        {
+            "speaker": "dauphin",
+            "text": "Then did they imitate that which I composed to my courser, for my horse is my mistress."
+        },
+        {
+            "speaker": "orleans",
+            "text": "Your mistress bears well."
+        },
+        {
+            "speaker": "dauphin",
+            "text": "Me well which is the prescript praise and perfection of a good and particular mistress."
+        },
+        {
+            "speaker": "constable",
+            "text": "Nay, for methought yesterday your mistress shrewdly shook your back."
+        },
+        {
+            "speaker": "dauphin",
+            "text": "So perhaps did yours."
+        },
+        {
+            "speaker": "constable",
+            "text": "Mine was not bridled."
+        },
+        {
+            "speaker": "dauphin",
+            "text": "O then belike she was old and gentle and you rode, like a kern of Ireland, your French hose off, and in your straight strossers."
+        },
+        {
+            "speaker": "constable",
+            "text": "You have good judgment in horsemanship."
+        },
+        {
+            "speaker": "dauphin",
+            "text": "Be warned by me, then: they that ride so and ride not warily, fall into foul bogs. I had rather have my horse to my mistress."
+        },
+        {
+            "speaker": "constable",
+            "text": "I had as lief have my mistress a jade."
+        },
+        {
+            "speaker": "dauphin",
+            "text": "I tell thee, constable, my mistress wears his own hair."
+        },
+        {
+            "speaker": "constable",
+            "text": "I could make as true a boast as that, if I had a sow to my mistress."
+        },
+        {
+            "speaker": "dauphin",
+            "text": "Le chien est retourne a son propre vomissement, et la truie lavee au bourbier thou makest use of any thing."
+        },
+        {
+            "speaker": "constable",
+            "text": "Yet do I not use my horse for my mistress, or any such proverb so little kin to the purpose."
+        },
+        {
+            "speaker": "rambures",
+            "text": "My lord constable, the armour that I saw in your tent tonight, are those stars or suns upon it"
+        },
+        {
+            "speaker": "constable",
+            "text": "Stars, my lord."
+        },
+        {
+            "speaker": "dauphin",
+            "text": "Some of them will fall tomorrow, I hope."
+        },
+        {
+            "speaker": "constable",
+            "text": "And yet my sky shall not want."
+        },
+        {
+            "speaker": "dauphin",
+            "text": "That may be, for you bear a many superfluously, and twere more honour some were away."
+        },
+        {
+            "speaker": "constable",
+            "text": "Even as your horse bears your praises who would trot as well, were some of your brags dismounted."
+        },
+        {
+            "speaker": "dauphin",
+            "text": "Would I were able to load him with his desert! Will it never be day I will trot tomorrow a mile, and my way shall be paved with English faces."
+        },
+        {
+            "speaker": "constable",
+            "text": "I will not say so, for fear I should be faced out of my way: but I would it were morning for I would fain be about the ears of the English."
+        },
+        {
+            "speaker": "rambures",
+            "text": "Who will go to hazard with me for twenty prisoners"
+        },
+        {
+            "speaker": "constable",
+            "text": "You must first go yourself to hazard, ere you have them."
+        },
+        {
+            "speaker": "dauphin",
+            "text": "Tis midnight Ill go arm myself."
+        },
+        {
+            "text": "Exit"
+        },
+        {
+            "speaker": "orleans",
+            "text": "The Dauphin longs for morning."
+        },
+        {
+            "speaker": "rambures",
+            "text": "He longs to eat the English."
+        },
+        {
+            "speaker": "constable",
+            "text": "I think he will eat all he kills."
+        },
+        {
+            "speaker": "orleans",
+            "text": "By the white hand of my lady, hes a gallant prince."
+        },
+        {
+            "speaker": "constable",
+            "text": "Swear by her foot, that she may tread out the oath."
+        },
+        {
+            "speaker": "orleans",
+            "text": "He is simply the most active gentleman of France."
+        },
+        {
+            "speaker": "constable",
+            "text": "Doing is activity and he will still be doing."
+        },
+        {
+            "speaker": "orleans",
+            "text": "He never did harm, that I heard of."
+        },
+        {
+            "speaker": "constable",
+            "text": "Nor will do none tomorrow: he will keep that good name still."
+        },
+        {
+            "speaker": "orleans",
+            "text": "I know him to be valiant."
+        },
+        {
+            "speaker": "constable",
+            "text": "I was told that  by one that knows him better than you."
+        },
+        {
+            "speaker": "orleans",
+            "text": "Whats he"
+        },
+        {
+            "speaker": "constable",
+            "text": "Marry, he told me so himself and he said he cared not who knew it"
+        },
+        {
+            "speaker": "orleans",
+            "text": "He needs not it is no hidden virtue in him."
+        },
+        {
+            "speaker": "constable",
+            "text": "By my faith, sir, but it is never any body saw it but his lackey: tis a hooded valour and when it appears, it will bate."
+        },
+        {
+            "speaker": "orleans",
+            "text": "Ill will never said well."
+        },
+        {
+            "speaker": "constable",
+            "text": "I will cap that proverb with There is flattery in friendship."
+        },
+        {
+            "speaker": "orleans",
+            "text": "And I will take up that with Give the devil his due."
+        },
+        {
+            "speaker": "constable",
+            "text": "Well placed: there stands your friend for the devil: have at the very eye of that proverb with A pox of the devil."
+        },
+        {
+            "speaker": "orleans",
+            "text": "You are the better at proverbs, by how much A fools bolt is soon shot."
+        },
+        {
+            "speaker": "constable",
+            "text": "You have shot over."
+        },
+        {
+            "speaker": "orleans",
+            "text": "Tis not the first time you were overshot."
+        },
+        {
+            "text": "Enter a Messenger"
+        },
+        {
+            "speaker": "messenger",
+            "text": "My lord high constable, the English lie within fifteen hundred paces of your tents."
+        },
+        {
+            "speaker": "constable",
+            "text": "Who hath measured the ground"
+        },
+        {
+            "speaker": "messenger",
+            "text": "The Lord Grandpre."
+        },
+        {
+            "speaker": "constable",
+            "text": "A valiant and most expert gentleman. Would it were day! Alas, poor Harry of England! he longs not for the dawning as we do."
+        },
+        {
+            "speaker": "orleans",
+            "text": "What a wretched and peevish fellow is this king of England, to mope with his fatbrained followers so far out of his knowledge!"
+        },
+        {
+            "speaker": "constable",
+            "text": "If the English had any apprehension, they would run away."
+        },
+        {
+            "speaker": "orleans",
+            "text": "That they lack for if their heads had any intellectual armour, they could never wear such heavy headpieces."
+        },
+        {
+            "speaker": "rambures",
+            "text": "That island of England breeds very valiant creatures their mastiffs are of unmatchable courage."
+        },
+        {
+            "speaker": "orleans",
+            "text": "Foolish curs, that run winking into the mouth of a Russian bear and have their heads crushed like rotten apples! You may as well say, thats a valiant flea that dare eat his breakfast on the lip of a lion."
+        },
+        {
+            "speaker": "constable",
+            "text": "Just, just and the men do sympathize with the mastiffs in robustious and rough coming on, leaving their wits with their wives: and then give them great meals of beef and iron and steel, they will eat like wolves and fight like devils."
+        },
+        {
+            "speaker": "orleans",
+            "text": "Ay, but these English are shrewdly out of beef."
+        },
+        {
+            "speaker": "constable",
+            "text": "Then shall we find tomorrow they have only stomachs to eat and none to fight. Now is it time to arm: come, shall we about it"
+        },
+        {
+            "speaker": "orleans",
+            "text": "It is now two oclock: but, let me see, by ten We shall have each a hundred Englishmen."
+        },
+        {
+            "text": "Exeunt"
+        },
+        {
+            "text": "PROLOGUE"
+        },
+        {
+            "text": "Enter Chorus"
+        },
+        {
+            "speaker": "chorus",
+            "text": "Now entertain conjecture of a time When creeping murmur and the poring dark Fills the wide vessel of the universe. From camp to camp through the foul womb of night The hum of either army stilly sounds, That the fixed sentinels almost receive The secret whispers of each others watch: Fire answers fire, and through their paly flames Each battle sees the others umberd face Steed threatens steed, in high and boastful neighs Piercing the nights dull ear, and from the tents The armourers, accomplishing the knights, With busy hammers closing rivets up, Give dreadful note of preparation: The country cocks do crow, the clocks do toll, And the third hour of drowsy morning name. Proud of their numbers and secure in soul, The confident and overlusty French Do the lowrated English play at dice And chide the cripple tardygaited night Who, like a foul and ugly witch, doth limp So tediously away. The poor condemned English, Like sacrifices, by their watchful fires Sit patiently and inly ruminate The mornings danger, and their gesture sad Investing lanklean cheeks and warworn coats Presenteth them unto the gazing moon So many horrid ghosts. O now, who will behold The royal captain of this ruind band Walking from watch to watch, from tent to tent, Let him cry Praise and glory on his head! For forth he goes and visits all his host. Bids them good morrow with a modest smile And calls them brothers, friends and countrymen. Upon his royal face there is no note How dread an army hath enrounded him Nor doth he dedicate one jot of colour Unto the weary and allwatched night, But freshly looks and overbears attaint With cheerful semblance and sweet majesty That every wretch, pining and pale before, Beholding him, plucks comfort from his looks: A largess universal like the sun His liberal eye doth give to every one, Thawing cold fear, that mean and gentle all, Behold, as may unworthiness define, A little touch of Harry in the night. And so our scene must to the battle fly WhereO for pity!we shall much disgrace With four or five most vile and ragged foils, Right illdisposed in brawl ridiculous, The name of Agincourt. Yet sit and see, Minding true things by what their mockeries be."
+        },
+        {
+            "text": "Exit"
+        }
+    ]
+}

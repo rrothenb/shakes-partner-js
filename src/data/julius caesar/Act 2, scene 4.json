@@ -1,0 +1,95 @@
+{
+    "sceneName": "Act 2, scene 4",
+    "playName": "julius caesar",
+    "location": "Another part of the same street, before the house of BRUTUS.",
+    "lines": [
+        {
+            "text": "Enter PORTIA and LUCIUS"
+        },
+        {
+            "speaker": "portia",
+            "text": "I prithee, boy, run to the senatehouse Stay not to answer me, but get thee gone: Why dost thou stay"
+        },
+        {
+            "speaker": "lucius",
+            "text": "To know my errand, madam."
+        },
+        {
+            "speaker": "portia",
+            "text": "I would have had thee there, and here again, Ere I can tell thee what thou shouldst do there. O constancy, be strong upon my side, Set a huge mountain tween my heart and tongue! I have a mans mind, but a womans might. How hard it is for women to keep counsel! Art thou here yet"
+        },
+        {
+            "speaker": "lucius",
+            "text": "Madam, what should I do Run to the Capitol, and nothing else And so return to you, and nothing else"
+        },
+        {
+            "speaker": "portia",
+            "text": "Yes, bring me word, boy, if thy lord look well, For he went sickly forth: and take good note What Caesar doth, what suitors press to him. Hark, boy! what noise is that"
+        },
+        {
+            "speaker": "lucius",
+            "text": "I hear none, madam."
+        },
+        {
+            "speaker": "portia",
+            "text": "Prithee, listen well I heard a bustling rumour, like a fray, And the wind brings it from the Capitol."
+        },
+        {
+            "speaker": "lucius",
+            "text": "Sooth, madam, I hear nothing."
+        },
+        {
+            "text": "Enter the Soothsayer"
+        },
+        {
+            "speaker": "portia",
+            "text": "Come hither, fellow: which way hast thou been"
+        },
+        {
+            "speaker": "soothsayer",
+            "text": "At mine own house, good lady."
+        },
+        {
+            "speaker": "portia",
+            "text": "What ist oclock"
+        },
+        {
+            "speaker": "soothsayer",
+            "text": "About the ninth hour, lady."
+        },
+        {
+            "speaker": "portia",
+            "text": "Is Caesar yet gone to the Capitol"
+        },
+        {
+            "speaker": "soothsayer",
+            "text": "Madam, not yet: I go to take my stand, To see him pass on to the Capitol."
+        },
+        {
+            "speaker": "portia",
+            "text": "Thou hast some suit to Caesar, hast thou not"
+        },
+        {
+            "speaker": "soothsayer",
+            "text": "That I have, lady: if it will please Caesar To be so good to Caesar as to hear me, I shall beseech him to befriend himself."
+        },
+        {
+            "speaker": "portia",
+            "text": "Why, knowst thou any harms intended towards him"
+        },
+        {
+            "speaker": "soothsayer",
+            "text": "None that I know will be, much that I fear may chance. Good morrow to you. Here the street is narrow: The throng that follows Caesar at the heels, Of senators, of praetors, common suitors, Will crowd a feeble man almost to death: Ill get me to a place more void, and there Speak to great Caesar as he comes along."
+        },
+        {
+            "text": "Exit"
+        },
+        {
+            "speaker": "portia",
+            "text": "I must go in. Ay me, how weak a thing The heart of woman is! O Brutus, The heavens speed thee in thine enterprise! Sure, the boy heard me: Brutus hath a suit That Caesar will not grant. O, I grow faint. Run, Lucius, and commend me to my lord Say I am merry: come to me again, And bring me word what he doth say to thee."
+        },
+        {
+            "text": "Exeunt severally"
+        }
+    ]
+}

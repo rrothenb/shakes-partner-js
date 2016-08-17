@@ -1,0 +1,346 @@
+{
+    "sceneName": "Act 3, scene 2",
+    "playName": "henry the sixth part 3",
+    "location": "London. The palace.",
+    "lines": [
+        {
+            "text": "Enter KING EDWARD IV, GLOUCESTER, CLARENCE, and LADY GREY"
+        },
+        {
+            "speaker": "king edward the fourth",
+            "text": "Brother of Gloucester, at Saint Albans field This ladys husband, Sir Richard Grey, was slain, His lands then seized on by the conqueror: Her suit is now to repossess those lands Which we in justice cannot well deny, Because in quarrel of the house of York The worthy gentleman did lose his life."
+        },
+        {
+            "speaker": "gloucester",
+            "text": "Your highness shall do well to grant her suit It were dishonour to deny it her."
+        },
+        {
+            "speaker": "king edward the fourth",
+            "text": "It were no less but yet Ill make a pause."
+        },
+        {
+            "speaker": "gloucester",
+            "text": "[Aside to CLARENCE]  Yea, is it so I see the lady hath a thing to grant, Before the king will grant her humble suit."
+        },
+        {
+            "speaker": "clarence",
+            "text": "[Aside to GLOUCESTER]  He knows the game: how true he keeps the wind!"
+        },
+        {
+            "speaker": "gloucester",
+            "text": "[Aside to CLARENCE]  Silence!"
+        },
+        {
+            "speaker": "king edward the fourth",
+            "text": "Widow, we will consider of your suit And come some other time to know our mind."
+        },
+        {
+            "speaker": "lady grey",
+            "text": "Right gracious lord, I cannot brook delay: May it please your highness to resolve me now And what your pleasure is, shall satisfy me."
+        },
+        {
+            "speaker": "gloucester",
+            "text": "[Aside to CLARENCE]  Ay, widow then Ill warrant you all your lands, An if what pleases him shall pleasure you. Fight closer, or, good faith, youll catch a blow."
+        },
+        {
+            "speaker": "clarence",
+            "text": "[Aside to GLOUCESTER]  I fear her not, unless she chance to fall."
+        },
+        {
+            "speaker": "gloucester",
+            "text": "[Aside to CLARENCE] God forbid that! for hell take vantages."
+        },
+        {
+            "speaker": "king edward the fourth",
+            "text": "How many children hast thou, widow tell me."
+        },
+        {
+            "speaker": "clarence",
+            "text": "[Aside to GLOUCESTER]  I think he means to beg a child of her."
+        },
+        {
+            "speaker": "gloucester",
+            "text": "[Aside to CLARENCE]  Nay, whip me then: hell rather give her two."
+        },
+        {
+            "speaker": "lady grey",
+            "text": "Three, my most gracious lord."
+        },
+        {
+            "speaker": "gloucester",
+            "text": "[Aside to CLARENCE]  You shall have four, if youll be ruled by him."
+        },
+        {
+            "speaker": "king edward the fourth",
+            "text": "Twere pity they should lose their fathers lands."
+        },
+        {
+            "speaker": "lady grey",
+            "text": "Be pitiful, dread lord, and grant it then."
+        },
+        {
+            "speaker": "king edward the fourth",
+            "text": "Lords, give us leave: Ill try this widows wit."
+        },
+        {
+            "speaker": "gloucester",
+            "text": "[Aside to CLARENCE]  Ay, good leave have you for you will have leave, Till youth take leave and leave you to the crutch."
+        },
+        {
+            "text": "GLOUCESTER and CLARENCE retire"
+        },
+        {
+            "speaker": "king edward the fourth",
+            "text": "Now tell me, madam, do you love your children"
+        },
+        {
+            "speaker": "lady grey",
+            "text": "Ay, full as dearly as I love myself."
+        },
+        {
+            "speaker": "king edward the fourth",
+            "text": "And would you not do much to do them good"
+        },
+        {
+            "speaker": "lady grey",
+            "text": "To do them good, I would sustain some harm."
+        },
+        {
+            "speaker": "king edward the fourth",
+            "text": "Then get your husbands lands, to do them good."
+        },
+        {
+            "speaker": "lady grey",
+            "text": "Therefore I came unto your majesty."
+        },
+        {
+            "speaker": "king edward the fourth",
+            "text": "Ill tell you how these lands are to be got."
+        },
+        {
+            "speaker": "lady grey",
+            "text": "So shall you bind me to your highness service."
+        },
+        {
+            "speaker": "king edward the fourth",
+            "text": "What service wilt thou do me, if I give them"
+        },
+        {
+            "speaker": "lady grey",
+            "text": "What you command, that rests in me to do."
+        },
+        {
+            "speaker": "king edward the fourth",
+            "text": "But you will take exceptions to my boon."
+        },
+        {
+            "speaker": "lady grey",
+            "text": "No, gracious lord, except I cannot do it."
+        },
+        {
+            "speaker": "king edward the fourth",
+            "text": "Ay, but thou canst do what I mean to ask."
+        },
+        {
+            "speaker": "lady grey",
+            "text": "Why, then I will do what your grace commands."
+        },
+        {
+            "speaker": "gloucester",
+            "text": "[Aside to CLARENCE]  He plies her hard and much rain wears the marble."
+        },
+        {
+            "speaker": "clarence",
+            "text": "[Aside to GLOUCESTER]  As red as fire! nay, then her wax must melt."
+        },
+        {
+            "speaker": "lady grey",
+            "text": "Why stops my lord, shall I not hear my task"
+        },
+        {
+            "speaker": "king edward the fourth",
+            "text": "An easy task tis but to love a king."
+        },
+        {
+            "speaker": "lady grey",
+            "text": "Thats soon performd, because I am a subject."
+        },
+        {
+            "speaker": "king edward the fourth",
+            "text": "Why, then, thy husbands lands I freely give thee."
+        },
+        {
+            "speaker": "lady grey",
+            "text": "I take my leave with many thousand thanks."
+        },
+        {
+            "speaker": "gloucester",
+            "text": "[Aside to CLARENCE]  The match is made she seals it with a curtsy."
+        },
+        {
+            "speaker": "king edward the fourth",
+            "text": "But stay thee, tis the fruits of love I mean."
+        },
+        {
+            "speaker": "lady grey",
+            "text": "The fruits of love I mean, my loving liege."
+        },
+        {
+            "speaker": "king edward the fourth",
+            "text": "Ay, but, I fear me, in another sense. What love, thinkst thou, I sue so much to get"
+        },
+        {
+            "speaker": "lady grey",
+            "text": "My love till death, my humble thanks, my prayers That love which virtue begs and virtue grants."
+        },
+        {
+            "speaker": "king edward the fourth",
+            "text": "No, by my troth, I did not mean such love."
+        },
+        {
+            "speaker": "lady grey",
+            "text": "Why, then you mean not as I thought you did."
+        },
+        {
+            "speaker": "king edward the fourth",
+            "text": "But now you partly may perceive my mind."
+        },
+        {
+            "speaker": "lady grey",
+            "text": "My mind will never grant what I perceive Your highness aims at, if I aim aright."
+        },
+        {
+            "speaker": "king edward the fourth",
+            "text": "To tell thee plain, I aim to lie with thee."
+        },
+        {
+            "speaker": "lady grey",
+            "text": "To tell you plain, I had rather lie in prison."
+        },
+        {
+            "speaker": "king edward the fourth",
+            "text": "Why, then thou shalt not have thy husbands lands."
+        },
+        {
+            "speaker": "lady grey",
+            "text": "Why, then mine honesty shall be my dower For by that loss I will not purchase them."
+        },
+        {
+            "speaker": "king edward the fourth",
+            "text": "Therein thou wrongst thy children mightily."
+        },
+        {
+            "speaker": "lady grey",
+            "text": "Herein your highness wrongs both them and me. But, mighty lord, this merry inclination Accords not with the sadness of my suit: Please you dismiss me either with ay or no."
+        },
+        {
+            "speaker": "king edward the fourth",
+            "text": "Ay, if thou wilt say ay to my request No if thou dost say no to my demand."
+        },
+        {
+            "speaker": "lady grey",
+            "text": "Then, no, my lord. My suit is at an end."
+        },
+        {
+            "speaker": "gloucester",
+            "text": "[Aside to CLARENCE]  The widow likes him not, she knits her brows."
+        },
+        {
+            "speaker": "clarence",
+            "text": "[Aside to GLOUCESTER]  He is the bluntest wooer in Christendom."
+        },
+        {
+            "speaker": "king edward the fourth",
+            "text": "[Aside]  Her looks do argue her replete with modesty Her words do show her wit incomparable All her perfections challenge sovereignty: One way or other, she is for a king And she shall be my love, or else my queen. Say that King Edward take thee for his queen"
+        },
+        {
+            "speaker": "lady grey",
+            "text": "Tis better said than done, my gracious lord: I am a subject fit to jest withal, But far unfit to be a sovereign."
+        },
+        {
+            "speaker": "king edward the fourth",
+            "text": "Sweet widow, by my state I swear to thee I speak no more than what my soul intends And that is, to enjoy thee for my love."
+        },
+        {
+            "speaker": "lady grey",
+            "text": "And that is more than I will yield unto: I know I am too mean to be your queen, And yet too good to be your concubine."
+        },
+        {
+            "speaker": "king edward the fourth",
+            "text": "You cavil, widow: I did mean, my queen."
+        },
+        {
+            "speaker": "lady grey",
+            "text": "Twill grieve your grace my sons should call you father."
+        },
+        {
+            "speaker": "king edward the fourth",
+            "text": "No more than when my daughters call thee mother. Thou art a widow, and thou hast some children And, by Gods mother, I, being but a bachelor, Have other some: why, tis a happy thing To be the father unto many sons. Answer no more, for thou shalt be my queen."
+        },
+        {
+            "speaker": "gloucester",
+            "text": "[Aside to CLARENCE]  The ghostly father now hath done his shrift."
+        },
+        {
+            "speaker": "clarence",
+            "text": "[Aside to GLOUCESTER]  When he was made a shriver, twas for shift."
+        },
+        {
+            "speaker": "king edward the fourth",
+            "text": "Brothers, you muse what chat we two have had."
+        },
+        {
+            "speaker": "gloucester",
+            "text": "The widow likes it not, for she looks very sad."
+        },
+        {
+            "speaker": "king edward the fourth",
+            "text": "Youll think it strange if I should marry her."
+        },
+        {
+            "speaker": "clarence",
+            "text": "To whom, my lord"
+        },
+        {
+            "speaker": "king edward the fourth",
+            "text": "Why, Clarence, to myself."
+        },
+        {
+            "speaker": "gloucester",
+            "text": "That would be ten days wonder at the least."
+        },
+        {
+            "speaker": "clarence",
+            "text": "Thats a day longer than a wonder lasts."
+        },
+        {
+            "speaker": "gloucester",
+            "text": "By so much is the wonder in extremes."
+        },
+        {
+            "speaker": "king edward the fourth",
+            "text": "Well, jest on, brothers: I can tell you both Her suit is granted for her husbands lands."
+        },
+        {
+            "text": "Enter a Nobleman"
+        },
+        {
+            "speaker": "nobleman",
+            "text": "My gracious lord, Henry your foe is taken, And brought your prisoner to your palace gate."
+        },
+        {
+            "speaker": "king edward the fourth",
+            "text": "See that he be conveyd unto the Tower: And go we, brothers, to the man that took him, To question of his apprehension. Widow, go you along. Lords, use her honourably."
+        },
+        {
+            "text": "Exeunt all but GLOUCESTER"
+        },
+        {
+            "speaker": "gloucester",
+            "text": "Ay, Edward will use women honourably. Would he were wasted, marrow, bones and all, That from his loins no hopeful branch may spring, To cross me from the golden time I look for! And yet, between my souls desire and me The lustful Edwards title buried Is Clarence, Henry, and his son young Edward, And all the unlookd for issue of their bodies, To take their rooms, ere I can place myself: A cold premeditation for my purpose! Why, then, I do but dream on sovereignty Like one that stands upon a promontory, And spies a faroff shore where he would tread, Wishing his foot were equal with his eye, And chides the sea that sunders him from thence, Saying, hell lade it dry to have his way: So do I wish the crown, being so far off And so I chide the means that keeps me from it And so I say, Ill cut the causes off, Flattering me with impossibilities. My eyes too quick, my heart oerweens too much, Unless my hand and strength could equal them. Well, say there is no kingdom then for Richard What other pleasure can the world afford Ill make my heaven in a ladys lap, And deck my body in gay ornaments, And witch sweet ladies with my words and looks. O miserable thought! and more unlikely Than to accomplish twenty golden crowns! Why, love forswore me in my  mothers womb: And, for I should not deal in her soft laws, She did corrupt frail nature with some bribe, To shrink mine arm up like a witherd shrub To make an envious mountain on my back, Where sits deformity to mock my body To shape my legs of an unequal size To disproportion me in every part, Like to a chaos, or an unlickd bearwhelp That carries no impression like the dam. And am I then a man to be beloved O monstrous fault, to harbour such a thought! Then, since this earth affords no joy to me, But to command, to cheque, to oerbear such As are of better person than myself, Ill make my heaven to dream upon the crown, And, whiles I live, to account this world but hell, Until my misshaped trunk that bears this head Be round impaled with a glorious crown. And yet I know not how to get the crown, For many lives stand between me and home: And I,like one lost in a thorny wood, That rends the thorns and is rent with the thorns, Seeking a way and straying from the way Not knowing how to find the open air, But toiling desperately to find it out, Torment myself to catch the English crown: And from that torment I will free myself, Or hew my way out with a bloody axe. Why, I can smile, and murder whiles I smile, And cry Content to that which grieves my heart, And wet my cheeks with artificial tears, And frame my face to all occasions. Ill drown more sailors than the mermaid shall Ill slay more gazers than the basilisk Ill play the orator as well as Nestor, Deceive more slily than Ulysses could, And, like a Sinon, take another Troy. I can add colours to the chameleon, Change shapes with Proteus for advantages, And set the murderous Machiavel to school. Can I do this, and cannot get a crown Tut, were it farther off, Ill pluck it down."
+        },
+        {
+            "text": "Exit"
+        }
+    ]
+}

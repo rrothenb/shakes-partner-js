@@ -1,0 +1,29 @@
+{
+    "sceneName": "Act 4, scene 3",
+    "playName": "merry wives of windsor",
+    "location": "A room in the Garter Inn.",
+    "lines": [
+        {
+            "text": "Enter Host and BARDOLPH"
+        },
+        {
+            "speaker": "bardolph",
+            "text": "Sir, the Germans desire to have three of your horses: the duke himself will be tomorrow at court, and they are going to meet him."
+        },
+        {
+            "speaker": "host",
+            "text": "What duke should that be comes so secretly I hear not of him in the court. Let me speak with the gentlemen: they speak English"
+        },
+        {
+            "speaker": "bardolph",
+            "text": "Ay, sir Ill call them to you."
+        },
+        {
+            "speaker": "host",
+            "text": "They shall have my horses but Ill make them pay Ill sauce them: they have had my house a week at command I have turned away my other guests: they must come off Ill sauce them. Come."
+        },
+        {
+            "text": "Exeunt"
+        }
+    ]
+}

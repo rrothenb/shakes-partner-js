@@ -1,0 +1,194 @@
+{
+    "sceneName": "Act 4, scene 7",
+    "playName": "king lear",
+    "location": "A tent in the French camp. LEAR on a bed asleep,",
+    "lines": [
+        {
+            "text": "Enter CORDELIA, KENT, and Doctor"
+        },
+        {
+            "speaker": "cordelia",
+            "text": "O thou good Kent, how shall I live and work, To match thy goodness My life will be too short, And every measure fail me."
+        },
+        {
+            "speaker": "kent",
+            "text": "To be acknowledged, madam, is oerpaid. All my reports go with the modest truth Nor more nor clippd, but so."
+        },
+        {
+            "speaker": "cordelia",
+            "text": "Be better suited: These weeds are memories of those worser hours: I prithee, put them off."
+        },
+        {
+            "speaker": "kent",
+            "text": "Pardon me, dear madam Yet to be known shortens my made intent: My boon I make it, that you know me not Till time and I think meet."
+        },
+        {
+            "speaker": "cordelia",
+            "text": "Then bet so, my good lord. How does the king"
+        },
+        {
+            "text": "To the Doctor"
+        },
+        {
+            "speaker": "doctor",
+            "text": "Madam, sleeps still."
+        },
+        {
+            "speaker": "cordelia",
+            "text": "O you kind gods, Cure this great breach in his abused nature! The untuned and jarring senses, O, wind up Of this childchanged father!"
+        },
+        {
+            "speaker": "doctor",
+            "text": "So please your majesty That we may wake the king: he hath slept long."
+        },
+        {
+            "speaker": "cordelia",
+            "text": "Be governd by your knowledge, and proceed I the sway of your own will. Is he arrayd"
+        },
+        {
+            "speaker": "gentleman",
+            "text": "Ay, madam in the heaviness of his sleep We put fresh garments on him."
+        },
+        {
+            "speaker": "doctor",
+            "text": "Be by, good madam, when we do awake him I doubt not of his temperance."
+        },
+        {
+            "speaker": "cordelia",
+            "text": "Very well."
+        },
+        {
+            "speaker": "doctor",
+            "text": "Please you, draw near. Louder the music there!"
+        },
+        {
+            "speaker": "cordelia",
+            "text": "O my dear father! Restoration hang Thy medicine on my lips and let this kiss Repair those violent harms that my two sisters Have in thy reverence made!"
+        },
+        {
+            "speaker": "kent",
+            "text": "Kind and dear princess!"
+        },
+        {
+            "speaker": "cordelia",
+            "text": "Had you not been their father, these white flakes Had challenged pity of them. Was this a face To be opposed against the warring winds To stand against the deep dreadbolted thunder In the most terrible and nimble stroke Of quick, cross lightning to watchpoor perdu! With this thin helm Mine enemys dog, Though he had bit me, should have stood that night Against my fire and wast thou fain, poor father, To hovel thee with swine, and rogues forlorn, In short and musty straw Alack, alack! Tis wonder that thy life and wits at once Had not concluded all. He wakes speak to him."
+        },
+        {
+            "speaker": "doctor",
+            "text": "Madam, do you tis fittest."
+        },
+        {
+            "speaker": "cordelia",
+            "text": "How does my royal lord How fares your majesty"
+        },
+        {
+            "speaker": "king lear",
+            "text": "You do me wrong to take me out o the grave: Thou art a soul in bliss but I am bound Upon a wheel of fire, that mine own tears Do scald like moulten lead."
+        },
+        {
+            "speaker": "cordelia",
+            "text": "Sir, do you know me"
+        },
+        {
+            "speaker": "king lear",
+            "text": "You are a spirit, I know: when did you die"
+        },
+        {
+            "speaker": "cordelia",
+            "text": "Still, still, far wide!"
+        },
+        {
+            "speaker": "doctor",
+            "text": "Hes scarce awake: let him alone awhile."
+        },
+        {
+            "speaker": "king lear",
+            "text": "Where have I been Where am I Fair daylight I am mightily abused. I should een die with pity, To see another thus. I know not what to say. I will not swear these are my hands: lets see I feel this pin prick. Would I were assured Of my condition!"
+        },
+        {
+            "speaker": "cordelia",
+            "text": "O, look upon me, sir, And hold your hands in benediction oer me: No, sir, you must not kneel."
+        },
+        {
+            "speaker": "king lear",
+            "text": "Pray, do not mock me: I am a very foolish fond old man, Fourscore and upward, not an hour more nor less And, to deal plainly, I fear I am not in my perfect mind. Methinks I should know you, and know this man Yet I am doubtful for I am mainly ignorant What place this is and all the skill I have Remembers not these garments nor I know not Where I did lodge last night. Do not laugh at me For, as I am a man, I think this lady To be my child Cordelia."
+        },
+        {
+            "speaker": "cordelia",
+            "text": "And so I am, I am."
+        },
+        {
+            "speaker": "king lear",
+            "text": "Be your tears wet yes, faith. I pray, weep not: If you have poison for me, I will drink it. I know you do not love me for your sisters Have, as I do remember, done me wrong: You have some cause, they have not."
+        },
+        {
+            "speaker": "cordelia",
+            "text": "No cause, no cause."
+        },
+        {
+            "speaker": "king lear",
+            "text": "Am I in France"
+        },
+        {
+            "speaker": "kent",
+            "text": "In your own kingdom, sir."
+        },
+        {
+            "speaker": "king lear",
+            "text": "Do not abuse me."
+        },
+        {
+            "speaker": "doctor",
+            "text": "Be comforted, good madam: the great rage, You see, is killd in him: and yet it is danger To make him even oer the time he has lost. Desire him to go in trouble him no more Till further settling."
+        },
+        {
+            "speaker": "cordelia",
+            "text": "Willt please your highness walk"
+        },
+        {
+            "speaker": "king lear",
+            "text": "You must bear with me: Pray you now, forget and forgive: I am old and foolish."
+        },
+        {
+            "text": "Exeunt all but KENT and Gentleman"
+        },
+        {
+            "speaker": "gentleman",
+            "text": "Holds it true, sir, that the Duke of Cornwall was so slain"
+        },
+        {
+            "speaker": "kent",
+            "text": "Most certain, sir."
+        },
+        {
+            "speaker": "gentleman",
+            "text": "Who is conductor of his people"
+        },
+        {
+            "speaker": "kent",
+            "text": "As tis said, the bastard son of Gloucester."
+        },
+        {
+            "speaker": "gentleman",
+            "text": "They say Edgar, his banished son, is with the Earl of Kent in Germany."
+        },
+        {
+            "speaker": "kent",
+            "text": "Report is changeable. Tis time to look about the powers of the kingdom approach apace."
+        },
+        {
+            "speaker": "gentleman",
+            "text": "The arbitrement is like to be bloody. Fare you well, sir."
+        },
+        {
+            "text": "Exit"
+        },
+        {
+            "speaker": "kent",
+            "text": "My point and period will be throughly wrought, Or well or ill, as this days battles fought."
+        },
+        {
+            "text": "Exit"
+        }
+    ]
+}

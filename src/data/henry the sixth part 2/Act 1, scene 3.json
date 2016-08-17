@@ -1,0 +1,316 @@
+{
+    "sceneName": "Act 1, scene 3",
+    "playName": "henry the sixth part 2",
+    "location": "The palace.",
+    "lines": [
+        {
+            "text": "Enter three or four Petitioners, PETER, the Armourers man, being one"
+        },
+        {
+            "speaker": "first petitioner",
+            "text": "My masters, lets stand close: my lord protector will come this way by and by, and then we may deliver our supplications in the quill."
+        },
+        {
+            "speaker": "second petitioner",
+            "text": "Marry, the Lord protect him, for hes a good man! Jesu bless him!"
+        },
+        {
+            "text": "Enter SUFFOLK and QUEEN MARGARET"
+        },
+        {
+            "speaker": "peter",
+            "text": "Here a comes, methinks, and the queen with him. Ill be the first, sure."
+        },
+        {
+            "speaker": "second petitioner",
+            "text": "Come back, fool this is the Duke of Suffolk, and not my lord protector."
+        },
+        {
+            "speaker": "suffolk",
+            "text": "How now, fellow! wouldst anything with me"
+        },
+        {
+            "speaker": "first petitioner",
+            "text": "I pray, my lord, pardon me I took ye for my lord protector."
+        },
+        {
+            "speaker": "queen margaret",
+            "text": "[Reading]  To my Lord Protector! Are your supplications to his lordship Let me see them: what is thine"
+        },
+        {
+            "speaker": "first petitioner",
+            "text": "Mine is, ant please your grace, against John Goodman, my lord cardinals man, for keeping my house, and lands, and wife and all, from me."
+        },
+        {
+            "speaker": "suffolk",
+            "text": "Thy wife, too! thats some wrong, indeed. Whats yours Whats here! Against the Duke of Suffolk, for enclosing the commons of Melford. How now, sir knave!"
+        },
+        {
+            "text": "Reads"
+        },
+        {
+            "speaker": "second petitioner",
+            "text": "Alas, sir, I am but a poor petitioner of our whole township."
+        },
+        {
+            "speaker": "peter",
+            "text": "[Giving his petition]  Against my master, Thomas Horner, for saying that the Duke of York was rightful heir to the crown."
+        },
+        {
+            "speaker": "queen margaret",
+            "text": "What sayst thou did the Duke of York say he was rightful heir to the crown"
+        },
+        {
+            "speaker": "peter",
+            "text": "That my master was no, forsooth: my master said that he was, and that the king was an usurper."
+        },
+        {
+            "speaker": "suffolk",
+            "text": "Who is there Take this fellow in, and send for his master with a pursuivant presently: well hear more of your matter before the King."
+        },
+        {
+            "text": "Enter Servant"
+        },
+        {
+            "text": "Exit Servant with PETER"
+        },
+        {
+            "speaker": "queen margaret",
+            "text": "And as for you, that love to be protected Under the wings of our protectors grace, Begin your suits anew, and sue to him. Away, base cullions! Suffolk, let them go."
+        },
+        {
+            "text": "Tears the supplication"
+        },
+        {
+            "speaker": "all",
+            "text": "Come, lets be gone."
+        },
+        {
+            "text": "Exeunt"
+        },
+        {
+            "speaker": "queen margaret",
+            "text": "My Lord of Suffolk, say, is this the guise, Is this the fashion in the court of England Is this the government of Britains isle, And this the royalty of Albions king What shall King Henry be a pupil still Under the surly Gloucesters governance Am I a queen in title and in style, And must be made a subject to a duke I tell thee, Pole, when in the city Tours Thou ranst a tilt in honour of my love And stolest away the ladies hearts of France, I thought King Henry had resembled thee In courage, courtship and proportion: But all his mind is bent to holiness, To number AveMaries on his beads His champions are the prophets and apostles, His weapons holy saws of sacred writ, His study is his tiltyard, and his loves Are brazen images of canonized saints. I would the college of the cardinals Would choose him pope, and carry him to Rome, And set the triple crown upon his head: That were a state fit for his holiness."
+        },
+        {
+            "speaker": "suffolk",
+            "text": "Madam, be patient: as I was cause Your highness came to England, so will I In England work your graces full content."
+        },
+        {
+            "speaker": "queen margaret",
+            "text": "Beside the haughty protector, have we Beaufort, The imperious churchman, Somerset, Buckingham, And grumbling York: and not the least of these But can do more in England than the king."
+        },
+        {
+            "speaker": "suffolk",
+            "text": "And he of these that can do most of all Cannot do more in England than the Nevils: Salisbury and Warwick are no simple peers."
+        },
+        {
+            "speaker": "queen margaret",
+            "text": "Not all these lords do vex me half so much As that proud dame, the lord protectors wife. She sweeps it through the court with troops of ladies, More like an empress than Duke Humphreys wife: Strangers in court do take her for the queen: She bears a dukes revenues on her back, And in her heart she scorns our poverty: Shall I not live to be avenged on her Contemptuous baseborn callet as she is, She vaunted mongst her minions tother day, The very train of her worst wearing gown Was better worth than all my fathers lands, Till Suffolk gave two dukedoms for his daughter."
+        },
+        {
+            "speaker": "suffolk",
+            "text": "Madam, myself have limed a bush for her, And placed a quire of such enticing birds, That she will light to listen to the lays, And never mount to trouble you again. So, let her rest: and, madam, list to me For I am bold to counsel you in this. Although we fancy not the cardinal, Yet must we join with him and with the lords, Till we have brought Duke Humphrey in disgrace. As for the Duke of York, this late complaint Will make but little for his benefit. So, one by one, well weed them all at last, And you yourself shall steer the happy helm."
+        },
+        {
+            "text": "Sound a sennet. Enter KING HENRY VI, GLOUCESTER,  CARDINAL, BUCKINGHAM, YORK, SOMERSET, SALISBURY, WARWICK, and the DUCHESS"
+        },
+        {
+            "speaker": "king henry the sixth",
+            "text": "For my part, noble lords, I care not which Or Somerset or York, alls one to me."
+        },
+        {
+            "speaker": "york",
+            "text": "If York have ill demeand himself in France, Then let him be denayd the regentship."
+        },
+        {
+            "speaker": "somerset",
+            "text": "If Somerset be unworthy of the place, Let York be regent I will yield to him."
+        },
+        {
+            "speaker": "warwick",
+            "text": "Whether your grace be worthy, yea or no, Dispute not that: York is the worthier."
+        },
+        {
+            "speaker": "cardinal",
+            "text": "Ambitious Warwick, let thy betters speak."
+        },
+        {
+            "speaker": "warwick",
+            "text": "The cardinals not my better in the field."
+        },
+        {
+            "speaker": "buckingham",
+            "text": "All in this presence are thy betters, Warwick."
+        },
+        {
+            "speaker": "warwick",
+            "text": "Warwick may live to be the best of all."
+        },
+        {
+            "speaker": "salisbury",
+            "text": "Peace, son! and show some reason, Buckingham, Why Somerset should be preferred in this."
+        },
+        {
+            "speaker": "queen margaret",
+            "text": "Because the king, forsooth, will have it so."
+        },
+        {
+            "speaker": "gloucester",
+            "text": "Madam, the king is old enough himself To give his censure: these are no womens matters."
+        },
+        {
+            "speaker": "queen margaret",
+            "text": "If he be old enough, what needs your grace To be protector of his excellence"
+        },
+        {
+            "speaker": "gloucester",
+            "text": "Madam, I am protector of the realm And, at his pleasure, will resign my place."
+        },
+        {
+            "speaker": "suffolk",
+            "text": "Resign it then and leave thine insolence. Since thou wert kingas who is king but thou The commonwealth hath daily run to wreck The Dauphin hath prevaild beyond the seas And all the peers and nobles of the realm Have been as bondmen to thy sovereignty."
+        },
+        {
+            "speaker": "cardinal",
+            "text": "The commons hast thou rackd the clergys bags Are lank and lean with thy extortions."
+        },
+        {
+            "speaker": "somerset",
+            "text": "Thy sumptuous buildings and thy wifes attire Have cost a mass of public treasury."
+        },
+        {
+            "speaker": "buckingham",
+            "text": "Thy cruelty in execution Upon offenders, hath exceeded law, And left thee to the mercy of the law."
+        },
+        {
+            "speaker": "queen margaret",
+            "text": "They sale of offices and towns in France, If they were known, as the suspect is great, Would make thee quickly hop without thy head. Give me my fan: what, minion! can ye not I cry you mercy, madam was it you"
+        },
+        {
+            "text": "Exit GLOUCESTER. QUEEN MARGARET drops her fan"
+        },
+        {
+            "text": "She gives the DUCHESS a box on the ear"
+        },
+        {
+            "speaker": "duchess",
+            "text": "Wast I! yea, I it was, proud Frenchwoman: Could I come near your beauty with my nails, Id set my ten commandments in your face."
+        },
+        {
+            "speaker": "king henry the sixth",
+            "text": "Sweet aunt, be quiet twas against her will."
+        },
+        {
+            "speaker": "duchess",
+            "text": "Against her will! good king, look tot in time Shell hamper thee, and dandle thee like a baby: Though in this place most master wear no breeches, She shall not strike Dame Eleanor unrevenged."
+        },
+        {
+            "text": "Exit"
+        },
+        {
+            "speaker": "buckingham",
+            "text": "Lord cardinal, I will follow Eleanor, And listen after Humphrey, how he proceeds: Shes tickled now her fume needs no spurs, Shell gallop far enough to her destruction."
+        },
+        {
+            "text": "Exit"
+        },
+        {
+            "text": "Reenter GLOUCESTER"
+        },
+        {
+            "speaker": "gloucester",
+            "text": "Now, lords, my choler being overblown With walking once about the quadrangle, I come to talk of commonwealth affairs. As for your spiteful false objections, Prove them, and I lie open to the law: But God in mercy so deal with my soul, As I in duty love my king and country! But, to the matter that we have in hand: I say, my sovereign, York is meetest man To be your regent in the realm of France."
+        },
+        {
+            "speaker": "suffolk",
+            "text": "Before we make election, give me leave To show some reason, of no little force, That York is most unmeet of any man."
+        },
+        {
+            "speaker": "york",
+            "text": "Ill tell thee, Suffolk, why I am unmeet: First, for I cannot flatter thee in pride Next, if I be appointed for the place, My Lord of Somerset will keep me here, Without discharge, money, or furniture, Till France be won into the Dauphins hands: Last time, I danced attendance on his will Till Paris was besieged, famishd, and lost."
+        },
+        {
+            "speaker": "warwick",
+            "text": "That can I witness and a fouler fact Did never traitor in the land commit."
+        },
+        {
+            "speaker": "suffolk",
+            "text": "Peace, headstrong Warwick!"
+        },
+        {
+            "speaker": "warwick",
+            "text": "Image of pride, why should I hold my peace"
+        },
+        {
+            "text": "Enter HORNER, the Armourer, and his man PETER, guarded"
+        },
+        {
+            "speaker": "suffolk",
+            "text": "Because here is a man accused of treason: Pray God the Duke of York excuse himself!"
+        },
+        {
+            "speaker": "york",
+            "text": "Doth any one accuse York for a traitor"
+        },
+        {
+            "speaker": "king henry the sixth",
+            "text": "What meanst thou, Suffolk tell me, what are these"
+        },
+        {
+            "speaker": "suffolk",
+            "text": "Please it your majesty, this is the man That doth accuse his master of high treason: His words were these: that Richard, Duke of York, Was rightful heir unto the English crown And that your majesty was a usurper."
+        },
+        {
+            "speaker": "king henry the sixth",
+            "text": "Say, man, were these thy words"
+        },
+        {
+            "speaker": "horner",
+            "text": "Ant shall please your majesty, I never said nor thought any such matter: God is my witness, I am falsely accused by the villain."
+        },
+        {
+            "speaker": "peter",
+            "text": "By these ten bones, my lords, he did speak them to me in the garret one night, as we were scouring my Lord of Yorks armour."
+        },
+        {
+            "speaker": "york",
+            "text": "Base dunghill villain and mechanical, Ill have thy head for this thy traitors speech. I do beseech your royal majesty, Let him have all the rigor of the law."
+        },
+        {
+            "speaker": "horner",
+            "text": "Alas, my lord, hang me, if ever I spake the words. My accuser is my prentice and when I did correct him for his fault the other day, he did vow upon his knees he would be even with me: I have good witness of this: therefore I beseech your majesty, do not cast away an honest man for a villains accusation."
+        },
+        {
+            "speaker": "king henry the sixth",
+            "text": "Uncle, what shall we say to this in law"
+        },
+        {
+            "speaker": "gloucester",
+            "text": "This doom, my lord, if I may judge: Let Somerset be regent over the French, Because in York this breeds suspicion: And let these have a day appointed them For single combat in convenient place, For he hath witness of his servants malice: This is the law, and this Duke Humphreys doom."
+        },
+        {
+            "speaker": "somerset",
+            "text": "I humbly thank your royal majesty."
+        },
+        {
+            "speaker": "horner",
+            "text": "And I accept the combat willingly."
+        },
+        {
+            "speaker": "peter",
+            "text": "Alas, my lord, I cannot fight for Gods sake, pity my case. The spite of man prevaileth against me. O Lord, have mercy upon me! I shall never be able to fight a blow. O Lord, my heart!"
+        },
+        {
+            "speaker": "gloucester",
+            "text": "Sirrah, or you must fight, or else be hangd."
+        },
+        {
+            "speaker": "king henry the sixth",
+            "text": "Away with them to prison and the day of combat shall be the last of the next month. Come, Somerset, well see thee sent away."
+        },
+        {
+            "text": "Flourish. Exeunt"
+        }
+    ]
+}

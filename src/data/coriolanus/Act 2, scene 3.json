@@ -1,0 +1,399 @@
+{
+    "sceneName": "Act 2, scene 3",
+    "playName": "coriolanus",
+    "location": "The same. The Forum.",
+    "lines": [
+        {
+            "text": "Enter seven or eight Citizens"
+        },
+        {
+            "speaker": "first citizen",
+            "text": "Once, if he do require our voices, we ought not to deny him."
+        },
+        {
+            "speaker": "second citizen",
+            "text": "We may, sir, if we will."
+        },
+        {
+            "speaker": "third citizen",
+            "text": "We have power in ourselves to do it, but it is a power that we have no power to do for if he show us his wounds and tell us his deeds, we are to put our tongues into those wounds and speak for them so, if he tell us his noble deeds, we must also tell him our noble acceptance of them. Ingratitude is monstrous, and for the multitude to be ingrateful, were to make a monster of the multitude: of the which we being members, should bring ourselves to be monstrous members."
+        },
+        {
+            "speaker": "first citizen",
+            "text": "And to make us no better thought of, a little help will serve for once we stood up about the corn, he himself stuck not to call us the manyheaded multitude."
+        },
+        {
+            "speaker": "third citizen",
+            "text": "We have been called so of many not that our heads are some brown, some black, some auburn, some bald, but that our wits are so diversely coloured: and truly I think if all our wits were to issue out of one skull, they would fly east, west, north, south, and their consent of one direct way should be at once to all the points o the compass."
+        },
+        {
+            "speaker": "second citizen",
+            "text": "Think you so Which way do you judge my wit would fly"
+        },
+        {
+            "speaker": "third citizen",
+            "text": "Nay, your wit will not so soon out as another mans willtis strongly wedged up in a blockhead, but if it were at liberty, twould, sure, southward."
+        },
+        {
+            "speaker": "second citizen",
+            "text": "Why that way"
+        },
+        {
+            "speaker": "third citizen",
+            "text": "To lose itself in a fog, where being three parts melted away with rotten dews, the fourth would return for conscience sake, to help to get thee a wife."
+        },
+        {
+            "speaker": "second citizen",
+            "text": "You are never without your tricks: you may, you may."
+        },
+        {
+            "speaker": "third citizen",
+            "text": "Are you all resolved to give your voices But thats no matter, the greater part carries it. I say, if he would incline to the people, there was never a worthier man. Here he comes, and in the gown of humility: mark his behavior. We are not to stay all together, but to come by him where he stands, by ones, by twos, and by threes. Hes to make his requests by particulars wherein every one of us has a single honour, in giving him our own voices with our own tongues: therefore follow me, and I direct you how you shall go by him."
+        },
+        {
+            "text": "Enter CORIOLANUS in a gown of humility, with MENENIUS"
+        },
+        {
+            "speaker": "all",
+            "text": "Content, content."
+        },
+        {
+            "text": "Exeunt Citizens"
+        },
+        {
+            "speaker": "menenius",
+            "text": "O sir, you are not right: have you not known The worthiest men have donet"
+        },
+        {
+            "speaker": "coriolanus",
+            "text": "What must I say I Pray, sirPlague upont! I cannot bring My tongue to such a pace:Look, sir, my wounds! I got them in my countrys service, when Some certain of your brethren roard and ran From the noise of our own drums."
+        },
+        {
+            "speaker": "menenius",
+            "text": "O me, the gods! You must not speak of that: you must desire them To think upon you."
+        },
+        {
+            "speaker": "coriolanus",
+            "text": "Think upon me! hang em! I would they would forget me, like the virtues Which our divines lose by em."
+        },
+        {
+            "speaker": "menenius",
+            "text": "Youll mar all: Ill leave you: pray you, speak to em, I pray you, In wholesome manner."
+        },
+        {
+            "text": "Exit"
+        },
+        {
+            "speaker": "coriolanus",
+            "text": "Bid them wash their faces And keep their teeth clean. So, here comes a brace. You know the cause, air, of my standing here."
+        },
+        {
+            "text": "Reenter two of the Citizens"
+        },
+        {
+            "text": "Reenter a third Citizen"
+        },
+        {
+            "speaker": "third citizen",
+            "text": "We do, sir tell us what hath brought you tot."
+        },
+        {
+            "speaker": "coriolanus",
+            "text": "Mine own desert."
+        },
+        {
+            "speaker": "second citizen",
+            "text": "Your own desert!"
+        },
+        {
+            "speaker": "coriolanus",
+            "text": "Ay, but not mine own desire."
+        },
+        {
+            "speaker": "third citizen",
+            "text": "How not your own desire"
+        },
+        {
+            "speaker": "coriolanus",
+            "text": "No, sir,twas never my desire yet to trouble the poor with begging."
+        },
+        {
+            "speaker": "third citizen",
+            "text": "You must think, if we give you any thing, we hope to gain by you."
+        },
+        {
+            "speaker": "coriolanus",
+            "text": "Well then, I pray, your price o the consulship"
+        },
+        {
+            "speaker": "first citizen",
+            "text": "The price is to ask it kindly."
+        },
+        {
+            "speaker": "coriolanus",
+            "text": "Kindly! Sir, I pray, let me hat: I have wounds to show you, which shall be yours in private. Your good voice, sir what say you"
+        },
+        {
+            "speaker": "second citizen",
+            "text": "You shall ha it, worthy sir."
+        },
+        {
+            "speaker": "coriolanus",
+            "text": "A match, sir. Theres in all two worthy voices begged. I have your alms: adieu."
+        },
+        {
+            "speaker": "third citizen",
+            "text": "But this is something odd."
+        },
+        {
+            "speaker": "second citizen",
+            "text": "An twere to give again,but tis no matter."
+        },
+        {
+            "text": "Exeunt the three Citizens"
+        },
+        {
+            "text": "Reenter two other Citizens"
+        },
+        {
+            "speaker": "coriolanus",
+            "text": "Pray you now, if it may stand with the tune of your voices that I may be consul, I have here the customary gown."
+        },
+        {
+            "speaker": "fourth citizen",
+            "text": "You have deserved nobly of your country, and you have not deserved nobly."
+        },
+        {
+            "speaker": "coriolanus",
+            "text": "Your enigma"
+        },
+        {
+            "speaker": "fourth citizen",
+            "text": "You have been a scourge to her enemies, you have been a rod to her friends you have not indeed loved the common people."
+        },
+        {
+            "speaker": "coriolanus",
+            "text": "You should account me the more virtuous that I have not been common in my love. I will, sir, flatter my sworn brother, the people, to earn a dearer estimation of them tis a condition they account gentle: and since the wisdom of their choice is rather to have my hat than my heart, I will practise the insinuating nod and be off to them most counterfeitly that is, sir, I will counterfeit the bewitchment of some popular man and give it bountiful to the desirers. Therefore, beseech you, I may be consul."
+        },
+        {
+            "speaker": "fifth citizen",
+            "text": "We hope to find you our friend and therefore give you our voices heartily."
+        },
+        {
+            "speaker": "fourth citizen",
+            "text": "You have received many wounds for your country."
+        },
+        {
+            "speaker": "coriolanus",
+            "text": "I will not seal your knowledge with showing them. I will make much of your voices, and so trouble you no further."
+        },
+        {
+            "speaker": "both citizens",
+            "text": "The gods give you joy, sir, heartily!"
+        },
+        {
+            "text": "Exeunt"
+        },
+        {
+            "speaker": "coriolanus",
+            "text": "Most sweet voices! Better it is to die, better to starve, Than crave the hire which first we do deserve. Why in this woolvish toge should I stand here, To beg of Hob and Dick, that do appear, Their needless vouches Custom calls me tot: What custom wills, in all things should we dot, The dust on antique time would lie unswept, And mountainous error be too highly heapt For truth to oerpeer. Rather than fool it so, Let the high office and the honour go To one that would do thus. I am half through The one part sufferd, the other will I do. Here come more voices. Your voices: for your voices I have fought Watchd for your voices for Your voices bear Of wounds two dozen odd battles thrice six I have seen and heard of for your voices have Done many things, some less, some more your voices: Indeed I would be consul."
+        },
+        {
+            "text": "Reenter three Citizens more"
+        },
+        {
+            "speaker": "sixth citizen",
+            "text": "He has done nobly, and cannot go without any honest mans voice."
+        },
+        {
+            "speaker": "seventh citizen",
+            "text": "Therefore let him be consul: the gods give him joy, and make him good friend to the people!"
+        },
+        {
+            "speaker": "all citizens",
+            "text": "Amen, amen. God save thee, noble consul!"
+        },
+        {
+            "text": "Exeunt"
+        },
+        {
+            "speaker": "coriolanus",
+            "text": "Worthy voices!"
+        },
+        {
+            "text": "Reenter MENENIUS, with BRUTUS and SICINIUS"
+        },
+        {
+            "speaker": "menenius",
+            "text": "You have stood your limitation and the tribunes Endue you with the peoples voice: remains That, in the official marks invested, you Anon do meet the senate."
+        },
+        {
+            "speaker": "coriolanus",
+            "text": "Is this done"
+        },
+        {
+            "speaker": "sicinius",
+            "text": "The custom of request you have discharged: The people do admit you, and are summond To meet anon, upon your approbation."
+        },
+        {
+            "speaker": "coriolanus",
+            "text": "Where at the senatehouse"
+        },
+        {
+            "speaker": "sicinius",
+            "text": "There, Coriolanus."
+        },
+        {
+            "speaker": "coriolanus",
+            "text": "May I change these garments"
+        },
+        {
+            "speaker": "sicinius",
+            "text": "You may, sir."
+        },
+        {
+            "speaker": "coriolanus",
+            "text": "That Ill straight do and, knowing myself again, Repair to the senatehouse."
+        },
+        {
+            "speaker": "menenius",
+            "text": "Ill keep you company. Will you along"
+        },
+        {
+            "speaker": "brutus",
+            "text": "We stay here for the people."
+        },
+        {
+            "speaker": "sicinius",
+            "text": "Fare you well. He has it now, and by his looks methink Tis warm at s heart."
+        },
+        {
+            "text": "Exeunt CORIOLANUS and MENENIUS"
+        },
+        {
+            "speaker": "brutus",
+            "text": "With a proud heart he wore his humble weeds. will you dismiss the people"
+        },
+        {
+            "text": "Reenter Citizens"
+        },
+        {
+            "speaker": "sicinius",
+            "text": "How now, my masters! have you chose this man"
+        },
+        {
+            "speaker": "first citizen",
+            "text": "He has our voices, sir."
+        },
+        {
+            "speaker": "brutus",
+            "text": "We pray the gods he may deserve your loves."
+        },
+        {
+            "speaker": "second citizen",
+            "text": "Amen, sir: to my poor unworthy notice, He mockd us when he beggd our voices."
+        },
+        {
+            "speaker": "third citizen",
+            "text": "Certainly He flouted us downright."
+        },
+        {
+            "speaker": "first citizen",
+            "text": "No,tis his kind of speech: he did not mock us."
+        },
+        {
+            "speaker": "second citizen",
+            "text": "Not one amongst us, save yourself, but says He used us scornfully: he should have showd us His marks of merit, wounds received fors country."
+        },
+        {
+            "speaker": "sicinius",
+            "text": "Why, so he did, I am sure."
+        },
+        {
+            "speaker": "citizens",
+            "text": "No, no no man saw em."
+        },
+        {
+            "speaker": "third citizen",
+            "text": "He said he had wounds, which he could show in private And with his hat, thus waving it in scorn, I would be consul, says he: aged custom, But by your voices, will not so permit me Your voices therefore. When we granted that, Here was I thank you for your voices: thank you: Your most sweet voices: now you have left your voices, I have no further with you. Was not this mockery"
+        },
+        {
+            "speaker": "sicinius",
+            "text": "Why either were you ignorant to seet, Or, seeing it, of such childish friendliness To yield your voices"
+        },
+        {
+            "speaker": "brutus",
+            "text": "Could you not have told him As you were lessond, when he had no power, But was a petty servant to the state, He was your enemy, ever spake against Your liberties and the charters that you bear I the body of the weal and now, arriving A place of potency and sway o the state, If he should still malignantly remain Fast foe to the plebeii, your voices might Be curses to yourselves You should have said That as his worthy deeds did claim no less Than what he stood for, so his gracious nature Would think upon you for your voices and Translate his malice towards you into love, Standing your friendly lord."
+        },
+        {
+            "speaker": "sicinius",
+            "text": "Thus to have said, As you were foreadvised, had touchd his spirit And tried his inclination from him pluckd Either his gracious promise, which you might, As cause had calld you up, have held him to Or else it would have galld his surly nature, Which easily endures not article Tying him to aught so putting him to rage, You should have taen the advantage of his choler And passd him unelected."
+        },
+        {
+            "speaker": "brutus",
+            "text": "Did you perceive He did solicit you in free contempt When he did need your loves, and do you think That his contempt shall not be bruising to you, When he hath power to crush Why, had your bodies No heart among you or had you tongues to cry Against the rectorship of judgment"
+        },
+        {
+            "speaker": "sicinius",
+            "text": "Have you Ere now denied the asker and now again Of him that did not ask, but mock, bestow Your suedfor tongues"
+        },
+        {
+            "speaker": "third citizen",
+            "text": "Hes not confirmd we may deny him yet."
+        },
+        {
+            "speaker": "second citizen",
+            "text": "And will deny him: Ill have five hundred voices of that sound."
+        },
+        {
+            "speaker": "first citizen",
+            "text": "I twice five hundred and their friends to piece em."
+        },
+        {
+            "speaker": "brutus",
+            "text": "Get you hence instantly, and tell those friends, They have chose a consul that will from them take Their liberties make them of no more voice Than dogs that are as often beat for barking As therefore kept to do so."
+        },
+        {
+            "speaker": "sicinius",
+            "text": "Let them assemble, And on a safer judgment all revoke Your ignorant election enforce his pride, And his old hate unto you besides, forget not With what contempt he wore the humble weed, How in his suit he scornd you but your loves, Thinking upon his services, took from you The apprehension of his present portance, Which most gibingly, ungravely, he did fashion After the inveterate hate he bears you."
+        },
+        {
+            "speaker": "brutus",
+            "text": "Lay A fault on us, your tribunes that we laboured, No impediment between, but that you must Cast your election on him."
+        },
+        {
+            "speaker": "sicinius",
+            "text": "Say, you chose him More after our commandment than as guided By your own true affections, and that your minds, Preoccupied with what you rather must do Than what you should, made you against the grain To voice him consul: lay the fault on us."
+        },
+        {
+            "speaker": "brutus",
+            "text": "Ay, spare us not. Say we read lectures to you. How youngly he began to serve his country, How long continued, and what stock he springs of, The noble house o the Marcians, from whence came That Ancus Marcius, Numas daughters son, Who, after great Hostilius, here was king Of the same house Publius and Quintus were, That our beat water brought by conduits hither And  [Censorinus,]  nobly named so, Twice being  [by the people chosen]  censor, Was his great ancestor."
+        },
+        {
+            "speaker": "sicinius",
+            "text": "One thus descended, That hath beside well in his person wrought To be set high in place, we did commend To your remembrances: but you have found, Scaling his present bearing with his past, That hes your fixed enemy, and revoke Your sudden approbation."
+        },
+        {
+            "speaker": "brutus",
+            "text": "Say, you neer had donet Harp on that stillbut by our putting on And presently, when you have drawn your number, Repair to the Capitol."
+        },
+        {
+            "speaker": "all",
+            "text": "We will so: almost all Repent in their election."
+        },
+        {
+            "text": "Exeunt Citizens"
+        },
+        {
+            "speaker": "brutus",
+            "text": "Let them go on This mutiny were better put in hazard, Than stay, past doubt, for greater: If, as his nature is, he fall in rage With their refusal, both observe and answer The vantage of his anger."
+        },
+        {
+            "speaker": "sicinius",
+            "text": "To the Capitol, come: We will be there before the stream o the people And this shall seem, as partly tis, their own, Which we have goaded onward."
+        },
+        {
+            "text": "Exeunt"
+        }
+    ]
+}

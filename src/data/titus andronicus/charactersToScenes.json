@@ -1,0 +1,140 @@
+{
+    "saturninus": [
+        "Act 1, scene 1",
+        "Act 2, scene 2",
+        "Act 2, scene 3",
+        "Act 4, scene 4",
+        "Act 5, scene 3"
+    ],
+    "bassianus": [
+        "Act 1, scene 1",
+        "Act 2, scene 2",
+        "Act 2, scene 3"
+    ],
+    "marcus andronicus": [
+        "Act 1, scene 1",
+        "Act 2, scene 2",
+        "Act 3, scene 1",
+        "Act 3, scene 2",
+        "Act 4, scene 1",
+        "Act 4, scene 3",
+        "Act 5, scene 2",
+        "Act 5, scene 3"
+    ],
+    "captain": [
+        "Act 1, scene 1"
+    ],
+    "titus andronicus": [
+        "Act 1, scene 1",
+        "Act 2, scene 2",
+        "Act 2, scene 3",
+        "Act 3, scene 1",
+        "Act 3, scene 2",
+        "Act 4, scene 1",
+        "Act 4, scene 3",
+        "Act 5, scene 2",
+        "Act 5, scene 3"
+    ],
+    "lucius": [
+        "Act 1, scene 1",
+        "Act 3, scene 1",
+        "Act 5, scene 1",
+        "Act 5, scene 3"
+    ],
+    "tamora": [
+        "Act 1, scene 1",
+        "Act 2, scene 3",
+        "Act 4, scene 4",
+        "Act 5, scene 2",
+        "Act 5, scene 3"
+    ],
+    "chiron": [
+        "Act 1, scene 1",
+        "Act 2, scene 1",
+        "Act 2, scene 3",
+        "Act 2, scene 4",
+        "Act 4, scene 2",
+        "Act 5, scene 2"
+    ],
+    "demetrius": [
+        "Act 1, scene 1",
+        "Act 2, scene 1",
+        "Act 2, scene 2",
+        "Act 2, scene 3",
+        "Act 2, scene 4",
+        "Act 4, scene 2",
+        "Act 5, scene 2"
+    ],
+    "lavinia": [
+        "Act 1, scene 1",
+        "Act 2, scene 2",
+        "Act 2, scene 3"
+    ],
+    "tribunes": [
+        "Act 1, scene 1"
+    ],
+    "mutius": [
+        "Act 1, scene 1"
+    ],
+    "martius": [
+        "Act 1, scene 1",
+        "Act 2, scene 3"
+    ],
+    "quintus": [
+        "Act 1, scene 1",
+        "Act 2, scene 3"
+    ],
+    "all": [
+        "Act 1, scene 1",
+        "Act 5, scene 3"
+    ],
+    "aaron": [
+        "Act 2, scene 1",
+        "Act 2, scene 3",
+        "Act 3, scene 1",
+        "Act 4, scene 2",
+        "Act 5, scene 1",
+        "Act 5, scene 3"
+    ],
+    "marcus": [
+        "Act 2, scene 4"
+    ],
+    "messenger": [
+        "Act 3, scene 1"
+    ],
+    "young lucius": [
+        "Act 3, scene 2",
+        "Act 4, scene 1",
+        "Act 4, scene 2",
+        "Act 5, scene 3"
+    ],
+    "nurse": [
+        "Act 4, scene 2"
+    ],
+    "publius": [
+        "Act 4, scene 3",
+        "Act 5, scene 2"
+    ],
+    "clown": [
+        "Act 4, scene 3",
+        "Act 4, scene 4"
+    ],
+    "aemilius": [
+        "Act 4, scene 4",
+        "Act 5, scene 1",
+        "Act 5, scene 3"
+    ],
+    "first goth": [
+        "Act 5, scene 1",
+        "Act 5, scene 3"
+    ],
+    "all the goths": [
+        "Act 5, scene 1"
+    ],
+    "second goth": [
+        "Act 5, scene 1"
+    ],
+    "third goth": [
+        "Act 5, scene 1"
+    ]
+}

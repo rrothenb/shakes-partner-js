@@ -1,0 +1,284 @@
+{
+    "sceneName": "Act 4, scene 2",
+    "playName": "pericles",
+    "location": "Mytilene. A room in a brothel.",
+    "lines": [
+        {
+            "text": "Enter Pandar, Bawd, and BOULT"
+        },
+        {
+            "speaker": "pandar",
+            "text": "Boult!"
+        },
+        {
+            "speaker": "boult",
+            "text": "Sir"
+        },
+        {
+            "speaker": "pandar",
+            "text": "Search the market narrowly Mytilene is full of gallants. We lost too much money this mart by being too wenchless."
+        },
+        {
+            "speaker": "bawd",
+            "text": "We were never so much out of creatures. We have but poor three, and they can do no more than they can do and they with continual action are even as good as rotten."
+        },
+        {
+            "speaker": "pandar",
+            "text": "Therefore lets have fresh ones, whateer we pay for them. If there be not a conscience to be used in every trade, we shall never prosper."
+        },
+        {
+            "speaker": "bawd",
+            "text": "Thou sayest true: tis not our bringing up of poor bastards,as, I think, I have brought up some eleven"
+        },
+        {
+            "speaker": "boult",
+            "text": "Ay, to eleven and brought them down again. But shall I search the market"
+        },
+        {
+            "speaker": "bawd",
+            "text": "What else, man The stuff we have, a strong wind will blow it to pieces, they are so pitifully sodden."
+        },
+        {
+            "speaker": "pandar",
+            "text": "Thou sayest true theyre too unwholesome, o conscience. The poor Transylvanian is dead, that lay with the little baggage."
+        },
+        {
+            "speaker": "boult",
+            "text": "Ay, she quickly pooped him she made him roastmeat for worms. But Ill go search the market."
+        },
+        {
+            "text": "Exit"
+        },
+        {
+            "speaker": "pandar",
+            "text": "Three or four thousand chequins were as pretty a proportion to live quietly, and so give over."
+        },
+        {
+            "speaker": "bawd",
+            "text": "Why to give over, I pray you is it a shame to get when we are old"
+        },
+        {
+            "speaker": "pandar",
+            "text": "O, our credit comes not in like the commodity, nor the commodity wages not with the danger: therefore, if in our youths we could pick up some pretty estate, twere not amiss to keep our door hatched. Besides, the sore terms we stand upon with the gods will be strong with us for giving over."
+        },
+        {
+            "speaker": "bawd",
+            "text": "Come, other sorts offend as well as we."
+        },
+        {
+            "speaker": "pandar",
+            "text": "As well as we! ay, and better too we offend worse. Neither is our profession any trade its no calling. But here comes Boult."
+        },
+        {
+            "text": "Reenter BOULT, with the Pirates and MARINA"
+        },
+        {
+            "speaker": "boult",
+            "text": "[To MARINA]  Come your ways. My masters, you say shes a virgin"
+        },
+        {
+            "speaker": "first pirate",
+            "text": "O, sir, we doubt it not."
+        },
+        {
+            "speaker": "boult",
+            "text": "Master, I have gone through for this piece, you see: if you like her, so if not, I have lost my earnest."
+        },
+        {
+            "speaker": "bawd",
+            "text": "Boult, has she any qualities"
+        },
+        {
+            "speaker": "boult",
+            "text": "She has a good face, speaks well, and has excellent good clothes: theres no further necessity of qualities can make her be refused."
+        },
+        {
+            "speaker": "bawd",
+            "text": "Whats her price, Boult"
+        },
+        {
+            "speaker": "boult",
+            "text": "I cannot be bated one doit of a thousand pieces."
+        },
+        {
+            "speaker": "pandar",
+            "text": "Well, follow me, my masters, you shall have your money presently. Wife, take her in instruct her what she has to do, that she may not be raw in her entertainment."
+        },
+        {
+            "text": "Exeunt Pandar and Pirates"
+        },
+        {
+            "speaker": "bawd",
+            "text": "Boult, take you the marks of her, the colour of her hair, complexion, height, age, with warrant of her virginity and cry He that will give most shall have her first. Such a maidenhead were no cheap thing, if men were as they have been. Get this done as I command you."
+        },
+        {
+            "speaker": "boult",
+            "text": "Performance shall follow."
+        },
+        {
+            "text": "Exit"
+        },
+        {
+            "speaker": "marina",
+            "text": "Alack that Leonine was so slack, so slow! He should have struck, not spoke or that these pirates, Not enough barbarous, had not oerboard thrown me For to seek my mother!"
+        },
+        {
+            "speaker": "bawd",
+            "text": "Why lament you, pretty one"
+        },
+        {
+            "speaker": "marina",
+            "text": "That I am pretty."
+        },
+        {
+            "speaker": "bawd",
+            "text": "Come, the gods have done their part in you."
+        },
+        {
+            "speaker": "marina",
+            "text": "I accuse them not."
+        },
+        {
+            "speaker": "bawd",
+            "text": "You are light into my hands, where you are like to live."
+        },
+        {
+            "speaker": "marina",
+            "text": "The more my fault To scape his hands where I was like to die."
+        },
+        {
+            "speaker": "bawd",
+            "text": "Ay, and you shall live in pleasure."
+        },
+        {
+            "speaker": "marina",
+            "text": "No."
+        },
+        {
+            "speaker": "bawd",
+            "text": "Yes, indeed shall you, and taste gentlemen of all fashions: you shall fare well you shall have the difference of all complexions. What! do you stop your ears"
+        },
+        {
+            "speaker": "marina",
+            "text": "Are you a woman"
+        },
+        {
+            "speaker": "bawd",
+            "text": "What would you have me be, an I be not a woman"
+        },
+        {
+            "speaker": "marina",
+            "text": "An honest woman, or not a woman."
+        },
+        {
+            "speaker": "bawd",
+            "text": "Marry, whip thee, gosling: I think I shall have something to do with you. Come, youre a young foolish sapling, and must be bowed as I would have you."
+        },
+        {
+            "speaker": "marina",
+            "text": "The gods defend me!"
+        },
+        {
+            "speaker": "bawd",
+            "text": "If it please the gods to defend you by men, then men must comfort you, men must feed you, men must stir you up. Boults returned. Now, sir, hast thou cried her through the market"
+        },
+        {
+            "text": "Reenter BOULT"
+        },
+        {
+            "speaker": "boult",
+            "text": "I have cried her almost to the number of her hairs I have drawn her picture with my voice."
+        },
+        {
+            "speaker": "bawd",
+            "text": "And I prithee tell me, how dost thou find the inclination of the people, especially of the younger sort"
+        },
+        {
+            "speaker": "boult",
+            "text": "Faith, they listened to me as they would have hearkened to their fathers testament. There was a Spaniards mouth so watered, that he went to bed to her very description."
+        },
+        {
+            "speaker": "bawd",
+            "text": "We shall have him here tomorrow with his best ruff on."
+        },
+        {
+            "speaker": "boult",
+            "text": "Tonight, tonight. But, mistress, do you know the French knight that cowers i the hams"
+        },
+        {
+            "speaker": "bawd",
+            "text": "Who, Monsieur Veroles"
+        },
+        {
+            "speaker": "boult",
+            "text": "Ay, he: he offered to cut a caper at the proclamation but he made a groan at it, and swore he would see her tomorrow."
+        },
+        {
+            "speaker": "bawd",
+            "text": "Well, well as for him, he brought his disease hither: here he does but repair it. I know he will come in our shadow, to scatter his crowns in the sun."
+        },
+        {
+            "speaker": "boult",
+            "text": "Well, if we had of every nation a traveller, we should lodge them with this sign."
+        },
+        {
+            "speaker": "bawd",
+            "text": "[To MARINA]  Pray you, come hither awhile. You have fortunes coming upon you. Mark me: you must seem to do that fearfully which you commit willingly, despise profit where you have most gain. To weep that you live as ye do makes pity in your lovers: seldom but that pity begets you a good opinion, and that opinion a mere profit."
+        },
+        {
+            "speaker": "marina",
+            "text": "I understand you not."
+        },
+        {
+            "speaker": "boult",
+            "text": "O, take her home, mistress, take her home: these blushes of hers must be quenched with some present practise."
+        },
+        {
+            "speaker": "bawd",
+            "text": "Thou sayest true, i faith, so they must for your bride goes to that with shame which is her way to go with warrant."
+        },
+        {
+            "speaker": "boult",
+            "text": "Faith, some do, and some do not. But, mistress, if I have bargained for the joint,"
+        },
+        {
+            "speaker": "bawd",
+            "text": "Thou mayst cut a morsel off the spit."
+        },
+        {
+            "speaker": "boult",
+            "text": "I may so."
+        },
+        {
+            "speaker": "bawd",
+            "text": "Who should deny it Come, young one, I like the manner of your garments well."
+        },
+        {
+            "speaker": "boult",
+            "text": "Ay, by my faith, they shall not be changed yet."
+        },
+        {
+            "speaker": "bawd",
+            "text": "Boult, spend thou that in the town: report what a sojourner we have youll lose nothing by custom. When nature flamed this piece, she meant thee a good turn therefore say what a paragon she is, and thou hast the harvest out of thine own report."
+        },
+        {
+            "speaker": "boult",
+            "text": "I warrant you, mistress, thunder shall not so awake the beds of eels as my giving out her beauty stir up the lewdlyinclined. Ill bring home some tonight."
+        },
+        {
+            "speaker": "bawd",
+            "text": "Come your ways follow me."
+        },
+        {
+            "speaker": "marina",
+            "text": "If fires be hot, knives sharp, or waters deep, Untied I still my virgin knot will keep. Diana, aid my purpose!"
+        },
+        {
+            "speaker": "bawd",
+            "text": "What have we to do with Diana Pray you, will you go with us"
+        },
+        {
+            "text": "Exeunt"
+        }
+    ]
+}

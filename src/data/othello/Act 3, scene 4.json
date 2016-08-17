@@ -1,0 +1,412 @@
+{
+    "sceneName": "Act 3, scene 4",
+    "playName": "othello",
+    "location": "Before the castle.",
+    "lines": [
+        {
+            "text": "Enter DESDEMONA, EMILIA, and Clown"
+        },
+        {
+            "speaker": "desdemona",
+            "text": "Do you know, sirrah, where Lieutenant Cassio lies"
+        },
+        {
+            "speaker": "clown",
+            "text": "I dare not say he lies any where."
+        },
+        {
+            "speaker": "desdemona",
+            "text": "Why, man"
+        },
+        {
+            "speaker": "clown",
+            "text": "Hes a soldier, and for one to say a soldier lies, is stabbing."
+        },
+        {
+            "speaker": "desdemona",
+            "text": "Go to: where lodges he"
+        },
+        {
+            "speaker": "clown",
+            "text": "To tell you where he lodges, is to tell you where I lie."
+        },
+        {
+            "speaker": "desdemona",
+            "text": "Can any thing be made of this"
+        },
+        {
+            "speaker": "clown",
+            "text": "I know not where he lodges, and for me to devise a lodging and say he lies here or he lies there, were to lie in mine own throat."
+        },
+        {
+            "speaker": "desdemona",
+            "text": "Can you inquire him out, and be edified by report"
+        },
+        {
+            "speaker": "clown",
+            "text": "I will catechise the world for him that is, make questions, and by them answer."
+        },
+        {
+            "speaker": "desdemona",
+            "text": "Seek him, bid him come hither: tell him I have moved my lord on his behalf, and hope all will be well."
+        },
+        {
+            "speaker": "clown",
+            "text": "To do this is within the compass of mans wit: and therefore I will attempt the doing it."
+        },
+        {
+            "text": "Exit"
+        },
+        {
+            "speaker": "desdemona",
+            "text": "Where should I lose that handkerchief, Emilia"
+        },
+        {
+            "speaker": "emilia",
+            "text": "I know not, madam."
+        },
+        {
+            "speaker": "desdemona",
+            "text": "Believe me, I had rather have lost my purse Full of crusadoes: and, but my noble Moor Is true of mind and made of no such baseness As jealous creatures are, it were enough To put him to ill thinking."
+        },
+        {
+            "speaker": "emilia",
+            "text": "Is he not jealous"
+        },
+        {
+            "speaker": "desdemona",
+            "text": "Who, he I think the sun where he was born Drew all such humours from him."
+        },
+        {
+            "speaker": "emilia",
+            "text": "Look, where he comes."
+        },
+        {
+            "speaker": "desdemona",
+            "text": "I will not leave him now till Cassio Be calld to him. How ist with you, my lord"
+        },
+        {
+            "text": "Enter OTHELLO"
+        },
+        {
+            "speaker": "othello",
+            "text": "Well, my good lady. O, hardness to dissemble! How do you, Desdemona"
+        },
+        {
+            "text": "Aside"
+        },
+        {
+            "speaker": "desdemona",
+            "text": "Well, my good lord."
+        },
+        {
+            "speaker": "othello",
+            "text": "Give me your hand: this hand is moist, my lady."
+        },
+        {
+            "speaker": "desdemona",
+            "text": "It yet hath felt no age nor known no sorrow."
+        },
+        {
+            "speaker": "othello",
+            "text": "This argues fruitfulness and liberal heart: Hot, hot, and moist: this hand of yours requires A sequester from liberty, fasting and prayer, Much castigation, exercise devout For heres a young and sweating devil here, That commonly rebels. Tis a good hand, A frank one."
+        },
+        {
+            "speaker": "desdemona",
+            "text": "You may, indeed, say so For twas that hand that gave away my heart."
+        },
+        {
+            "speaker": "othello",
+            "text": "A liberal hand: the hearts of old gave hands But our new heraldry is hands, not hearts."
+        },
+        {
+            "speaker": "desdemona",
+            "text": "I cannot speak of this. Come now, your promise."
+        },
+        {
+            "speaker": "othello",
+            "text": "What promise, chuck"
+        },
+        {
+            "speaker": "desdemona",
+            "text": "I have sent to bid Cassio come speak with you."
+        },
+        {
+            "speaker": "othello",
+            "text": "I have a salt and sorry rheum offends me Lend me thy handkerchief."
+        },
+        {
+            "speaker": "desdemona",
+            "text": "Here, my lord."
+        },
+        {
+            "speaker": "othello",
+            "text": "That which I gave you."
+        },
+        {
+            "speaker": "desdemona",
+            "text": "I have it not about me."
+        },
+        {
+            "speaker": "othello",
+            "text": "Not"
+        },
+        {
+            "speaker": "desdemona",
+            "text": "No, indeed, my lord."
+        },
+        {
+            "speaker": "othello",
+            "text": "That is a fault. That handkerchief Did an Egyptian to my mother give She was a charmer, and could almost read The thoughts of people: she told her, while she kept it, Twould make her amiable and subdue my father Entirely to her love, but if she lost it Or made gift of it, my fathers eye Should hold her loathed and his spirits should hunt After new fancies: she, dying, gave it me And bid me, when my fate would have me wive, To give it her. I did so: and take heed ont Make it a darling like your precious eye To loset or givet away were such perdition As nothing else could match."
+        },
+        {
+            "speaker": "desdemona",
+            "text": "Ist possible"
+        },
+        {
+            "speaker": "othello",
+            "text": "Tis true: theres magic in the web of it: A sibyl, that had numberd in the world The sun to course two hundred compasses, In her prophetic fury sewd the work The worms were hallowd that did breed the silk And it was dyed in mummy which the skilful Conserved of maidens hearts."
+        },
+        {
+            "speaker": "desdemona",
+            "text": "Indeed! ist true"
+        },
+        {
+            "speaker": "othello",
+            "text": "Most veritable therefore look tot well."
+        },
+        {
+            "speaker": "desdemona",
+            "text": "Then would to God that I had never seent!"
+        },
+        {
+            "speaker": "othello",
+            "text": "Ha! wherefore"
+        },
+        {
+            "speaker": "desdemona",
+            "text": "Why do you speak so startingly and rash"
+        },
+        {
+            "speaker": "othello",
+            "text": "Ist lost ist gone speak, is it out o the way"
+        },
+        {
+            "speaker": "desdemona",
+            "text": "Heaven bless us!"
+        },
+        {
+            "speaker": "othello",
+            "text": "Say you"
+        },
+        {
+            "speaker": "desdemona",
+            "text": "It is not lost but what an if it were"
+        },
+        {
+            "speaker": "othello",
+            "text": "How!"
+        },
+        {
+            "speaker": "desdemona",
+            "text": "I say, it is not lost."
+        },
+        {
+            "speaker": "othello",
+            "text": "Fetcht, let me seet."
+        },
+        {
+            "speaker": "desdemona",
+            "text": "Why, so I can, sir, but I will not now. This is a trick to put me from my suit: Pray you, let Cassio be received again."
+        },
+        {
+            "speaker": "othello",
+            "text": "Fetch me the handkerchief: my mind misgives."
+        },
+        {
+            "speaker": "desdemona",
+            "text": "Come, come Youll never meet a more sufficient man."
+        },
+        {
+            "speaker": "othello",
+            "text": "The handkerchief!"
+        },
+        {
+            "speaker": "desdemona",
+            "text": "I pray, talk me of Cassio."
+        },
+        {
+            "speaker": "othello",
+            "text": "The handkerchief!"
+        },
+        {
+            "speaker": "desdemona",
+            "text": "A man that all his time Hath founded his good fortunes on your love, Shared dangers with you,"
+        },
+        {
+            "speaker": "othello",
+            "text": "The handkerchief!"
+        },
+        {
+            "speaker": "desdemona",
+            "text": "In sooth, you are to blame."
+        },
+        {
+            "speaker": "othello",
+            "text": "Away!"
+        },
+        {
+            "text": "Exit"
+        },
+        {
+            "speaker": "emilia",
+            "text": "Is not this man jealous"
+        },
+        {
+            "speaker": "desdemona",
+            "text": "I neer saw this before. Sure, theres some wonder in this handkerchief: I am most unhappy in the loss of it."
+        },
+        {
+            "speaker": "emilia",
+            "text": "Tis not a year or two shows us a man: They are all but stomachs, and we all but food To eat us hungerly, and when they are full, They belch us. Look you, Cassio and my husband!"
+        },
+        {
+            "text": "Enter CASSIO and IAGO"
+        },
+        {
+            "speaker": "iago",
+            "text": "There is no other way tis she must dot: And, lo, the happiness! go, and importune her."
+        },
+        {
+            "speaker": "desdemona",
+            "text": "How now, good Cassio! whats the news with you"
+        },
+        {
+            "speaker": "cassio",
+            "text": "Madam, my former suit: I do beseech you That by your virtuous means I may again Exist, and be a member of his love Whom I with all the office of my heart Entirely honour: I would not be delayd. If my offence be of such mortal kind That nor my service past, nor present sorrows, Nor purposed merit in futurity, Can ransom me into his love again, But to know so must be my benefit So shall I clothe me in a forced content, And shut myself up in some other course, To fortunes alms."
+        },
+        {
+            "speaker": "desdemona",
+            "text": "Alas, thricegentle Cassio! My advocation is not now in tune My lord is not my lord nor should I know him, Were he in favour as in humour alterd. So help me every spirit sanctified, As I have spoken for you all my best And stood within the blank of his displeasure For my free speech! you must awhile be patient: What I can do I will and more I will Than for myself I dare: let that suffice you."
+        },
+        {
+            "speaker": "iago",
+            "text": "Is my lord angry"
+        },
+        {
+            "speaker": "emilia",
+            "text": "He went hence but now, And certainly in strange unquietness."
+        },
+        {
+            "speaker": "iago",
+            "text": "Can he be angry I have seen the cannon, When it hath blown his ranks into the air, And, like the devil, from his very arm Puffd his own brother:and can he be angry Something of moment then: I will go meet him: Theres matter int indeed, if he be angry."
+        },
+        {
+            "speaker": "desdemona",
+            "text": "I prithee, do so. Something, sure, of state, Either from Venice, or some unhatchd practise Made demonstrable here in Cyprus to him, Hath puddled his clear spirit: and in such cases Mens natures wrangle with inferior things, Though great ones are their object. Tis even so For let our finger ache, and it indues Our other healthful members even to that sense Of pain: nay, we must think men are not gods, Nor of them look for such observances As fit the bridal. Beshrew me much, Emilia, I was, unhandsome warrior as I am, Arraigning his unkindness with my soul But now I find I had subornd the witness, And hes indicted falsely."
+        },
+        {
+            "text": "Exit IAGO"
+        },
+        {
+            "speaker": "emilia",
+            "text": "Pray heaven it be statematters, as you think, And no conception nor no jealous toy Concerning you."
+        },
+        {
+            "speaker": "desdemona",
+            "text": "Alas the day! I never gave him cause."
+        },
+        {
+            "speaker": "emilia",
+            "text": "But jealous souls will not be answerd so They are not ever jealous for the cause, But jealous for they are jealous: tis a monster Begot upon itself, born on itself."
+        },
+        {
+            "speaker": "desdemona",
+            "text": "Heaven keep that monster from Othellos mind!"
+        },
+        {
+            "speaker": "emilia",
+            "text": "Lady, amen."
+        },
+        {
+            "speaker": "desdemona",
+            "text": "I will go seek him. Cassio, walk hereabout: If I do find him fit, Ill move your suit And seek to effect it to my uttermost."
+        },
+        {
+            "speaker": "cassio",
+            "text": "I humbly thank your ladyship."
+        },
+        {
+            "text": "Exeunt DESDEMONA and EMILIA"
+        },
+        {
+            "text": "Enter BIANCA"
+        },
+        {
+            "speaker": "bianca",
+            "text": "Save you, friend Cassio!"
+        },
+        {
+            "speaker": "cassio",
+            "text": "What make you from home How is it with you, my most fair Bianca I faith, sweet love, I was coming to your house."
+        },
+        {
+            "speaker": "bianca",
+            "text": "And I was going to your lodging, Cassio. What, keep a week away seven days and nights Eight score eight hours and lovers absent hours, More tedious than the dial eight score times O weary reckoning!"
+        },
+        {
+            "speaker": "cassio",
+            "text": "Pardon me, Bianca: I have this while with leaden thoughts been pressd: But I shall, in a more continuate time, Strike off this score of absence. Sweet Bianca, Take me this work out."
+        },
+        {
+            "text": "Giving her DESDEMONAs handkerchief"
+        },
+        {
+            "speaker": "bianca",
+            "text": "O Cassio, whence came this This is some token from a newer friend: To the felt absence now I feel a cause: Ist come to this Well, well."
+        },
+        {
+            "speaker": "cassio",
+            "text": "Go to, woman! Throw your vile guesses in the devils teeth, From whence you have them. You are jealous now That this is from some mistress, some remembrance: No, in good troth, Bianca."
+        },
+        {
+            "speaker": "bianca",
+            "text": "Why, whose is it"
+        },
+        {
+            "speaker": "cassio",
+            "text": "I know not, sweet: I found it in my chamber. I like the work well: ere it be demanded As like enough it willIld have it copied: Take it, and dot and leave me for this time."
+        },
+        {
+            "speaker": "bianca",
+            "text": "Leave you! wherefore"
+        },
+        {
+            "speaker": "cassio",
+            "text": "I do attend here on the general And think it no addition, nor my wish, To have him see me womand."
+        },
+        {
+            "speaker": "bianca",
+            "text": "Why, I pray you"
+        },
+        {
+            "speaker": "cassio",
+            "text": "Not that I love you not."
+        },
+        {
+            "speaker": "bianca",
+            "text": "But that you do not love me. I pray you, bring me on the way a little, And say if I shall see you soon at night."
+        },
+        {
+            "speaker": "cassio",
+            "text": "Tis but a little way that I can bring you For I attend here: but Ill see you soon."
+        },
+        {
+            "speaker": "bianca",
+            "text": "Tis very good I must be circumstanced."
+        },
+        {
+            "text": "Exeunt"
+        }
+    ]
+}

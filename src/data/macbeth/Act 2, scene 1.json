@@ -1,0 +1,89 @@
+{
+    "sceneName": "Act 2, scene 1",
+    "playName": "macbeth",
+    "location": "Court of Macbeths castle.",
+    "lines": [
+        {
+            "text": "Enter BANQUO, and FLEANCE bearing a torch before him"
+        },
+        {
+            "speaker": "banquo",
+            "text": "How goes the night, boy"
+        },
+        {
+            "speaker": "fleance",
+            "text": "The moon is down I have not heard the clock."
+        },
+        {
+            "speaker": "banquo",
+            "text": "And she goes down at twelve."
+        },
+        {
+            "speaker": "fleance",
+            "text": "I taket, tis later, sir."
+        },
+        {
+            "speaker": "banquo",
+            "text": "Hold, take my sword. Theres husbandry in heaven Their candles are all out. Take thee that too. A heavy summons lies like lead upon me, And yet I would not sleep: merciful powers, Restrain in me the cursed thoughts that nature Gives way to in repose! Give me my sword. Whos there"
+        },
+        {
+            "text": "Enter MACBETH, and a Servant with a torch"
+        },
+        {
+            "speaker": "macbeth",
+            "text": "A friend."
+        },
+        {
+            "speaker": "banquo",
+            "text": "What, sir, not yet at rest The kings abed: He hath been in unusual pleasure, and Sent forth great largess to your offices. This diamond he greets your wife withal, By the name of most kind hostess and shut up In measureless content."
+        },
+        {
+            "speaker": "macbeth",
+            "text": "Being unprepared, Our will became the servant to defect Which else should free have wrought."
+        },
+        {
+            "speaker": "banquo",
+            "text": "Alls well. I dreamt last night of the three weird sisters: To you they have showd some truth."
+        },
+        {
+            "speaker": "macbeth",
+            "text": "I think not of them: Yet, when we can entreat an hour to serve, We would spend it in some words upon that business, If you would grant the time."
+        },
+        {
+            "speaker": "banquo",
+            "text": "At your kindst leisure."
+        },
+        {
+            "speaker": "macbeth",
+            "text": "If you shall cleave to my consent, when tis, It shall make honour for you."
+        },
+        {
+            "speaker": "banquo",
+            "text": "So I lose none In seeking to augment it, but still keep My bosom franchised and allegiance clear, I shall be counselld."
+        },
+        {
+            "speaker": "macbeth",
+            "text": "Good repose the while!"
+        },
+        {
+            "speaker": "banquo",
+            "text": "Thanks, sir: the like to you!"
+        },
+        {
+            "text": "Exeunt BANQUO and FLEANCE"
+        },
+        {
+            "speaker": "macbeth",
+            "text": "Go bid thy mistress, when my drink is ready, She strike upon the bell. Get thee to bed. Is this a dagger which I see before me, The handle toward my hand Come, let me clutch thee. I have thee not, and yet I see thee still. Art thou not, fatal vision, sensible To feeling as to sight or art thou but A dagger of the mind, a false creation, Proceeding from the heatoppressed brain I see thee yet, in form as palpable As this which now I draw. Thou marshallst me the way that I was going And such an instrument I was to use. Mine eyes are made the fools o the other senses, Or else worth all the rest I see thee still, And on thy blade and dudgeon gouts of blood, Which was not so before. Theres no such thing: It is the bloody business which informs Thus to mine eyes. Now oer the one halfworld Nature seems dead, and wicked dreams abuse The curtaind sleep witchcraft celebrates Pale Hecates offerings, and witherd murder, Alarumd by his sentinel, the wolf, Whose howls his watch, thus with his stealthy pace. With Tarquins ravishing strides, towards his design Moves like a ghost. Thou sure and firmset earth, Hear not my steps, which way they walk, for fear Thy very stones prate of my whereabout, And take the present horror from the time, Which now suits with it. Whiles I threat, he lives: Words to the heat of deeds too cold breath gives. I go, and it is done the bell invites me. Hear it not, Duncan for it is a knell That summons thee to heaven or to hell."
+        },
+        {
+            "text": "Exit Servant"
+        },
+        {
+            "text": "A bell rings"
+        },
+        {
+            "text": "Exit"
+        }
+    ]
+}

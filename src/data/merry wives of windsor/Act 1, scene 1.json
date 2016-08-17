@@ -1,0 +1,582 @@
+{
+    "sceneName": "Act 1, scene 1",
+    "playName": "merry wives of windsor",
+    "location": "Windsor. Before PAGEs house.",
+    "lines": [
+        {
+            "text": "Enter SHALLOW, SLENDER, and SIR HUGH EVANS"
+        },
+        {
+            "speaker": "shallow",
+            "text": "Sir Hugh, persuade me not I will make a Star chamber matter of it: if he were twenty Sir John Falstaffs, he shall not abuse Robert Shallow, esquire."
+        },
+        {
+            "speaker": "slender",
+            "text": "In the county of Gloucester, justice of peace and Coram."
+        },
+        {
+            "speaker": "shallow",
+            "text": "Ay, cousin Slender, and Custalourum."
+        },
+        {
+            "speaker": "slender",
+            "text": "Ay, and Ratolorum too and a gentleman born, master parson who writes himself Armigero, in any bill, warrant, quittance, or obligation, Armigero."
+        },
+        {
+            "speaker": "shallow",
+            "text": "Ay, that I do and have done any time these three hundred years."
+        },
+        {
+            "speaker": "slender",
+            "text": "All his successors gone before him hath donet and all his ancestors that come after him may: they may give the dozen white luces in their coat."
+        },
+        {
+            "speaker": "shallow",
+            "text": "It is an old coat."
+        },
+        {
+            "speaker": "sir hugh evans",
+            "text": "The dozen white louses do become an old coat well it agrees well, passant it is a familiar beast to man, and signifies love."
+        },
+        {
+            "speaker": "shallow",
+            "text": "The luce is the fresh fish the salt fish is an old coat."
+        },
+        {
+            "speaker": "slender",
+            "text": "I may quarter, coz."
+        },
+        {
+            "speaker": "shallow",
+            "text": "You may, by marrying."
+        },
+        {
+            "speaker": "sir hugh evans",
+            "text": "It is marring indeed, if he quarter it."
+        },
+        {
+            "speaker": "shallow",
+            "text": "Not a whit."
+        },
+        {
+            "speaker": "sir hugh evans",
+            "text": "Yes, pyr lady if he has a quarter of your coat, there is but three skirts for yourself, in my simple conjectures: but that is all one. If Sir John Falstaff have committed disparagements unto you, I am of the church, and will be glad to do my benevolence to make atonements and compremises between you."
+        },
+        {
+            "speaker": "shallow",
+            "text": "The council shall bear it it is a riot."
+        },
+        {
+            "speaker": "sir hugh evans",
+            "text": "It is not meet the council hear a riot there is no fear of Got in a riot: the council, look you, shall desire to hear the fear of Got, and not to hear a riot take your vizaments in that."
+        },
+        {
+            "speaker": "shallow",
+            "text": "Ha! o my life, if I were young again, the sword should end it."
+        },
+        {
+            "speaker": "sir hugh evans",
+            "text": "It is petter that friends is the sword, and end it: and there is also another device in my prain, which peradventure prings goot discretions with it: there is Anne Page, which is daughter to Master Thomas Page, which is pretty virginity."
+        },
+        {
+            "speaker": "slender",
+            "text": "Mistress Anne Page She has brown hair, and speaks small like a woman."
+        },
+        {
+            "speaker": "sir hugh evans",
+            "text": "It is that fery person for all the orld, as just as you will desire and seven hundred pounds of moneys, and gold and silver, is her grandsire upon his deathsbedGot deliver to a joyful resurrections! give, when she is able to overtake seventeen years old: it were a goot motion if we leave our pribbles and prabbles, and desire a marriage between Master Abraham and Mistress Anne Page."
+        },
+        {
+            "speaker": "slender",
+            "text": "Did her grandsire leave her seven hundred pound"
+        },
+        {
+            "speaker": "sir hugh evans",
+            "text": "Ay, and her father is make her a petter penny."
+        },
+        {
+            "speaker": "slender",
+            "text": "I know the young gentlewoman she has good gifts."
+        },
+        {
+            "speaker": "sir hugh evans",
+            "text": "Seven hundred pounds and possibilities is goot gifts."
+        },
+        {
+            "speaker": "shallow",
+            "text": "Well, let us see honest Master Page. Is Falstaff there"
+        },
+        {
+            "speaker": "sir hugh evans",
+            "text": "Shall I tell you a lie I do despise a liar as I do despise one that is false, or as I despise one that is not true. The knight, Sir John, is there and, I beseech you, be ruled by your wellwillers. I will peat the door for Master Page. What, hoa! Got pless your house here!"
+        },
+        {
+            "text": "Knocks"
+        },
+        {
+            "speaker": "page",
+            "text": "[Within]  Whos there"
+        },
+        {
+            "text": "Enter PAGE"
+        },
+        {
+            "speaker": "sir hugh evans",
+            "text": "Here is Gots plessing, and your friend, and Justice Shallow and here young Master Slender, that peradventures shall tell you another tale, if matters grow to your likings."
+        },
+        {
+            "speaker": "page",
+            "text": "I am glad to see your worships well. I thank you for my venison, Master Shallow."
+        },
+        {
+            "speaker": "shallow",
+            "text": "Master Page, I am glad to see you: much good do it your good heart! I wished your venison better it was ill killed. How doth good Mistress Pageand I thank you always with my heart, la! with my heart."
+        },
+        {
+            "speaker": "page",
+            "text": "Sir, I thank you."
+        },
+        {
+            "speaker": "shallow",
+            "text": "Sir, I thank you by yea and no, I do."
+        },
+        {
+            "speaker": "page",
+            "text": "I am glad to see you, good Master Slender."
+        },
+        {
+            "speaker": "slender",
+            "text": "How does your fallow greyhound, sir I heard say he was outrun on Cotsall."
+        },
+        {
+            "speaker": "page",
+            "text": "It could not be judged, sir."
+        },
+        {
+            "speaker": "slender",
+            "text": "Youll not confess, youll not confess."
+        },
+        {
+            "speaker": "shallow",
+            "text": "That he will not. Tis your fault, tis your fault tis a good dog."
+        },
+        {
+            "speaker": "page",
+            "text": "A cur, sir."
+        },
+        {
+            "speaker": "shallow",
+            "text": "Sir, hes a good dog, and a fair dog: can there be more said he is good and fair. Is Sir John Falstaff here"
+        },
+        {
+            "speaker": "page",
+            "text": "Sir, he is within and I would I could do a good office between you."
+        },
+        {
+            "speaker": "sir hugh evans",
+            "text": "It is spoke as a Christians ought to speak."
+        },
+        {
+            "speaker": "shallow",
+            "text": "He hath wronged me, Master Page."
+        },
+        {
+            "speaker": "page",
+            "text": "Sir, he doth in some sort confess it."
+        },
+        {
+            "speaker": "shallow",
+            "text": "If it be confessed, it is not redressd: is not that so, Master Page He hath wronged me indeed he hath, at a word, he hath, believe me: Robert Shallow, esquire, saith, he is wronged."
+        },
+        {
+            "speaker": "page",
+            "text": "Here comes Sir John."
+        },
+        {
+            "text": "Enter FALSTAFF, BARDOLPH, NYM, and PISTOL"
+        },
+        {
+            "speaker": "falstaff",
+            "text": "Now, Master Shallow, youll complain of me to the king"
+        },
+        {
+            "speaker": "shallow",
+            "text": "Knight, you have beaten my men, killed my deer, and broke open my lodge."
+        },
+        {
+            "speaker": "falstaff",
+            "text": "But not kissed your keepers daughter"
+        },
+        {
+            "speaker": "shallow",
+            "text": "Tut, a pin! this shall be answered."
+        },
+        {
+            "speaker": "falstaff",
+            "text": "I will answer it straight I have done all this. That is now answered."
+        },
+        {
+            "speaker": "shallow",
+            "text": "The council shall know this."
+        },
+        {
+            "speaker": "falstaff",
+            "text": "Twere better for you if it were known in counsel: youll be laughed at."
+        },
+        {
+            "speaker": "sir hugh evans",
+            "text": "Pauca verba, Sir John goot worts."
+        },
+        {
+            "speaker": "falstaff",
+            "text": "Good worts! good cabbage. Slender, I broke your head: what matter have you against me"
+        },
+        {
+            "speaker": "slender",
+            "text": "Marry, sir, I have matter in my head against you and against your conycatching rascals, Bardolph, Nym, and Pistol."
+        },
+        {
+            "speaker": "bardolph",
+            "text": "You Banbury cheese!"
+        },
+        {
+            "speaker": "slender",
+            "text": "Ay, it is no matter."
+        },
+        {
+            "speaker": "pistol",
+            "text": "How now, Mephostophilus!"
+        },
+        {
+            "speaker": "slender",
+            "text": "Ay, it is no matter."
+        },
+        {
+            "speaker": "nym",
+            "text": "Slice, I say! pauca, pauca: slice! thats my humour."
+        },
+        {
+            "speaker": "slender",
+            "text": "Wheres Simple, my man Can you tell, cousin"
+        },
+        {
+            "speaker": "sir hugh evans",
+            "text": "Peace, I pray you. Now let us understand. There is three umpires in this matter, as I understand that is, Master Page, fidelicet Master Page and there is myself, fidelicet myself and the three party is, lastly and finally, mine host of the Garter."
+        },
+        {
+            "speaker": "page",
+            "text": "We three, to hear it and end it between them."
+        },
+        {
+            "speaker": "sir hugh evans",
+            "text": "Fery goot: I will make a prief of it in my note book and we will afterwards ork upon the cause with as great discreetly as we can."
+        },
+        {
+            "speaker": "falstaff",
+            "text": "Pistol!"
+        },
+        {
+            "speaker": "pistol",
+            "text": "He hears with ears."
+        },
+        {
+            "speaker": "sir hugh evans",
+            "text": "The tevil and his tam! what phrase is this, He hears with ear why, it is affectations."
+        },
+        {
+            "speaker": "falstaff",
+            "text": "Pistol, did you pick Master Slenders purse"
+        },
+        {
+            "speaker": "slender",
+            "text": "Ay, by these gloves, did he, or I would I might never come in mine own great chamber again else, of seven groats in millsixpences, and two Edward shovelboards, that cost me two shilling and two pence apiece of Yead Miller, by these gloves."
+        },
+        {
+            "speaker": "falstaff",
+            "text": "Is this true, Pistol"
+        },
+        {
+            "speaker": "sir hugh evans",
+            "text": "No it is false, if it is a pickpurse."
+        },
+        {
+            "speaker": "pistol",
+            "text": "Ha, thou mountainforeigner! Sir John and Master mine, I combat challenge of this latten bilbo. Word of denial in thy labras here! Word of denial: froth and scum, thou liest!"
+        },
+        {
+            "speaker": "slender",
+            "text": "By these gloves, then, twas he."
+        },
+        {
+            "speaker": "nym",
+            "text": "Be avised, sir, and pass good humours: I will say marry trap with you, if you run the nuthooks humour on me that is the very note of it."
+        },
+        {
+            "speaker": "slender",
+            "text": "By this hat, then, he in the red face had it for though I cannot remember what I did when you made me drunk, yet I am not altogether an ass."
+        },
+        {
+            "speaker": "falstaff",
+            "text": "What say you, Scarlet and John"
+        },
+        {
+            "speaker": "bardolph",
+            "text": "Why, sir, for my part I say the gentleman had drunk himself out of his five sentences."
+        },
+        {
+            "speaker": "sir hugh evans",
+            "text": "It is his five senses: fie, what the ignorance is!"
+        },
+        {
+            "speaker": "bardolph",
+            "text": "And being fap, sir, was, as they say, cashiered and so conclusions passed the careires."
+        },
+        {
+            "speaker": "slender",
+            "text": "Ay, you spake in Latin then too but tis no matter: Ill neer be drunk whilst I live again, but in honest, civil, godly company, for this trick: if I be drunk, Ill be drunk with those that have the fear of God, and not with drunken knaves."
+        },
+        {
+            "speaker": "sir hugh evans",
+            "text": "So Got udge me, that is a virtuous mind."
+        },
+        {
+            "speaker": "falstaff",
+            "text": "You hear all these matters denied, gentlemen you hear it. Enter ANNE PAGE, with wine MISTRESS FORD and MISTRESS PAGE, following"
+        },
+        {
+            "speaker": "page",
+            "text": "Nay, daughter, carry the wine in well drink within."
+        },
+        {
+            "text": "Exit ANNE PAGE"
+        },
+        {
+            "speaker": "slender",
+            "text": "O heaven! this is Mistress Anne Page."
+        },
+        {
+            "speaker": "page",
+            "text": "How now, Mistress Ford!"
+        },
+        {
+            "speaker": "falstaff",
+            "text": "Mistress Ford, by my troth, you are very well met: by your leave, good mistress."
+        },
+        {
+            "text": "Kisses her"
+        },
+        {
+            "speaker": "page",
+            "text": "Wife, bid these gentlemen welcome. Come, we have a hot venison pasty to dinner: come, gentlemen, I hope we shall drink down all unkindness."
+        },
+        {
+            "text": "Exeunt all except SHALLOW, SLENDER, and SIR HUGH EVANS"
+        },
+        {
+            "speaker": "slender",
+            "text": "I had rather than forty shillings I had my Book of Songs and Sonnets here. How now, Simple! where have you been I must wait on myself, must I You have not the Book of Riddles about you, have you"
+        },
+        {
+            "text": "Enter SIMPLE"
+        },
+        {
+            "speaker": "simple",
+            "text": "Book of Riddles! why, did you not lend it to Alice Shortcake upon Allhallowmas last, a fortnight afore Michaelmas"
+        },
+        {
+            "speaker": "shallow",
+            "text": "Come, coz come, coz we stay for you. A word with you, coz marry, this, coz: there is, as twere, a tender, a kind of tender, made afar off by Sir Hugh here. Do you understand me"
+        },
+        {
+            "speaker": "slender",
+            "text": "Ay, sir, you shall find me reasonable if it be so, I shall do that that is reason."
+        },
+        {
+            "speaker": "shallow",
+            "text": "Nay, but understand me."
+        },
+        {
+            "speaker": "slender",
+            "text": "So I do, sir."
+        },
+        {
+            "speaker": "sir hugh evans",
+            "text": "Give ear to his motions, Master Slender: I will description the matter to you, if you be capacity of it."
+        },
+        {
+            "speaker": "slender",
+            "text": "Nay, I will do as my cousin Shallow says: I pray you, pardon me hes a justice of peace in his country, simple though I stand here."
+        },
+        {
+            "speaker": "sir hugh evans",
+            "text": "But that is not the question: the question is concerning your marriage."
+        },
+        {
+            "speaker": "shallow",
+            "text": "Ay, theres the point, sir."
+        },
+        {
+            "speaker": "sir hugh evans",
+            "text": "Marry, is it the very point of it to Mistress Anne Page."
+        },
+        {
+            "speaker": "slender",
+            "text": "Why, if it be so, I will marry her upon any reasonable demands."
+        },
+        {
+            "speaker": "sir hugh evans",
+            "text": "But can you affection the oman Let us command to know that of your mouth or of your lips for divers philosophers hold that the lips is parcel of the mouth. Therefore, precisely, can you carry your good will to the maid"
+        },
+        {
+            "speaker": "shallow",
+            "text": "Cousin Abraham Slender, can you love her"
+        },
+        {
+            "speaker": "slender",
+            "text": "I hope, sir, I will do as it shall become one that would do reason."
+        },
+        {
+            "speaker": "sir hugh evans",
+            "text": "Nay, Gots lords and his ladies! you must speak possitable, if you can carry her your desires towards her."
+        },
+        {
+            "speaker": "shallow",
+            "text": "That you must. Will you, upon good dowry, marry her"
+        },
+        {
+            "speaker": "slender",
+            "text": "I will do a greater thing than that, upon your request, cousin, in any reason."
+        },
+        {
+            "speaker": "shallow",
+            "text": "Nay, conceive me, conceive me, sweet coz: what I do is to pleasure you, coz. Can you love the maid"
+        },
+        {
+            "speaker": "slender",
+            "text": "I will marry her, sir, at your request: but if there be no great love in the beginning, yet heaven may decrease it upon better acquaintance, when we are married and have more occasion to know one another I hope, upon familiarity will grow more contempt: but if you say, Marry her, I will marry her that I am freely dissolved, and dissolutely."
+        },
+        {
+            "speaker": "sir hugh evans",
+            "text": "It is a fery discretion answer save the fall is in the ort dissolutely: the ort is, according to our meaning, resolutely: his meaning is good."
+        },
+        {
+            "speaker": "shallow",
+            "text": "Ay, I think my cousin meant well."
+        },
+        {
+            "speaker": "slender",
+            "text": "Ay, or else I would I might be hanged, la!"
+        },
+        {
+            "speaker": "shallow",
+            "text": "Here comes fair Mistress Anne. Would I were young for your sake, Mistress Anne!"
+        },
+        {
+            "text": "Reenter ANNE PAGE"
+        },
+        {
+            "speaker": "anne page",
+            "text": "The dinner is on the table my father desires your worships company."
+        },
+        {
+            "speaker": "shallow",
+            "text": "I will wait on him, fair Mistress Anne."
+        },
+        {
+            "speaker": "sir hugh evans",
+            "text": "Ods plessed will! I will not be absence at the grace."
+        },
+        {
+            "text": "Exeunt SHALLOW and SIR HUGH EVANS"
+        },
+        {
+            "speaker": "anne page",
+            "text": "Willt please your worship to come in, sir"
+        },
+        {
+            "speaker": "slender",
+            "text": "No, I thank you, forsooth, heartily I am very well."
+        },
+        {
+            "speaker": "anne page",
+            "text": "The dinner attends you, sir."
+        },
+        {
+            "speaker": "slender",
+            "text": "I am not ahungry, I thank you, forsooth. Go, sirrah, for all you are my man, go wait upon my cousin Shallow. A justice of peace sometimes may be beholding to his friend for a man. I keep but three men and a boy yet, till my mother be dead: but what though Yet I live like a poor gentleman born."
+        },
+        {
+            "text": "Exit SIMPLE"
+        },
+        {
+            "speaker": "anne page",
+            "text": "I may not go in without your worship: they will not sit till you come."
+        },
+        {
+            "speaker": "slender",
+            "text": "I faith, Ill eat nothing I thank you as much as though I did."
+        },
+        {
+            "speaker": "anne page",
+            "text": "I pray you, sir, walk in."
+        },
+        {
+            "speaker": "slender",
+            "text": "I had rather walk here, I thank you. I bruised my shin th other day with playing at sword and dagger with a master of fence three veneys for a dish of stewed prunes and, by my troth, I cannot abide the smell of hot meat since. Why do your dogs bark so be there bears i the town"
+        },
+        {
+            "speaker": "anne page",
+            "text": "I think there are, sir I heard them talked of."
+        },
+        {
+            "speaker": "slender",
+            "text": "I love the sport well but I shall as soon quarrel at it as any man in England. You are afraid, if you see the bear loose, are you not"
+        },
+        {
+            "speaker": "anne page",
+            "text": "Ay, indeed, sir."
+        },
+        {
+            "speaker": "slender",
+            "text": "Thats meat and drink to me, now. I have seen Sackerson loose twenty times, and have taken him by the chain but, I warrant you, the women have so cried and shrieked at it, that it passed: but women, indeed, cannot abide em they are very illfavored rough things."
+        },
+        {
+            "text": "Reenter PAGE"
+        },
+        {
+            "speaker": "page",
+            "text": "Come, gentle Master Slender, come we stay for you."
+        },
+        {
+            "speaker": "slender",
+            "text": "Ill eat nothing, I thank you, sir."
+        },
+        {
+            "speaker": "page",
+            "text": "By cock and pie, you shall not choose, sir! come, come."
+        },
+        {
+            "speaker": "slender",
+            "text": "Nay, pray you, lead the way."
+        },
+        {
+            "speaker": "page",
+            "text": "Come on, sir."
+        },
+        {
+            "speaker": "slender",
+            "text": "Mistress Anne, yourself shall go first."
+        },
+        {
+            "speaker": "anne page",
+            "text": "Not I, sir pray you, keep on."
+        },
+        {
+            "speaker": "slender",
+            "text": "Ill rather be unmannerly than troublesome. You do yourself wrong, indeed, la!"
+        },
+        {
+            "text": "Exeunt"
+        }
+    ]
+}

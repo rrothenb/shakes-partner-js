@@ -1,0 +1,392 @@
+{
+    "sceneName": "Act 4, scene 5",
+    "playName": "coriolanus",
+    "location": "The same. A hall in Aufidiuss house.",
+    "lines": [
+        {
+            "text": "Music within. Enter a Servingman"
+        },
+        {
+            "speaker": "first servingman",
+            "text": "Wine, wine, wine! What service is here! I think our fellows are asleep."
+        },
+        {
+            "text": "Exit"
+        },
+        {
+            "text": "Enter a second Servingman"
+        },
+        {
+            "speaker": "second servingman",
+            "text": "Wheres Cotus my master calls for him. Cotus!"
+        },
+        {
+            "text": "Exit"
+        },
+        {
+            "text": "Enter CORIOLANUS"
+        },
+        {
+            "speaker": "coriolanus",
+            "text": "A goodly house: the feast smells well but I Appear not like a guest."
+        },
+        {
+            "text": "Reenter the first Servingman"
+        },
+        {
+            "speaker": "first servingman",
+            "text": "What would you have, friend whence are you Heres no place for you: pray, go to the door."
+        },
+        {
+            "text": "Exit"
+        },
+        {
+            "speaker": "coriolanus",
+            "text": "I have deserved no better entertainment, In being Coriolanus."
+        },
+        {
+            "text": "Reenter second Servingman"
+        },
+        {
+            "speaker": "second servingman",
+            "text": "Whence are you, sir Has the porter his eyes in his head that he gives entrance to such companions Pray, get you out."
+        },
+        {
+            "speaker": "coriolanus",
+            "text": "Away!"
+        },
+        {
+            "speaker": "second servingman",
+            "text": "Away! get you away."
+        },
+        {
+            "speaker": "coriolanus",
+            "text": "Now thourt troublesome."
+        },
+        {
+            "speaker": "second servingman",
+            "text": "Are you so brave Ill have you talked with anon."
+        },
+        {
+            "text": "Enter a third Servingman. The first meets him"
+        },
+        {
+            "speaker": "third servingman",
+            "text": "What fellows this"
+        },
+        {
+            "speaker": "first servingman",
+            "text": "A strange one as ever I looked on: I cannot get him out of the house: prithee, call my master to him."
+        },
+        {
+            "text": "Retires"
+        },
+        {
+            "speaker": "third servingman",
+            "text": "What have you to do here, fellow Pray you, avoid the house."
+        },
+        {
+            "speaker": "coriolanus",
+            "text": "Let me but stand I will not hurt your hearth."
+        },
+        {
+            "speaker": "third servingman",
+            "text": "What are you"
+        },
+        {
+            "speaker": "coriolanus",
+            "text": "A gentleman."
+        },
+        {
+            "speaker": "third servingman",
+            "text": "A marvellous poor one."
+        },
+        {
+            "speaker": "coriolanus",
+            "text": "True, so I am."
+        },
+        {
+            "speaker": "third servingman",
+            "text": "Pray you, poor gentleman, take up some other station heres no place for you pray you, avoid: come."
+        },
+        {
+            "speaker": "coriolanus",
+            "text": "Follow your function, go, and batten on cold bits."
+        },
+        {
+            "text": "Pushes him away"
+        },
+        {
+            "speaker": "third servingman",
+            "text": "What, you will not Prithee, tell my master what a strange guest he has here."
+        },
+        {
+            "speaker": "second servingman",
+            "text": "And I shall."
+        },
+        {
+            "text": "Exit"
+        },
+        {
+            "speaker": "third servingman",
+            "text": "Where dwellest thou"
+        },
+        {
+            "speaker": "coriolanus",
+            "text": "Under the canopy."
+        },
+        {
+            "speaker": "third servingman",
+            "text": "Under the canopy!"
+        },
+        {
+            "speaker": "coriolanus",
+            "text": "Ay."
+        },
+        {
+            "speaker": "third servingman",
+            "text": "Wheres that"
+        },
+        {
+            "speaker": "coriolanus",
+            "text": "I the city of kites and crows."
+        },
+        {
+            "speaker": "third servingman",
+            "text": "I the city of kites and crows! What an ass it is! Then thou dwellest with daws too"
+        },
+        {
+            "speaker": "coriolanus",
+            "text": "No, I serve not thy master."
+        },
+        {
+            "speaker": "third servingman",
+            "text": "How, sir! do you meddle with my master"
+        },
+        {
+            "speaker": "coriolanus",
+            "text": "Ay tis an honester service than to meddle with thy mistress. Thou pratest, and pratest serve with thy trencher, hence!"
+        },
+        {
+            "text": "Beats him away. Exit third Servingman"
+        },
+        {
+            "text": "Enter AUFIDIUS with the second Servingman"
+        },
+        {
+            "speaker": "aufidius",
+            "text": "Where is this fellow"
+        },
+        {
+            "speaker": "second servingman",
+            "text": "Here, sir: Ild have beaten him like a dog, but for disturbing the lords within."
+        },
+        {
+            "text": "Retires"
+        },
+        {
+            "speaker": "aufidius",
+            "text": "Whence comest thou what wouldst thou thy name Why speakst not speak, man: whats thy name"
+        },
+        {
+            "speaker": "coriolanus",
+            "text": "If, Tullus, Not yet thou knowest me, and, seeing me, dost not Think me for the man I am, necessity Commands me name myself."
+        },
+        {
+            "text": "Unmuffling"
+        },
+        {
+            "speaker": "aufidius",
+            "text": "What is thy name"
+        },
+        {
+            "speaker": "coriolanus",
+            "text": "A name unmusical to the Volscians ears, And harsh in sound to thine."
+        },
+        {
+            "speaker": "aufidius",
+            "text": "Say, whats thy name Thou hast a grim appearance, and thy face Bears a command int though thy tackles torn. Thou showst a noble vessel: whats thy name"
+        },
+        {
+            "speaker": "coriolanus",
+            "text": "Prepare thy brow to frown: knowst thou me yet"
+        },
+        {
+            "speaker": "aufidius",
+            "text": "I know thee not: thy name"
+        },
+        {
+            "speaker": "coriolanus",
+            "text": "My name is Caius Marcius, who hath done To thee particularly and to all the Volsces Great hurt and mischief thereto witness may My surname, Coriolanus: the painful service, The extreme dangers and the drops of blood Shed for my thankless country are requited But with that surname a good memory, And witness of the malice and displeasure Which thou shouldst bear me: only that name remains The cruelty and envy of the people, Permitted by our dastard nobles, who Have all forsook me, hath devourd the rest And sufferd me by the voice of slaves to be Whoopd out of Rome. Now this extremity Hath brought me to thy hearth not out of hope Mistake me notto save my life, for if I had feard death, of all the men i the world I would have voided thee, but in mere spite, To be full quit of those my banishers, Stand I before thee here. Then if thou hast A heart of wreak in thee, that wilt revenge Thine own particular wrongs and stop those maims Of shame seen through thy country, speed thee straight, And make my misery serve thy turn: so use it That my revengeful services may prove As benefits to thee, for I will fight Against my cankerd country with the spleen Of all the under fiends. But if so be Thou darest not this and that to prove more fortunes Thourt tired, then, in a word, I also am Longer to live most weary, and present My throat to thee and to thy ancient malice Which not to cut would show thee but a fool, Since I have ever followd thee with hate, Drawn tuns of blood out of thy countrys breast, And cannot live but to thy shame, unless It be to do thee service."
+        },
+        {
+            "speaker": "aufidius",
+            "text": "O Marcius, Marcius! Each word thou hast spoke hath weeded from my heart A root of ancient envy. If Jupiter Should from yond cloud speak divine things, And say Tis true, Ild not believe them more Than thee, all noble Marcius. Let me twine Mine arms about that body, where against My grained ash an hundred times hath broke And scarrd the moon with splinters: here I clip The anvil of my sword, and do contest As hotly and as nobly with thy love As ever in ambitious strength I did Contend against thy valour. Know thou first, I loved the maid I married never man Sighd truer breath but that I see thee here, Thou noble thing! more dances my rapt heart Than when I first my wedded mistress saw Bestride my threshold. Why, thou Mars! I tell thee, We have a power on foot and I had purpose Once more to hew thy target from thy brawn, Or lose mine arm fort: thou hast beat me out Twelve several times, and I have nightly since Dreamt of encounters twixt thyself and me We have been down together in my sleep, Unbuckling helms, fisting each others throat, And waked half dead with nothing. Worthy Marcius, Had we no quarrel else to Rome, but that Thou art thence banishd, we would muster all From twelve to seventy, and pouring war Into the bowels of ungrateful Rome, Like a bold flood oerbear. O, come, go in, And take our friendly senators by the hands Who now are here, taking their leaves of me, Who am prepared against your territories, Though not for Rome itself."
+        },
+        {
+            "speaker": "coriolanus",
+            "text": "You bless me, gods!"
+        },
+        {
+            "speaker": "aufidius",
+            "text": "Therefore, most absolute sir, if thou wilt have The leading of thine own revenges, take The one half of my commission and set down As best thou art experienced, since thou knowst Thy countrys strength and weakness,thine own ways Whether to knock against the gates of Rome, Or rudely visit them in parts remote, To fright them, ere destroy. But come in: Let me commend thee first to those that shall Say yea to thy desires. A thousand welcomes! And more a friend than eer an enemy Yet, Marcius, that was much. Your hand: most welcome!"
+        },
+        {
+            "text": "Exeunt CORIOLANUS and AUFIDIUS. The two Servingmen come forward"
+        },
+        {
+            "speaker": "first servingman",
+            "text": "Heres a strange alteration!"
+        },
+        {
+            "speaker": "second servingman",
+            "text": "By my hand, I had thought to have strucken him with a cudgel and yet my mind gave me his clothes made a false report of him."
+        },
+        {
+            "speaker": "first servingman",
+            "text": "What an arm he has! he turned me about with his finger and his thumb, as one would set up a top."
+        },
+        {
+            "speaker": "second servingman",
+            "text": "Nay, I knew by his face that there was something in him: he had, sir, a kind of face, methought,I cannot tell how to term it."
+        },
+        {
+            "speaker": "first servingman",
+            "text": "He had so looking as it werewould I were hanged, but I thought there was more in him than I could think."
+        },
+        {
+            "speaker": "second servingman",
+            "text": "So did I, Ill be sworn: he is simply the rarest man i the world."
+        },
+        {
+            "speaker": "first servingman",
+            "text": "I think he is: but a greater soldier than he you wot on."
+        },
+        {
+            "speaker": "second servingman",
+            "text": "Who, my master"
+        },
+        {
+            "speaker": "first servingman",
+            "text": "Nay, its no matter for that."
+        },
+        {
+            "speaker": "second servingman",
+            "text": "Worth six on him."
+        },
+        {
+            "speaker": "first servingman",
+            "text": "Nay, not so neither: but I take him to be the greater soldier."
+        },
+        {
+            "speaker": "second servingman",
+            "text": "Faith, look you, one cannot tell how to say that: for the defence of a town, our general is excellent."
+        },
+        {
+            "speaker": "first servingman",
+            "text": "Ay, and for an assault too."
+        },
+        {
+            "text": "Reenter third Servingman"
+        },
+        {
+            "speaker": "third servingman",
+            "text": "O slaves, I can tell you news, news, you rascals!"
+        },
+        {
+            "speaker": "second servingman",
+            "text": "What, what, what lets partake."
+        },
+        {
+            "speaker": "third servingman",
+            "text": "I would not be a Roman, of all nations I had as lieve be a condemned man."
+        },
+        {
+            "speaker": "second servingman",
+            "text": "Wherefore wherefore"
+        },
+        {
+            "speaker": "third servingman",
+            "text": "Why, heres he that was wont to thwack our general, Caius Marcius."
+        },
+        {
+            "speaker": "first servingman",
+            "text": "Why do you say thwack our general "
+        },
+        {
+            "speaker": "third servingman",
+            "text": "I do not say thwack our general but he was always good enough for him."
+        },
+        {
+            "speaker": "second servingman",
+            "text": "Come, we are fellows and friends: he was ever too hard for him I have heard him say so himself."
+        },
+        {
+            "speaker": "first servingman",
+            "text": "He was too hard for him directly, to say the troth ont: before Corioli he scotched him and notched him like a carbon ado."
+        },
+        {
+            "speaker": "second servingman",
+            "text": "An he had been cannibally given, he might have broiled and eaten him too."
+        },
+        {
+            "speaker": "first servingman",
+            "text": "But, more of thy news"
+        },
+        {
+            "speaker": "third servingman",
+            "text": "Why, he is so made on here within, as if he were son and heir to Mars set at upper end o the table no question asked him by any of the senators, but they stand bald before him: our general himself makes a mistress of him: sanctifies himself withs hand and turns up the white o the eye to his discourse. But the bottom of the news is that our general is cut i the middle and but one half of what he was yesterday for the other has half, by the entreaty and grant of the whole table. Hell go, he says, and sowl the porter of Rome gates by the ears: he will mow all down before him, and leave his passage polled."
+        },
+        {
+            "speaker": "second servingman",
+            "text": "And hes as like to dot as any man I can imagine."
+        },
+        {
+            "speaker": "third servingman",
+            "text": "Dot! he will dot for, look you, sir, he has as many friends as enemies which friends, sir, as it were, durst not, look you, sir, show themselves, as we term it, his friends whilst hes in directitude."
+        },
+        {
+            "speaker": "first servingman",
+            "text": "Directitude! whats that"
+        },
+        {
+            "speaker": "third servingman",
+            "text": "But when they shall see, sir, his crest up again, and the man in blood, they will out of their burrows, like conies after rain, and revel all with him."
+        },
+        {
+            "speaker": "first servingman",
+            "text": "But when goes this forward"
+        },
+        {
+            "speaker": "third servingman",
+            "text": "Tomorrow today presently you shall have the drum struck up this afternoon: tis, as it were, a parcel of their feast, and to be executed ere they wipe their lips."
+        },
+        {
+            "speaker": "second servingman",
+            "text": "Why, then we shall have a stirring world again. This peace is nothing, but to rust iron, increase tailors, and breed balladmakers."
+        },
+        {
+            "speaker": "first servingman",
+            "text": "Let me have war, say I it exceeds peace as far as day does night its spritely, waking, audible, and full of vent. Peace is a very apoplexy, lethargy mulled, deaf, sleepy, insensible a getter of more bastard children than wars a destroyer of men."
+        },
+        {
+            "speaker": "second servingman",
+            "text": "Tis so: and as war, in some sort, may be said to be a ravisher, so it cannot be denied but peace is a great maker of cuckolds."
+        },
+        {
+            "speaker": "first servingman",
+            "text": "Ay, and it makes men hate one another."
+        },
+        {
+            "speaker": "third servingman",
+            "text": "Reason because they then less need one another. The wars for my money. I hope to see Romans as cheap as Volscians. They are rising, they are rising."
+        },
+        {
+            "speaker": "all",
+            "text": "In, in, in, in!"
+        },
+        {
+            "text": "Exeunt"
+        }
+    ]
+}

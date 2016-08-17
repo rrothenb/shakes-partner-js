@@ -1,0 +1,237 @@
+{
+    "sceneName": "Act 4, scene 7",
+    "playName": "henry the fifth",
+    "location": "Another part of the field.",
+    "lines": [
+        {
+            "text": "Enter FLUELLEN and GOWER"
+        },
+        {
+            "speaker": "fluellen",
+            "text": "Kill the poys and the luggage! tis expressly against the law of arms: tis as arrant a piece of knavery, mark you now, as can be offert in your conscience, now, is it not"
+        },
+        {
+            "speaker": "gower",
+            "text": "Tis certain theres not a boy left alive and the cowardly rascals that ran from the battle ha done this slaughter: besides, they have burned and carried away all that was in the kings tent wherefore the king, most worthily, hath caused every soldier to cut his prisoners throat. O, tis a gallant king!"
+        },
+        {
+            "speaker": "fluellen",
+            "text": "Ay, he was porn at Monmouth, Captain Gower. What call you the towns name where Alexander the Pig was born!"
+        },
+        {
+            "speaker": "gower",
+            "text": "Alexander the Great."
+        },
+        {
+            "speaker": "fluellen",
+            "text": "Why, I pray you, is not pig great the pig, or the great, or the mighty, or the huge, or the magnanimous, are all one reckonings, save the phrase is a little variations."
+        },
+        {
+            "speaker": "gower",
+            "text": "I think Alexander the Great was born in Macedon his father was called Philip of Macedon, as I take it."
+        },
+        {
+            "speaker": "fluellen",
+            "text": "I think it is in Macedon where Alexander is porn. I tell you, captain, if you look in the maps of the orld, I warrant you sall find, in the comparisons between Macedon and Monmouth, that the situations, look you, is both alike. There is a river in Macedon and there is also moreover a river at Monmouth: it is called Wye at Monmouth but it is out of my prains what is the name of the other river but tis all one, tis alike as my fingers is to my fingers, and there is salmons in both. If you mark Alexanders life well, Harry of Monmouths life is come after it indifferent well for there is figures in all things. Alexander, God knows, and you know, in his rages, and his furies, and his wraths, and his cholers, and his moods, and his displeasures, and his indignations, and also being a little intoxicates in his prains, did, in his ales and his angers, look you, kill his best friend, Cleitus."
+        },
+        {
+            "speaker": "gower",
+            "text": "Our king is not like him in that: he never killed any of his friends."
+        },
+        {
+            "speaker": "fluellen",
+            "text": "It is not well done, mark you now take the tales out of my mouth, ere it is made and finished. I speak but in the figures and comparisons of it: as Alexander killed his friend Cleitus, being in his ales and his cups so also Harry Monmouth, being in his right wits and his good judgments, turned away the fat knight with the great bellydoublet: he was full of jests, and gipes, and knaveries, and mocks I have forgot his name."
+        },
+        {
+            "speaker": "gower",
+            "text": "Sir John Falstaff."
+        },
+        {
+            "speaker": "fluellen",
+            "text": "That is he: Ill tell you there is good men porn at Monmouth."
+        },
+        {
+            "speaker": "gower",
+            "text": "Here comes his majesty. Alarum. Enter KING HENRY, and forces WARWICK, GLOUCESTER, EXETER, and others"
+        },
+        {
+            "speaker": "king henry the fifth",
+            "text": "I was not angry since I came to France Until this instant. Take a trumpet, herald Ride thou unto the horsemen on yon hill: If they will fight with us, bid them come down, Or void the field they do offend our sight: If theyll do neither, we will come to them, And make them skirr away, as swift as stones Enforced from the old Assyrian slings: Besides, well cut the throats of those we have, And not a man of them that we shall take Shall taste our mercy. Go and tell them so."
+        },
+        {
+            "text": "Enter MONTJOY"
+        },
+        {
+            "speaker": "exeter",
+            "text": "Here comes the herald of the French, my liege."
+        },
+        {
+            "speaker": "gloucester",
+            "text": "His eyes are humbler than they used to be."
+        },
+        {
+            "speaker": "king henry the fifth",
+            "text": "How now! what means this, herald knowst thou not That I have  fined these bones of mine for ransom Comest thou again for ransom"
+        },
+        {
+            "speaker": "montjoy",
+            "text": "No, great king: I come to thee for charitable licence, That we may wander oer this bloody field To look our dead, and then to bury them To sort our nobles from our common men. For many of our princeswoe the while! Lie drownd and soakd in mercenary blood So do our vulgar drench their peasant limbs In blood of princes and their wounded steeds Fret fetlock deep in gore and with wild rage Yerk out their armed heels at their dead masters, Killing them twice. O, give us leave, great king, To view the field in safety and dispose Of their dead bodies!"
+        },
+        {
+            "speaker": "king henry the fifth",
+            "text": "I tell thee truly, herald, I know not if the day be ours or no For yet a many of your horsemen peer And gallop oer the field."
+        },
+        {
+            "speaker": "montjoy",
+            "text": "The day is yours."
+        },
+        {
+            "speaker": "king henry the fifth",
+            "text": "Praised be God, and not our strength, for it! What is this castle calld that stands hard by"
+        },
+        {
+            "speaker": "montjoy",
+            "text": "They call it Agincourt."
+        },
+        {
+            "speaker": "king henry the fifth",
+            "text": "Then call we this the field of Agincourt, Fought on the day of Crispin Crispianus."
+        },
+        {
+            "speaker": "fluellen",
+            "text": "Your grandfather of famous memory, ant please your majesty, and your greatuncle Edward the Plack Prince of Wales, as I have read in the chronicles, fought a most prave pattle here in France."
+        },
+        {
+            "speaker": "king henry the fifth",
+            "text": "They did, Fluellen."
+        },
+        {
+            "speaker": "fluellen",
+            "text": "Your majesty says very true: if your majesties is remembered of it, the Welshmen did good service in a garden where leeks did grow, wearing leeks in their Monmouth caps which, your majesty know, to this hour is an honourable badge of the service and I do believe your majesty takes no scorn to wear the leek upon Saint Tavys day."
+        },
+        {
+            "speaker": "king henry the fifth",
+            "text": "I wear it for a memorable honour For I am Welsh, you know, good countryman."
+        },
+        {
+            "speaker": "fluellen",
+            "text": "All the water in Wye cannot wash your majestys Welsh plood out of your pody, I can tell you that: God pless it and preserve it, as long as it pleases his grace, and his majesty too!"
+        },
+        {
+            "speaker": "king henry the fifth",
+            "text": "Thanks, good my countryman."
+        },
+        {
+            "speaker": "fluellen",
+            "text": "By Jeshu, I am your majestys countryman, I care not who know it I will confess it to all the orld: I need not to be ashamed of your majesty, praised be God, so long as your majesty is an honest man."
+        },
+        {
+            "speaker": "king henry the fifth",
+            "text": "God keep me so! Our heralds go with him: Bring me just notice of the numbers dead On both our parts. Call yonder fellow hither."
+        },
+        {
+            "text": "Points to WILLIAMS. Exeunt Heralds with Montjoy"
+        },
+        {
+            "speaker": "exeter",
+            "text": "Soldier, you must come to the king."
+        },
+        {
+            "speaker": "king henry the fifth",
+            "text": "Soldier, why wearest thou that glove in thy cap"
+        },
+        {
+            "speaker": "williams",
+            "text": "Ant please your majesty, tis the gage of one that I should fight withal, if he be alive."
+        },
+        {
+            "speaker": "king henry the fifth",
+            "text": "An Englishman"
+        },
+        {
+            "speaker": "williams",
+            "text": "Ant please your majesty, a rascal that swaggered with me last night who, if alive and ever dare to challenge this glove, I have sworn to take him a box o th ear: or if I can see my glove in his cap, which he swore, as he was a soldier, he would wear if alive, I will strike it out soundly."
+        },
+        {
+            "speaker": "king henry the fifth",
+            "text": "What think you, Captain Fluellen is it fit this soldier keep his oath"
+        },
+        {
+            "speaker": "fluellen",
+            "text": "He is a craven and a villain else, ant please your majesty, in my conscience."
+        },
+        {
+            "speaker": "king henry the fifth",
+            "text": "It may be his enemy is a gentleman of great sort, quite from the answer of his degree."
+        },
+        {
+            "speaker": "fluellen",
+            "text": "Though he be as good a gentleman as the devil is, as Lucifer and Belzebub himself, it is necessary, look your grace, that he keep his vow and his oath: if he be perjured, see you now, his reputation is as arrant a villain and a Jacksauce, as ever his black shoe trod upon Gods ground and his earth, in my conscience, la!"
+        },
+        {
+            "speaker": "king henry the fifth",
+            "text": "Then keep thy vow, sirrah, when thou meetest the fellow."
+        },
+        {
+            "speaker": "williams",
+            "text": "So I will, my liege, as I live."
+        },
+        {
+            "speaker": "king henry the fifth",
+            "text": "Who servest thou under"
+        },
+        {
+            "speaker": "williams",
+            "text": "Under Captain Gower, my liege."
+        },
+        {
+            "speaker": "fluellen",
+            "text": "Gower is a good captain, and is good knowledge and literatured in the wars."
+        },
+        {
+            "speaker": "king henry the fifth",
+            "text": "Call him hither to me, soldier."
+        },
+        {
+            "speaker": "williams",
+            "text": "I will, my liege."
+        },
+        {
+            "text": "Exit"
+        },
+        {
+            "speaker": "king henry the fifth",
+            "text": "Here, Fluellen wear thou this favour for me and stick it in thy cap: when Alencon and myself were down together, I plucked this glove from his helm: if any man challenge this, he is a friend to Alencon, and an enemy to our person if thou encounter any such, apprehend him, an thou dost me love."
+        },
+        {
+            "speaker": "fluellen",
+            "text": "Your grace doos me as great honours as can be desired in the hearts of his subjects: I would fain see the man, that has but two legs, that shall find himself aggrieved at this glove that is all but I would fain see it once, an please God of his grace that I might see."
+        },
+        {
+            "speaker": "king henry the fifth",
+            "text": "Knowest thou Gower"
+        },
+        {
+            "speaker": "fluellen",
+            "text": "He is my dear friend, an please you."
+        },
+        {
+            "speaker": "king henry the fifth",
+            "text": "Pray thee, go seek him, and bring him to my tent."
+        },
+        {
+            "speaker": "fluellen",
+            "text": "I will fetch him."
+        },
+        {
+            "text": "Exit"
+        },
+        {
+            "speaker": "king henry the fifth",
+            "text": "My Lord of Warwick, and my brother Gloucester, Follow Fluellen closely at the heels: The glove which I have given him for a favour May haply purchase him a box o th ear It is the soldiers I by bargain should Wear it myself. Follow, good cousin Warwick: If that the soldier strike him, as I judge By his blunt bearing he will keep his word, Some sudden mischief may arise of it For I do know Fluellen valiant And, touched with choler, hot as gunpowder, And quickly will return an injury: Follow and see there be no harm between them. Go you with me, uncle of Exeter."
+        },
+        {
+            "text": "Exeunt"
+        }
+    ]
+}

@@ -1,0 +1,494 @@
+{
+    "sceneName": "Act 2, scene 1",
+    "playName": "measure for measure",
+    "location": "A hall In ANGELOs house.",
+    "lines": [
+        {
+            "text": "Enter ANGELO, ESCALUS, and a Justice, Provost, Officers, and other Attendants, behind"
+        },
+        {
+            "speaker": "angelo",
+            "text": "We must not make a scarecrow of the law, Setting it up to fear the birds of prey, And let it keep one shape, till custom make it Their perch and not their terror."
+        },
+        {
+            "speaker": "escalus",
+            "text": "Ay, but yet Let us be keen, and rather cut a little, Than fall, and bruise to death. Alas, this gentleman Whom I would save, had a most noble father! Let but your honour know, Whom I believe to be most strait in virtue, That, in the working of your own affections, Had time cohered with place or place with wishing, Or that the resolute acting of your blood Could have attaind the effect of your own purpose, Whether you had not sometime in your life Errd in this point which now you censure him, And pulld the law upon you."
+        },
+        {
+            "speaker": "angelo",
+            "text": "Tis one thing to be tempted, Escalus, Another thing to fall. I not deny, The jury, passing on the prisoners life, May in the sworn twelve have a thief or two Guiltier than him they try. Whats open made to justice, That justice seizes: what know the laws That thieves do pass on thieves Tis very pregnant, The jewel that we find, we stoop and taket Because we see it but what we do not see We tread upon, and never think of it. You may not so extenuate his offence For I have had such faults but rather tell me, When I, that censure him, do so offend, Let mine own judgment pattern out my death, And nothing come in partial. Sir, he must die."
+        },
+        {
+            "speaker": "escalus",
+            "text": "Be it as your wisdom will."
+        },
+        {
+            "speaker": "angelo",
+            "text": "Where is the provost"
+        },
+        {
+            "speaker": "provost",
+            "text": "Here, if it like your honour."
+        },
+        {
+            "speaker": "angelo",
+            "text": "See that Claudio Be executed by nine tomorrow morning: Bring him his confessor, let him be prepared For thats the utmost of his pilgrimage."
+        },
+        {
+            "text": "Exit Provost"
+        },
+        {
+            "speaker": "escalus",
+            "text": "[Aside]  Well, heaven forgive him! and forgive us all! Some rise by sin, and some by virtue fall: Some run from brakes of ice, and answer none: And some condemned for a fault alone."
+        },
+        {
+            "text": "Enter ELBOW, and Officers with FROTH and POMPEY"
+        },
+        {
+            "speaker": "elbow",
+            "text": "Come, bring them away: if these be good people in a commonweal that do nothing but use their abuses in common houses, I know no law: bring them away."
+        },
+        {
+            "speaker": "angelo",
+            "text": "How now, sir! Whats your name and whats the matter"
+        },
+        {
+            "speaker": "elbow",
+            "text": "If it Please your honour, I am the poor dukes constable, and my name is Elbow: I do lean upon justice, sir, and do bring in here before your good honour two notorious benefactors."
+        },
+        {
+            "speaker": "angelo",
+            "text": "Benefactors Well what benefactors are they are they not malefactors"
+        },
+        {
+            "speaker": "elbow",
+            "text": "If it please your honour, I know not well what they are: but precise villains they are, that I am sure of and void of all profanation in the world that good Christians ought to have."
+        },
+        {
+            "speaker": "escalus",
+            "text": "This comes off well heres a wise officer."
+        },
+        {
+            "speaker": "angelo",
+            "text": "Go to: what quality are they of Elbow is your name why dost thou not speak, Elbow"
+        },
+        {
+            "speaker": "pompey",
+            "text": "He cannot, sir hes out at elbow."
+        },
+        {
+            "speaker": "angelo",
+            "text": "What are you, sir"
+        },
+        {
+            "speaker": "elbow",
+            "text": "He, sir! a tapster, sir parcelbawd one that serves a bad woman whose house, sir, was, as they say, plucked down in the suburbs and now she professes a hothouse, which, I think, is a very ill house too."
+        },
+        {
+            "speaker": "escalus",
+            "text": "How know you that"
+        },
+        {
+            "speaker": "elbow",
+            "text": "My wife, sir, whom I detest before heaven and your honour,"
+        },
+        {
+            "speaker": "escalus",
+            "text": "How thy wife"
+        },
+        {
+            "speaker": "elbow",
+            "text": "Ay, sir whom, I thank heaven, is an honest woman,"
+        },
+        {
+            "speaker": "escalus",
+            "text": "Dost thou detest her therefore"
+        },
+        {
+            "speaker": "elbow",
+            "text": "I say, sir, I will detest myself also, as well as she, that this house, if it be not a bawds house, it is pity of her life, for it is a naughty house."
+        },
+        {
+            "speaker": "escalus",
+            "text": "How dost thou know that, constable"
+        },
+        {
+            "speaker": "elbow",
+            "text": "Marry, sir, by my wife who, if she had been a woman cardinally given, might have been accused in fornication, adultery, and all uncleanliness there."
+        },
+        {
+            "speaker": "escalus",
+            "text": "By the womans means"
+        },
+        {
+            "speaker": "elbow",
+            "text": "Ay, sir, by Mistress Overdones means: but as she spit in his face, so she defied him."
+        },
+        {
+            "speaker": "pompey",
+            "text": "Sir, if it please your honour, this is not so."
+        },
+        {
+            "speaker": "elbow",
+            "text": "Prove it before these varlets here, thou honourable man prove it."
+        },
+        {
+            "speaker": "escalus",
+            "text": "Do you hear how he misplaces"
+        },
+        {
+            "speaker": "pompey",
+            "text": "Sir, she came in great with child and longing, saving your honours reverence, for stewed prunes sir, we had but two in the house, which at that very distant time stood, as it were, in a fruitdish, a dish of some threepence your honours have seen such dishes they are not China dishes, but very good dishes,"
+        },
+        {
+            "speaker": "escalus",
+            "text": "Go to, go to: no matter for the dish, sir."
+        },
+        {
+            "speaker": "pompey",
+            "text": "No, indeed, sir, not of a pin you are therein in the right: but to the point. As I say, this Mistress Elbow, being, as I say, with child, and being greatbellied, and longing, as I said, for prunes and having but two in the dish, as I said, Master Froth here, this very man, having eaten the rest, as I said, and, as I say, paying for them very honestly for, as you know, Master Froth, I could not give you threepence again."
+        },
+        {
+            "speaker": "froth",
+            "text": "No, indeed."
+        },
+        {
+            "speaker": "pompey",
+            "text": "Very well: you being then, if you be remembered, cracking the stones of the foresaid prunes,"
+        },
+        {
+            "speaker": "froth",
+            "text": "Ay, so I did indeed."
+        },
+        {
+            "speaker": "pompey",
+            "text": "Why, very well I telling you then, if you be remembered, that such a one and such a one were past cure of the thing you wot of, unless they kept very good diet, as I told you,"
+        },
+        {
+            "speaker": "froth",
+            "text": "All this is true."
+        },
+        {
+            "speaker": "pompey",
+            "text": "Why, very well, then,"
+        },
+        {
+            "speaker": "escalus",
+            "text": "Come, you are a tedious fool: to the purpose. What was done to Elbows wife, that he hath cause to complain of Come me to what was done to her."
+        },
+        {
+            "speaker": "pompey",
+            "text": "Sir, your honour cannot come to that yet."
+        },
+        {
+            "speaker": "escalus",
+            "text": "No, sir, nor I mean it not."
+        },
+        {
+            "speaker": "pompey",
+            "text": "Sir, but you shall come to it, by your honours leave. And, I beseech you, look into Master Froth here, sir a man of fourscore pound a year whose father died at Hallowmas: wast not at Hallowmas, Master Froth"
+        },
+        {
+            "speaker": "froth",
+            "text": "Allhallond eve."
+        },
+        {
+            "speaker": "pompey",
+            "text": "Why, very well I hope here be truths. He, sir, sitting, as I say, in a lower chair, sir twas in the Bunch of Grapes, where indeed you have a delight to sit, have you not"
+        },
+        {
+            "speaker": "froth",
+            "text": "I have so because it is an open room and good for winter."
+        },
+        {
+            "speaker": "pompey",
+            "text": "Why, very well, then I hope here be truths."
+        },
+        {
+            "speaker": "angelo",
+            "text": "This will last out a night in Russia, When nights are longest there: Ill take my leave. And leave you to the hearing of the cause Hoping youll find good cause to whip them all."
+        },
+        {
+            "speaker": "escalus",
+            "text": "I think no less. Good morrow to your lordship. Now, sir, come on: what was done to Elbows wife, once more"
+        },
+        {
+            "text": "Exit ANGELO"
+        },
+        {
+            "speaker": "pompey",
+            "text": "Once, sir there was nothing done to her once."
+        },
+        {
+            "speaker": "elbow",
+            "text": "I beseech you, sir, ask him what this man did to my wife."
+        },
+        {
+            "speaker": "pompey",
+            "text": "I beseech your honour, ask me."
+        },
+        {
+            "speaker": "escalus",
+            "text": "Well, sir what did this gentleman to her"
+        },
+        {
+            "speaker": "pompey",
+            "text": "I beseech you, sir, look in this gentlemans face. Good Master Froth, look upon his honour tis for a good purpose. Doth your honour mark his face"
+        },
+        {
+            "speaker": "escalus",
+            "text": "Ay, sir, very well."
+        },
+        {
+            "speaker": "pompey",
+            "text": "Nay I beseech you, mark it well."
+        },
+        {
+            "speaker": "escalus",
+            "text": "Well, I do so."
+        },
+        {
+            "speaker": "pompey",
+            "text": "Doth your honour see any harm in his face"
+        },
+        {
+            "speaker": "escalus",
+            "text": "Why, no."
+        },
+        {
+            "speaker": "pompey",
+            "text": "Ill be supposed upon a book, his face is the worst thing about him. Good, then if his face be the worst thing about him, how could Master Froth do the constables wife any harm I would know that of your honour."
+        },
+        {
+            "speaker": "escalus",
+            "text": "Hes in the right. Constable, what say you to it"
+        },
+        {
+            "speaker": "elbow",
+            "text": "First, an it like you, the house is a respected house next, this is a respected fellow and his mistress is a respected woman."
+        },
+        {
+            "speaker": "pompey",
+            "text": "By this hand, sir, his wife is a more respected person than any of us all."
+        },
+        {
+            "speaker": "elbow",
+            "text": "Varlet, thou liest thou liest, wicked varlet! the time has yet to come that she was ever respected with man, woman, or child."
+        },
+        {
+            "speaker": "pompey",
+            "text": "Sir, she was respected with him before he married with her."
+        },
+        {
+            "speaker": "escalus",
+            "text": "Which is the wiser here Justice or Iniquity Is this true"
+        },
+        {
+            "speaker": "elbow",
+            "text": "O thou caitiff! O thou varlet! O thou wicked Hannibal! I respected with her before I was married to her! If ever I was respected with her, or she with me, let not your worship think me the poor dukes officer. Prove this, thou wicked Hannibal, or Ill have mine action of battery on thee."
+        },
+        {
+            "speaker": "escalus",
+            "text": "If he took you a box o the ear, you might have your action of slander too."
+        },
+        {
+            "speaker": "elbow",
+            "text": "Marry, I thank your good worship for it. What ist your worships pleasure I shall do with this wicked caitiff"
+        },
+        {
+            "speaker": "escalus",
+            "text": "Truly, officer, because he hath some offences in him that thou wouldst discover if thou couldst, let him continue in his courses till thou knowest what they are."
+        },
+        {
+            "speaker": "elbow",
+            "text": "Marry, I thank your worship for it. Thou seest, thou wicked varlet, now, whats come upon thee: thou art to continue now, thou varlet thou art to continue."
+        },
+        {
+            "speaker": "escalus",
+            "text": "Where were you born, friend"
+        },
+        {
+            "speaker": "froth",
+            "text": "Here in Vienna, sir."
+        },
+        {
+            "speaker": "escalus",
+            "text": "Are you of fourscore pounds a year"
+        },
+        {
+            "speaker": "froth",
+            "text": "Yes, ant please you, sir."
+        },
+        {
+            "speaker": "escalus",
+            "text": "So. What trade are you of, sir"
+        },
+        {
+            "speaker": "pomphey",
+            "text": "Tapster a poor widows tapster."
+        },
+        {
+            "speaker": "escalus",
+            "text": "Your mistress name"
+        },
+        {
+            "speaker": "pomphey",
+            "text": "Mistress Overdone."
+        },
+        {
+            "speaker": "escalus",
+            "text": "Hath she had any more than one husband"
+        },
+        {
+            "speaker": "pompey",
+            "text": "Nine, sir Overdone by the last."
+        },
+        {
+            "speaker": "escalus",
+            "text": "Nine! Come hither to me, Master Froth. Master Froth, I would not have you acquainted with tapsters: they will draw you, Master Froth, and you will hang them. Get you gone, and let me hear no more of you."
+        },
+        {
+            "speaker": "froth",
+            "text": "I thank your worship. For mine own part, I never come into any room in a taphouse, but I am drawn in."
+        },
+        {
+            "speaker": "escalus",
+            "text": "Well, no more of it, Master Froth: farewell. Come you hither to me, Master tapster. Whats your name, Master tapster"
+        },
+        {
+            "text": "Exit FROTH"
+        },
+        {
+            "speaker": "pompey",
+            "text": "Pompey."
+        },
+        {
+            "speaker": "escalus",
+            "text": "What else"
+        },
+        {
+            "speaker": "pompey",
+            "text": "Bum, sir."
+        },
+        {
+            "speaker": "escalus",
+            "text": "Troth, and your bum is the greatest thing about you so that in the beastliest sense you are Pompey the Great. Pompey, you are partly a bawd, Pompey, howsoever you colour it in being a tapster, are you not come, tell me true: it shall be the better for you."
+        },
+        {
+            "speaker": "pompey",
+            "text": "Truly, sir, I am a poor fellow that would live."
+        },
+        {
+            "speaker": "escalus",
+            "text": "How would you live, Pompey by being a bawd What do you think of the trade, Pompey is it a lawful trade"
+        },
+        {
+            "speaker": "pompey",
+            "text": "If the law would allow it, sir."
+        },
+        {
+            "speaker": "escalus",
+            "text": "But the law will not allow it, Pompey nor it shall not be allowed in Vienna."
+        },
+        {
+            "speaker": "pompey",
+            "text": "Does your worship mean to geld and splay all the youth of the city"
+        },
+        {
+            "speaker": "escalus",
+            "text": "No, Pompey."
+        },
+        {
+            "speaker": "pompey",
+            "text": "Truly, sir, in my poor opinion, they will tot then. If your worship will take order for the drabs and the knaves, you need not to fear the bawds."
+        },
+        {
+            "speaker": "escalus",
+            "text": "There are pretty orders beginning, I can tell you: it is but heading and hanging."
+        },
+        {
+            "speaker": "pompey",
+            "text": "If you head and hang all that offend that way but for ten year together, youll be glad to give out a commission for more heads: if this law hold in Vienna ten year, Ill rent the fairest house in it after threepence a bay: if you live to see this come to pass, say Pompey told you so."
+        },
+        {
+            "speaker": "escalus",
+            "text": "Thank you, good Pompey and, in requital of your prophecy, hark you: I advise you, let me not find you before me again upon any complaint whatsoever no, not for dwelling where you do: if I do, Pompey, I shall beat you to your tent, and prove a shrewd Caesar to you in plain dealing, Pompey, I shall have you whipt: so, for this time, Pompey, fare you well."
+        },
+        {
+            "speaker": "pompey",
+            "text": "I thank your worship for your good counsel: but I shall follow it as the flesh and fortune shall better determine. Whip me No, no let carman whip his jade: The valiant heart is not whipt out of his trade."
+        },
+        {
+            "text": "Aside"
+        },
+        {
+            "text": "Exit"
+        },
+        {
+            "speaker": "escalus",
+            "text": "Come hither to me, Master Elbow come hither, Master constable. How long have you been in this place of constable"
+        },
+        {
+            "speaker": "elbow",
+            "text": "Seven year and a half, sir."
+        },
+        {
+            "speaker": "escalus",
+            "text": "I thought, by your readiness in the office, you had continued in it some time. You say, seven years together"
+        },
+        {
+            "speaker": "elbow",
+            "text": "And a half, sir."
+        },
+        {
+            "speaker": "escalus",
+            "text": "Alas, it hath been great pains to you. They do you wrong to put you so oft upon t: are there not men in your ward sufficient to serve it"
+        },
+        {
+            "speaker": "elbow",
+            "text": "Faith, sir, few of any wit in such matters: as they are chosen, they are glad to choose me for them I do it for some piece of money, and go through with all."
+        },
+        {
+            "speaker": "escalus",
+            "text": "Look you bring me in the names of some six or seven, the most sufficient of your parish."
+        },
+        {
+            "speaker": "elbow",
+            "text": "To your worships house, sir"
+        },
+        {
+            "speaker": "escalus",
+            "text": "To my house. Fare you well. Whats oclock, think you"
+        },
+        {
+            "text": "Exit ELBOW"
+        },
+        {
+            "speaker": "justice",
+            "text": "Eleven, sir."
+        },
+        {
+            "speaker": "escalus",
+            "text": "I pray you home to dinner with me."
+        },
+        {
+            "speaker": "justice",
+            "text": "I humbly thank you."
+        },
+        {
+            "speaker": "escalus",
+            "text": "It grieves me for the death of Claudio But theres no remedy."
+        },
+        {
+            "speaker": "justice",
+            "text": "Lord Angelo is severe."
+        },
+        {
+            "speaker": "escalus",
+            "text": "It is but needful: Mercy is not itself, that oft looks so Pardon is still the nurse of second woe: But yet,poor Claudio! There is no remedy. Come, sir."
+        },
+        {
+            "text": "Exeunt"
+        }
+    ]
+}

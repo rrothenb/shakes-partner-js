@@ -1,0 +1,73 @@
+{
+    "sceneName": "Act 3, scene 3",
+    "playName": "twelfth night",
+    "location": "A street.",
+    "lines": [
+        {
+            "text": "Enter SEBASTIAN and ANTONIO"
+        },
+        {
+            "speaker": "sebastian",
+            "text": "I would not by my will have troubled you But, since you make your pleasure of your pains, I will no further chide you."
+        },
+        {
+            "speaker": "antonio",
+            "text": "I could not stay behind you: my desire, More sharp than filed steel, did spur me forth And not all love to see you, though so much As might have drawn one to a longer voyage, But jealousy what might befall your travel, Being skilless in these parts which to a stranger, Unguided and unfriended, often prove Rough and unhospitable: my willing love, The rather by these arguments of fear, Set forth in your pursuit."
+        },
+        {
+            "speaker": "sebastian",
+            "text": "My kind Antonio, I can no other answer make but thanks, And thanks and ever [         ] oft good turns Are shuffled off with such uncurrent pay: But, were my worth as is my conscience firm, You should find better dealing. Whats to do Shall we go see the reliques of this town"
+        },
+        {
+            "speaker": "antonio",
+            "text": "Tomorrow, sir: best first go see your lodging."
+        },
+        {
+            "speaker": "sebastian",
+            "text": "I am not weary, and tis long to night: I pray you, let us satisfy our eyes With the memorials and the things of fame That do renown this city."
+        },
+        {
+            "speaker": "antonio",
+            "text": "Would yould pardon me I do not without danger walk these streets: Once, in a seafight, gainst the count his galleys I did some service of such note indeed, That were I taen here it would scarce be answerd."
+        },
+        {
+            "speaker": "sebastian",
+            "text": "Belike you slew great number of his people."
+        },
+        {
+            "speaker": "antonio",
+            "text": "The offence is not of such a bloody nature Albeit the quality of the time and quarrel Might well have given us bloody argument. It might have since been answerd in repaying What we took from them which, for traffics sake, Most of our city did: only myself stood out For which, if I be lapsed in this place, I shall pay dear."
+        },
+        {
+            "speaker": "sebastian",
+            "text": "Do not then walk too open."
+        },
+        {
+            "speaker": "antonio",
+            "text": "It doth not fit me. Hold, sir, heres my purse. In the south suburbs, at the Elephant, Is best to lodge: I will bespeak our diet, Whiles you beguile the time and feed your knowledge With viewing of the town: there shall you have me."
+        },
+        {
+            "speaker": "sebastian",
+            "text": "Why I your purse"
+        },
+        {
+            "speaker": "antonio",
+            "text": "Haply your eye shall light upon some toy You have desire to purchase and your store, I think, is not for idle markets, sir."
+        },
+        {
+            "speaker": "sebastian",
+            "text": "Ill be your pursebearer and leave you For an hour."
+        },
+        {
+            "speaker": "antonio",
+            "text": "To the Elephant."
+        },
+        {
+            "speaker": "sebastian",
+            "text": "I do remember."
+        },
+        {
+            "text": "Exeunt"
+        }
+    ]
+}

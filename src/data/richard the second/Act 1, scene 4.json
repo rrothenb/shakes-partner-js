@@ -1,0 +1,72 @@
+{
+    "sceneName": "Act 1, scene 4",
+    "playName": "richard the second",
+    "location": "The court.",
+    "lines": [
+        {
+            "text": "Enter KING RICHARD II, with BAGOT and GREEN at one door and the DUKE OF AUMERLE at another"
+        },
+        {
+            "speaker": "king richard the second",
+            "text": "We did observe. Cousin Aumerle, How far brought you high Hereford on his way"
+        },
+        {
+            "speaker": "duke of aumerle",
+            "text": "I brought high Hereford, if you call him so, But to the next highway, and there I left him."
+        },
+        {
+            "speaker": "king richard the second",
+            "text": "And say, what store of parting tears were shed"
+        },
+        {
+            "speaker": "duke of aumerle",
+            "text": "Faith, none for me except the northeast wind, Which then blew bitterly against our faces, Awaked the sleeping rheum, and so by chance Did grace our hollow parting with a tear."
+        },
+        {
+            "speaker": "king richard the second",
+            "text": "What said our cousin when you parted with him"
+        },
+        {
+            "speaker": "duke of aumerle",
+            "text": "Farewell: And, for my heart disdained that my tongue Should so profane the word, that taught me craft To counterfeit oppression of such grief That words seemd buried in my sorrows grave. Marry, would the word farewell have lengthend hours And added years to his short banishment, He should have had a volume of farewells But since it would not, he had none of me."
+        },
+        {
+            "speaker": "king richard the second",
+            "text": "He is our cousin, cousin but tis doubt, When time shall call him home from banishment, Whether our kinsman come to see his friends. Ourself and Bushy, Bagot here and Green Observed his courtship to the common people How he did seem to dive into their hearts With humble and familiar courtesy, What reverence he did throw away on slaves, Wooing poor craftsmen with the craft of smiles And patient underbearing of his fortune, As twere to banish their affects with him. Off goes his bonnet to an oysterwench A brace of draymen bid God speed him well And had the tribute of his supple knee, With Thanks, my countrymen, my loving friends As were our England in reversion his, And he our subjects next degree in hope."
+        },
+        {
+            "speaker": "green",
+            "text": "Well, he is gone and with him go these thoughts. Now for the rebels which stand out in Ireland, Expedient manage must be made, my liege, Ere further leisure yield them further means For their advantage and your highness loss."
+        },
+        {
+            "speaker": "king richard the second",
+            "text": "We will ourself in person to this war: And, for our coffers, with too great a court And liberal largess, are grown somewhat light, We are inforced to farm our royal realm The revenue whereof shall furnish us For our affairs in hand: if that come short, Our substitutes at home shall have blank charters Whereto, when they shall know what men are rich, They shall subscribe them for large sums of gold And send them after to supply our wants For we will make for Ireland presently. Bushy, what news"
+        },
+        {
+            "text": "Enter BUSHY"
+        },
+        {
+            "speaker": "bushy",
+            "text": "Old John of Gaunt is grievous sick, my lord, Suddenly taken and hath sent post haste To entreat your majesty to visit him."
+        },
+        {
+            "speaker": "king richard the second",
+            "text": "Where lies he"
+        },
+        {
+            "speaker": "bushy",
+            "text": "At Ely House."
+        },
+        {
+            "speaker": "king richard the second",
+            "text": "Now put it, God, in the physicians mind To help him to his grave immediately! The lining of his coffers shall make coats To deck our soldiers for these Irish wars. Come, gentlemen, lets all go visit him: Pray God we may make haste, and come too late!"
+        },
+        {
+            "speaker": "all",
+            "text": "Amen."
+        },
+        {
+            "text": "Exeunt"
+        }
+    ]
+}

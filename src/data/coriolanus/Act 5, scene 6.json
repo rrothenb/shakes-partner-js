@@ -1,0 +1,221 @@
+{
+    "sceneName": "Act 5, scene 6",
+    "playName": "coriolanus",
+    "location": "Antium. A public place.",
+    "lines": [
+        {
+            "text": "Enter TULLUS AUFIDIUS, with Attendants"
+        },
+        {
+            "speaker": "aufidius",
+            "text": "Go tell the lords o the city I am here: Deliver them this paper: having read it, Bid them repair to the market place where I, Even in theirs and in the commons ears, Will vouch the truth of it. Him I accuse The city ports by this hath enterd and Intends to appear before the people, hoping To purge herself with words: dispatch. Most welcome!"
+        },
+        {
+            "text": "Exeunt Attendants"
+        },
+        {
+            "text": "Enter three or four Conspirators of AUFIDIUS faction"
+        },
+        {
+            "speaker": "first conspirator",
+            "text": "How is it with our general"
+        },
+        {
+            "speaker": "aufidius",
+            "text": "Even so As with a man by his own alms empoisond, And with his charity slain."
+        },
+        {
+            "speaker": "second conspirator",
+            "text": "Most noble sir, If you do hold the same intent wherein You wishd us parties, well deliver you Of your great danger."
+        },
+        {
+            "speaker": "aufidius",
+            "text": "Sir, I cannot tell: We must proceed as we do find the people."
+        },
+        {
+            "speaker": "third conspirator",
+            "text": "The people will remain uncertain whilst Twixt you theres difference but the fall of either Makes the survivor heir of all."
+        },
+        {
+            "speaker": "aufidius",
+            "text": "I know it And my pretext to strike at him admits A good construction. I raised him, and I pawnd Mine honour for his truth: who being so heightend, He waterd his new plants with dews of flattery, Seducing so my friends and, to this end, He bowd his nature, never known before But to be rough, unswayable and free."
+        },
+        {
+            "speaker": "third conspirator",
+            "text": "Sir, his stoutness When he did stand for consul, which he lost By lack of stooping,"
+        },
+        {
+            "speaker": "aufidius",
+            "text": "That I would have spoke of: Being banishd fort, he came unto my hearth Presented to my knife his throat: I took him Made him jointservant with me gave him way In all his own desires nay, let him choose Out of my files, his projects to accomplish, My best and freshest men served his designments In mine own person holp to reap the fame Which he did end all his and took some pride To do myself this wrong: till, at the last, I seemd his follower, not partner, and He waged me with his countenance, as if I had been mercenary."
+        },
+        {
+            "speaker": "first conspirator",
+            "text": "So he did, my lord: The army marvelld at it, and, in the last, When he had carried Rome and that we lookd For no less spoil than glory,"
+        },
+        {
+            "speaker": "aufidius",
+            "text": "There was it: For which my sinews shall be stretchd upon him. At a few drops of womens rheum, which are As cheap as lies, he sold the blood and labour Of our great action: therefore shall he die, And Ill renew me in his fall. But, hark!"
+        },
+        {
+            "text": "Drums and trumpets sound, with great shouts of the People"
+        },
+        {
+            "speaker": "first conspirator",
+            "text": "Your native town you enterd like a post, And had no welcomes home: but he returns, Splitting the air with noise."
+        },
+        {
+            "speaker": "second conspirator",
+            "text": "And patient fools, Whose children he hath slain, their base throats tear With giving him glory."
+        },
+        {
+            "speaker": "third conspirator",
+            "text": "Therefore, at your vantage, Ere he express himself, or move the people With what he would say, let him feel your sword, Which we will second. When he lies along, After your way his tale pronounced shall bury His reasons with his body."
+        },
+        {
+            "speaker": "aufidius",
+            "text": "Say no more: Here come the lords."
+        },
+        {
+            "text": "Enter the Lords of the city"
+        },
+        {
+            "speaker": "all the lords",
+            "text": "You are most welcome home."
+        },
+        {
+            "speaker": "aufidius",
+            "text": "I have not deserved it. But, worthy lords, have you with heed perused What I have written to you"
+        },
+        {
+            "speaker": "lords",
+            "text": "We have."
+        },
+        {
+            "speaker": "first lord",
+            "text": "And grieve to heart. What faults he made before the last, I think Might have found easy fines: but there to end Where he was to begin and give away The benefit of our levies, answering us With our own charge, making a treaty where There was a yielding,this admits no excuse."
+        },
+        {
+            "speaker": "aufidius",
+            "text": "He approaches: you shall hear him. Enter CORIOLANUS, marching with drum and colours commoners being with him"
+        },
+        {
+            "speaker": "coriolanus",
+            "text": "Hail, lords! I am returnd your soldier, No more infected with my countrys love Than when I parted hence, but still subsisting Under your great command. You are to know That prosperously I have attempted and With bloody passage led your wars even to The gates of Rome. Our spoils we have brought home Do more than counterpoise a full third part The charges of the action. We have made peace With no less honour to the Antiates Than shame to the Romans: and we here deliver, Subscribed by the consuls and patricians, Together with the seal o the senate, what We have compounded on."
+        },
+        {
+            "speaker": "aufidius",
+            "text": "Read it not, noble lords But tell the traitor, in the highst degree He hath abused your powers."
+        },
+        {
+            "speaker": "coriolanus",
+            "text": "Traitor! how now!"
+        },
+        {
+            "speaker": "aufidius",
+            "text": "Ay, traitor, Marcius!"
+        },
+        {
+            "speaker": "coriolanus",
+            "text": "Marcius!"
+        },
+        {
+            "speaker": "aufidius",
+            "text": "Ay, Marcius, Caius Marcius: dost thou think Ill grace thee with that robbery, thy stoln name Coriolanus in Corioli You lords and heads o the state, perfidiously He has betrayd your business, and given up, For certain drops of salt, your city Rome, I say your city, to his wife and mother Breaking his oath and resolution like A twist of rotten silk, never admitting Counsel o the war, but at his nurses tears He whined and roard away your victory, That pages blushd at him and men of heart Lookd wondering each at other."
+        },
+        {
+            "speaker": "coriolanus",
+            "text": "Hearst thou, Mars"
+        },
+        {
+            "speaker": "aufidius",
+            "text": "Name not the god, thou boy of tears!"
+        },
+        {
+            "speaker": "coriolanus",
+            "text": "Ha!"
+        },
+        {
+            "speaker": "aufidius",
+            "text": "No more."
+        },
+        {
+            "speaker": "coriolanus",
+            "text": "Measureless liar, thou hast made my heart Too great for what contains it. Boy! O slave! Pardon me, lords, tis the first time that ever I was forced to scold. Your judgments, my grave lords, Must give this cur the lie: and his own notion Who wears my stripes impressd upon him that Must bear my beating to his graveshall join To thrust the lie unto him."
+        },
+        {
+            "speaker": "first lord",
+            "text": "Peace, both, and hear me speak."
+        },
+        {
+            "speaker": "coriolanus",
+            "text": "Cut me to pieces, Volsces men and lads, Stain all your edges on me. Boy! false hound! If you have writ your annals true, tis there, That, like an eagle in a dovecote, I Flutterd your Volscians in Corioli: Alone I did it. Boy!"
+        },
+        {
+            "speaker": "aufidius",
+            "text": "Why, noble lords, Will you be put in mind of his blind fortune, Which was your shame, by this unholy braggart, Fore your own eyes and ears"
+        },
+        {
+            "speaker": "all conspirators",
+            "text": "Let him die fort."
+        },
+        {
+            "speaker": "all the people",
+            "text": "Tear him to pieces. Do it presently. He killd my son. My daughter. He killed my cousin Marcus. He killed my father."
+        },
+        {
+            "speaker": "second lord",
+            "text": "Peace, ho! no outrage: peace! The man is noble and his fame foldsin This orb o the earth. His last offences to us Shall have judicious hearing. Stand, Aufidius, And trouble not the peace."
+        },
+        {
+            "speaker": "coriolanus",
+            "text": "O that I had him, With six Aufidiuses, or more, his tribe, To use my lawful sword!"
+        },
+        {
+            "speaker": "aufidius",
+            "text": "Insolent villain!"
+        },
+        {
+            "speaker": "all conspirators",
+            "text": "Kill, kill, kill, kill, kill him! The Conspirators draw, and kill CORIOLANUS: AUFIDIUS stands on his body"
+        },
+        {
+            "speaker": "lords",
+            "text": "Hold, hold, hold, hold!"
+        },
+        {
+            "speaker": "aufidius",
+            "text": "My noble masters, hear me speak."
+        },
+        {
+            "speaker": "first lord",
+            "text": "O Tullus,"
+        },
+        {
+            "speaker": "second lord",
+            "text": "Thou hast done a deed whereat valour will weep."
+        },
+        {
+            "speaker": "third lord",
+            "text": "Tread not upon him. Masters all, be quiet Put up your swords."
+        },
+        {
+            "speaker": "aufidius",
+            "text": "My lords, when you shall knowas in this rage, Provoked by him, you cannotthe great danger Which this mans life did owe you, youll rejoice That he is thus cut off. Please it your honours To call me to your senate, Ill deliver Myself your loyal servant, or endure Your heaviest censure."
+        },
+        {
+            "speaker": "first lord",
+            "text": "Bear from hence his body And mourn you for him: let him be regarded As the most noble corse that ever herald Did follow to his urn."
+        },
+        {
+            "speaker": "second lord",
+            "text": "His own impatience Takes from Aufidius a great part of blame. Lets make the best of it."
+        },
+        {
+            "speaker": "aufidius",
+            "text": "My rage is gone And I am struck with sorrow. Take him up. Help, three o the chiefest soldiers Ill be one. Beat thou the drum, that it speak mournfully: Trail your steel pikes. Though in this city he Hath widowd and unchilded many a one, Which to this hour bewail the injury, Yet he shall have a noble memory. Assist."
+        },
+        {
+            "text": "Exeunt, bearing the body of CORIOLANUS. A dead march sounded"
+        }
+    ]
+}

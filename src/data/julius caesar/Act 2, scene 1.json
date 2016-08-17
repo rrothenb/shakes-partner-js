@@ -1,0 +1,406 @@
+{
+    "sceneName": "Act 2, scene 1",
+    "playName": "julius caesar",
+    "location": "Rome. BRUTUSs orchard.",
+    "lines": [
+        {
+            "text": "Enter BRUTUS"
+        },
+        {
+            "speaker": "brutus",
+            "text": "What, Lucius, ho! I cannot, by the progress of the stars, Give guess how near to day. Lucius, I say! I would it were my fault to sleep so soundly. When, Lucius, when awake, I say! what, Lucius!"
+        },
+        {
+            "text": "Enter LUCIUS"
+        },
+        {
+            "speaker": "lucius",
+            "text": "Calld you, my lord"
+        },
+        {
+            "speaker": "brutus",
+            "text": "Get me a taper in my study, Lucius: When it is lighted, come and call me here."
+        },
+        {
+            "speaker": "lucius",
+            "text": "I will, my lord."
+        },
+        {
+            "text": "Exit"
+        },
+        {
+            "speaker": "brutus",
+            "text": "It must be by his death: and for my part, I know no personal cause to spurn at him, But for the general. He would be crownd: How that might change his nature, theres the question. It is the bright day that brings forth the adder And that craves wary walking. Crown himthat And then, I grant, we put a sting in him, That at his will he may do danger with. The abuse of greatness is, when it disjoins Remorse from power: and, to speak truth of Caesar, I have not known when his affections swayd More than his reason. But tis a common proof, That lowliness is young ambitions ladder, Whereto the climberupward turns his face But when he once attains the upmost round. He then unto the ladder turns his back, Looks in the clouds, scorning the base degrees By which he did ascend. So Caesar may. Then, lest he may, prevent. And, since the quarrel Will bear no colour for the thing he is, Fashion it thus that what he is, augmented, Would run to these and these extremities: And therefore think him as a serpents egg Which, hatchd, would, as his kind, grow mischievous, And kill him in the shell."
+        },
+        {
+            "text": "Reenter LUCIUS"
+        },
+        {
+            "speaker": "lucius",
+            "text": "The taper burneth in your closet, sir. Searching the window for a flint, I found This paper, thus seald up and, I am sure, It did not lie there when I went to bed."
+        },
+        {
+            "text": "Gives him the letter"
+        },
+        {
+            "speaker": "brutus",
+            "text": "Get you to bed again it is not day. Is not tomorrow, boy, the ides of March"
+        },
+        {
+            "speaker": "lucius",
+            "text": "I know not, sir."
+        },
+        {
+            "speaker": "brutus",
+            "text": "Look in the calendar, and bring me word."
+        },
+        {
+            "speaker": "lucius",
+            "text": "I will, sir."
+        },
+        {
+            "text": "Exit"
+        },
+        {
+            "speaker": "brutus",
+            "text": "The exhalations whizzing in the air Give so much light that I may read by them. Brutus, thou sleepst: awake, and see thyself. Shall Rome,  and c. Speak, strike, redress! Brutus, thou sleepst: awake! Such instigations have been often droppd Where I have took them up. Shall Rome,  and c. Thus must I piece it out: Shall Rome stand under one mans awe What, Rome My ancestors did from the streets of Rome The Tarquin drive, when he was calld a king. Speak, strike, redress! Am I entreated To speak and strike O Rome, I make thee promise: If the redress will follow, thou receivest Thy full petition at the hand of Brutus!"
+        },
+        {
+            "text": "Opens the letter and reads"
+        },
+        {
+            "text": "Reenter LUCIUS"
+        },
+        {
+            "speaker": "lucius",
+            "text": "Sir, March is wasted fourteen days."
+        },
+        {
+            "text": "Knocking within"
+        },
+        {
+            "speaker": "brutus",
+            "text": "Tis good. Go to the gate somebody knocks. Since Cassius first did whet me against Caesar, I have not slept. Between the acting of a dreadful thing And the first motion, all the interim is Like a phantasma, or a hideous dream: The Genius and the mortal instruments Are then in council and the state of man, Like to a little kingdom, suffers then The nature of an insurrection."
+        },
+        {
+            "text": "Exit LUCIUS"
+        },
+        {
+            "text": "Reenter LUCIUS"
+        },
+        {
+            "speaker": "lucius",
+            "text": "Sir, tis your brother Cassius at the door, Who doth desire to see you."
+        },
+        {
+            "speaker": "brutus",
+            "text": "Is he alone"
+        },
+        {
+            "speaker": "lucius",
+            "text": "No, sir, there are moe with him."
+        },
+        {
+            "speaker": "brutus",
+            "text": "Do you know them"
+        },
+        {
+            "speaker": "lucius",
+            "text": "No, sir their hats are pluckd about their ears, And half their faces buried in their cloaks, That by no means I may discover them By any mark of favour."
+        },
+        {
+            "speaker": "brutus",
+            "text": "Let em enter. They are the faction. O conspiracy, Shamest thou to show thy dangerous brow by night, When evils are most free O, then by day Where wilt thou find a cavern dark enough To mask thy monstrous visage Seek none, conspiracy Hide it in smiles and affability: For if thou path, thy native semblance on, Not Erebus itself were dim enough To hide thee from prevention."
+        },
+        {
+            "text": "Exit LUCIUS"
+        },
+        {
+            "text": "Enter the conspirators, CASSIUS, CASCA, DECIUS BRUTUS, CINNA, METELLUS CIMBER, and TREBONIUS"
+        },
+        {
+            "speaker": "cassius",
+            "text": "I think we are too bold upon your rest: Good morrow, Brutus do we trouble you"
+        },
+        {
+            "speaker": "brutus",
+            "text": "I have been up this hour, awake all night. Know I these men that come along with you"
+        },
+        {
+            "speaker": "cassius",
+            "text": "Yes, every man of them, and no man here But honours you and every one doth wish You had but that opinion of yourself Which every noble Roman bears of you. This is Trebonius."
+        },
+        {
+            "speaker": "brutus",
+            "text": "He is welcome hither."
+        },
+        {
+            "speaker": "cassius",
+            "text": "This, Decius Brutus."
+        },
+        {
+            "speaker": "brutus",
+            "text": "He is welcome too."
+        },
+        {
+            "speaker": "cassius",
+            "text": "This, Casca this, Cinna and this, Metellus Cimber."
+        },
+        {
+            "speaker": "brutus",
+            "text": "They are all welcome. What watchful cares do interpose themselves Betwixt your eyes and night"
+        },
+        {
+            "speaker": "cassius",
+            "text": "Shall I entreat a word"
+        },
+        {
+            "text": "BRUTUS and CASSIUS whisper"
+        },
+        {
+            "speaker": "decius brutus",
+            "text": "Here lies the east: doth not the day break here"
+        },
+        {
+            "speaker": "casca",
+            "text": "No."
+        },
+        {
+            "speaker": "cinna",
+            "text": "O, pardon, sir, it doth and yon gray lines That fret the clouds are messengers of day."
+        },
+        {
+            "speaker": "casca",
+            "text": "You shall confess that you are both deceived. Here, as I point my sword, the sun arises, Which is a great way growing on the south, Weighing the youthful season of the year. Some two months hence up higher toward the north He first presents his fire and the high east Stands, as the Capitol, directly here."
+        },
+        {
+            "speaker": "brutus",
+            "text": "Give me your hands all over, one by one."
+        },
+        {
+            "speaker": "cassius",
+            "text": "And let us swear our resolution."
+        },
+        {
+            "speaker": "brutus",
+            "text": "No, not an oath: if not the face of men, The sufferance of our souls, the times abuse, If these be motives weak, break off betimes, And every man hence to his idle bed So let highsighted tyranny range on, Till each man drop by lottery. But if these, As I am sure they do, bear fire enough To kindle cowards and to steel with valour The melting spirits of women, then, countrymen, What need we any spur but our own cause, To prick us to redress what other bond Than secret Romans, that have spoke the word, And will not palter and what other oath Than honesty to honesty engaged, That this shall be, or we will fall for it Swear priests and cowards and men cautelous, Old feeble carrions and such suffering souls That welcome wrongs unto bad causes swear Such creatures as men doubt but do not stain The even virtue of our enterprise, Nor the insuppressive mettle of our spirits, To think that or our cause or our performance Did need an oath when every drop of blood That every Roman bears, and nobly bears, Is guilty of a several bastardy, If he do break the smallest particle Of any promise that hath passd from him."
+        },
+        {
+            "speaker": "cassius",
+            "text": "But what of Cicero shall we sound him I think he will stand very strong with us."
+        },
+        {
+            "speaker": "casca",
+            "text": "Let us not leave him out."
+        },
+        {
+            "speaker": "cinna",
+            "text": "No, by no means."
+        },
+        {
+            "speaker": "metellus cimber",
+            "text": "O, let us have him, for his silver hairs Will purchase us a good opinion And buy mens voices to commend our deeds: It shall be said, his judgment ruled our hands Our youths and wildness shall no whit appear, But all be buried in his gravity."
+        },
+        {
+            "speaker": "brutus",
+            "text": "O, name him not: let us not break with him For he will never follow any thing That other men begin."
+        },
+        {
+            "speaker": "cassius",
+            "text": "Then leave him out."
+        },
+        {
+            "speaker": "casca",
+            "text": "Indeed he is not fit."
+        },
+        {
+            "speaker": "decius brutus",
+            "text": "Shall no man else be touchd but only Caesar"
+        },
+        {
+            "speaker": "cassius",
+            "text": "Decius, well urged: I think it is not meet, Mark Antony, so well beloved of Caesar, Should outlive Caesar: we shall find of him A shrewd contriver and, you know, his means, If he improve them, may well stretch so far As to annoy us all: which to prevent, Let Antony and Caesar fall together."
+        },
+        {
+            "speaker": "brutus",
+            "text": "Our course will seem too bloody, Caius Cassius, To cut the head off and then hack the limbs, Like wrath in death and envy afterwards For Antony is but a limb of Caesar: Let us be sacrificers, but not butchers, Caius. We all stand up against the spirit of Caesar And in the spirit of men there is no blood: O, that we then could come by Caesars spirit, And not dismember Caesar! But, alas, Caesar must bleed for it! And, gentle friends, Lets kill him boldly, but not wrathfully Lets carve him as a dish fit for the gods, Not hew him as a carcass fit for hounds: And let our hearts, as subtle masters do, Stir up their servants to an act of rage, And after seem to chide em. This shall make Our purpose necessary and not envious: Which so appearing to the common eyes, We shall be calld purgers, not murderers. And for Mark Antony, think not of him For he can do no more than Caesars arm When Caesars head is off."
+        },
+        {
+            "speaker": "cassius",
+            "text": "Yet I fear him For in the ingrafted love he bears to Caesar"
+        },
+        {
+            "speaker": "brutus",
+            "text": "Alas, good Cassius, do not think of him: If he love Caesar, all that he can do Is to himself, take thought and die for Caesar: And that were much he should for he is given To sports, to wildness and much company."
+        },
+        {
+            "speaker": "trebonius",
+            "text": "There is no fear in him let him not die For he will live, and laugh at this hereafter."
+        },
+        {
+            "text": "Clock strikes"
+        },
+        {
+            "speaker": "brutus",
+            "text": "Peace! count the clock."
+        },
+        {
+            "speaker": "cassius",
+            "text": "The clock hath stricken three."
+        },
+        {
+            "speaker": "trebonius",
+            "text": "Tis time to part."
+        },
+        {
+            "speaker": "cassius",
+            "text": "But it is doubtful yet, Whether Caesar will come forth today, or no For he is superstitious grown of late, Quite from the main opinion he held once Of fantasy, of dreams and ceremonies: It may be, these apparent prodigies, The unaccustomd terror of this night, And the persuasion of his augurers, May hold him from the Capitol today."
+        },
+        {
+            "speaker": "decius brutus",
+            "text": "Never fear that: if he be so resolved, I can oersway him for he loves to hear That unicorns may be betrayd with trees, And bears with glasses, elephants with holes, Lions with toils and men with flatterers But when I tell him he hates flatterers, He says he does, being then most flattered. Let me work For I can give his humour the true bent, And I will bring him to the Capitol."
+        },
+        {
+            "speaker": "cassius",
+            "text": "Nay, we will all of us be there to fetch him."
+        },
+        {
+            "speaker": "brutus",
+            "text": "By the eighth hour: is that the uttermost"
+        },
+        {
+            "speaker": "cinna",
+            "text": "Be that the uttermost, and fail not then."
+        },
+        {
+            "speaker": "metellus cimber",
+            "text": "Caius Ligarius doth bear Caesar hard, Who rated him for speaking well of Pompey: I wonder none of you have thought of him."
+        },
+        {
+            "speaker": "brutus",
+            "text": "Now, good Metellus, go along by him: He loves me well, and I have given him reasons Send him but hither, and Ill fashion him."
+        },
+        {
+            "speaker": "cassius",
+            "text": "The morning comes upon s: well leave you, Brutus. And, friends, disperse yourselves but all remember What you have said, and show yourselves true Romans."
+        },
+        {
+            "speaker": "brutus",
+            "text": "Good gentlemen, look fresh and merrily Let not our looks put on our purposes, But bear it as our Roman actors do, With untired spirits and formal constancy: And so good morrow to you every one. Boy! Lucius! Fast asleep It is no matter Enjoy the honeyheavy dew of slumber: Thou hast no figures nor no fantasies, Which busy care draws in the brains of men Therefore thou sleepst so sound."
+        },
+        {
+            "text": "Exeunt all but BRUTUS"
+        },
+        {
+            "text": "Enter PORTIA"
+        },
+        {
+            "speaker": "portia",
+            "text": "Brutus, my lord!"
+        },
+        {
+            "speaker": "brutus",
+            "text": "Portia, what mean you wherefore rise you now It is not for your health thus to commit Your weak condition to the raw cold morning."
+        },
+        {
+            "speaker": "portia",
+            "text": "Nor for yours neither. Youve ungently, Brutus, Stole from my bed: and yesternight, at supper, You suddenly arose, and walkd about, Musing and sighing, with your arms across, And when I askd you what the matter was, You stared upon me with ungentle looks I urged you further then you scratchd your head, And too impatiently stampd with your foot Yet I insisted, yet you answerd not, But, with an angry wafture of your hand, Gave sign for me to leave you: so I did Fearing to strengthen that impatience Which seemd too much enkindled, and withal Hoping it was but an effect of humour, Which sometime hath his hour with every man. It will not let you eat, nor talk, nor sleep, And could it work so much upon your shape As it hath much prevaild on your condition, I should not know you, Brutus. Dear my lord, Make me acquainted with your cause of grief."
+        },
+        {
+            "speaker": "brutus",
+            "text": "I am not well in health, and that is all."
+        },
+        {
+            "speaker": "portia",
+            "text": "Brutus is wise, and, were he not in health, He would embrace the means to come by it."
+        },
+        {
+            "speaker": "brutus",
+            "text": "Why, so I do. Good Portia, go to bed."
+        },
+        {
+            "speaker": "portia",
+            "text": "Is Brutus sick and is it physical To walk unbraced and suck up the humours Of the dank morning What, is Brutus sick, And will he steal out of his wholesome bed, To dare the vile contagion of the night And tempt the rheumy and unpurged air To add unto his sickness No, my Brutus You have some sick offence within your mind, Which, by the right and virtue of my place, I ought to know of: and, upon my knees, I charm you, by my oncecommended beauty, By all your vows of love and that great vow Which did incorporate and make us one, That you unfold to me, yourself, your half, Why you are heavy, and what men tonight Have had to resort to you: for here have been Some six or seven, who did hide their faces Even from darkness."
+        },
+        {
+            "speaker": "brutus",
+            "text": "Kneel not, gentle Portia."
+        },
+        {
+            "speaker": "portia",
+            "text": "I should not need, if you were gentle Brutus. Within the bond of marriage, tell me, Brutus, Is it excepted I should know no secrets That appertain to you Am I yourself But, as it were, in sort or limitation, To keep with you at meals, comfort your bed, And talk to you sometimes Dwell I but in the suburbs Of your good pleasure If it be no more, Portia is Brutus harlot, not his wife."
+        },
+        {
+            "speaker": "brutus",
+            "text": "You are my true and honourable wife, As dear to me as are the ruddy drops That visit my sad heart"
+        },
+        {
+            "speaker": "portia",
+            "text": "If this were true, then should I know this secret. I grant I am a woman but withal A woman that Lord Brutus took to wife: I grant I am a woman but withal A woman wellreputed, Catos daughter. Think you I am no stronger than my sex, Being so fatherd and so husbanded Tell me your counsels, I will not disclose em: I have made strong proof of my constancy, Giving myself a voluntary wound Here, in the thigh: can I bear that with patience. And not my husbands secrets"
+        },
+        {
+            "speaker": "brutus",
+            "text": "O ye gods, Render me worthy of this noble wife! Hark, hark! one knocks: Portia, go in awhile And by and by thy bosom shall partake The secrets of my heart. All my engagements I will construe to thee, All the charactery of my sad brows: Leave me with haste. Lucius, whos that knocks"
+        },
+        {
+            "text": "Knocking within"
+        },
+        {
+            "text": "Exit PORTIA"
+        },
+        {
+            "text": "Reenter LUCIUS with LIGARIUS"
+        },
+        {
+            "speaker": "lucius",
+            "text": "He is a sick man that would speak with you."
+        },
+        {
+            "speaker": "brutus",
+            "text": "Caius Ligarius, that Metellus spake of. Boy, stand aside. Caius Ligarius! how"
+        },
+        {
+            "speaker": "ligarius",
+            "text": "Vouchsafe good morrow from a feeble tongue."
+        },
+        {
+            "speaker": "brutus",
+            "text": "O, what a time have you chose out, brave Caius, To wear a kerchief! Would you were not sick!"
+        },
+        {
+            "speaker": "ligarius",
+            "text": "I am not sick, if Brutus have in hand Any exploit worthy the name of honour."
+        },
+        {
+            "speaker": "brutus",
+            "text": "Such an exploit have I in hand, Ligarius, Had you a healthful ear to hear of it."
+        },
+        {
+            "speaker": "ligarius",
+            "text": "By all the gods that Romans bow before, I here discard my sickness! Soul of Rome! Brave son, derived from honourable loins! Thou, like an exorcist, hast conjured up My mortified spirit. Now bid me run, And I will strive with things impossible Yea, get the better of them. Whats to do"
+        },
+        {
+            "speaker": "brutus",
+            "text": "A piece of work that will make sick men whole."
+        },
+        {
+            "speaker": "ligarius",
+            "text": "But are not some whole that we must make sick"
+        },
+        {
+            "speaker": "brutus",
+            "text": "That must we also. What it is, my Caius, I shall unfold to thee, as we are going To whom it must be done."
+        },
+        {
+            "speaker": "ligarius",
+            "text": "Set on your foot, And with a heart newfired I follow you, To do I know not what: but it sufficeth That Brutus leads me on."
+        },
+        {
+            "speaker": "brutus",
+            "text": "Follow me, then."
+        },
+        {
+            "text": "Exeunt"
+        }
+    ]
+}

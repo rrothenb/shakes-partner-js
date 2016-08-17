@@ -1,0 +1,413 @@
+{
+    "sceneName": "Act 4, scene 2",
+    "playName": "merry wives of windsor",
+    "location": "A room in FORDS house.",
+    "lines": [
+        {
+            "text": "Enter FALSTAFF and MISTRESS FORD"
+        },
+        {
+            "speaker": "falstaff",
+            "text": "Mistress Ford, your sorrow hath eaten up my sufferance. I see you are obsequious in your love, and I profess requital to a hairs breadth not only, Mistress Ford, in the simple office of love, but in all the accoutrement, complement and ceremony of it. But are you sure of your husband now"
+        },
+        {
+            "speaker": "mistress ford",
+            "text": "Hes abirding, sweet Sir John."
+        },
+        {
+            "speaker": "mistress page",
+            "text": "[Within]  What, ho, gossip Ford! what, ho!"
+        },
+        {
+            "speaker": "mistress ford",
+            "text": "Step into the chamber, Sir John."
+        },
+        {
+            "text": "Exit FALSTAFF"
+        },
+        {
+            "text": "Enter MISTRESS PAGE"
+        },
+        {
+            "speaker": "mistress page",
+            "text": "How now, sweetheart! whos at home besides yourself"
+        },
+        {
+            "speaker": "mistress ford",
+            "text": "Why, none but mine own people."
+        },
+        {
+            "speaker": "mistress page",
+            "text": "Indeed!"
+        },
+        {
+            "speaker": "mistress ford",
+            "text": "No, certainly. Speak louder."
+        },
+        {
+            "text": "Aside to her"
+        },
+        {
+            "speaker": "mistress page",
+            "text": "Truly, I am so glad you have nobody here."
+        },
+        {
+            "speaker": "mistress ford",
+            "text": "Why"
+        },
+        {
+            "speaker": "mistress page",
+            "text": "Why, woman, your husband is in his old lunes again: he so takes on yonder with my husband so rails against all married mankind so curses all Eves daughters, of what complexion soever and so buffets himself on the forehead, crying, Peer out, peer out! that any madness I ever yet beheld seemed but tameness, civility and patience, to this his distemper he is in now: I am glad the fat knight is not here."
+        },
+        {
+            "speaker": "mistress ford",
+            "text": "Why, does he talk of him"
+        },
+        {
+            "speaker": "mistress page",
+            "text": "Of none but him and swears he was carried out, the last time he searched for him, in a basket protests to my husband he is now here, and hath drawn him and the rest of their company from their sport, to make another experiment of his suspicion: but I am glad the knight is not here now he shall see his own foolery."
+        },
+        {
+            "speaker": "mistress ford",
+            "text": "How near is he, Mistress Page"
+        },
+        {
+            "speaker": "mistress page",
+            "text": "Hard by at street end he will be here anon."
+        },
+        {
+            "speaker": "mistress ford",
+            "text": "I am undone! The knight is here."
+        },
+        {
+            "speaker": "mistress page",
+            "text": "Why then you are utterly shamed, and hes but a dead man. What a woman are you!Away with him, away with him! better shame than murder."
+        },
+        {
+            "speaker": "ford",
+            "text": "Which way should be go how should I bestow him Shall I put him into the basket again"
+        },
+        {
+            "text": "Reenter FALSTAFF"
+        },
+        {
+            "speaker": "falstaff",
+            "text": "No, Ill come no more i the basket. May I not go out ere he come"
+        },
+        {
+            "speaker": "mistress page",
+            "text": "Alas, three of Master Fords brothers watch the door with pistols, that none shall issue out otherwise you might slip away ere he came. But what make you here"
+        },
+        {
+            "speaker": "falstaff",
+            "text": "What shall I do Ill creep up into the chimney."
+        },
+        {
+            "speaker": "mistress ford",
+            "text": "There they always use to discharge their birdingpieces. Creep into the kilnhole."
+        },
+        {
+            "speaker": "falstaff",
+            "text": "Where is it"
+        },
+        {
+            "speaker": "mistress ford",
+            "text": "He will seek there, on my word. Neither press, coffer, chest, trunk, well, vault, but he hath an abstract for the remembrance of such places, and goes to them by his note: there is no hiding you in the house."
+        },
+        {
+            "speaker": "falstaff",
+            "text": "Ill go out then."
+        },
+        {
+            "speaker": "mistress page",
+            "text": "If you go out in your own semblance, you die, Sir John. Unless you go out disguised"
+        },
+        {
+            "speaker": "mistress ford",
+            "text": "How might we disguise him"
+        },
+        {
+            "speaker": "mistress page",
+            "text": "Alas the day, I know not! There is no womans gown big enough for him otherwise he might put on a hat, a muffler and a kerchief, and so escape."
+        },
+        {
+            "speaker": "falstaff",
+            "text": "Good hearts, devise something: any extremity rather than a mischief."
+        },
+        {
+            "speaker": "mistress ford",
+            "text": "My maids aunt, the fat woman of Brentford, has a gown above."
+        },
+        {
+            "speaker": "mistress page",
+            "text": "On my word, it will serve him shes as big as he is: and theres her thrummed hat and her muffler too. Run up, Sir John."
+        },
+        {
+            "speaker": "mistress ford",
+            "text": "Go, go, sweet Sir John: Mistress Page and I will look some linen for your head."
+        },
+        {
+            "speaker": "mistress page",
+            "text": "Quick, quick! well come dress you straight: put on the gown the while."
+        },
+        {
+            "text": "Exit FALSTAFF"
+        },
+        {
+            "speaker": "mistress ford",
+            "text": "I would my husband would meet him in this shape: he cannot abide the old woman of Brentford he swears shes a witch forbade her my house and hath threatened to beat her."
+        },
+        {
+            "speaker": "mistress page",
+            "text": "Heaven guide him to thy husbands cudgel, and the devil guide his cudgel afterwards!"
+        },
+        {
+            "speaker": "mistress ford",
+            "text": "But is my husband coming"
+        },
+        {
+            "speaker": "mistress page",
+            "text": "Ah, in good sadness, is he and talks of the basket too, howsoever he hath had intelligence."
+        },
+        {
+            "speaker": "mistress ford",
+            "text": "Well try that for Ill appoint my men to carry the basket again, to meet him at the door with it, as they did last time."
+        },
+        {
+            "speaker": "mistress page",
+            "text": "Nay, but hell be here presently: lets go dress him like the witch of Brentford."
+        },
+        {
+            "speaker": "mistress ford",
+            "text": "Ill first direct my men what they shall do with the basket. Go up Ill bring linen for him straight."
+        },
+        {
+            "text": "Exit"
+        },
+        {
+            "speaker": "mistress page",
+            "text": "Hang him, dishonest varlet! we cannot misuse him enough. Well leave a proof, by that which we will do, Wives may be merry, and yet honest too: We do not act that often jest and laugh Tis old, but true, Still swine eat all the draff."
+        },
+        {
+            "text": "Exit"
+        },
+        {
+            "text": "Reenter MISTRESS FORD with two Servants"
+        },
+        {
+            "speaker": "mistress ford",
+            "text": "Go, sirs, take the basket again on your shoulders: your master is hard at door if he bid you set it down, obey him: quickly, dispatch."
+        },
+        {
+            "text": "Exit"
+        },
+        {
+            "speaker": "first servant",
+            "text": "Come, come, take it up."
+        },
+        {
+            "speaker": "second servant",
+            "text": "Pray heaven it be not full of knight again."
+        },
+        {
+            "speaker": "first servant",
+            "text": "I hope not I had as lief bear so much lead."
+        },
+        {
+            "text": "Enter FORD, PAGE, SHALLOW, DOCTOR CAIUS, and SIR HUGH EVANS"
+        },
+        {
+            "speaker": "ford",
+            "text": "Ay, but if it prove true, Master Page, have you any way then to unfool me again Set down the basket, villain! Somebody call my wife. Youth in a basket! O you panderly rascals! theres a knot, a ging, a pack, a conspiracy against me: now shall the devil be shamed. What, wife, I say! Come, come forth! Behold what honest clothes you send forth to bleaching!"
+        },
+        {
+            "speaker": "page",
+            "text": "Why, this passes, Master Ford you are not to go loose any longer you must be pinioned."
+        },
+        {
+            "speaker": "sir hugh evans",
+            "text": "Why, this is lunatics! this is mad as a mad dog!"
+        },
+        {
+            "speaker": "shallow",
+            "text": "Indeed, Master Ford, this is not well, indeed."
+        },
+        {
+            "speaker": "ford",
+            "text": "So say I too, sir. Come hither, Mistress Ford Mistress Ford the honest woman, the modest wife, the virtuous creature, that hath the jealous fool to her husband! I suspect without cause, mistress, do I"
+        },
+        {
+            "text": "Reenter MISTRESS FORD"
+        },
+        {
+            "speaker": "mistress ford",
+            "text": "Heaven be my witness you do, if you suspect me in any dishonesty."
+        },
+        {
+            "speaker": "ford",
+            "text": "Well said, brazenface! hold it out. Come forth, sirrah!"
+        },
+        {
+            "text": "Pulling clothes out of the basket"
+        },
+        {
+            "speaker": "page",
+            "text": "This passes!"
+        },
+        {
+            "speaker": "mistress ford",
+            "text": "Are you not ashamed let the clothes alone."
+        },
+        {
+            "speaker": "ford",
+            "text": "I shall find you anon."
+        },
+        {
+            "speaker": "sir hugh evans",
+            "text": "Tis unreasonable! Will you take up your wifes clothes Come away."
+        },
+        {
+            "speaker": "ford",
+            "text": "Empty the basket, I say!"
+        },
+        {
+            "speaker": "mistress ford",
+            "text": "Why, man, why"
+        },
+        {
+            "speaker": "ford",
+            "text": "Master Page, as I am a man, there was one conveyed out of my house yesterday in this basket: why may not he be there again In my house I am sure he is: my intelligence is true my jealousy is reasonable. Pluck me out all the linen."
+        },
+        {
+            "speaker": "mistress ford",
+            "text": "If you find a man there, he shall die a fleas death."
+        },
+        {
+            "speaker": "page",
+            "text": "Heres no man."
+        },
+        {
+            "speaker": "shallow",
+            "text": "By my fidelity, this is not well, Master Ford this wrongs you."
+        },
+        {
+            "speaker": "sir hugh evans",
+            "text": "Master Ford, you must pray, and not follow the imaginations of your own heart: this is jealousies."
+        },
+        {
+            "speaker": "ford",
+            "text": "Well, hes not here I seek for."
+        },
+        {
+            "speaker": "page",
+            "text": "No, nor nowhere else but in your brain."
+        },
+        {
+            "speaker": "ford",
+            "text": "Help to search my house this one time. If I find not what I seek, show no colour for my extremity let me for ever be your tablesport let them say of me, As jealous as Ford, Chat searched a hollow walnut for his wifes leman. Satisfy me once more once more search with me."
+        },
+        {
+            "speaker": "mistress ford",
+            "text": "What, ho, Mistress Page! come you and the old woman down my husband will come into the chamber."
+        },
+        {
+            "speaker": "ford",
+            "text": "Old woman! what old womans that"
+        },
+        {
+            "speaker": "mistress ford",
+            "text": "Nay, it is my maids aunt of Brentford."
+        },
+        {
+            "speaker": "ford",
+            "text": "A witch, a quean, an old cozening quean! Have I not forbid her my house She comes of errands, does she We are simple men we do not know whats brought to pass under the profession of fortunetelling. She works by charms, by spells, by the figure, and such daubery as this is, beyond our element we know nothing. Come down, you witch, you hag, you come down, I say!"
+        },
+        {
+            "speaker": "mistress ford",
+            "text": "Nay, good, sweet husband! Good gentlemen, let him not strike the old woman."
+        },
+        {
+            "text": "Reenter FALSTAFF in womans clothes, and MISTRESS PAGE"
+        },
+        {
+            "speaker": "mistress page",
+            "text": "Come, Mother Prat come, give me your hand."
+        },
+        {
+            "speaker": "ford",
+            "text": "Ill prat her. Out of my door, you witch, you hag, you baggage, you polecat, you runyon! out, out! Ill conjure you, Ill fortunetell you."
+        },
+        {
+            "text": "Beating him"
+        },
+        {
+            "text": "Exit FALSTAFF"
+        },
+        {
+            "speaker": "mistress page",
+            "text": "Are you not ashamed I think you have killed the poor woman."
+        },
+        {
+            "speaker": "mistress ford",
+            "text": "Nay, he will do it. Tis a goodly credit for you."
+        },
+        {
+            "speaker": "ford",
+            "text": "Hang her, witch!"
+        },
+        {
+            "speaker": "sir hugh evans",
+            "text": "By the yea and no, I think the oman is a witch indeed: I like not when a oman has a great peard I spy a great peard under his muffler."
+        },
+        {
+            "speaker": "ford",
+            "text": "Will you follow, gentlemen I beseech you, follow see but the issue of my jealousy: if I cry out thus upon no trail, never trust me when I open again."
+        },
+        {
+            "speaker": "page",
+            "text": "Lets obey his humour a little further: come, gentlemen."
+        },
+        {
+            "text": "Exeunt FORD, PAGE, SHALLOW, DOCTOR CAIUS, and SIR HUGH EVANS"
+        },
+        {
+            "speaker": "mistress page",
+            "text": "Trust me, he beat him most pitifully."
+        },
+        {
+            "speaker": "mistress ford",
+            "text": "Nay, by the mass, that he did not he beat him most unpitifully, methought."
+        },
+        {
+            "speaker": "mistress page",
+            "text": "Ill have the cudgel hallowed and hung oer the altar it hath done meritorious service."
+        },
+        {
+            "speaker": "mistress ford",
+            "text": "What think you may we, with the warrant of womanhood and the witness of a good conscience, pursue him with any further revenge"
+        },
+        {
+            "speaker": "mistress page",
+            "text": "The spirit of wantonness is, sure, scared out of him: if the devil have him not in feesimple, with fine and recovery, he will never, I think, in the way of waste, attempt us again."
+        },
+        {
+            "speaker": "mistress ford",
+            "text": "Shall we tell our husbands how we have served him"
+        },
+        {
+            "speaker": "mistress page",
+            "text": "Yes, by all means if it be but to scrape the figures out of your husbands brains. If they can find in their hearts the poor unvirtuous fat knight shall be any further afflicted, we two will still be the ministers."
+        },
+        {
+            "speaker": "mistress ford",
+            "text": "Ill warrant theyll have him publicly shamed: and methinks there would be no period to the jest, should he not be publicly shamed."
+        },
+        {
+            "speaker": "mistress page",
+            "text": "Come, to the forge with it then shape it: I would not have things cool."
+        },
+        {
+            "text": "Exeunt"
+        }
+    ]
+}

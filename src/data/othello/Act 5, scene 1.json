@@ -1,0 +1,382 @@
+{
+    "sceneName": "Act 5, scene 1",
+    "playName": "othello",
+    "location": "Cyprus. A street.",
+    "lines": [
+        {
+            "text": "Enter IAGO and RODERIGO"
+        },
+        {
+            "speaker": "iago",
+            "text": "Here, stand behind this bulk straight will he come: Wear thy good rapier bare, and put it home: Quick, quick fear nothing Ill be at thy elbow: It makes us, or it mars us think on that, And fix most firm thy resolution."
+        },
+        {
+            "speaker": "roderigo",
+            "text": "Be near at hand I may miscarry int."
+        },
+        {
+            "speaker": "iago",
+            "text": "Here, at thy hand: be bold, and take thy stand."
+        },
+        {
+            "text": "Retires"
+        },
+        {
+            "speaker": "roderigo",
+            "text": "I have no great devotion to the deed And yet he hath given me satisfying reasons: Tis but a man gone. Forth, my sword: he dies."
+        },
+        {
+            "speaker": "iago",
+            "text": "I have rubbd this young quat almost to the sense, And he grows angry. Now, whether he kill Cassio, Or Cassio him, or each do kill the other, Every way makes my gain: live Roderigo, He calls me to a restitution large Of gold and jewels that I bobbd from him, As gifts to Desdemona It must not be: if Cassio do remain, He hath a daily beauty in his life That makes me ugly and, besides, the Moor May unfold me to him there stand I in much peril: No, he must die. But so: I hear him coming."
+        },
+        {
+            "text": "Enter CASSIO"
+        },
+        {
+            "speaker": "roderigo",
+            "text": "I know his gait, tis he.Villain, thou diest!"
+        },
+        {
+            "text": "Makes a pass at CASSIO"
+        },
+        {
+            "speaker": "cassio",
+            "text": "That thrust had been mine enemy indeed, But that my coat is better than thou knowst I will make proof of thine."
+        },
+        {
+            "text": "Draws, and wounds RODERIGO"
+        },
+        {
+            "speaker": "roderigo",
+            "text": "O, I am slain!"
+        },
+        {
+            "text": "IAGO from behind wounds CASSIO in the leg, and exit"
+        },
+        {
+            "speaker": "cassio",
+            "text": "I am maimd for ever. Help, ho! murder! murder!"
+        },
+        {
+            "text": "Falls"
+        },
+        {
+            "text": "Enter OTHELLO"
+        },
+        {
+            "speaker": "othello",
+            "text": "The voice of Cassio: Iago keeps his word."
+        },
+        {
+            "speaker": "roderigo",
+            "text": "O, villain that I am!"
+        },
+        {
+            "speaker": "othello",
+            "text": "It is even so."
+        },
+        {
+            "speaker": "cassio",
+            "text": "O, help, ho! light! a surgeon!"
+        },
+        {
+            "speaker": "othello",
+            "text": "Tis he:O brave Iago, honest and just, That hast such noble sense of thy friends wrong! Thou teachest me. Minion, your dear lies dead, And your unblest fate hies: strumpet, I come. Forth of my heart those charms, thine eyes, are blotted Thy bed, luststaind, shall with lusts blood be spotted."
+        },
+        {
+            "text": "Exit"
+        },
+        {
+            "text": "Enter LODOVICO and GRATIANO"
+        },
+        {
+            "speaker": "cassio",
+            "text": "What, ho! no watch no passage murder! murder!"
+        },
+        {
+            "speaker": "gratiano",
+            "text": "Tis some mischance the cry is very direful."
+        },
+        {
+            "speaker": "cassio",
+            "text": "O, help!"
+        },
+        {
+            "speaker": "lodovico",
+            "text": "Hark!"
+        },
+        {
+            "speaker": "roderigo",
+            "text": "O wretched villain!"
+        },
+        {
+            "speaker": "lodovico",
+            "text": "Two or three groan: it is a heavy night: These may be counterfeits: lets thinkt unsafe To come in to the cry without more help."
+        },
+        {
+            "speaker": "roderigo",
+            "text": "Nobody come then shall I bleed to death."
+        },
+        {
+            "speaker": "lodovico",
+            "text": "Hark!"
+        },
+        {
+            "text": "Reenter IAGO, with a light"
+        },
+        {
+            "speaker": "gratiano",
+            "text": "Heres one comes in his shirt, with light and weapons."
+        },
+        {
+            "speaker": "iago",
+            "text": "Whos there whose noise is this that ones on murder"
+        },
+        {
+            "speaker": "lodovico",
+            "text": "We do not know."
+        },
+        {
+            "speaker": "iago",
+            "text": "Did not you hear a cry"
+        },
+        {
+            "speaker": "cassio",
+            "text": "Here, here! for heavens sake, help me!"
+        },
+        {
+            "speaker": "iago",
+            "text": "Whats the matter"
+        },
+        {
+            "speaker": "gratiano",
+            "text": "This is Othellos ancient, as I take it."
+        },
+        {
+            "speaker": "lodovico",
+            "text": "The same indeed a very valiant fellow."
+        },
+        {
+            "speaker": "iago",
+            "text": "What are you here that cry so grievously"
+        },
+        {
+            "speaker": "cassio",
+            "text": "Iago O, I am spoild, undone by villains! Give me some help."
+        },
+        {
+            "speaker": "iago",
+            "text": "O me, lieutenant! what villains have done this"
+        },
+        {
+            "speaker": "cassio",
+            "text": "I think that one of them is hereabout, And cannot make away."
+        },
+        {
+            "speaker": "iago",
+            "text": "O treacherous villains! What are you there come in, and give some help."
+        },
+        {
+            "text": "To LODOVICO and GRATIANO"
+        },
+        {
+            "speaker": "roderigo",
+            "text": "O, help me here!"
+        },
+        {
+            "speaker": "cassio",
+            "text": "Thats one of them."
+        },
+        {
+            "speaker": "iago",
+            "text": "O murderous slave! O villain!"
+        },
+        {
+            "text": "Stabs RODERIGO"
+        },
+        {
+            "speaker": "roderigo",
+            "text": "O damnd Iago! O inhuman dog!"
+        },
+        {
+            "speaker": "iago",
+            "text": "Kill men i the dark!Where be these bloody thieves How silent is this town!Ho! murder! murder! What may you be are you of good or evil"
+        },
+        {
+            "speaker": "lodovico",
+            "text": "As you shall prove us, praise us."
+        },
+        {
+            "speaker": "iago",
+            "text": "Signior Lodovico"
+        },
+        {
+            "speaker": "lodovico",
+            "text": "He, sir."
+        },
+        {
+            "speaker": "iago",
+            "text": "I cry you mercy. Heres Cassio hurt by villains."
+        },
+        {
+            "speaker": "gratiano",
+            "text": "Cassio!"
+        },
+        {
+            "speaker": "iago",
+            "text": "How ist, brother!"
+        },
+        {
+            "speaker": "cassio",
+            "text": "My leg is cut in two."
+        },
+        {
+            "speaker": "iago",
+            "text": "Marry, heaven forbid! Light, gentlemen Ill bind it with my shirt."
+        },
+        {
+            "text": "Enter BIANCA"
+        },
+        {
+            "speaker": "bianca",
+            "text": "What is the matter, ho who ist that cried"
+        },
+        {
+            "speaker": "iago",
+            "text": "Who ist that cried!"
+        },
+        {
+            "speaker": "bianca",
+            "text": "O my dear Cassio! my sweet Cassio! O Cassio, Cassio, Cassio!"
+        },
+        {
+            "speaker": "iago",
+            "text": "O notable strumpet! Cassio, may you suspect Who they should be that have thus many led you"
+        },
+        {
+            "speaker": "cassio",
+            "text": "No."
+        },
+        {
+            "speaker": "gratiano",
+            "text": "I am to find you thus: I have been to seek you."
+        },
+        {
+            "speaker": "iago",
+            "text": "Lend me a garter. So. O, for a chair, To bear him easily hence!"
+        },
+        {
+            "speaker": "bianca",
+            "text": "Alas, he faints! O Cassio, Cassio, Cassio!"
+        },
+        {
+            "speaker": "iago",
+            "text": "Gentlemen all, I do suspect this trash To be a party in this injury. Patience awhile, good Cassio. Come, come Lend me a light. Know we this face or no Alas my friend and my dear countryman Roderigo! no:yes, sure: O heaven! Roderigo."
+        },
+        {
+            "speaker": "gratiano",
+            "text": "What, of Venice"
+        },
+        {
+            "speaker": "iago",
+            "text": "Even he, sir did you know him"
+        },
+        {
+            "speaker": "gratiano",
+            "text": "Know him! ay."
+        },
+        {
+            "speaker": "iago",
+            "text": "Signior Gratiano I cry you gentle pardon These bloody accidents must excuse my manners, That so neglected you."
+        },
+        {
+            "speaker": "gratiano",
+            "text": "I am glad to see you."
+        },
+        {
+            "speaker": "iago",
+            "text": "How do you, Cassio O, a chair, a chair!"
+        },
+        {
+            "speaker": "gratiano",
+            "text": "Roderigo!"
+        },
+        {
+            "speaker": "iago",
+            "text": "He, he tis he. O, thats well said the chair!"
+        },
+        {
+            "text": "A chair brought in"
+        },
+        {
+            "speaker": "gratiano",
+            "text": "Some good man bear him carefully from hence Ill fetch the generals surgeon. For you, mistress, Save you your labour. He that lies slain here, Cassio, Was my dear friend: what malice was between you"
+        },
+        {
+            "text": "To BIANCA"
+        },
+        {
+            "speaker": "cassio",
+            "text": "None in the world nor do I know the man."
+        },
+        {
+            "speaker": "iago",
+            "text": "[To BIANCA]  What, look you pale O, bear him out o the air. Stay you, good gentlemen. Look you pale, mistress Do you perceive the gastness of her eye Nay, if you stare, we shall hear more anon. Behold her well I pray you, look upon her: Do you see, gentlemen nay, guiltiness will speak, Though tongues were out of use."
+        },
+        {
+            "text": "CASSIO and RODERIGO are borne off"
+        },
+        {
+            "text": "Enter EMILIA"
+        },
+        {
+            "speaker": "emilia",
+            "text": "Las, whats the matter whats the matter, husband"
+        },
+        {
+            "speaker": "iago",
+            "text": "Cassio hath here been set on in the dark By Roderigo and fellows that are scaped: Hes almost slain, and Roderigo dead."
+        },
+        {
+            "speaker": "emilia",
+            "text": "Alas, good gentleman! alas, good Cassio!"
+        },
+        {
+            "speaker": "iago",
+            "text": "This is the fruit of whoring. Prithee, Emilia, Go know of Cassio where he suppd tonight. What, do you shake at that"
+        },
+        {
+            "text": "To BIANCA"
+        },
+        {
+            "speaker": "bianca",
+            "text": "He suppd at my house but I therefore shake not."
+        },
+        {
+            "speaker": "iago",
+            "text": "O, did he so I charge you, go with me."
+        },
+        {
+            "speaker": "emilia",
+            "text": "Fie, fie upon thee, strumpet!"
+        },
+        {
+            "speaker": "bianca",
+            "text": "I am no strumpet but of life as honest As you that thus abuse me."
+        },
+        {
+            "speaker": "emilia",
+            "text": "As I! foh! fie upon thee!"
+        },
+        {
+            "speaker": "iago",
+            "text": "Kind gentlemen, lets go see poor Cassio dressd. Come, mistress, you must tells another tale. Emilia run you to the citadel, And tell my lord and lady what hath happd. Will you go on I pray. This is the night That either makes me or fordoes me quite. a light burning."
+        },
+        {
+            "text": "Aside"
+        },
+        {
+            "text": "Exeunt"
+        }
+    ]
+}

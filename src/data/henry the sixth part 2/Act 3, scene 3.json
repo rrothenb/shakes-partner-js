@@ -1,0 +1,57 @@
+{
+    "sceneName": "Act 3, scene 3",
+    "playName": "henry the sixth part 2",
+    "location": "A bedchamber.",
+    "lines": [
+        {
+            "text": "Enter the KING, SALISBURY, WARWICK, to the CARDINAL in bed"
+        },
+        {
+            "speaker": "king henry the sixth",
+            "text": "How fares my lord speak, Beaufort, to thy sovereign."
+        },
+        {
+            "speaker": "cardinal",
+            "text": "If thou best death, Ill give thee Englands treasure, Enough to purchase such another island, So thou wilt let me live, and feel no pain."
+        },
+        {
+            "speaker": "king henry the sixth",
+            "text": "Ah, what a sign it is of evil life, Where deaths approach is seen so terrible!"
+        },
+        {
+            "speaker": "warwick",
+            "text": "Beaufort, it is thy sovereign speaks to thee."
+        },
+        {
+            "speaker": "cardinal",
+            "text": "Bring me unto my trial when you will. Died he not in his bed where should he die Can I make men live, whether they will or no O, torture me no more! I will confess. Alive again then show me where he is: Ill give a thousand pound to look upon him. He hath no eyes, the dust hath blinded them. Comb down his hair look, look! it stands upright, Like limetwigs set to catch my winged soul. Give me some drink and bid the apothecary Bring the strong poison that I bought of him."
+        },
+        {
+            "speaker": "king henry the sixth",
+            "text": "O thou eternal Mover of the heavens. Look with a gentle eye upon this wretch! O, beat away the busy meddling fiend That lays strong siege unto this wretchs soul. And from his bosom purge this black despair!"
+        },
+        {
+            "speaker": "warwick",
+            "text": "See, how the pangs of death do make him grin!"
+        },
+        {
+            "speaker": "salisbury",
+            "text": "Disturb him not let him pass peaceably."
+        },
+        {
+            "speaker": "king henry the sixth",
+            "text": "Peace to his soul, if Gods good pleasure be! Lord cardinal, if thou thinkst on heavens bliss, Hold up thy hand, make signal of thy hope. He dies, and makes no sign. O God, forgive him!"
+        },
+        {
+            "speaker": "warwick",
+            "text": "So bad a death argues a monstrous life."
+        },
+        {
+            "speaker": "king henry the sixth",
+            "text": "Forbear to judge, for we are sinners all. Close up his eyes and draw the curtain close And let us all to meditation."
+        },
+        {
+            "text": "Exeunt"
+        }
+    ]
+}

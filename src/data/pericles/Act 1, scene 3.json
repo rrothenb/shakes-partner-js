@@ -1,0 +1,56 @@
+{
+    "sceneName": "Act 1, scene 3",
+    "playName": "pericles",
+    "location": "Tyre. An antechamber in the palace.",
+    "lines": [
+        {
+            "text": "Enter THALIARD"
+        },
+        {
+            "speaker": "thaliard",
+            "text": "So, this is Tyre, and this the court. Here must I kill King Pericles and if I do it not, I am sure to be hanged at home: tis dangerous. Well, I perceive he was a wise fellow, and had good discretion, that, being bid to ask what he would of the king, desired he might know none of his secrets: now do I see he had some reason fort for if a king bid a man be a villain, hes bound by the indenture of his oath to be one! Hush! here come the lords of Tyre."
+        },
+        {
+            "text": "Enter HELICANUS and ESCANES, with other Lords of Tyre"
+        },
+        {
+            "speaker": "helicanus",
+            "text": "You shall not need, my fellow peers of Tyre, Further to question me of your kings departure: His seald commission, left in trust with me, Doth speak sufficiently hes gone to travel."
+        },
+        {
+            "speaker": "thaliard",
+            "text": "[Aside]  How! the king gone!"
+        },
+        {
+            "speaker": "helicanus",
+            "text": "If further yet you will be satisfied, Why, as it were unlicensed of your loves, He would depart, Ill give some light unto you. Being at Antioch"
+        },
+        {
+            "speaker": "thaliard",
+            "text": "[Aside]          What from Antioch"
+        },
+        {
+            "speaker": "helicanus",
+            "text": "Royal Antiochuson what cause I know not Took some displeasure at him at least he judged so: And doubting lest that he had errd or sinnd, To show his sorrow, held correct himself So puts himself unto the shipmans toil, With whom each minute threatens life or death."
+        },
+        {
+            "speaker": "thaliard",
+            "text": "[Aside]  Well, I perceive I shall not be hangd now, although I would But since hes gone, the kings seas must please: He scaped the land, to perish at the sea. Ill present myself. Peace to the lords of Tyre!"
+        },
+        {
+            "speaker": "helicanus",
+            "text": "Lord Thaliard from Antiochus is welcome."
+        },
+        {
+            "speaker": "thaliard",
+            "text": "From him I come With message unto princely Pericles But since my landing I have understood Your lord has betook himself to unknown travels, My message must return from whence it came."
+        },
+        {
+            "speaker": "helicanus",
+            "text": "We have no reason to desire it, Commended to our master, not to us: Yet, ere you shall depart, this we desire, As friends to Antioch, we may feast in Tyre."
+        },
+        {
+            "text": "Exeunt"
+        }
+    ]
+}

@@ -1,0 +1,104 @@
+{
+    "sceneName": "Act 2, scene 3",
+    "playName": "henry the fifth",
+    "location": "London. Before a tavern.",
+    "lines": [
+        {
+            "text": "Enter PISTOL, Hostess, NYM, BARDOLPH, and Boy"
+        },
+        {
+            "speaker": "hostess",
+            "text": "Prithee, honeysweet husband, let me bring thee to Staines."
+        },
+        {
+            "speaker": "pistol",
+            "text": "No for my manly heart doth yearn. Bardolph, be blithe: Nym, rouse thy vaunting veins: Boy, bristle thy courage up for Falstaff he is dead, And we must yearn therefore."
+        },
+        {
+            "speaker": "bardolph",
+            "text": "Would I were with him, wheresomeer he is, either in heaven or in hell!"
+        },
+        {
+            "speaker": "hostess",
+            "text": "Nay, sure, hes not in hell: hes in Arthurs bosom, if ever man went to Arthurs bosom. A made a finer end and went away an it had been any christom child a parted even just between twelve and one, even at the turning o the tide: for after I saw him fumble with the sheets and play with flowers and smile upon his fingers ends, I knew there was but one way for his nose was as sharp as a pen, and a babbled of green fields. How now, sir John! quoth Iwhat, man! be o good cheer. So a cried out God, God, God! three or four times. Now I, to comfort him, bid him a should not think of God I hoped there was no need to trouble himself with any such thoughts yet. So a bade me lay more clothes on his feet: I put my hand into the bed and felt them, and they were as cold as any stone then I felt to his knees, and they were as cold as any stone, and so upward and upward, and all was as cold as any stone."
+        },
+        {
+            "speaker": "nym",
+            "text": "They say he cried out of sack."
+        },
+        {
+            "speaker": "hostess",
+            "text": "Ay, that a did."
+        },
+        {
+            "speaker": "bardolph",
+            "text": "And of women."
+        },
+        {
+            "speaker": "hostess",
+            "text": "Nay, that a did not."
+        },
+        {
+            "speaker": "boy",
+            "text": "Yes, that a did and said they were devils incarnate."
+        },
+        {
+            "speaker": "hostess",
+            "text": "A could never abide carnation twas a colour he never liked."
+        },
+        {
+            "speaker": "boy",
+            "text": "A said once, the devil would have him about women."
+        },
+        {
+            "speaker": "hostess",
+            "text": "A did in some sort, indeed, handle women but then he was rheumatic, and talked of the whore of Babylon."
+        },
+        {
+            "speaker": "boy",
+            "text": "Do you not remember, a saw a flea stick upon Bardolphs nose, and a said it was a black soul burning in hellfire"
+        },
+        {
+            "speaker": "bardolph",
+            "text": "Well, the fuel is gone that maintained that fire: thats all the riches I got in his service."
+        },
+        {
+            "speaker": "nym",
+            "text": "Shall we shog the king will be gone from Southampton."
+        },
+        {
+            "speaker": "pistol",
+            "text": "Come, lets away. My love, give me thy lips. Look to my chattels and my movables: Let senses rule the word is Pitch and Pay: Trust none For oaths are straws, mens faiths are wafercakes, And holdfast is the only dog, my duck: Therefore, Caveto be thy counsellor. Go, clear thy c rystals. Yokefellows in arms, Let us to France like horseleeches, my boys, To suck, to suck, the very blood to suck!"
+        },
+        {
+            "speaker": "boy",
+            "text": "And thats but unwholesome food they say."
+        },
+        {
+            "speaker": "pistol",
+            "text": "Touch her soft mouth, and march."
+        },
+        {
+            "speaker": "bardolph",
+            "text": "Farewell, hostess."
+        },
+        {
+            "text": "Kissing her"
+        },
+        {
+            "speaker": "nym",
+            "text": "I cannot kiss, that is the humour of it but, adieu."
+        },
+        {
+            "speaker": "pistol",
+            "text": "Let housewifery appear: keep close, I thee command."
+        },
+        {
+            "speaker": "hostess",
+            "text": "Farewell adieu."
+        },
+        {
+            "text": "Exeunt"
+        }
+    ]
+}

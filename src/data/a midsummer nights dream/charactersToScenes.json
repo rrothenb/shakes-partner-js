@@ -1,0 +1,143 @@
+{
+    "theseus": [
+        "Act 1, scene 1",
+        "Act 4, scene 1",
+        "Act 5, scene 1"
+    ],
+    "hippolyta": [
+        "Act 1, scene 1",
+        "Act 4, scene 1",
+        "Act 5, scene 1"
+    ],
+    "egeus": [
+        "Act 1, scene 1",
+        "Act 4, scene 1"
+    ],
+    "hermia": [
+        "Act 1, scene 1",
+        "Act 2, scene 2",
+        "Act 3, scene 2",
+        "Act 4, scene 1"
+    ],
+    "demetrius": [
+        "Act 1, scene 1",
+        "Act 2, scene 1",
+        "Act 2, scene 2",
+        "Act 3, scene 2",
+        "Act 4, scene 1",
+        "Act 5, scene 1"
+    ],
+    "lysander": [
+        "Act 1, scene 1",
+        "Act 2, scene 2",
+        "Act 3, scene 2",
+        "Act 4, scene 1",
+        "Act 5, scene 1"
+    ],
+    "helena": [
+        "Act 1, scene 1",
+        "Act 2, scene 1",
+        "Act 2, scene 2",
+        "Act 3, scene 2",
+        "Act 4, scene 1"
+    ],
+    "quince": [
+        "Act 1, scene 2",
+        "Act 3, scene 1",
+        "Act 4, scene 2"
+    ],
+    "bottom": [
+        "Act 1, scene 2",
+        "Act 3, scene 1",
+        "Act 4, scene 1",
+        "Act 4, scene 2",
+        "Act 5, scene 1"
+    ],
+    "flute": [
+        "Act 1, scene 2",
+        "Act 3, scene 1",
+        "Act 4, scene 2"
+    ],
+    "starveling": [
+        "Act 1, scene 2",
+        "Act 3, scene 1",
+        "Act 4, scene 2"
+    ],
+    "snout": [
+        "Act 1, scene 2",
+        "Act 3, scene 1"
+    ],
+    "snug": [
+        "Act 1, scene 2",
+        "Act 4, scene 2"
+    ],
+    "all": [
+        "Act 1, scene 2",
+        "Act 3, scene 1"
+    ],
+    "puck": [
+        "Act 2, scene 1",
+        "Act 2, scene 2",
+        "Act 3, scene 1",
+        "Act 3, scene 2",
+        "Act 4, scene 1",
+        "Act 5, scene 1"
+    ],
+    "fairy": [
+        "Act 2, scene 1",
+        "Act 2, scene 2"
+    ],
+    "oberon": [
+        "Act 2, scene 1",
+        "Act 2, scene 2",
+        "Act 3, scene 2",
+        "Act 4, scene 1",
+        "Act 5, scene 1"
+    ],
+    "titania": [
+        "Act 2, scene 1",
+        "Act 2, scene 2",
+        "Act 3, scene 1",
+        "Act 4, scene 1",
+        "Act 5, scene 1"
+    ],
+    "peaseblossom": [
+        "Act 3, scene 1",
+        "Act 4, scene 1"
+    ],
+    "cobweb": [
+        "Act 3, scene 1",
+        "Act 4, scene 1"
+    ],
+    "moth": [
+        "Act 3, scene 1"
+    ],
+    "mustardseed": [
+        "Act 3, scene 1",
+        "Act 4, scene 1"
+    ],
+    "hernia": [
+        "Act 3, scene 2"
+    ],
+    "philostrate": [
+        "Act 5, scene 1"
+    ],
+    "prologue": [
+        "Act 5, scene 1"
+    ],
+    "wall": [
+        "Act 5, scene 1"
+    ],
+    "pyramus": [
+        "Act 5, scene 1"
+    ],
+    "thisbe": [
+        "Act 5, scene 1"
+    ],
+    "lion": [
+        "Act 5, scene 1"
+    ],
+    "moonshine": [
+        "Act 5, scene 1"
+    ]
+}

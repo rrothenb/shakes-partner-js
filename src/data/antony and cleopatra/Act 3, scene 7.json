@@ -1,0 +1,180 @@
+{
+    "sceneName": "Act 3, scene 7",
+    "playName": "antony and cleopatra",
+    "location": "Near Actium. MARK ANTONYs camp.",
+    "lines": [
+        {
+            "text": "Enter CLEOPATRA and DOMITIUS ENOBARBUS"
+        },
+        {
+            "speaker": "cleopatra",
+            "text": "I will be even with thee, doubt it not."
+        },
+        {
+            "speaker": "domitius enobarbus",
+            "text": "But why, why, why"
+        },
+        {
+            "speaker": "cleopatra",
+            "text": "Thou hast forspoke my being in these wars, And sayst it is not fit."
+        },
+        {
+            "speaker": "domitius enobarbus",
+            "text": "Well, is it, is it"
+        },
+        {
+            "speaker": "cleopatra",
+            "text": "If not denounced against us, why should not we Be there in person"
+        },
+        {
+            "speaker": "domitius enobarbus",
+            "text": "[Aside]  Well, I could reply: If we should serve with horse and mares together, The horse were merely lost the mares would bear A soldier and his horse."
+        },
+        {
+            "speaker": "cleopatra",
+            "text": "What ist you say"
+        },
+        {
+            "speaker": "domitius enobarbus",
+            "text": "Your presence needs must puzzle Antony Take from his heart, take from his brain, froms time, What should not then be spared. He is already Traduced for levity and tis said in Rome That Photinus an eunuch and your maids Manage this war."
+        },
+        {
+            "speaker": "cleopatra",
+            "text": "Sink Rome, and their tongues rot That speak against us! A charge we bear i the war, And, as the president of my kingdom, will Appear there for a man. Speak not against it: I will not stay behind."
+        },
+        {
+            "speaker": "domitius enobarbus",
+            "text": "Nay, I have done. Here comes the emperor."
+        },
+        {
+            "text": "Enter MARK ANTONY and CANIDIUS"
+        },
+        {
+            "speaker": "mark antony",
+            "text": "Is it not strange, Canidius, That from Tarentum and Brundusium He could so quickly cut the Ionian sea, And take in Toryne You have heard ont, sweet"
+        },
+        {
+            "speaker": "cleopatra",
+            "text": "Celerity is never more admired Than by the negligent."
+        },
+        {
+            "speaker": "mark antony",
+            "text": "A good rebuke, Which might have well becomed the best of men, To taunt at slackness. Canidius, we Will fight with him by sea."
+        },
+        {
+            "speaker": "cleopatra",
+            "text": "By sea! what else"
+        },
+        {
+            "speaker": "canidius",
+            "text": "Why will my lord do so"
+        },
+        {
+            "speaker": "mark antony",
+            "text": "For that he dares us tot."
+        },
+        {
+            "speaker": "domitius enobarbus",
+            "text": "So hath my lord dared him to single fight."
+        },
+        {
+            "speaker": "canidius",
+            "text": "Ay, and to wage this battle at Pharsalia. Where Caesar fought with Pompey: but these offers, Which serve not for his vantage, be shakes off And so should you."
+        },
+        {
+            "speaker": "domitius enobarbus",
+            "text": "Your ships are not well mannd Your mariners are muleters, reapers, people Ingrossd by swift impress in Caesars fleet Are those that often have gainst Pompey fought: Their ships are yare yours, heavy: no disgrace Shall fall you for refusing him at sea, Being prepared for land."
+        },
+        {
+            "speaker": "mark antony",
+            "text": "By sea, by sea."
+        },
+        {
+            "speaker": "domitius enobarbus",
+            "text": "Most worthy sir, you therein throw away The absolute soldiership you have by land Distract your army, which doth most consist Of warmarkd footmen leave unexecuted Your own renowned knowledge quite forego The way which promises assurance and Give up yourself merely to chance and hazard, From firm security."
+        },
+        {
+            "speaker": "mark antony",
+            "text": "Ill fight at sea."
+        },
+        {
+            "speaker": "cleopatra",
+            "text": "I have sixty sails, Caesar none better."
+        },
+        {
+            "speaker": "mark antony",
+            "text": "Our overplus of shipping will we burn And, with the rest fullmannd, from the head of Actium Beat the approaching Caesar. But if we fail, We then can dot at land. Thy business"
+        },
+        {
+            "text": "Enter a Messenger"
+        },
+        {
+            "speaker": "messenger",
+            "text": "The news is true, my lord he is descried Caesar has taken Toryne."
+        },
+        {
+            "speaker": "mark antony",
+            "text": "Can he be there in person tis impossible Strange that power should be. Canidius, Our nineteen legions thou shalt hold by land, And our twelve thousand horse. Well to our ship: Away, my Thetis! How now, worthy soldier"
+        },
+        {
+            "text": "Enter a Soldier"
+        },
+        {
+            "speaker": "soldier",
+            "text": "O noble emperor, do not fight by sea Trust not to rotten planks: do you misdoubt This sword and these my wounds Let the Egyptians And the Phoenicians go aducking we Have used to conquer, standing on the earth, And fighting foot to foot."
+        },
+        {
+            "speaker": "mark antony",
+            "text": "Well, well: away!"
+        },
+        {
+            "text": "Exeunt MARK ANTONY, QUEEN CLEOPATRA, and DOMITIUS ENOBARBUS"
+        },
+        {
+            "speaker": "soldier",
+            "text": "By Hercules, I think I am i the right."
+        },
+        {
+            "speaker": "canidius",
+            "text": "Soldier, thou art: but his whole action grows Not in the power ont: so our leaders led, And we are womens men."
+        },
+        {
+            "speaker": "soldier",
+            "text": "You keep by land The legions and the horse whole, do you not"
+        },
+        {
+            "speaker": "canidius",
+            "text": "Marcus Octavius, Marcus Justeius, Publicola, and Caelius, are for sea: But we keep whole by land. This speed of Caesars Carries beyond belief."
+        },
+        {
+            "speaker": "soldier",
+            "text": "While he was yet in Rome, His power went out in such distractions as Beguiled all spies."
+        },
+        {
+            "speaker": "canidius",
+            "text": "Whos his lieutenant, hear you"
+        },
+        {
+            "speaker": "soldier",
+            "text": "They say, one Taurus."
+        },
+        {
+            "speaker": "canidius",
+            "text": "Well I know the man."
+        },
+        {
+            "text": "Enter a Messenger"
+        },
+        {
+            "speaker": "messenger",
+            "text": "The emperor calls Canidius."
+        },
+        {
+            "speaker": "canidius",
+            "text": "With news the times with labour, and throes forth, Each minute, some."
+        },
+        {
+            "text": "Exeunt"
+        }
+    ]
+}

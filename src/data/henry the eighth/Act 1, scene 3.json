@@ -1,0 +1,112 @@
+{
+    "sceneName": "Act 1, scene 3",
+    "playName": "henry the eighth",
+    "location": "An antechamber in the palace.",
+    "lines": [
+        {
+            "text": "Enter Chamberlain and SANDS"
+        },
+        {
+            "speaker": "chamberlain",
+            "text": "Ist possible the spells of France should juggle Men into such strange mysteries"
+        },
+        {
+            "speaker": "sands",
+            "text": "New customs, Though they be never so ridiculous, Nay, let em be unmanly, yet are followd."
+        },
+        {
+            "speaker": "chamberlain",
+            "text": "As far as I see, all the good our English Have got by the late voyage is but merely A fit or two o the face but they are shrewd ones For when they hold em, you would swear directly Their very noses had been counsellors To Pepin or Clotharius, they keep state so."
+        },
+        {
+            "speaker": "sands",
+            "text": "They have all new legs, and lame ones: one would take it, That never saw em pace before, the spavin Or springhalt reignd among em."
+        },
+        {
+            "speaker": "chamberlain",
+            "text": "Death! my lord, Their clothes are after such a pagan cut too, That, sure, theyve worn out Christendom. How now! What news, Sir Thomas Lovell"
+        },
+        {
+            "text": "Enter LOVELL"
+        },
+        {
+            "speaker": "lovell",
+            "text": "Faith, my lord, I hear of none, but the new proclamation Thats clappd upon the courtgate."
+        },
+        {
+            "speaker": "chamberlain",
+            "text": "What ist for"
+        },
+        {
+            "speaker": "lovell",
+            "text": "The reformation of our travelld gallants, That fill the court with quarrels, talk, and tailors."
+        },
+        {
+            "speaker": "chamberlain",
+            "text": "Im glad tis there: now I would pray our monsieurs To think an English courtier may be wise, And never see the Louvre."
+        },
+        {
+            "speaker": "lovell",
+            "text": "They must either, For so run the conditions, leave those remnants Of fool and feather that they got in France, With all their honourable point of ignorance Pertaining thereunto, as fights and fireworks, Abusing better men than they can be, Out of a foreign wisdom, renouncing clean The faith they have in tennis, and tall stockings, Short blisterd breeches, and those types of travel, And understand again like honest men Or pack to their old playfellows: there, I take it, They may, cum privilegio, wear away The lag end of their lewdness and be laughd at."
+        },
+        {
+            "speaker": "sands",
+            "text": "Tis time to give em physic, their diseases Are grown so catching."
+        },
+        {
+            "speaker": "chamberlain",
+            "text": "What a loss our ladies Will have of these trim vanities!"
+        },
+        {
+            "speaker": "lovell",
+            "text": "Ay, marry, There will be woe indeed, lords: the sly whoresons Have got a speeding trick to lay down ladies A French song and a fiddle has no fellow."
+        },
+        {
+            "speaker": "sands",
+            "text": "The devil fiddle em! I am glad they are going, For, sure, theres no converting of em: now An honest country lord, as I am, beaten A long time out of play, may bring his plainsong And have an hour of hearing and, byr lady, Held current music too."
+        },
+        {
+            "speaker": "chamberlain",
+            "text": "Well said, Lord Sands Your colts tooth is not cast yet."
+        },
+        {
+            "speaker": "sands",
+            "text": "No, my lord Nor shall not, while I have a stump."
+        },
+        {
+            "speaker": "chamberlain",
+            "text": "Sir Thomas, Whither were you agoing"
+        },
+        {
+            "speaker": "lovell",
+            "text": "To the cardinals: Your lordship is a guest too."
+        },
+        {
+            "speaker": "chamberlain",
+            "text": "O, tis true: This night he makes a supper, and a great one, To many lords and ladies there will be The beauty of this kingdom, Ill assure you."
+        },
+        {
+            "speaker": "lovell",
+            "text": "That churchman bears a bounteous mind indeed, A hand as fruitful as the land that feeds us His dews fall every where."
+        },
+        {
+            "speaker": "chamberlain",
+            "text": "No doubt hes noble He had a black mouth that said other of him."
+        },
+        {
+            "speaker": "sands",
+            "text": "He may, my lord has wherewithal: in him Sparing would show a worse sin than ill doctrine: Men of his way should be most liberal They are set here for examples."
+        },
+        {
+            "speaker": "chamberlain",
+            "text": "True, they are so: But few now give so great ones. My barge stays Your lordship shall along. Come, good Sir Thomas, We shall be late else which I would not be, For I was spoke to, with Sir Henry Guildford This night to be comptrollers."
+        },
+        {
+            "speaker": "sands",
+            "text": "I am your lordships."
+        },
+        {
+            "text": "Exeunt"
+        }
+    ]
+}

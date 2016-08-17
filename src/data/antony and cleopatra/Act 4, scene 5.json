@@ -1,0 +1,57 @@
+{
+    "sceneName": "Act 4, scene 5",
+    "playName": "antony and cleopatra",
+    "location": "Alexandria. MARK ANTONYs camp.",
+    "lines": [
+        {
+            "text": "Trumpets sound. Enter MARK ANTONY and EROS a Soldier meeting them"
+        },
+        {
+            "speaker": "soldier",
+            "text": "The gods make this a happy day to Antony!"
+        },
+        {
+            "speaker": "mark antony",
+            "text": "Would thou and those thy scars had once prevaild To make me fight at land!"
+        },
+        {
+            "speaker": "soldier",
+            "text": "Hadst thou done so, The kings that have revolted, and the soldier That has this morning left thee, would have still Followd thy heels."
+        },
+        {
+            "speaker": "mark antony",
+            "text": "Whos gone this morning"
+        },
+        {
+            "speaker": "soldier",
+            "text": "Who! One ever near thee: call for Enobarbus, He shall not hear thee or from Caesars camp Say I am none of thine."
+        },
+        {
+            "speaker": "mark antony",
+            "text": "What sayst thou"
+        },
+        {
+            "speaker": "soldier",
+            "text": "Sir, He is with Caesar."
+        },
+        {
+            "speaker": "eros",
+            "text": "Sir, his chests and treasure He has not with him."
+        },
+        {
+            "speaker": "mark antony",
+            "text": "Is he gone"
+        },
+        {
+            "speaker": "soldier",
+            "text": "Most certain."
+        },
+        {
+            "speaker": "mark antony",
+            "text": "Go, Eros, send his treasure after do it Detain no jot, I charge thee: write to him I will subscribegentle adieus and greetings Say that I wish he never find more cause To change a master. O, my fortunes have Corrupted honest men! Dispatch.Enobarbus!"
+        },
+        {
+            "text": "Exeunt"
+        }
+    ]
+}

@@ -1,0 +1,174 @@
+{
+    "sceneName": "Act 3, scene 4",
+    "playName": "richard the third",
+    "location": "The Tower of London.",
+    "lines": [
+        {
+            "text": "Enter BUCKINGHAM, DERBY, HASTINGS, the BISHOP OF  ELY, RATCLIFF, LOVEL, with others, and take their seats at a table"
+        },
+        {
+            "speaker": "hastings",
+            "text": "My lords, at once: the cause why we are met Is, to determine of the coronation. In Gods name, speak: when is the royal day"
+        },
+        {
+            "speaker": "buckingham",
+            "text": "Are all things fitting for that royal time"
+        },
+        {
+            "speaker": "derby",
+            "text": "It is, and wants but nomination."
+        },
+        {
+            "speaker": "bishop of ely",
+            "text": "Tomorrow, then, I judge a happy day."
+        },
+        {
+            "speaker": "buckingham",
+            "text": "Who knows the lord protectors mind herein Who is most inward with the royal duke"
+        },
+        {
+            "speaker": "bishop of ely",
+            "text": "Your grace, we think, should soonest know his mind."
+        },
+        {
+            "speaker": "buckingham",
+            "text": "Who, I, my lord I we know each others faces, But for our hearts, he knows no more of mine, Than I of yours Nor I no more of his, than you of mine. Lord Hastings, you and he are near in love."
+        },
+        {
+            "speaker": "hastings",
+            "text": "I thank his grace, I know he loves me well But, for his purpose in the coronation. I have not sounded him, nor he deliverd His gracious pleasure any way therein: But you, my noble lords, may name the time And in the dukes behalf Ill give my voice, Which, I presume, hell take in gentle part."
+        },
+        {
+            "text": "Enter GLOUCESTER"
+        },
+        {
+            "speaker": "bishop of ely",
+            "text": "Now in good time, here comes the duke himself."
+        },
+        {
+            "speaker": "gloucester",
+            "text": "My noble lords and cousins all, good morrow. I have been long a sleeper but, I hope, My absence doth neglect no great designs, Which by my presence might have been concluded."
+        },
+        {
+            "speaker": "buckingham",
+            "text": "Had not you come upon your cue, my lord William Lord Hastings had pronounced your part, I mean, your voice,for crowning of the king."
+        },
+        {
+            "speaker": "gloucester",
+            "text": "Than my Lord Hastings no man might be bolder His lordship knows me well, and loves me well."
+        },
+        {
+            "speaker": "hastings",
+            "text": "I thank your grace."
+        },
+        {
+            "speaker": "gloucester",
+            "text": "My lord of Ely!"
+        },
+        {
+            "speaker": "bishop of ely",
+            "text": "My lord"
+        },
+        {
+            "speaker": "gloucester",
+            "text": "When I was last in Holborn, I saw good strawberries in your garden there I do beseech you send for some of them."
+        },
+        {
+            "speaker": "bishop of ely",
+            "text": "Marry, and will, my lord, with all my heart."
+        },
+        {
+            "text": "Exit"
+        },
+        {
+            "speaker": "gloucester",
+            "text": "Cousin of Buckingham, a word with you. Catesby hath sounded Hastings in our business, And finds the testy gentleman so hot, As he will lose his head ere give consent His masters son, as worshipful as he terms it, Shall lose the royalty of Englands throne."
+        },
+        {
+            "text": "Drawing him aside"
+        },
+        {
+            "speaker": "buckingham",
+            "text": "Withdraw you hence, my lord, Ill follow you."
+        },
+        {
+            "text": "Exit GLOUCESTER, BUCKINGHAM following"
+        },
+        {
+            "speaker": "derby",
+            "text": "We have not yet set down this day of triumph. Tomorrow, in mine opinion, is too sudden For I myself am not so well provided As else I would be, were the day prolongd."
+        },
+        {
+            "text": "Reenter BISHOP OF ELY"
+        },
+        {
+            "speaker": "bishop of ely",
+            "text": "Where is my lord protector I have sent for these strawberries."
+        },
+        {
+            "speaker": "hastings",
+            "text": "His grace looks cheerfully and smooth today Theres some conceit or other likes him well, When he doth bid good morrow with such a spirit. I think theres never a man in Christendom That can less hide his love or hate than he For by his face straight shall you know his heart."
+        },
+        {
+            "speaker": "derby",
+            "text": "What of his heart perceive you in his face By any likelihood he showd today"
+        },
+        {
+            "speaker": "hastings",
+            "text": "Marry, that with no man here he is offended For, were he, he had shown it in his looks."
+        },
+        {
+            "speaker": "derby",
+            "text": "I pray God he be not, I say."
+        },
+        {
+            "text": "Reenter GLOUCESTER and BUCKINGHAM"
+        },
+        {
+            "speaker": "gloucester",
+            "text": "I pray you all, tell me what they deserve That do conspire my death with devilish plots Of damned witchcraft, and that have prevaild Upon my body with their hellish charms"
+        },
+        {
+            "speaker": "hastings",
+            "text": "The tender love I bear your grace, my lord, Makes me most forward in this noble presence To doom the offenders, whatsoever they be I say, my lord, they have deserved death."
+        },
+        {
+            "speaker": "gloucester",
+            "text": "Then be your eyes the witness of this ill: See how I am bewitchd behold mine arm Is, like a blasted sapling, witherd up: And this is Edwards wife, that monstrous witch, Consorted with that harlot strumpet Shore, That by their witchcraft thus have marked me."
+        },
+        {
+            "speaker": "hastings",
+            "text": "If they have done this thing, my gracious lord"
+        },
+        {
+            "speaker": "gloucester",
+            "text": "If I thou protector of this damned strumpet Tellest thou me of ifs  Thou art a traitor: Off with his head! Now, by Saint Paul I swear, I will not dine until I see the same. Lovel and Ratcliff, look that it be done: The rest, that love me, rise and follow me."
+        },
+        {
+            "text": "Exeunt all but HASTINGS, RATCLIFF, and LOVEL"
+        },
+        {
+            "speaker": "hastings",
+            "text": "Woe, woe for England! not a whit for me For I, too fond, might have prevented this. Stanley did dream the boar did raze his helm But I disdaind it, and did scorn to fly: Three times today my footcloth horse did stumble, And startled, when he lookd upon the Tower, As loath to bear me to the slaughterhouse. O, now I want the priest that spake to me: I now repent I told the pursuivant As twere triumphing at mine enemies, How they at Pomfret bloodily were butcherd, And I myself secure in grace and favour. O Margaret, Margaret, now thy heavy curse Is lighted on poor Hastings wretched head!"
+        },
+        {
+            "speaker": "ratcliff",
+            "text": "Dispatch, my lord the duke would be at dinner: Make a short shrift he longs to see your head."
+        },
+        {
+            "speaker": "hastings",
+            "text": "O momentary grace of mortal men, Which we more hunt for than the grace of God! Who builds his hopes in air of your good looks, Lives like a drunken sailor on a mast, Ready, with every nod, to tumble down Into the fatal bowels of the deep."
+        },
+        {
+            "speaker": "lovel",
+            "text": "Come, come, dispatch tis bootless to exclaim."
+        },
+        {
+            "speaker": "hastings",
+            "text": "O bloody Richard! miserable England! I prophesy the fearfulst time to thee That ever wretched age hath lookd upon. Come, lead me to the block bear him my head. They smile at me that shortly shall be dead."
+        },
+        {
+            "text": "Exeunt"
+        }
+    ]
+}

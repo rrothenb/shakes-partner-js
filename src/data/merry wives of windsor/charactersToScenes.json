@@ -1,0 +1,180 @@
+{
+    "shallow": [
+        "Act 1, scene 1",
+        "Act 2, scene 1",
+        "Act 2, scene 3",
+        "Act 3, scene 1",
+        "Act 3, scene 2",
+        "Act 3, scene 4",
+        "Act 4, scene 2",
+        "Act 5, scene 2"
+    ],
+    "slender": [
+        "Act 1, scene 1",
+        "Act 2, scene 3",
+        "Act 3, scene 1",
+        "Act 3, scene 2",
+        "Act 3, scene 4",
+        "Act 5, scene 2",
+        "Act 5, scene 5"
+    ],
+    "sir hugh evans": [
+        "Act 1, scene 1",
+        "Act 1, scene 2",
+        "Act 3, scene 1",
+        "Act 3, scene 3",
+        "Act 4, scene 1",
+        "Act 4, scene 2",
+        "Act 4, scene 4",
+        "Act 4, scene 5",
+        "Act 5, scene 4",
+        "Act 5, scene 5"
+    ],
+    "page": [
+        "Act 1, scene 1",
+        "Act 2, scene 1",
+        "Act 2, scene 3",
+        "Act 3, scene 1",
+        "Act 3, scene 2",
+        "Act 3, scene 3",
+        "Act 3, scene 4",
+        "Act 4, scene 2",
+        "Act 4, scene 4",
+        "Act 5, scene 2",
+        "Act 5, scene 5"
+    ],
+    "falstaff": [
+        "Act 1, scene 1",
+        "Act 1, scene 3",
+        "Act 2, scene 2",
+        "Act 3, scene 3",
+        "Act 3, scene 5",
+        "Act 4, scene 2",
+        "Act 4, scene 5",
+        "Act 5, scene 1",
+        "Act 5, scene 5"
+    ],
+    "bardolph": [
+        "Act 1, scene 1",
+        "Act 1, scene 3",
+        "Act 2, scene 2",
+        "Act 3, scene 5",
+        "Act 4, scene 3",
+        "Act 4, scene 5"
+    ],
+    "pistol": [
+        "Act 1, scene 1",
+        "Act 1, scene 3",
+        "Act 2, scene 1",
+        "Act 2, scene 2",
+        "Act 5, scene 5"
+    ],
+    "nym": [
+        "Act 1, scene 1",
+        "Act 1, scene 3",
+        "Act 2, scene 1"
+    ],
+    "simple": [
+        "Act 1, scene 1",
+        "Act 1, scene 2",
+        "Act 1, scene 4",
+        "Act 3, scene 1",
+        "Act 4, scene 5"
+    ],
+    "anne page": [
+        "Act 1, scene 1",
+        "Act 3, scene 4",
+        "Act 5, scene 5"
+    ],
+    "host": [
+        "Act 1, scene 3",
+        "Act 2, scene 1",
+        "Act 2, scene 3",
+        "Act 3, scene 1",
+        "Act 3, scene 2",
+        "Act 4, scene 3",
+        "Act 4, scene 5",
+        "Act 4, scene 6"
+    ],
+    "mistress quickly": [
+        "Act 1, scene 4",
+        "Act 2, scene 1",
+        "Act 2, scene 2",
+        "Act 3, scene 4",
+        "Act 3, scene 5",
+        "Act 4, scene 1",
+        "Act 4, scene 5",
+        "Act 5, scene 1",
+        "Act 5, scene 5"
+    ],
+    "rugby": [
+        "Act 1, scene 4",
+        "Act 2, scene 3"
+    ],
+    "doctor caius": [
+        "Act 1, scene 4",
+        "Act 2, scene 3",
+        "Act 3, scene 1",
+        "Act 3, scene 2",
+        "Act 3, scene 3",
+        "Act 4, scene 5",
+        "Act 5, scene 3",
+        "Act 5, scene 5"
+    ],
+    "fenton": [
+        "Act 1, scene 4",
+        "Act 3, scene 4",
+        "Act 4, scene 6",
+        "Act 5, scene 5"
+    ],
+    "mistress page": [
+        "Act 2, scene 1",
+        "Act 3, scene 2",
+        "Act 3, scene 3",
+        "Act 3, scene 4",
+        "Act 4, scene 1",
+        "Act 4, scene 2",
+        "Act 4, scene 4",
+        "Act 5, scene 3",
+        "Act 5, scene 5"
+    ],
+    "mistress ford": [
+        "Act 2, scene 1",
+        "Act 3, scene 3",
+        "Act 4, scene 2",
+        "Act 4, scene 4",
+        "Act 5, scene 3",
+        "Act 5, scene 5"
+    ],
+    "ford": [
+        "Act 2, scene 1",
+        "Act 2, scene 2",
+        "Act 3, scene 2",
+        "Act 3, scene 3",
+        "Act 3, scene 5",
+        "Act 4, scene 2",
+        "Act 4, scene 4",
+        "Act 5, scene 1",
+        "Act 5, scene 5"
+    ],
+    "robin": [
+        "Act 2, scene 2",
+        "Act 3, scene 2",
+        "Act 3, scene 3"
+    ],
+    "all": [
+        "Act 3, scene 2"
+    ],
+    "servant": [
+        "Act 3, scene 3"
+    ],
+    "william page": [
+        "Act 4, scene 1"
+    ],
+    "first servant": [
+        "Act 4, scene 2"
+    ],
+    "second servant": [
+        "Act 4, scene 2"
+    ]
+}

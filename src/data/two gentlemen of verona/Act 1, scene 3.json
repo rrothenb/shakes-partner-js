@@ -1,0 +1,118 @@
+{
+    "sceneName": "Act 1, scene 3",
+    "playName": "two gentlemen of verona",
+    "location": "The same. ANTONIOs house.",
+    "lines": [
+        {
+            "text": "Enter ANTONIO and PANTHINO"
+        },
+        {
+            "speaker": "antonio",
+            "text": "Tell me, Panthino, what sad talk was that Wherewith my brother held you in the cloister"
+        },
+        {
+            "speaker": "panthino",
+            "text": "Twas of his nephew Proteus, your son."
+        },
+        {
+            "speaker": "antonio",
+            "text": "Why, what of him"
+        },
+        {
+            "speaker": "panthino",
+            "text": "He wonderd that your lordship Would suffer him to spend his youth at home, While other men, of slender reputation, Put forth their sons to seek preferment out: Some to the wars, to try their fortune there Some to discover islands far away Some to the studious universities. For any or for all these exercises, He said that Proteus your son was meet, And did request me to importune you To let him spend his time no more at home, Which would be great impeachment to his age, In having known no travel in his youth."
+        },
+        {
+            "speaker": "antonio",
+            "text": "Nor needst thou much importune me to that Whereon this month I have been hammering. I have considerd well his loss of time And how he cannot be a perfect man, Not being tried and tutord in the world: Experience is by industry achieved And perfected by the swift course of time. Then tell me, whither were I best to send him"
+        },
+        {
+            "speaker": "panthino",
+            "text": "I think your lordship is not ignorant How his companion, youthful Valentine, Attends the emperor in his royal court."
+        },
+        {
+            "speaker": "antonio",
+            "text": "I know it well."
+        },
+        {
+            "speaker": "panthino",
+            "text": "Twere good, I think, your lordship sent him thither: There shall he practise tilts and tournaments, Hear sweet discourse, converse with noblemen. And be in eye of every exercise Worthy his youth and nobleness of birth."
+        },
+        {
+            "speaker": "antonio",
+            "text": "I like thy counsel well hast thou advised: And that thou mayst perceive how well I like it, The execution of it shall make known. Even with the speediest expedition I will dispatch him to the emperors court."
+        },
+        {
+            "speaker": "panthino",
+            "text": "Tomorrow, may it please you, Don Alphonso, With other gentlemen of good esteem, Are journeying to salute the emperor And to commend their service to his will."
+        },
+        {
+            "speaker": "antonio",
+            "text": "Good company with them shall Proteus go: And, in good time! now will we break with him."
+        },
+        {
+            "text": "Enter PROTEUS"
+        },
+        {
+            "speaker": "proteus",
+            "text": "Sweet love! sweet lines! sweet life! Here is her hand, the agent of her heart Here is her oath for love, her honours pawn. O, that our fathers would applaud our loves, To seal our happiness with their consents! O heavenly Julia!"
+        },
+        {
+            "speaker": "antonio",
+            "text": "How now! what letter are you reading there"
+        },
+        {
+            "speaker": "proteus",
+            "text": "Mayt please your lordship, tis a word or two Of commendations sent from Valentine, Deliverd by a friend that came from him."
+        },
+        {
+            "speaker": "antonio",
+            "text": "Lend me the letter let me see what news."
+        },
+        {
+            "speaker": "proteus",
+            "text": "There is no news, my lord, but that he writes How happily he lives, how well beloved And daily graced by the emperor Wishing me with him, partner of his fortune."
+        },
+        {
+            "speaker": "antonio",
+            "text": "And how stand you affected to his wish"
+        },
+        {
+            "speaker": "proteus",
+            "text": "As one relying on your lordships will And not depending on his friendly wish."
+        },
+        {
+            "speaker": "antonio",
+            "text": "My will is something sorted with his wish. Muse not that I thus suddenly proceed For what I will, I will, and there an end. I am resolved that thou shalt spend some time With Valentinus in the emperors court: What maintenance he from his friends receives, Like exhibition thou shalt have from me. Tomorrow be in readiness to go: Excuse it not, for I am peremptory."
+        },
+        {
+            "speaker": "proteus",
+            "text": "My lord, I cannot be so soon provided: Please you, deliberate a day or two."
+        },
+        {
+            "speaker": "antonio",
+            "text": "Look, what thou wantst shall be sent after thee: No more of stay! tomorrow thou must go. Come on, Panthino: you shall be employd To hasten on his expedition."
+        },
+        {
+            "text": "Exeunt ANTONIO and PANTHINO"
+        },
+        {
+            "speaker": "proteus",
+            "text": "Thus have I shunnd the fire for fear of burning, And drenchd me in the sea, where I am drownd. I feard to show my father Julias letter, Lest he should take exceptions to my love And with the vantage of mine own excuse Hath he excepted most against my love. O, how this spring of love resembleth The uncertain glory of an April day, Which now shows all the beauty of the sun, And by and by a cloud takes all away!"
+        },
+        {
+            "text": "Reenter PANTHINO"
+        },
+        {
+            "speaker": "panthino",
+            "text": "Sir Proteus, your father calls for you: He is in haste therefore, I pray you to go."
+        },
+        {
+            "speaker": "proteus",
+            "text": "Why, this it is: my heart accords thereto, And yet a thousand times it answers no."
+        },
+        {
+            "text": "Exeunt"
+        }
+    ]
+}

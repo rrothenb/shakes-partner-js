@@ -1,0 +1,399 @@
+{
+    "sceneName": "Act 2, scene 4",
+    "playName": "romeo and juliet",
+    "location": "A street.",
+    "lines": [
+        {
+            "text": "Enter BENVOLIO and MERCUTIO"
+        },
+        {
+            "speaker": "mercutio",
+            "text": "Where the devil should this Romeo be Came he not home tonight"
+        },
+        {
+            "speaker": "benvolio",
+            "text": "Not to his fathers I spoke with his man."
+        },
+        {
+            "speaker": "mercutio",
+            "text": "Ah, that same pale hardhearted wench, that Rosaline. Torments him so, that he will sure run mad."
+        },
+        {
+            "speaker": "benvolio",
+            "text": "Tybalt, the kinsman of old Capulet, Hath sent a letter to his fathers house."
+        },
+        {
+            "speaker": "mercutio",
+            "text": "A challenge, on my life."
+        },
+        {
+            "speaker": "benvolio",
+            "text": "Romeo will answer it."
+        },
+        {
+            "speaker": "mercutio",
+            "text": "Any man that can write may answer a letter."
+        },
+        {
+            "speaker": "benvolio",
+            "text": "Nay, he will answer the letters master, how he dares, being dared."
+        },
+        {
+            "speaker": "mercutio",
+            "text": "Alas poor Romeo! he is already dead stabbed with a white wenchs black eye shot through the ear with a lovesong the very pin of his heart cleft with the blind bowboys buttshaft: and is he a man to encounter Tybalt"
+        },
+        {
+            "speaker": "benvolio",
+            "text": "Why, what is Tybalt"
+        },
+        {
+            "speaker": "mercutio",
+            "text": "More than prince of cats, I can tell you. O, he is the courageous captain of compliments. He fights as you sing pricksong, keeps time, distance, and proportion rests me his minim rest, one, two, and the third in your bosom: the very butcher of a silk button, a duellist, a duellist a gentleman of the very first house, of the first and second cause: ah, the immortal passado! the punto reverso! the hai!"
+        },
+        {
+            "speaker": "benvolio",
+            "text": "The what"
+        },
+        {
+            "speaker": "mercutio",
+            "text": "The pox of such antic, lisping, affecting fantasticoes these new tuners of accents! By Jesu, a very good blade! a very tall man! a very good whore! Why, is not this a lamentable thing, grandsire, that we should be thus afflicted with these strange flies, these fashionmongers, these perdonamis, who stand so much on the new form, that they cannot at ease on the old bench O, their bones, their bones!"
+        },
+        {
+            "text": "Enter ROMEO"
+        },
+        {
+            "speaker": "benvolio",
+            "text": "Here comes Romeo, here comes Romeo."
+        },
+        {
+            "speaker": "mercutio",
+            "text": "Without his roe, like a dried herring: flesh, flesh, how art thou fishified! Now is he for the numbers that Petrarch flowed in: Laura to his lady was but a kitchenwench marry, she had a better love to berhyme her Dido a dowdy Cleopatra a gipsy Helen and Hero hildings and harlots Thisbe a grey eye or so, but not to the purpose. Signior Romeo, bon jour! theres a French salutation to your French slop. You gave us the counterfeit fairly last night."
+        },
+        {
+            "speaker": "romeo",
+            "text": "Good morrow to you both. What counterfeit did I give you"
+        },
+        {
+            "speaker": "mercutio",
+            "text": "The ship, sir, the slip can you not conceive"
+        },
+        {
+            "speaker": "romeo",
+            "text": "Pardon, good Mercutio, my business was great and in such a case as mine a man may strain courtesy."
+        },
+        {
+            "speaker": "mercutio",
+            "text": "Thats as much as to say, such a case as yours constrains a man to bow in the hams."
+        },
+        {
+            "speaker": "romeo",
+            "text": "Meaning, to courtsy."
+        },
+        {
+            "speaker": "mercutio",
+            "text": "Thou hast most kindly hit it."
+        },
+        {
+            "speaker": "romeo",
+            "text": "A most courteous exposition."
+        },
+        {
+            "speaker": "mercutio",
+            "text": "Nay, I am the very pink of courtesy."
+        },
+        {
+            "speaker": "romeo",
+            "text": "Pink for flower."
+        },
+        {
+            "speaker": "mercutio",
+            "text": "Right."
+        },
+        {
+            "speaker": "romeo",
+            "text": "Why, then is my pump well flowered."
+        },
+        {
+            "speaker": "mercutio",
+            "text": "Well said: follow me this jest now till thou hast worn out thy pump, that when the single sole of it is worn, the jest may remain after the wearing sole singular."
+        },
+        {
+            "speaker": "romeo",
+            "text": "O singlesoled jest, solely singular for the singleness."
+        },
+        {
+            "speaker": "mercutio",
+            "text": "Come between us, good Benvolio my wits faint."
+        },
+        {
+            "speaker": "romeo",
+            "text": "Switch and spurs, switch and spurs or Ill cry a match."
+        },
+        {
+            "speaker": "mercutio",
+            "text": "Nay, if thy wits run the wildgoose chase, I have done, for thou hast more of the wildgoose in one of thy wits than, I am sure, I have in my whole five: was I with you there for the goose"
+        },
+        {
+            "speaker": "romeo",
+            "text": "Thou wast never with me for any thing when thou wast not there for the goose."
+        },
+        {
+            "speaker": "mercutio",
+            "text": "I will bite thee by the ear for that jest."
+        },
+        {
+            "speaker": "romeo",
+            "text": "Nay, good goose, bite not."
+        },
+        {
+            "speaker": "mercutio",
+            "text": "Thy wit is a very bitter sweeting it is a most sharp sauce."
+        },
+        {
+            "speaker": "romeo",
+            "text": "And is it not well served in to a sweet goose"
+        },
+        {
+            "speaker": "mercutio",
+            "text": "O heres a wit of cheveril, that stretches from an inch narrow to an ell broad!"
+        },
+        {
+            "speaker": "romeo",
+            "text": "I stretch it out for that word broad which added to the goose, proves thee far and wide a broad goose."
+        },
+        {
+            "speaker": "mercutio",
+            "text": "Why, is not this better now than groaning for love now art thou sociable, now art thou Romeo now art thou what thou art, by art as well as by nature: for this drivelling love is like a great natural, that runs lolling up and down to hide his bauble in a hole."
+        },
+        {
+            "speaker": "benvolio",
+            "text": "Stop there, stop there."
+        },
+        {
+            "speaker": "mercutio",
+            "text": "Thou desirest me to stop in my tale against the hair."
+        },
+        {
+            "speaker": "benvolio",
+            "text": "Thou wouldst else have made thy tale large."
+        },
+        {
+            "speaker": "mercutio",
+            "text": "O, thou art deceived I would have made it short: for I was come to the whole depth of my tale and meant, indeed, to occupy the argument no longer."
+        },
+        {
+            "speaker": "romeo",
+            "text": "Heres goodly gear!"
+        },
+        {
+            "text": "Enter Nurse and PETER"
+        },
+        {
+            "speaker": "mercutio",
+            "text": "A sail, a sail!"
+        },
+        {
+            "speaker": "benvolio",
+            "text": "Two, two a shirt and a smock."
+        },
+        {
+            "speaker": "nurse",
+            "text": "Peter!"
+        },
+        {
+            "speaker": "peter",
+            "text": "Anon!"
+        },
+        {
+            "speaker": "nurse",
+            "text": "My fan, Peter."
+        },
+        {
+            "speaker": "mercutio",
+            "text": "Good Peter, to hide her face for her fans the fairer face."
+        },
+        {
+            "speaker": "nurse",
+            "text": "God ye good morrow, gentlemen."
+        },
+        {
+            "speaker": "mercutio",
+            "text": "God ye good den, fair gentlewoman."
+        },
+        {
+            "speaker": "nurse",
+            "text": "Is it good den"
+        },
+        {
+            "speaker": "mercutio",
+            "text": "Tis no less, I tell you, for the bawdy hand of the dial is now upon the prick of noon."
+        },
+        {
+            "speaker": "nurse",
+            "text": "Out upon you! what a man are you!"
+        },
+        {
+            "speaker": "romeo",
+            "text": "One, gentlewoman, that God hath made for himself to mar."
+        },
+        {
+            "speaker": "nurse",
+            "text": "By my troth, it is well said for himself to mar, quoth a Gentlemen, can any of you tell me where I may find the young Romeo"
+        },
+        {
+            "speaker": "romeo",
+            "text": "I can tell you but young Romeo will be older when you have found him than he was when you sought him: I am the youngest of that name, for fault of a worse."
+        },
+        {
+            "speaker": "nurse",
+            "text": "You say well."
+        },
+        {
+            "speaker": "mercutio",
+            "text": "Yea, is the worst well very well took, i faith wisely, wisely."
+        },
+        {
+            "speaker": "nurse",
+            "text": "if you be he, sir, I desire some confidence with you."
+        },
+        {
+            "speaker": "benvolio",
+            "text": "She will indite him to some supper."
+        },
+        {
+            "speaker": "mercutio",
+            "text": "A bawd, a bawd, a bawd! so ho!"
+        },
+        {
+            "speaker": "romeo",
+            "text": "What hast thou found"
+        },
+        {
+            "speaker": "mercutio",
+            "text": "No hare, sir unless a hare, sir, in a lenten pie, that is something stale and hoar ere it be spent. An old hare hoar, And an old hare hoar, Is very good meat in lent But a hare that is hoar Is too much for a score, When it hoars ere it be spent. Romeo, will you come to your fathers well to dinner, thither."
+        },
+        {
+            "text": "Sings"
+        },
+        {
+            "speaker": "romeo",
+            "text": "I will follow you."
+        },
+        {
+            "speaker": "mercutio",
+            "text": "Farewell, ancient lady farewell, lady, lady, lady."
+        },
+        {
+            "text": "Singing"
+        },
+        {
+            "text": "Exeunt MERCUTIO and BENVOLIO"
+        },
+        {
+            "speaker": "nurse",
+            "text": "Marry, farewell! I pray you, sir, what saucy merchant was this, that was so full of his ropery"
+        },
+        {
+            "speaker": "romeo",
+            "text": "A gentleman, nurse, that loves to hear himself talk, and will speak more in a minute than he will stand to in a month."
+        },
+        {
+            "speaker": "nurse",
+            "text": "An a speak any thing against me, Ill take him down, an a were lustier than he is, and twenty such Jacks and if I cannot, Ill find those that shall. Scurvy knave! I am none of his flirtgills I am none of his skainsmates. And thou must stand by too, and suffer every knave to use me at his pleasure"
+        },
+        {
+            "speaker": "peter",
+            "text": "I saw no man use you a pleasure if I had, my weapon should quickly have been out, I warrant you: I dare draw as soon as another man, if I see occasion in a good quarrel, and the law on my side."
+        },
+        {
+            "speaker": "nurse",
+            "text": "Now, afore God, I am so vexed, that every part about me quivers. Scurvy knave! Pray you, sir, a word: and as I told you, my young lady bade me inquire you out what she bade me say, I will keep to myself: but first let me tell ye, if ye should lead her into a fools paradise, as they say, it were a very gross kind of behavior, as they say: for the gentlewoman is young and, therefore, if you should deal double with her, truly it were an ill thing to be offered to any gentlewoman, and very weak dealing."
+        },
+        {
+            "speaker": "romeo",
+            "text": "Nurse, commend me to thy lady and mistress. I protest unto thee"
+        },
+        {
+            "speaker": "nurse",
+            "text": "Good heart, and, i faith, I will tell her as much: Lord, Lord, she will be a joyful woman."
+        },
+        {
+            "speaker": "romeo",
+            "text": "What wilt thou tell her, nurse thou dost not mark me."
+        },
+        {
+            "speaker": "nurse",
+            "text": "I will tell her, sir, that you do protest which, as I take it, is a gentlemanlike offer."
+        },
+        {
+            "speaker": "romeo",
+            "text": "Bid her devise Some means to come to shrift this afternoon And there she shall at Friar Laurence cell Be shrived and married. Here is for thy pains."
+        },
+        {
+            "speaker": "nurse",
+            "text": "No truly sir not a penny."
+        },
+        {
+            "speaker": "romeo",
+            "text": "Go to I say you shall."
+        },
+        {
+            "speaker": "nurse",
+            "text": "This afternoon, sir well, she shall be there."
+        },
+        {
+            "speaker": "romeo",
+            "text": "And stay, good nurse, behind the abbey wall: Within this hour my man shall be with thee And bring thee cords made like a tackled stair Which to the high topgallant of my joy Must be my convoy in the secret night. Farewell be trusty, and Ill quit thy pains: Farewell commend me to thy mistress."
+        },
+        {
+            "speaker": "nurse",
+            "text": "Now God in heaven bless thee! Hark you, sir."
+        },
+        {
+            "speaker": "romeo",
+            "text": "What sayst thou, my dear nurse"
+        },
+        {
+            "speaker": "nurse",
+            "text": "Is your man secret Did you neer hear say, Two may keep counsel, putting one away"
+        },
+        {
+            "speaker": "romeo",
+            "text": "I warrant thee, my mans as true as steel."
+        },
+        {
+            "speaker": "nurse",
+            "text": "Well, sir my mistress is the sweetest ladyLord, Lord! when twas a little prating thing:O, there is a nobleman in town, one Paris, that would fain lay knife aboard but she, good soul, had as lief see a toad, a very toad, as see him. I anger her sometimes and tell her that Paris is the properer man but, Ill warrant you, when I say so, she looks as pale as any clout in the versal world. Doth not rosemary and Romeo begin both with a letter"
+        },
+        {
+            "speaker": "romeo",
+            "text": "Ay, nurse what of that both with an R."
+        },
+        {
+            "speaker": "nurse",
+            "text": "Ah. mocker! thats the dogs name R is for theNo I know it begins with some other letter:and she hath the prettiest sententious of it, of you and rosemary, that it would do you good to hear it."
+        },
+        {
+            "speaker": "romeo",
+            "text": "Commend me to thy lady."
+        },
+        {
+            "speaker": "nurse",
+            "text": "Ay, a thousand times. Peter!"
+        },
+        {
+            "text": "Exit Romeo"
+        },
+        {
+            "speaker": "peter",
+            "text": "Anon!"
+        },
+        {
+            "speaker": "nurse",
+            "text": "Peter, take my fan, and go before and apace."
+        },
+        {
+            "text": "Exeunt"
+        }
+    ]
+}

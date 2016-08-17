@@ -1,0 +1,147 @@
+{
+    "archidamus": [
+        "Act 1, scene 1"
+    ],
+    "camillo": [
+        "Act 1, scene 1",
+        "Act 1, scene 2",
+        "Act 4, scene 2",
+        "Act 4, scene 4",
+        "Act 5, scene 3"
+    ],
+    "polixenes": [
+        "Act 1, scene 2",
+        "Act 4, scene 2",
+        "Act 4, scene 4",
+        "Act 5, scene 3"
+    ],
+    "leontes": [
+        "Act 1, scene 2",
+        "Act 2, scene 1",
+        "Act 2, scene 3",
+        "Act 3, scene 2",
+        "Act 5, scene 1",
+        "Act 5, scene 3"
+    ],
+    "hermione": [
+        "Act 1, scene 2",
+        "Act 2, scene 1",
+        "Act 3, scene 2",
+        "Act 5, scene 3"
+    ],
+    "mamillius": [
+        "Act 1, scene 2",
+        "Act 2, scene 1"
+    ],
+    "first lady": [
+        "Act 2, scene 1"
+    ],
+    "second lady": [
+        "Act 2, scene 1"
+    ],
+    "first lord": [
+        "Act 2, scene 1",
+        "Act 2, scene 3",
+        "Act 3, scene 2"
+    ],
+    "antigonus": [
+        "Act 2, scene 1",
+        "Act 2, scene 3",
+        "Act 3, scene 3"
+    ],
+    "paulina": [
+        "Act 2, scene 2",
+        "Act 2, scene 3",
+        "Act 3, scene 2",
+        "Act 5, scene 1",
+        "Act 5, scene 3"
+    ],
+    "gaoler": [
+        "Act 2, scene 2"
+    ],
+    "emilia": [
+        "Act 2, scene 2"
+    ],
+    "first servant": [
+        "Act 2, scene 3"
+    ],
+    "second servant": [
+        "Act 2, scene 3"
+    ],
+    "lords": [
+        "Act 2, scene 3",
+        "Act 3, scene 2"
+    ],
+    "servant": [
+        "Act 2, scene 3",
+        "Act 3, scene 2",
+        "Act 4, scene 4"
+    ],
+    "cleomenes": [
+        "Act 3, scene 1",
+        "Act 5, scene 1"
+    ],
+    "dion": [
+        "Act 3, scene 1",
+        "Act 3, scene 2",
+        "Act 5, scene 1"
+    ],
+    "officer": [
+        "Act 3, scene 2"
+    ],
+    "mariner": [
+        "Act 3, scene 3"
+    ],
+    "shepherd": [
+        "Act 3, scene 3",
+        "Act 4, scene 4",
+        "Act 5, scene 2"
+    ],
+    "clown": [
+        "Act 3, scene 3",
+        "Act 4, scene 3",
+        "Act 4, scene 4",
+        "Act 5, scene 2"
+    ],
+    "time": [
+        "Act 4, scene 1"
+    ],
+    "autolycus": [
+        "Act 4, scene 3",
+        "Act 4, scene 4",
+        "Act 5, scene 2"
+    ],
+    "florizel": [
+        "Act 4, scene 4",
+        "Act 5, scene 1"
+    ],
+    "perdita": [
+        "Act 4, scene 4",
+        "Act 5, scene 1",
+        "Act 5, scene 3"
+    ],
+    "dorcas": [
+        "Act 4, scene 4"
+    ],
+    "mopsa": [
+        "Act 4, scene 4"
+    ],
+    "shepard": [
+        "Act 4, scene 4"
+    ],
+    "gentleman": [
+        "Act 5, scene 1"
+    ],
+    "lord": [
+        "Act 5, scene 1"
+    ],
+    "first gentleman": [
+        "Act 5, scene 2"
+    ],
+    "second gentleman": [
+        "Act 5, scene 2"
+    ],
+    "third gentleman": [
+        "Act 5, scene 2"
+    ]
+}

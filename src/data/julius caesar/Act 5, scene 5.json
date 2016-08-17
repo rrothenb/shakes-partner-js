@@ -1,0 +1,185 @@
+{
+    "sceneName": "Act 5, scene 5",
+    "playName": "julius caesar",
+    "location": "Another part of the field.",
+    "lines": [
+        {
+            "text": "Enter BRUTUS, DARDANIUS, CLITUS, STRATO, and VOLUMNIUS"
+        },
+        {
+            "speaker": "brutus",
+            "text": "Come, poor remains of friends, rest on this rock."
+        },
+        {
+            "speaker": "clitus",
+            "text": "Statilius showd the torchlight, but, my lord, He came not back: he is or taen or slain."
+        },
+        {
+            "speaker": "brutus",
+            "text": "Sit thee down, Clitus: slaying is the word It is a deed in fashion. Hark thee, Clitus."
+        },
+        {
+            "text": "Whispers"
+        },
+        {
+            "speaker": "clitus",
+            "text": "What, I, my lord No, not for all the world."
+        },
+        {
+            "speaker": "brutus",
+            "text": "Peace then! no words."
+        },
+        {
+            "speaker": "clitus",
+            "text": "Ill rather kill myself."
+        },
+        {
+            "speaker": "brutus",
+            "text": "Hark thee, Dardanius."
+        },
+        {
+            "text": "Whispers"
+        },
+        {
+            "speaker": "dardanius",
+            "text": "Shall I do such a deed"
+        },
+        {
+            "speaker": "clitus",
+            "text": "O Dardanius!"
+        },
+        {
+            "speaker": "dardanius",
+            "text": "O Clitus!"
+        },
+        {
+            "speaker": "clitus",
+            "text": "What ill request did Brutus make to thee"
+        },
+        {
+            "speaker": "dardanius",
+            "text": "To kill him, Clitus. Look, he meditates."
+        },
+        {
+            "speaker": "clitus",
+            "text": "Now is that noble vessel full of grief, That it runs over even at his eyes."
+        },
+        {
+            "speaker": "brutus",
+            "text": "Come hither, good Volumnius list a word."
+        },
+        {
+            "speaker": "volumnius",
+            "text": "What says my lord"
+        },
+        {
+            "speaker": "brutus",
+            "text": "Why, this, Volumnius: The ghost of Caesar hath appeard to me Two several times by night at Sardis once, And, this last night, here in Philippi fields: I know my hour is come."
+        },
+        {
+            "speaker": "volumnius",
+            "text": "Not so, my lord."
+        },
+        {
+            "speaker": "brutus",
+            "text": "Nay, I am sure it is, Volumnius. Thou seest the world, Volumnius, how it goes Our enemies have beat us to the pit: It is more worthy to leap in ourselves, Than tarry till they push us. Good Volumnius, Thou knowst that we two went to school together: Even for that our love of old, I prithee, Hold thou my swordhilts, whilst I run on it."
+        },
+        {
+            "text": "Low alarums"
+        },
+        {
+            "speaker": "volumnius",
+            "text": "Thats not an office for a friend, my lord."
+        },
+        {
+            "text": "Alarum still"
+        },
+        {
+            "speaker": "clitus",
+            "text": "Fly, fly, my lord there is no tarrying here."
+        },
+        {
+            "speaker": "brutus",
+            "text": "Farewell to you and you and you, Volumnius. Strato, thou hast been all this while asleep Farewell to thee too, Strato. Countrymen, My heart doth joy that yet in all my life I found no man but he was true to me. I shall have glory by this losing day More than Octavius and Mark Antony By this vile conquest shall attain unto. So fare you well at once for Brutus tongue Hath almost ended his lifes history: Night hangs upon mine eyes my bones would rest, That have but labourd to attain this hour. Alarum. Cry within, Fly, fly, fly!"
+        },
+        {
+            "speaker": "clitus",
+            "text": "Fly, my lord, fly."
+        },
+        {
+            "speaker": "brutus",
+            "text": "Hence! I will follow. I prithee, Strato, stay thou by thy lord: Thou art a fellow of a good respect Thy life hath had some smatch of honour in it: Hold then my sword, and turn away thy face, While I do run upon it. Wilt thou, Strato"
+        },
+        {
+            "text": "Exeunt CLITUS, DARDANIUS, and VOLUMNIUS"
+        },
+        {
+            "speaker": "strato",
+            "text": "Give me your hand first. Fare you well, my lord."
+        },
+        {
+            "speaker": "brutus",
+            "text": "Farewell, good Strato. Caesar, now be still: I killd not thee with half so good a will."
+        },
+        {
+            "text": "Runs on his sword"
+        },
+        {
+            "text": "Dies"
+        },
+        {
+            "text": "Alarum. Retreat. Enter OCTAVIUS, ANTONY, MESSALA, LUCILIUS, and the army"
+        },
+        {
+            "speaker": "octavius",
+            "text": "What man is that"
+        },
+        {
+            "speaker": "messala",
+            "text": "My masters man. Strato, where is thy master"
+        },
+        {
+            "speaker": "strato",
+            "text": "Free from the bondage you are in, Messala: The conquerors can but make a fire of him For Brutus only overcame himself, And no man else hath honour by his death."
+        },
+        {
+            "speaker": "lucilius",
+            "text": "So Brutus should be found. I thank thee, Brutus, That thou hast proved Lucilius saying true."
+        },
+        {
+            "speaker": "octavius",
+            "text": "All that served Brutus, I will entertain them. Fellow, wilt thou bestow thy time with me"
+        },
+        {
+            "speaker": "strato",
+            "text": "Ay, if Messala will prefer me to you."
+        },
+        {
+            "speaker": "octavius",
+            "text": "Do so, good Messala."
+        },
+        {
+            "speaker": "messala",
+            "text": "How died my master, Strato"
+        },
+        {
+            "speaker": "strato",
+            "text": "I held the sword, and he did run on it."
+        },
+        {
+            "speaker": "messala",
+            "text": "Octavius, then take him to follow thee, That did the latest service to my master."
+        },
+        {
+            "speaker": "antony",
+            "text": "This was the noblest Roman of them all: All the conspirators save only he Did that they did in envy of great Caesar He only, in a general honest thought And common good to all, made one of them. His life was gentle, and the elements So mixd in him that Nature might stand up And say to all the world This was a man!"
+        },
+        {
+            "speaker": "octavius",
+            "text": "According to his virtue let us use him, With all respect and rites of burial. Within my tent his bones tonight shall lie, Most like a soldier, orderd honourably. So call the field to rest and lets away, To part the glories of this happy day."
+        },
+        {
+            "text": "Exeunt"
+        }
+    ]
+}

@@ -1,0 +1,195 @@
+{
+    "sceneName": "Act 5, scene 1",
+    "playName": "troilus and cressida",
+    "location": "The Grecian camp. Before Achilles tent.",
+    "lines": [
+        {
+            "text": "Enter ACHILLES and PATROCLUS"
+        },
+        {
+            "speaker": "achilles",
+            "text": "Ill heat his blood with Greekish wine tonight, Which with my scimitar Ill cool tomorrow. Patroclus, let us feast him to the height."
+        },
+        {
+            "speaker": "patroclus",
+            "text": "Here comes Thersites."
+        },
+        {
+            "text": "Enter THERSITES"
+        },
+        {
+            "speaker": "achilles",
+            "text": "How now, thou core of envy! Thou crusty batch of nature, whats the news"
+        },
+        {
+            "speaker": "thersites",
+            "text": "Why, thou picture of what thou seemest, and idol of idiot worshippers, heres a letter for thee."
+        },
+        {
+            "speaker": "achilles",
+            "text": "From whence, fragment"
+        },
+        {
+            "speaker": "thersites",
+            "text": "Why, thou full dish of fool, from Troy."
+        },
+        {
+            "speaker": "patroclus",
+            "text": "Who keeps the tent now"
+        },
+        {
+            "speaker": "thersites",
+            "text": "The surgeons box, or the patients wound."
+        },
+        {
+            "speaker": "patroclus",
+            "text": "Well said, adversity! and what need these tricks"
+        },
+        {
+            "speaker": "thersites",
+            "text": "Prithee, be silent, boy I profit not by thy talk: thou art thought to be Achilles male varlet."
+        },
+        {
+            "speaker": "patroclus",
+            "text": "Male varlet, you rogue! whats that"
+        },
+        {
+            "speaker": "thersites",
+            "text": "Why, his masculine whore. Now, the rotten diseases of the south, the gutsgriping, ruptures, catarrhs, loads o gravel i the back, lethargies, cold palsies, raw eyes, dirtrotten livers, wheezing lungs, bladders full of imposthume, sciaticas, limekilns i the palm, incurable boneache, and the rivelled feesimple of the tetter, take and take again such preposterous discoveries!"
+        },
+        {
+            "speaker": "patroclus",
+            "text": "Why thou damnable box of envy, thou, what meanest thou to curse thus"
+        },
+        {
+            "speaker": "thersites",
+            "text": "Do I curse thee"
+        },
+        {
+            "speaker": "patroclus",
+            "text": "Why no, you ruinous butt, you whoreson indistinguishable cur, no."
+        },
+        {
+            "speaker": "thersites",
+            "text": "No! why art thou then exasperate, thou idle immaterial skein of sleavesilk, thou green sarcenet flap for a sore eye, thou tassel of a prodigals purse, thou Ah, how the poor world is pestered with such waterflies, diminutives of nature!"
+        },
+        {
+            "speaker": "patroclus",
+            "text": "Out, gall!"
+        },
+        {
+            "speaker": "thersites",
+            "text": "Finchegg!"
+        },
+        {
+            "speaker": "achilles",
+            "text": "My sweet Patroclus, I am thwarted quite From my great purpose in tomorrows battle. Here is a letter from Queen Hecuba, A token from her daughter, my fair love, Both taxing me and gaging me to keep An oath that I have sworn. I will not break it: Fall Greeks fail fame honour or go or stay My major vow lies here, this Ill obey. Come, come, Thersites, help to trim my tent: This night in banqueting must all be spent. Away, Patroclus!"
+        },
+        {
+            "text": "Exeunt ACHILLES and PATROCLUS"
+        },
+        {
+            "speaker": "thersites",
+            "text": "With too much blood and too little brain, these two may run mad but, if with too much brain and too little blood they do, Ill be a curer of madmen. Heres Agamemnon, an honest fellow enough and one that loves quails but he has not so much brain as earwax: and the goodly transformation of Jupiter there, his brother, the bull,the primitive statue, and oblique memorial of cuckolds a thrifty shoeinghorn in a chain, hanging at his brothers leg,to what form but that he is, should wit larded with malice and malice forced with wit turn him to To an ass, were nothing he is both ass and ox: to an ox, were nothing he is both ox and ass. To be a dog, a mule, a cat, a fitchew, a toad, a lizard, an owl, a puttock, or a herring without a roe, I would not care but to be Menelaus, I would conspire against destiny. Ask me not, what I would be, if I were not Thersites for I care not to be the louse of a lazar, so I were not Menelaus! Heyday! spirits and fires!"
+        },
+        {
+            "text": "Enter HECTOR, TROILUS, AJAX, AGAMEMNON, ULYSSES, NESTOR, MENELAUS, and DIOMEDES, with lights"
+        },
+        {
+            "speaker": "agamemnon",
+            "text": "We go wrong, we go wrong."
+        },
+        {
+            "speaker": "ajax",
+            "text": "No, yonder tis There, where we see the lights."
+        },
+        {
+            "speaker": "hector",
+            "text": "I trouble you."
+        },
+        {
+            "speaker": "ajax",
+            "text": "No, not a whit."
+        },
+        {
+            "speaker": "ulysses",
+            "text": "Here comes himself to guide you."
+        },
+        {
+            "text": "Reenter ACHILLES"
+        },
+        {
+            "speaker": "achilles",
+            "text": "Welcome, brave Hector welcome, princes all."
+        },
+        {
+            "speaker": "agamemnon",
+            "text": "So now, fair prince of Troy, I bid good night. Ajax commands the guard to tend on you."
+        },
+        {
+            "speaker": "hector",
+            "text": "Thanks and good night to the Greeks general."
+        },
+        {
+            "speaker": "menelaus",
+            "text": "Good night, my lord."
+        },
+        {
+            "speaker": "hector",
+            "text": "Good night, sweet lord Menelaus."
+        },
+        {
+            "speaker": "thersites",
+            "text": "Sweet draught: sweet quoth a! sweet sink, sweet sewer."
+        },
+        {
+            "speaker": "achilles",
+            "text": "Good night and welcome, both at once, to those That go or tarry."
+        },
+        {
+            "speaker": "agamemnon",
+            "text": "Good night."
+        },
+        {
+            "text": "Exeunt AGAMEMNON and MENELAUS"
+        },
+        {
+            "speaker": "achilles",
+            "text": "Old Nestor tarries and you too, Diomed, Keep Hector company an hour or two."
+        },
+        {
+            "speaker": "diomedes",
+            "text": "I cannot, lord I have important business, The tide whereof is now. Good night, great Hector."
+        },
+        {
+            "speaker": "hector",
+            "text": "Give me your hand."
+        },
+        {
+            "speaker": "ulysses",
+            "text": "[Aside to TROILUS]  Follow his torch he goes to Calchas tent: Ill keep you company."
+        },
+        {
+            "speaker": "troilus",
+            "text": "Sweet sir, you honour me."
+        },
+        {
+            "speaker": "hector",
+            "text": "And so, good night. Exit DIOMEDES ULYSSES and TROILUS following"
+        },
+        {
+            "speaker": "achilles",
+            "text": "Come, come, enter my tent."
+        },
+        {
+            "text": "Exeunt ACHILLES, HECTOR, AJAX, and NESTOR"
+        },
+        {
+            "speaker": "thersites",
+            "text": "That same Diomeds a falsehearted rogue, a most unjust knave I will no more trust him when he leers than I will a serpent when he hisses: he will spend his mouth, and promise, like Brabbler the hound: but when he performs, astronomers foretell it it is prodigious, there will come some change the sun borrows of the moon, when Diomed keeps his word. I will rather leave to see Hector, than not to dog him: they say he keeps a Trojan drab, and uses the traitor Calchas tent: Ill after. Nothing but lechery! all incontinent varlets!"
+        },
+        {
+            "text": "Exit"
+        }
+    ]
+}

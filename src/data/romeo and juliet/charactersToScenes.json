@@ -1,0 +1,190 @@
+{
+    "sampson": [
+        "Act 1, scene 1"
+    ],
+    "gregory": [
+        "Act 1, scene 1"
+    ],
+    "abraham": [
+        "Act 1, scene 1"
+    ],
+    "benvolio": [
+        "Act 1, scene 1",
+        "Act 1, scene 2",
+        "Act 1, scene 4",
+        "Act 1, scene 5",
+        "Act 2, scene 1",
+        "Act 2, scene 4",
+        "Act 3, scene 1"
+    ],
+    "tybalt": [
+        "Act 1, scene 1",
+        "Act 1, scene 5",
+        "Act 3, scene 1"
+    ],
+    "first citizen": [
+        "Act 1, scene 1",
+        "Act 3, scene 1"
+    ],
+    "capulet": [
+        "Act 1, scene 1",
+        "Act 1, scene 2",
+        "Act 1, scene 5",
+        "Act 3, scene 4",
+        "Act 3, scene 5",
+        "Act 4, scene 2",
+        "Act 4, scene 4",
+        "Act 4, scene 5",
+        "Act 5, scene 3"
+    ],
+    "lady capulet": [
+        "Act 1, scene 1",
+        "Act 1, scene 3",
+        "Act 3, scene 1",
+        "Act 3, scene 4",
+        "Act 3, scene 5",
+        "Act 4, scene 2",
+        "Act 4, scene 3",
+        "Act 4, scene 4",
+        "Act 4, scene 5",
+        "Act 5, scene 3"
+    ],
+    "montague": [
+        "Act 1, scene 1",
+        "Act 3, scene 1",
+        "Act 5, scene 3"
+    ],
+    "lady montague": [
+        "Act 1, scene 1"
+    ],
+    "prince": [
+        "Act 1, scene 1",
+        "Act 3, scene 1",
+        "Act 5, scene 3"
+    ],
+    "romeo": [
+        "Act 1, scene 1",
+        "Act 1, scene 2",
+        "Act 1, scene 4",
+        "Act 1, scene 5",
+        "Act 2, scene 1",
+        "Act 2, scene 2",
+        "Act 2, scene 3",
+        "Act 2, scene 4",
+        "Act 2, scene 6",
+        "Act 3, scene 1",
+        "Act 3, scene 3",
+        "Act 3, scene 5",
+        "Act 5, scene 1",
+        "Act 5, scene 3"
+    ],
+    "paris": [
+        "Act 1, scene 2",
+        "Act 3, scene 4",
+        "Act 4, scene 1",
+        "Act 4, scene 5",
+        "Act 5, scene 3"
+    ],
+    "servant": [
+        "Act 1, scene 2",
+        "Act 1, scene 3",
+        "Act 1, scene 5"
+    ],
+    "nurse": [
+        "Act 1, scene 3",
+        "Act 1, scene 5",
+        "Act 2, scene 2",
+        "Act 2, scene 4",
+        "Act 2, scene 5",
+        "Act 3, scene 2",
+        "Act 3, scene 3",
+        "Act 3, scene 5",
+        "Act 4, scene 2",
+        "Act 4, scene 4",
+        "Act 4, scene 5"
+    ],
+    "juliet": [
+        "Act 1, scene 3",
+        "Act 1, scene 5",
+        "Act 2, scene 2",
+        "Act 2, scene 5",
+        "Act 2, scene 6",
+        "Act 3, scene 2",
+        "Act 3, scene 5",
+        "Act 4, scene 1",
+        "Act 4, scene 2",
+        "Act 4, scene 3",
+        "Act 5, scene 3"
+    ],
+    "mercutio": [
+        "Act 1, scene 4",
+        "Act 2, scene 1",
+        "Act 2, scene 4",
+        "Act 3, scene 1"
+    ],
+    "first servant": [
+        "Act 1, scene 5",
+        "Act 4, scene 4"
+    ],
+    "second servant": [
+        "Act 1, scene 5",
+        "Act 4, scene 2",
+        "Act 4, scene 4"
+    ],
+    "second capulet": [
+        "Act 1, scene 5"
+    ],
+    "chorus": [
+        "Act 1, scene 5"
+    ],
+    "friar laurence": [
+        "Act 2, scene 3",
+        "Act 2, scene 6",
+        "Act 3, scene 3",
+        "Act 4, scene 1",
+        "Act 4, scene 5",
+        "Act 5, scene 2",
+        "Act 5, scene 3"
+    ],
+    "peter": [
+        "Act 2, scene 4",
+        "Act 4, scene 5"
+    ],
+    "lady  capulet": [
+        "Act 4, scene 2"
+    ],
+    "first musician": [
+        "Act 4, scene 5"
+    ],
+    "second musician": [
+        "Act 4, scene 5"
+    ],
+    "musician": [
+        "Act 4, scene 5"
+    ],
+    "third musician": [
+        "Act 4, scene 5"
+    ],
+    "balthasar": [
+        "Act 5, scene 1",
+        "Act 5, scene 3"
+    ],
+    "apothecary": [
+        "Act 5, scene 1"
+    ],
+    "friar john": [
+        "Act 5, scene 2"
+    ],
+    "page": [
+        "Act 5, scene 3"
+    ],
+    "first watchman": [
+        "Act 5, scene 3"
+    ],
+    "second watchman": [
+        "Act 5, scene 3"
+    ],
+    "third watchman": [
+        "Act 5, scene 3"
+    ]
+}

@@ -1,0 +1,432 @@
+{
+    "sceneName": "Act 1, scene 1",
+    "playName": "romeo and juliet",
+    "location": "Verona. A public place.",
+    "lines": [
+        {
+            "text": "Enter SAMPSON and GREGORY, of the house of Capulet, armed with swords and bucklers"
+        },
+        {
+            "speaker": "sampson",
+            "text": "Gregory, o my word, well not carry coals."
+        },
+        {
+            "speaker": "gregory",
+            "text": "No, for then we should be colliers."
+        },
+        {
+            "speaker": "sampson",
+            "text": "I mean, an we be in choler, well draw."
+        },
+        {
+            "speaker": "gregory",
+            "text": "Ay, while you live, draw your neck out o the collar."
+        },
+        {
+            "speaker": "sampson",
+            "text": "I strike quickly, being moved."
+        },
+        {
+            "speaker": "gregory",
+            "text": "But thou art not quickly moved to strike."
+        },
+        {
+            "speaker": "sampson",
+            "text": "A dog of the house of Montague moves me."
+        },
+        {
+            "speaker": "gregory",
+            "text": "To move is to stir and to be valiant is to stand: therefore, if thou art moved, thou runnst away."
+        },
+        {
+            "speaker": "sampson",
+            "text": "A dog of that house shall move me to stand: I will take the wall of any man or maid of Montagues."
+        },
+        {
+            "speaker": "gregory",
+            "text": "That shows thee a weak slave for the weakest goes to the wall."
+        },
+        {
+            "speaker": "sampson",
+            "text": "True and therefore women, being the weaker vessels, are ever thrust to the wall: therefore I will push Montagues men from the wall, and thrust his maids to the wall."
+        },
+        {
+            "speaker": "gregory",
+            "text": "The quarrel is between our masters and us their men."
+        },
+        {
+            "speaker": "sampson",
+            "text": "Tis all one, I will show myself a tyrant: when I have fought with the men, I will be cruel with the maids, and cut off their heads."
+        },
+        {
+            "speaker": "gregory",
+            "text": "The heads of the maids"
+        },
+        {
+            "speaker": "sampson",
+            "text": "Ay, the heads of the maids, or their maidenheads take it in what sense thou wilt."
+        },
+        {
+            "speaker": "gregory",
+            "text": "They must take it in sense that feel it."
+        },
+        {
+            "speaker": "sampson",
+            "text": "Me they shall feel while I am able to stand: and tis known I am a pretty piece of flesh."
+        },
+        {
+            "speaker": "gregory",
+            "text": "Tis well thou art not fish if thou hadst, thou hadst been poor John. Draw thy tool! here comes two of the house of the Montagues."
+        },
+        {
+            "speaker": "sampson",
+            "text": "My naked weapon is out: quarrel, I will back thee."
+        },
+        {
+            "speaker": "gregory",
+            "text": "How! turn thy back and run"
+        },
+        {
+            "speaker": "sampson",
+            "text": "Fear me not."
+        },
+        {
+            "speaker": "gregory",
+            "text": "No, marry I fear thee!"
+        },
+        {
+            "speaker": "sampson",
+            "text": "Let us take the law of our sides let them begin."
+        },
+        {
+            "speaker": "gregory",
+            "text": "I will frown as I pass by, and let them take it as they list."
+        },
+        {
+            "speaker": "sampson",
+            "text": "Nay, as they dare. I will bite my thumb at them which is a disgrace to them, if they bear it."
+        },
+        {
+            "text": "Enter ABRAHAM and BALTHASAR"
+        },
+        {
+            "speaker": "abraham",
+            "text": "Do you bite your thumb at us, sir"
+        },
+        {
+            "speaker": "sampson",
+            "text": "I do bite my thumb, sir."
+        },
+        {
+            "speaker": "abraham",
+            "text": "Do you bite your thumb at us, sir"
+        },
+        {
+            "speaker": "sampson",
+            "text": "[Aside to GREGORY]  Is the law of our side, if I say ay"
+        },
+        {
+            "speaker": "gregory",
+            "text": "No."
+        },
+        {
+            "speaker": "sampson",
+            "text": "No, sir, I do not bite my thumb at you, sir, but I bite my thumb, sir."
+        },
+        {
+            "speaker": "gregory",
+            "text": "Do you quarrel, sir"
+        },
+        {
+            "speaker": "abraham",
+            "text": "Quarrel sir! no, sir."
+        },
+        {
+            "speaker": "sampson",
+            "text": "If you do, sir, I am for you: I serve as good a man as you."
+        },
+        {
+            "speaker": "abraham",
+            "text": "No better."
+        },
+        {
+            "speaker": "sampson",
+            "text": "Well, sir."
+        },
+        {
+            "speaker": "gregory",
+            "text": "Say better: here comes one of my masters kinsmen."
+        },
+        {
+            "speaker": "sampson",
+            "text": "Yes, better, sir."
+        },
+        {
+            "speaker": "abraham",
+            "text": "You lie."
+        },
+        {
+            "speaker": "sampson",
+            "text": "Draw, if you be men. Gregory, remember thy swashing blow."
+        },
+        {
+            "text": "They fight"
+        },
+        {
+            "text": "Enter BENVOLIO"
+        },
+        {
+            "speaker": "benvolio",
+            "text": "Part, fools! Put up your swords you know not what you do."
+        },
+        {
+            "text": "Beats down their swords"
+        },
+        {
+            "text": "Enter TYBALT"
+        },
+        {
+            "speaker": "tybalt",
+            "text": "What, art thou drawn among these heartless hinds Turn thee, Benvolio, look upon thy death."
+        },
+        {
+            "speaker": "benvolio",
+            "text": "I do but keep the peace: put up thy sword, Or manage it to part these men with me."
+        },
+        {
+            "speaker": "tybalt",
+            "text": "What, drawn, and talk of peace! I hate the word, As I hate hell, all Montagues, and thee: Have at thee, coward!"
+        },
+        {
+            "text": "They fight"
+        },
+        {
+            "text": "Enter, several of both houses, who join the fray then enter Citizens, with clubs"
+        },
+        {
+            "speaker": "first citizen",
+            "text": "Clubs, bills, and partisans! strike! beat them down! Down with the Capulets! down with the Montagues!"
+        },
+        {
+            "text": "Enter CAPULET in his gown, and LADY CAPULET"
+        },
+        {
+            "speaker": "capulet",
+            "text": "What noise is this Give me my long sword, ho!"
+        },
+        {
+            "speaker": "lady capulet",
+            "text": "A crutch, a crutch! why call you for a sword"
+        },
+        {
+            "speaker": "capulet",
+            "text": "My sword, I say! Old Montague is come, And flourishes his blade in spite of me."
+        },
+        {
+            "text": "Enter MONTAGUE and LADY MONTAGUE"
+        },
+        {
+            "speaker": "montague",
+            "text": "Thou villain Capulet,Hold me not, let me go."
+        },
+        {
+            "speaker": "lady montague",
+            "text": "Thou shalt not stir a foot to seek a foe."
+        },
+        {
+            "text": "Enter PRINCE, with Attendants"
+        },
+        {
+            "speaker": "prince",
+            "text": "Rebellious subjects, enemies to peace, Profaners of this neighbourstained steel, Will they not hear What, ho! you men, you beasts, That quench the fire of your pernicious rage With purple fountains issuing from your veins, On pain of torture, from those bloody hands Throw your mistemperd weapons to the ground, And hear the sentence of your moved prince. Three civil brawls, bred of an airy word, By thee, old Capulet, and Montague, Have thrice disturbd the quiet of our streets, And made Veronas ancient citizens Cast by their grave beseeming ornaments, To wield old partisans, in hands as old, Cankerd with peace, to part your cankerd hate: If ever you disturb our streets again, Your lives shall pay the forfeit of the peace. For this time, all the rest depart away: You Capulet shall go along with me: And, Montague, come you this afternoon, To know our further pleasure in this case, To old Freetown, our common judgmentplace. Once more, on pain of death, all men depart."
+        },
+        {
+            "text": "Exeunt all but MONTAGUE, LADY MONTAGUE, and BENVOLIO"
+        },
+        {
+            "speaker": "montague",
+            "text": "Who set this ancient quarrel new abroach Speak, nephew, were you by when it began"
+        },
+        {
+            "speaker": "benvolio",
+            "text": "Here were the servants of your adversary, And yours, close fighting ere I did approach: I drew to part them: in the instant came The fiery Tybalt, with his sword prepared, Which, as he breathed defiance to my ears, He swung about his head and cut the winds, Who nothing hurt withal hissd him in scorn: While we were interchanging thrusts and blows, Came more and more and fought on part and part, Till the prince came, who parted either part."
+        },
+        {
+            "speaker": "lady montague",
+            "text": "O, where is Romeo saw you him today Right glad I am he was not at this fray."
+        },
+        {
+            "speaker": "benvolio",
+            "text": "Madam, an hour before the worshippd sun Peerd forth the golden window of the east, A troubled mind drave me to walk abroad Where, underneath the grove of sycamore That westward rooteth from the citys side, So early walking did I see your son: Towards him I made, but he was ware of me And stole into the covert of the wood: I, measuring his affections by my own, That most are busied when theyre most alone, Pursued my humour not pursuing his, And gladly shunnd who gladly fled from me."
+        },
+        {
+            "speaker": "montague",
+            "text": "Many a morning hath he there been seen, With tears augmenting the fresh morning dew. Adding to clouds more clouds with his deep sighs But all so soon as the allcheering sun Should in the furthest east begin to draw The shady curtains from Auroras bed, Away from the light steals home my heavy son, And private in his chamber pens himself, Shuts up his windows, locks far daylight out And makes himself an artificial night: Black and portentous must this humour prove, Unless good counsel may the cause remove."
+        },
+        {
+            "speaker": "benvolio",
+            "text": "My noble uncle, do you know the cause"
+        },
+        {
+            "speaker": "montague",
+            "text": "I neither know it nor can learn of him."
+        },
+        {
+            "speaker": "benvolio",
+            "text": "Have you importuned him by any means"
+        },
+        {
+            "speaker": "montague",
+            "text": "Both by myself and many other friends: But he, his own affections counsellor, Is to himselfI will not say how true But to himself so secret and so close, So far from sounding and discovery, As is the bud bit with an envious worm, Ere he can spread his sweet leaves to the air, Or dedicate his beauty to the sun. Could we but learn from whence his sorrows grow. We would as willingly give cure as know."
+        },
+        {
+            "text": "Enter ROMEO"
+        },
+        {
+            "speaker": "benvolio",
+            "text": "See, where he comes: so please you, step aside Ill know his grievance, or be much denied."
+        },
+        {
+            "speaker": "montague",
+            "text": "I would thou wert so happy by thy stay, To hear true shrift. Come, madam, lets away."
+        },
+        {
+            "text": "Exeunt MONTAGUE and LADY MONTAGUE"
+        },
+        {
+            "speaker": "benvolio",
+            "text": "Goodmorrow, cousin."
+        },
+        {
+            "speaker": "romeo",
+            "text": "Is the day so young"
+        },
+        {
+            "speaker": "benvolio",
+            "text": "But new struck nine."
+        },
+        {
+            "speaker": "romeo",
+            "text": "Ay me! sad hours seem long. Was that my father that went hence so fast"
+        },
+        {
+            "speaker": "benvolio",
+            "text": "It was. What sadness lengthens Romeos hours"
+        },
+        {
+            "speaker": "romeo",
+            "text": "Not having that, which, having, makes them short."
+        },
+        {
+            "speaker": "benvolio",
+            "text": "In love"
+        },
+        {
+            "speaker": "romeo",
+            "text": "Out"
+        },
+        {
+            "speaker": "benvolio",
+            "text": "Of love"
+        },
+        {
+            "speaker": "romeo",
+            "text": "Out of her favour, where I am in love."
+        },
+        {
+            "speaker": "benvolio",
+            "text": "Alas, that love, so gentle in his view, Should be so tyrannous and rough in proof!"
+        },
+        {
+            "speaker": "romeo",
+            "text": "Alas, that love, whose view is muffled still, Should, without eyes, see pathways to his will! Where shall we dine O me! What fray was here Yet tell me not, for I have heard it all. Heres much to do with hate, but more with love. Why, then, O brawling love! O loving hate! O any thing, of nothing first create! O heavy lightness! serious vanity! Misshapen chaos of wellseeming forms! Feather of lead, bright smoke, cold fire, sick health! Stillwaking sleep, that is not what it is! This love feel I, that feel no love in this. Dost thou not laugh"
+        },
+        {
+            "speaker": "benvolio",
+            "text": "No, coz, I rather weep."
+        },
+        {
+            "speaker": "romeo",
+            "text": "Good heart, at what"
+        },
+        {
+            "speaker": "benvolio",
+            "text": "At thy good hearts oppression."
+        },
+        {
+            "speaker": "romeo",
+            "text": "Why, such is loves transgression. Griefs of mine own lie heavy in my breast, Which thou wilt propagate, to have it prest With more of thine: this love that thou hast shown Doth add more grief to too much of mine own. Love is a smoke raised with the fume of sighs Being purged, a fire sparkling in lovers eyes Being vexd a sea nourishd with lovers tears: What is it else a madness most discreet, A choking gall and a preserving sweet. Farewell, my coz."
+        },
+        {
+            "speaker": "benvolio",
+            "text": "Soft! I will go along An if you leave me so, you do me wrong."
+        },
+        {
+            "speaker": "romeo",
+            "text": "Tut, I have lost myself I am not here This is not Romeo, hes some other where."
+        },
+        {
+            "speaker": "benvolio",
+            "text": "Tell me in sadness, who is that you love."
+        },
+        {
+            "speaker": "romeo",
+            "text": "What, shall I groan and tell thee"
+        },
+        {
+            "speaker": "benvolio",
+            "text": "Groan! why, no. But sadly tell me who."
+        },
+        {
+            "speaker": "romeo",
+            "text": "Bid a sick man in sadness make his will: Ah, word ill urged to one that is so ill! In sadness, cousin, I do love a woman."
+        },
+        {
+            "speaker": "benvolio",
+            "text": "I aimd so near, when I supposed you loved."
+        },
+        {
+            "speaker": "romeo",
+            "text": "A right good markman! And shes fair I love."
+        },
+        {
+            "speaker": "benvolio",
+            "text": "A right fair mark, fair coz, is soonest hit."
+        },
+        {
+            "speaker": "romeo",
+            "text": "Well, in that hit you miss: shell not be hit With Cupids arrow she hath Dians wit And, in strong proof of chastity well armd, From loves weak childish bow she lives unharmd. She will not stay the siege of loving terms, Nor bide the encounter of assailing eyes, Nor ope her lap to saintseducing gold: O, she is rich in beauty, only poor, That when she dies with beauty dies her store."
+        },
+        {
+            "speaker": "benvolio",
+            "text": "Then she hath sworn that she will still live chaste"
+        },
+        {
+            "speaker": "romeo",
+            "text": "She hath, and in that sparing makes huge waste, For beauty starved with her severity Cuts beauty off from all posterity. She is too fair, too wise, wisely too fair, To merit bliss by making me despair: She hath forsworn to love, and in that vow Do I live dead that live to tell it now."
+        },
+        {
+            "speaker": "benvolio",
+            "text": "Be ruled by me, forget to think of her."
+        },
+        {
+            "speaker": "romeo",
+            "text": "O, teach me how I should forget to think."
+        },
+        {
+            "speaker": "benvolio",
+            "text": "By giving liberty unto thine eyes Examine other beauties."
+        },
+        {
+            "speaker": "romeo",
+            "text": "Tis the way To call hers exquisite, in question more: These happy masks that kiss fair ladies brows Being black put us in mind they hide the fair He that is strucken blind cannot forget The precious treasure of his eyesight lost: Show me a mistress that is passing fair, What doth her beauty serve, but as a note Where I may read who passd that passing fair Farewell: thou canst not teach me to forget."
+        },
+        {
+            "speaker": "benvolio",
+            "text": "Ill pay that doctrine, or else die in debt."
+        },
+        {
+            "text": "Exeunt"
+        }
+    ]
+}

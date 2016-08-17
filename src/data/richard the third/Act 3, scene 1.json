@@ -1,0 +1,370 @@
+{
+    "sceneName": "Act 3, scene 1",
+    "playName": "richard the third",
+    "location": "London. A street.",
+    "lines": [
+        {
+            "text": "The trumpets sound. Enter the young PRINCE EDWARD, GLOUCESTER, BUCKINGHAM, CARDINAL, CATESBY, and others"
+        },
+        {
+            "speaker": "buckingham",
+            "text": "Welcome, sweet prince, to London, to your chamber."
+        },
+        {
+            "speaker": "gloucester",
+            "text": "Welcome, dear cousin, my thoughts sovereign The weary way hath made you melancholy."
+        },
+        {
+            "speaker": "prince edward",
+            "text": "No, uncle but our crosses on the way Have made it tedious, wearisome, and heavy I want more uncles here to welcome me."
+        },
+        {
+            "speaker": "gloucester",
+            "text": "Sweet prince, the untainted virtue of your years Hath not yet dived into the worlds deceit Nor more can you distinguish of a man Than of his outward show which, God he knows, Seldom or never jumpeth with the heart. Those uncles which you want were dangerous Your grace attended to their sugard words, But lookd not on the poison of their hearts : God keep you from them, and from such false friends!"
+        },
+        {
+            "speaker": "prince edward",
+            "text": "God keep me from false friends! but they were none."
+        },
+        {
+            "speaker": "gloucester",
+            "text": "My lord, the mayor of London comes to greet you."
+        },
+        {
+            "text": "Enter the Lord Mayor and his train"
+        },
+        {
+            "speaker": "lord mayor",
+            "text": "God bless your grace with health and happy days!"
+        },
+        {
+            "speaker": "prince edward",
+            "text": "I thank you, good my lord and thank you all. I thought my mother, and my brother York, Would long ere this have met us on the way Fie, what a slug is Hastings, that he comes not To tell us whether they will come or no!"
+        },
+        {
+            "text": "Enter HASTINGS"
+        },
+        {
+            "speaker": "buckingham",
+            "text": "And, in good time, here comes the sweating lord."
+        },
+        {
+            "speaker": "prince edward",
+            "text": "Welcome, my lord: what, will our mother come"
+        },
+        {
+            "speaker": "hastings",
+            "text": "On what occasion, God he knows, not I, The queen your mother, and your brother York, Have taken sanctuary: the tender prince Would fain have come with me to meet your grace, But by his mother was perforce withheld."
+        },
+        {
+            "speaker": "buckingham",
+            "text": "Fie, what an indirect and peevish course Is this of hers! Lord cardinal, will your grace Persuade the queen to send the Duke of York Unto his princely brother presently If she deny, Lord Hastings, go with him, And from her jealous arms pluck him perforce."
+        },
+        {
+            "speaker": "cardinal",
+            "text": "My Lord of Buckingham, if my weak oratory Can from his mother win the Duke of York, Anon expect him here but if she be obdurate To mild entreaties, God in heaven forbid We should infringe the holy privilege Of blessed sanctuary! not for all this land Would I be guilty of so deep a sin."
+        },
+        {
+            "speaker": "buckingham",
+            "text": "You are too senselessobstinate, my lord, Too ceremonious and traditional Weigh it but with the grossness of this age, You break not sanctuary in seizing him. The benefit thereof is always granted To those whose dealings have deserved the place, And those who have the wit to claim the place: This prince hath neither claimd it nor deserved it And therefore, in mine opinion, cannot have it: Then, taking him from thence that is not there, You break no privilege nor charter there. Oft have I heard of sanctuary men But sanctuary children neer till now."
+        },
+        {
+            "speaker": "cardinal",
+            "text": "My lord, you shall oerrule my mind for once. Come on, Lord Hastings, will you go with me"
+        },
+        {
+            "speaker": "hastings",
+            "text": "I go, my lord."
+        },
+        {
+            "speaker": "prince edward",
+            "text": "Good lords, make all the speedy haste you may. Say, uncle Gloucester, if our brother come, Where shall we sojourn till our coronation"
+        },
+        {
+            "text": "Exeunt CARDINAL and HASTINGS"
+        },
+        {
+            "speaker": "gloucester",
+            "text": "Where it seems best unto your royal self. If I may counsel you, some day or two Your highness shall repose you at the Tower: Then where you please, and shall be thought most fit For your best health and recreation."
+        },
+        {
+            "speaker": "prince edward",
+            "text": "I do not like the Tower, of any place. Did Julius Caesar build that place, my lord"
+        },
+        {
+            "speaker": "buckingham",
+            "text": "He did, my gracious lord, begin that place Which, since, succeeding ages have reedified."
+        },
+        {
+            "speaker": "prince edward",
+            "text": "Is it upon record, or else reported Successively from age to age, he built it"
+        },
+        {
+            "speaker": "buckingham",
+            "text": "Upon record, my gracious lord."
+        },
+        {
+            "speaker": "prince edward",
+            "text": "But say, my lord, it were not registerd, Methinks the truth should live from age to age, As twere retaild to all posterity, Even to the general allending day."
+        },
+        {
+            "speaker": "gloucester",
+            "text": "[Aside]  So wise so young, they say, do never live long."
+        },
+        {
+            "speaker": "prince edward",
+            "text": "What say you, uncle"
+        },
+        {
+            "speaker": "gloucester",
+            "text": "I say, without characters, fame lives long. Thus, like the formal vice, Iniquity, I moralize two meanings in one word."
+        },
+        {
+            "text": "Aside"
+        },
+        {
+            "speaker": "prince edward",
+            "text": "That Julius Caesar was a famous man With what his valour did enrich his wit, His wit set down to make his valour live Death makes no conquest of this conqueror For now he lives in fame, though not in life. Ill tell you what, my cousin Buckingham,"
+        },
+        {
+            "speaker": "buckingham",
+            "text": "What, my gracious lord"
+        },
+        {
+            "speaker": "prince edward",
+            "text": "An if I live until I be a man, Ill win our ancient right in France again, Or die a soldier, as I lived a king."
+        },
+        {
+            "speaker": "gloucester",
+            "text": "[Aside]  Short summers lightly have a forward spring."
+        },
+        {
+            "text": "Enter young YORK, HASTINGS, and the CARDINAL"
+        },
+        {
+            "speaker": "buckingham",
+            "text": "Now, in good time, here comes the Duke of York."
+        },
+        {
+            "speaker": "prince edward",
+            "text": "Richard of York! how fares our loving brother"
+        },
+        {
+            "speaker": "york",
+            "text": "Well, my dread lord so must I call you now."
+        },
+        {
+            "speaker": "prince edward",
+            "text": "Ay, brother, to our grief, as it is yours: Too late he died that might have kept that title, Which by his death hath lost much majesty."
+        },
+        {
+            "speaker": "gloucester",
+            "text": "How fares our cousin, noble Lord of York"
+        },
+        {
+            "speaker": "york",
+            "text": "I thank you, gentle uncle. O, my lord, You said that idle weeds are fast in growth The prince my brother hath outgrown me far."
+        },
+        {
+            "speaker": "gloucester",
+            "text": "He hath, my lord."
+        },
+        {
+            "speaker": "york",
+            "text": "And therefore is he idle"
+        },
+        {
+            "speaker": "gloucester",
+            "text": "O, my fair cousin, I must not say so."
+        },
+        {
+            "speaker": "york",
+            "text": "Then is he more beholding to you than I."
+        },
+        {
+            "speaker": "gloucester",
+            "text": "He may command me as my sovereign But you have power in me as in a kinsman."
+        },
+        {
+            "speaker": "york",
+            "text": "I pray you, uncle, give me this dagger."
+        },
+        {
+            "speaker": "gloucester",
+            "text": "My dagger, little cousin with all my heart."
+        },
+        {
+            "speaker": "prince edward",
+            "text": "A beggar, brother"
+        },
+        {
+            "speaker": "york",
+            "text": "Of my kind uncle, that I know will give And being but a toy, which is no grief to give."
+        },
+        {
+            "speaker": "gloucester",
+            "text": "A greater gift than that Ill give my cousin."
+        },
+        {
+            "speaker": "york",
+            "text": "A greater gift! O, thats the sword to it."
+        },
+        {
+            "speaker": "gloucester",
+            "text": "A gentle cousin, were it light enough."
+        },
+        {
+            "speaker": "york",
+            "text": "O, then, I see, you will part but with light gifts In weightier things youll say a beggar nay."
+        },
+        {
+            "speaker": "gloucester",
+            "text": "It is too heavy for your grace to wear."
+        },
+        {
+            "speaker": "york",
+            "text": "I weigh it lightly, were it heavier."
+        },
+        {
+            "speaker": "gloucester",
+            "text": "What, would you have my weapon, little lord"
+        },
+        {
+            "speaker": "york",
+            "text": "I would, that I might thank you as you call me."
+        },
+        {
+            "speaker": "gloucester",
+            "text": "How"
+        },
+        {
+            "speaker": "york",
+            "text": "Little."
+        },
+        {
+            "speaker": "prince edward",
+            "text": "My Lord of York will still be cross in talk: Uncle, your grace knows how to bear with him."
+        },
+        {
+            "speaker": "york",
+            "text": "You mean, to bear me, not to bear with me: Uncle, my brother mocks both you and me Because that I am little, like an ape, He thinks that you should bear me on your shoulders."
+        },
+        {
+            "speaker": "buckingham",
+            "text": "With what a sharpprovided wit he reasons! To mitigate the scorn he gives his uncle, He prettily and aptly taunts himself: So cunning and so young is wonderful."
+        },
+        {
+            "speaker": "gloucester",
+            "text": "My lord, willt please you pass along Myself and my good cousin Buckingham Will to your mother, to entreat of her To meet you at the Tower and welcome you."
+        },
+        {
+            "speaker": "york",
+            "text": "What, will you go unto the Tower, my lord"
+        },
+        {
+            "speaker": "prince edward",
+            "text": "My lord protector needs will have it so."
+        },
+        {
+            "speaker": "york",
+            "text": "I shall not sleep in quiet at the Tower."
+        },
+        {
+            "speaker": "gloucester",
+            "text": "Why, what should you fear"
+        },
+        {
+            "speaker": "york",
+            "text": "Marry, my uncle Clarence angry ghost: My grandam told me he was murdered there."
+        },
+        {
+            "speaker": "prince edward",
+            "text": "I fear no uncles dead."
+        },
+        {
+            "speaker": "gloucester",
+            "text": "Nor none that live, I hope."
+        },
+        {
+            "speaker": "prince edward",
+            "text": "An if they live, I hope I need not fear. But come, my lord and with a heavy heart, Thinking on them, go I unto the Tower."
+        },
+        {
+            "text": "A Sennet. Exeunt all but GLOUCESTER, BUCKINGHAM and CATESBY"
+        },
+        {
+            "speaker": "buckingham",
+            "text": "Think you, my lord, this little prating York Was not incensed by his subtle mother To taunt and scorn you thus opprobriously"
+        },
+        {
+            "speaker": "gloucester",
+            "text": "No doubt, no doubt O, tis a parlous boy Bold, quick, ingenious, forward, capable He is all the mothers, from the top to toe."
+        },
+        {
+            "speaker": "buckingham",
+            "text": "Well, let them rest. Come hither, Catesby. Thou art sworn as deeply to effect what we intend As closely to conceal what we impart: Thou knowst our reasons urged upon the way What thinkst thou is it not an easy matter To make William Lord Hastings of our mind, For the instalment of this noble duke In the seat royal of this famous isle"
+        },
+        {
+            "speaker": "catesby",
+            "text": "He for his fathers sake so loves the prince, That he will not be won to aught against him."
+        },
+        {
+            "speaker": "buckingham",
+            "text": "What thinkst thou, then, of Stanley what will he"
+        },
+        {
+            "speaker": "catesby",
+            "text": "He will do all in all as Hastings doth."
+        },
+        {
+            "speaker": "buckingham",
+            "text": "Well, then, no more but this: go, gentle Catesby, And, as it were far off sound thou Lord Hastings, How doth he stand affected to our purpose And summon him tomorrow to the Tower, To sit about the coronation. If thou dost find him tractable to us, Encourage him, and show him all our reasons: If he be leaden, icycold, unwilling, Be thou so too and so break off your talk, And give us notice of his inclination: For we tomorrow hold divided councils, Wherein thyself shalt highly be employd."
+        },
+        {
+            "speaker": "gloucester",
+            "text": "Commend me to Lord William: tell him, Catesby, His ancient knot of dangerous adversaries Tomorrow are let blood at Pomfretcastle And bid my friend, for joy of this good news, Give mistress Shore one gentle kiss the more."
+        },
+        {
+            "speaker": "buckingham",
+            "text": "Good Catesby, go, effect this business soundly."
+        },
+        {
+            "speaker": "catesby",
+            "text": "My good lords both, with all the heed I may."
+        },
+        {
+            "speaker": "gloucester",
+            "text": "Shall we hear from you, Catesby, ere we sleep"
+        },
+        {
+            "speaker": "catesby",
+            "text": "You shall, my lord."
+        },
+        {
+            "speaker": "gloucester",
+            "text": "At Crosby Place, there shall you find us both."
+        },
+        {
+            "text": "Exit CATESBY"
+        },
+        {
+            "speaker": "buckingham",
+            "text": "Now, my lord, what shall we do, if we perceive Lord Hastings will not yield to our complots"
+        },
+        {
+            "speaker": "gloucester",
+            "text": "Chop off his head, man somewhat we will do: And, look, when I am king, claim thou of me The earldom of Hereford, and the moveables Whereof the king my brother stood possessd."
+        },
+        {
+            "speaker": "buckingham",
+            "text": "Ill claim that promise at your graces hands."
+        },
+        {
+            "speaker": "gloucester",
+            "text": "And look to have it yielded with all willingness. Come, let us sup betimes, that afterwards We may digest our complots in some form."
+        },
+        {
+            "text": "Exeunt"
+        }
+    ]
+}

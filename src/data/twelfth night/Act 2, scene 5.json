@@ -1,0 +1,376 @@
+{
+    "sceneName": "Act 2, scene 5",
+    "playName": "twelfth night",
+    "location": "OLIVIAs garden.",
+    "lines": [
+        {
+            "text": "Enter SIR TOBY BELCH, SIR ANDREW, and FABIAN"
+        },
+        {
+            "speaker": "sir toby belch",
+            "text": "Come thy ways, Signior Fabian."
+        },
+        {
+            "speaker": "fabian",
+            "text": "Nay, Ill come: if I lose a scruple of this sport, let me be boiled to death with melancholy."
+        },
+        {
+            "speaker": "sir toby belch",
+            "text": "Wouldst thou not be glad to have the niggardly rascally sheepbiter come by some notable shame"
+        },
+        {
+            "speaker": "fabian",
+            "text": "I would exult, man: you know, he brought me out o favour with my lady about a bearbaiting here."
+        },
+        {
+            "speaker": "sir toby belch",
+            "text": "To anger him well have the bear again and we will fool him black and blue: shall we not, Sir Andrew"
+        },
+        {
+            "speaker": "sir andrew",
+            "text": "An we do not, it is pity of our lives."
+        },
+        {
+            "speaker": "sir toby belch",
+            "text": "Here comes the little villain. How now, my metal of India!"
+        },
+        {
+            "text": "Enter MARIA"
+        },
+        {
+            "speaker": "maria",
+            "text": "Get ye all three into the boxtree: Malvolios coming down this walk: he has been yonder i the sun practising behavior to his own shadow this half hour: observe him, for the love of mockery for I know this letter will make a contemplative idiot of him. Close, in the name of jesting! Lie thou there, for here comes the trout that must be caught with tickling."
+        },
+        {
+            "text": "Throws down a letter"
+        },
+        {
+            "text": "Exit"
+        },
+        {
+            "text": "Enter MALVOLIO"
+        },
+        {
+            "speaker": "malvolio",
+            "text": "Tis but fortune all is fortune. Maria once told me she did affect me: and I have heard herself come thus near, that, should she fancy, it should be one of my complexion. Besides, she uses me with a more exalted respect than any one else that follows her. What should I think ont"
+        },
+        {
+            "speaker": "sir toby belch",
+            "text": "Heres an overweening rogue!"
+        },
+        {
+            "speaker": "fabian",
+            "text": "O, peace! Contemplation makes a rare turkeycock of him: how he jets under his advanced plumes!"
+        },
+        {
+            "speaker": "sir andrew",
+            "text": "Slight, I could so beat the rogue!"
+        },
+        {
+            "speaker": "sir toby belch",
+            "text": "Peace, I say."
+        },
+        {
+            "speaker": "malvolio",
+            "text": "To be Count Malvolio!"
+        },
+        {
+            "speaker": "sir toby belch",
+            "text": "Ah, rogue!"
+        },
+        {
+            "speaker": "sir andrew",
+            "text": "Pistol him, pistol him."
+        },
+        {
+            "speaker": "sir toby belch",
+            "text": "Peace, peace!"
+        },
+        {
+            "speaker": "malvolio",
+            "text": "There is example fort the lady of the Strachy married the yeoman of the wardrobe."
+        },
+        {
+            "speaker": "sir andrew",
+            "text": "Fie on him, Jezebel!"
+        },
+        {
+            "speaker": "fabian",
+            "text": "O, peace! now hes deeply in: look how imagination blows him."
+        },
+        {
+            "speaker": "malvolio",
+            "text": "Having been three months married to her, sitting in my state,"
+        },
+        {
+            "speaker": "sir toby belch",
+            "text": "O, for a stonebow, to hit him in the eye!"
+        },
+        {
+            "speaker": "malvolio",
+            "text": "Calling my officers about me, in my branched velvet gown having come from a daybed, where I have left Olivia sleeping,"
+        },
+        {
+            "speaker": "sir toby belch",
+            "text": "Fire and brimstone!"
+        },
+        {
+            "speaker": "fabian",
+            "text": "O, peace, peace!"
+        },
+        {
+            "speaker": "malvolio",
+            "text": "And then to have the humour of state and after a demure travel of regard, telling them I know my place as I would they should do theirs, to for my kinsman Toby,"
+        },
+        {
+            "speaker": "sir toby belch",
+            "text": "Bolts and shackles!"
+        },
+        {
+            "speaker": "fabian",
+            "text": "O peace, peace, peace! now, now."
+        },
+        {
+            "speaker": "malvolio",
+            "text": "Seven of my people, with an obedient start, make out for him: I frown the while and perchance wind up watch, or play with mysome rich jewel. Toby approaches courtesies there to me,"
+        },
+        {
+            "speaker": "sir toby belch",
+            "text": "Shall this fellow live"
+        },
+        {
+            "speaker": "fabian",
+            "text": "Though our silence be drawn from us with cars, yet peace."
+        },
+        {
+            "speaker": "malvolio",
+            "text": "I extend my hand to him thus, quenching my familiar smile with an austere regard of control,"
+        },
+        {
+            "speaker": "sir toby belch",
+            "text": "And does not Toby take you a blow o the lips then"
+        },
+        {
+            "speaker": "malvolio",
+            "text": "Saying, Cousin Toby, my fortunes having cast me on your niece give me this prerogative of speech,"
+        },
+        {
+            "speaker": "sir toby belch",
+            "text": "What, what"
+        },
+        {
+            "speaker": "malvolio",
+            "text": "You must amend your drunkenness."
+        },
+        {
+            "speaker": "sir toby belch",
+            "text": "Out, scab!"
+        },
+        {
+            "speaker": "fabian",
+            "text": "Nay, patience, or we break the sinews of our plot."
+        },
+        {
+            "speaker": "malvolio",
+            "text": "Besides, you waste the treasure of your time with a foolish knight,"
+        },
+        {
+            "speaker": "sir andrew",
+            "text": "Thats me, I warrant you."
+        },
+        {
+            "speaker": "malvolio",
+            "text": "One Sir Andrew,"
+        },
+        {
+            "speaker": "sir andrew",
+            "text": "I knew twas I for many do call me fool."
+        },
+        {
+            "speaker": "malvolio",
+            "text": "What employment have we here"
+        },
+        {
+            "text": "Taking up the letter"
+        },
+        {
+            "speaker": "fabian",
+            "text": "Now is the woodcock near the gin."
+        },
+        {
+            "speaker": "sir toby belch",
+            "text": "O, peace! and the spirit of humour intimate reading aloud to him!"
+        },
+        {
+            "speaker": "malvolio",
+            "text": "By my life, this is my ladys hand these be her very Cs, her Us and her Ts and thus makes she her great Ps. It is, in contempt of question, her hand."
+        },
+        {
+            "speaker": "sir andrew",
+            "text": "Her Cs, her Us and her Ts: why that"
+        },
+        {
+            "speaker": "malvolio",
+            "text": "[Reads]  To the unknown beloved, this, and my good wishes:her very phrases! By your leave, wax. Soft! and the impressure her Lucrece, with which she uses to seal: tis my lady. To whom should this be"
+        },
+        {
+            "speaker": "fabian",
+            "text": "This wins him, liver and all."
+        },
+        {
+            "speaker": "malvolio",
+            "text": "[Reads] Jove knows I love: But who Lips, do not move No man must know. No man must know. What follows the numbers altered! No man must know: if this should be thee, Malvolio"
+        },
+        {
+            "speaker": "sir toby belch",
+            "text": "Marry, hang thee, brock!"
+        },
+        {
+            "speaker": "malvolio",
+            "text": "[Reads] I may command where I adore But silence, like a Lucrece knife, With bloodless stroke my heart doth gore: M, O, A, I, doth sway my life."
+        },
+        {
+            "speaker": "fabian",
+            "text": "A fustian riddle!"
+        },
+        {
+            "speaker": "sir toby belch",
+            "text": "Excellent wench, say I."
+        },
+        {
+            "speaker": "malvolio",
+            "text": "M, O, A, I, doth sway my life. Nay, but first, let me see, let me see, let me see."
+        },
+        {
+            "speaker": "fabian",
+            "text": "What dish o poison has she dressed him!"
+        },
+        {
+            "speaker": "sir toby belch",
+            "text": "And with what wing the staniel cheques at it!"
+        },
+        {
+            "speaker": "malvolio",
+            "text": "I may command where I adore. Why, she may command me: I serve her she is my lady. Why, this is evident to any formal capacity there is no obstruction in this: and the end,what should that alphabetical position portend If I could make that resemble something in me,Softly! M, O, A, I,"
+        },
+        {
+            "speaker": "sir toby belch",
+            "text": "O, ay, make up that: he is now at a cold scent."
+        },
+        {
+            "speaker": "fabian",
+            "text": "Sowter will cry upont for all this, though it be as rank as a fox."
+        },
+        {
+            "speaker": "malvolio",
+            "text": "M,Malvolio M,why, that begins my name."
+        },
+        {
+            "speaker": "fabian",
+            "text": "Did not I say he would work it out the cur is excellent at faults."
+        },
+        {
+            "speaker": "malvolio",
+            "text": "M,but then there is no consonancy in the sequel that suffers under probation A should follow but O does."
+        },
+        {
+            "speaker": "fabian",
+            "text": "And O shall end, I hope."
+        },
+        {
+            "speaker": "sir toby belch",
+            "text": "Ay, or Ill cudgel him, and make him cry O!"
+        },
+        {
+            "speaker": "malvolio",
+            "text": "And then I comes behind."
+        },
+        {
+            "speaker": "fabian",
+            "text": "Ay, an you had any eye behind you, you might see more detraction at your heels than fortunes before you."
+        },
+        {
+            "speaker": "malvolio",
+            "text": "M, O, A, I this simulation is not as the former: and yet, to crush this a little, it would bow to me, for every one of these letters are in my name. Soft! here follows prose. If this fall into thy hand, revolve. In my stars I am above thee but be not afraid of greatness: some are born great, some achieve greatness, and some have greatness thrust upon em. Thy Fates open their hands let thy blood and spirit embrace them and, to inure thyself to what thou art like to be, cast thy humble slough and appear fresh. Be opposite with a kinsman, surly with servants let thy tongue tang arguments of state put thyself into the trick of singularity: she thus advises thee that sighs for thee. Remember who commended thy yellow stockings, and wished to see thee ever crossgartered: I say, remember. Go to, thou art made, if thou desirest to be so if not, let me see thee a steward still, the fellow of servants, and not worthy to touch Fortunes fingers. Farewell. She that would alter services with thee, THE FORTUNATEUNHAPPY. Daylight and champaign discovers not more: this is open. I will be proud, I will read politic authors, I will baffle Sir Toby, I will wash off gross acquaintance, I will be pointdevise the very man. I do not now fool myself, to let imagination jade me for every reason excites to this, that my lady loves me. She did commend my yellow stockings of late, she did praise my leg being crossgartered and in this she manifests herself to my love, and with a kind of injunction drives me to these habits of her liking. I thank my stars I am happy. I will be strange, stout, in yellow stockings, and crossgartered, even with the swiftness of putting on. Jove and my stars be praised! Here is yet a postscript. Thou canst not choose but know who I am. If thou entertainest my love, let it appear in thy smiling thy smiles become thee well therefore in my presence still smile, dear my sweet, I prithee. Jove, I thank thee: I will smile I will do everything that thou wilt have me."
+        },
+        {
+            "text": "Reads"
+        },
+        {
+            "text": "Reads"
+        },
+        {
+            "text": "Exit"
+        },
+        {
+            "speaker": "fabian",
+            "text": "I will not give my part of this sport for a pension of thousands to be paid from the Sophy."
+        },
+        {
+            "speaker": "sir toby belch",
+            "text": "I could marry this wench for this device."
+        },
+        {
+            "speaker": "sir andrew",
+            "text": "So could I too."
+        },
+        {
+            "speaker": "sir toby belch",
+            "text": "And ask no other dowry with her but such another jest."
+        },
+        {
+            "speaker": "sir andrew",
+            "text": "Nor I neither."
+        },
+        {
+            "speaker": "fabian",
+            "text": "Here comes my noble gullcatcher."
+        },
+        {
+            "text": "Reenter MARIA"
+        },
+        {
+            "speaker": "sir toby belch",
+            "text": "Wilt thou set thy foot o my neck"
+        },
+        {
+            "speaker": "sir andrew",
+            "text": "Or o mine either"
+        },
+        {
+            "speaker": "sir toby belch",
+            "text": "Shall I play my freedom at traytrip, and become thy bondslave"
+        },
+        {
+            "speaker": "sir andrew",
+            "text": "I faith, or I either"
+        },
+        {
+            "speaker": "sir toby belch",
+            "text": "Why, thou hast put him in such a dream, that when the image of it leaves him he must run mad."
+        },
+        {
+            "speaker": "maria",
+            "text": "Nay, but say true does it work upon him"
+        },
+        {
+            "speaker": "sir toby belch",
+            "text": "Like aquavitae with a midwife."
+        },
+        {
+            "speaker": "maria",
+            "text": "If you will then see the fruits of the sport, mark his first approach before my lady: he will come to her in yellow stockings, and tis a colour she abhors, and crossgartered, a fashion she detests and he will smile upon her, which will now be so unsuitable to her disposition, being addicted to a melancholy as she is, that it cannot but turn him into a notable contempt. If you will see it, follow me."
+        },
+        {
+            "speaker": "sir toby belch",
+            "text": "To the gates of Tartar, thou most excellent devil of wit!"
+        },
+        {
+            "speaker": "sir andrew",
+            "text": "Ill make one too."
+        },
+        {
+            "text": "Exeunt"
+        }
+    ]
+}

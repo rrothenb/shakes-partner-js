@@ -1,0 +1,151 @@
+{
+    "roderigo": [
+        "Act 1, scene 1",
+        "Act 1, scene 2",
+        "Act 1, scene 3",
+        "Act 2, scene 1",
+        "Act 2, scene 3",
+        "Act 4, scene 2",
+        "Act 5, scene 1"
+    ],
+    "iago": [
+        "Act 1, scene 1",
+        "Act 1, scene 2",
+        "Act 1, scene 3",
+        "Act 2, scene 1",
+        "Act 2, scene 3",
+        "Act 3, scene 1",
+        "Act 3, scene 2",
+        "Act 3, scene 3",
+        "Act 3, scene 4",
+        "Act 4, scene 1",
+        "Act 4, scene 2",
+        "Act 5, scene 1",
+        "Act 5, scene 2"
+    ],
+    "brabantio": [
+        "Act 1, scene 1",
+        "Act 1, scene 2",
+        "Act 1, scene 3"
+    ],
+    "othello": [
+        "Act 1, scene 2",
+        "Act 1, scene 3",
+        "Act 2, scene 1",
+        "Act 2, scene 3",
+        "Act 3, scene 2",
+        "Act 3, scene 3",
+        "Act 3, scene 4",
+        "Act 4, scene 1",
+        "Act 4, scene 2",
+        "Act 4, scene 3",
+        "Act 5, scene 1",
+        "Act 5, scene 2"
+    ],
+    "cassio": [
+        "Act 1, scene 2",
+        "Act 2, scene 1",
+        "Act 2, scene 3",
+        "Act 3, scene 1",
+        "Act 3, scene 3",
+        "Act 3, scene 4",
+        "Act 4, scene 1",
+        "Act 5, scene 1",
+        "Act 5, scene 2"
+    ],
+    "first officer": [
+        "Act 1, scene 2",
+        "Act 1, scene 3"
+    ],
+    "duke of venice": [
+        "Act 1, scene 3"
+    ],
+    "first senator": [
+        "Act 1, scene 3"
+    ],
+    "second senator": [
+        "Act 1, scene 3"
+    ],
+    "sailor": [
+        "Act 1, scene 3"
+    ],
+    "messenger": [
+        "Act 1, scene 3"
+    ],
+    "senator": [
+        "Act 1, scene 3"
+    ],
+    "desdemona": [
+        "Act 1, scene 3",
+        "Act 2, scene 1",
+        "Act 2, scene 3",
+        "Act 3, scene 3",
+        "Act 3, scene 4",
+        "Act 4, scene 1",
+        "Act 4, scene 2",
+        "Act 4, scene 3",
+        "Act 5, scene 2"
+    ],
+    "montano": [
+        "Act 2, scene 1",
+        "Act 2, scene 3",
+        "Act 5, scene 2"
+    ],
+    "first gentleman": [
+        "Act 2, scene 1"
+    ],
+    "second gentleman": [
+        "Act 2, scene 1"
+    ],
+    "third gentleman": [
+        "Act 2, scene 1"
+    ],
+    "fourth gentleman": [
+        "Act 2, scene 1"
+    ],
+    "second gentlemen": [
+        "Act 2, scene 1"
+    ],
+    "emilia": [
+        "Act 2, scene 1",
+        "Act 3, scene 1",
+        "Act 3, scene 3",
+        "Act 3, scene 4",
+        "Act 4, scene 2",
+        "Act 4, scene 3",
+        "Act 5, scene 1",
+        "Act 5, scene 2"
+    ],
+    "herald": [
+        "Act 2, scene 2"
+    ],
+    "all": [
+        "Act 2, scene 3",
+        "Act 5, scene 2"
+    ],
+    "clown": [
+        "Act 3, scene 1",
+        "Act 3, scene 4"
+    ],
+    "first musician": [
+        "Act 3, scene 1"
+    ],
+    "gentleman": [
+        "Act 3, scene 2"
+    ],
+    "bianca": [
+        "Act 3, scene 4",
+        "Act 4, scene 1",
+        "Act 5, scene 1"
+    ],
+    "lodovico": [
+        "Act 4, scene 1",
+        "Act 4, scene 3",
+        "Act 5, scene 1",
+        "Act 5, scene 2"
+    ],
+    "gratiano": [
+        "Act 5, scene 1",
+        "Act 5, scene 2"
+    ]
+}

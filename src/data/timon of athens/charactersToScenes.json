@@ -1,0 +1,211 @@
+{
+    "poet": [
+        "Act 1, scene 1",
+        "Act 5, scene 1"
+    ],
+    "painter": [
+        "Act 1, scene 1",
+        "Act 5, scene 1"
+    ],
+    "merchant": [
+        "Act 1, scene 1"
+    ],
+    "jeweller": [
+        "Act 1, scene 1"
+    ],
+    "timon": [
+        "Act 1, scene 1",
+        "Act 1, scene 2",
+        "Act 2, scene 2",
+        "Act 3, scene 4",
+        "Act 3, scene 6",
+        "Act 4, scene 1",
+        "Act 4, scene 3",
+        "Act 5, scene 1"
+    ],
+    "messenger": [
+        "Act 1, scene 1",
+        "Act 5, scene 2"
+    ],
+    "old athenian": [
+        "Act 1, scene 1"
+    ],
+    "lucilius": [
+        "Act 1, scene 1",
+        "Act 3, scene 2"
+    ],
+    "apemantus": [
+        "Act 1, scene 1",
+        "Act 1, scene 2",
+        "Act 2, scene 2",
+        "Act 4, scene 3"
+    ],
+    "alcibiades": [
+        "Act 1, scene 1",
+        "Act 1, scene 2",
+        "Act 3, scene 5",
+        "Act 4, scene 3",
+        "Act 5, scene 4"
+    ],
+    "first lord": [
+        "Act 1, scene 1",
+        "Act 1, scene 2",
+        "Act 3, scene 6"
+    ],
+    "second lord": [
+        "Act 1, scene 1",
+        "Act 1, scene 2",
+        "Act 3, scene 6"
+    ],
+    "ventidius": [
+        "Act 1, scene 2"
+    ],
+    "third lord": [
+        "Act 1, scene 2",
+        "Act 3, scene 6"
+    ],
+    "servant": [
+        "Act 1, scene 2",
+        "Act 3, scene 1",
+        "Act 3, scene 3"
+    ],
+    "cupid": [
+        "Act 1, scene 2"
+    ],
+    "first lady": [
+        "Act 1, scene 2"
+    ],
+    "all ladies": [
+        "Act 1, scene 2"
+    ],
+    "flavius": [
+        "Act 1, scene 2",
+        "Act 2, scene 2",
+        "Act 3, scene 4",
+        "Act 4, scene 2",
+        "Act 4, scene 3",
+        "Act 5, scene 1"
+    ],
+    "all": [
+        "Act 1, scene 2"
+    ],
+    "second servant": [
+        "Act 1, scene 2",
+        "Act 3, scene 4",
+        "Act 4, scene 2"
+    ],
+    "third servant": [
+        "Act 1, scene 2",
+        "Act 4, scene 2"
+    ],
+    "all lords": [
+        "Act 1, scene 2"
+    ],
+    "senator": [
+        "Act 2, scene 1"
+    ],
+    "caphis": [
+        "Act 2, scene 1",
+        "Act 2, scene 2"
+    ],
+    "all servants": [
+        "Act 2, scene 2"
+    ],
+    "fool": [
+        "Act 2, scene 2"
+    ],
+    "page": [
+        "Act 2, scene 2"
+    ],
+    "servants": [
+        "Act 2, scene 2"
+    ],
+    "flaminius": [
+        "Act 2, scene 2",
+        "Act 3, scene 1",
+        "Act 3, scene 4"
+    ],
+    "lucullus": [
+        "Act 3, scene 1"
+    ],
+    "first stranger": [
+        "Act 3, scene 2"
+    ],
+    "second stranger": [
+        "Act 3, scene 2"
+    ],
+    "servilius": [
+        "Act 3, scene 2",
+        "Act 3, scene 4"
+    ],
+    "third stranger": [
+        "Act 3, scene 2"
+    ],
+    "sempronius": [
+        "Act 3, scene 3"
+    ],
+    "first servant": [
+        "Act 3, scene 4",
+        "Act 4, scene 2"
+    ],
+    "titus": [
+        "Act 3, scene 4"
+    ],
+    "hortensius": [
+        "Act 3, scene 4"
+    ],
+    "philotus": [
+        "Act 3, scene 4"
+    ],
+    "first senator": [
+        "Act 3, scene 5",
+        "Act 5, scene 1",
+        "Act 5, scene 2",
+        "Act 5, scene 4"
+    ],
+    "second senator": [
+        "Act 3, scene 5",
+        "Act 5, scene 1",
+        "Act 5, scene 2",
+        "Act 5, scene 4"
+    ],
+    "third senator": [
+        "Act 3, scene 5",
+        "Act 5, scene 2"
+    ],
+    "some speak": [
+        "Act 3, scene 6"
+    ],
+    "some others": [
+        "Act 3, scene 6"
+    ],
+    "fourth lord": [
+        "Act 3, scene 6"
+    ],
+    "phrynia": [
+        "Act 4, scene 3"
+    ],
+    "timandra": [
+        "Act 4, scene 3"
+    ],
+    "first bandit": [
+        "Act 4, scene 3"
+    ],
+    "second bandit": [
+        "Act 4, scene 3"
+    ],
+    "third bandit": [
+        "Act 4, scene 3"
+    ],
+    "banditti": [
+        "Act 4, scene 3"
+    ],
+    "both": [
+        "Act 5, scene 1",
+        "Act 5, scene 4"
+    ],
+    "soldier": [
+        "Act 5, scene 3",
+        "Act 5, scene 4"
+    ]
+}

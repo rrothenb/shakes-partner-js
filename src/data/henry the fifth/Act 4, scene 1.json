@@ -1,0 +1,370 @@
+{
+    "sceneName": "Act 4, scene 1",
+    "playName": "henry the fifth",
+    "location": "The English camp at Agincourt.",
+    "lines": [
+        {
+            "text": "Enter KING HENRY, BEDFORD, and GLOUCESTER"
+        },
+        {
+            "speaker": "king henry the fifth",
+            "text": "Gloucester, tis true that we are in great danger The greater therefore should our courage be. Good morrow, brother Bedford. God Almighty! There is some soul of goodness in things evil, Would men observingly distil it out. For our bad neighbour makes us early stirrers, Which is both healthful and good husbandry: Besides, they are our outward consciences, And preachers to us all, admonishing That we should dress us fairly for our end. Thus may we gather honey from the weed, And make a moral of the devil himself. Good morrow, old Sir Thomas Erpingham: A good soft pillow for that good white head Were better than a churlish turf of France."
+        },
+        {
+            "text": "Enter ERPINGHAM"
+        },
+        {
+            "speaker": "erpingham",
+            "text": "Not so, my liege: this lodging likes me better, Since I may say Now lie I like a king."
+        },
+        {
+            "speaker": "king henry the fifth",
+            "text": "Tis good for men to love their present pains Upon example so the spirit is eased: And when the mind is quickend, out of doubt, The organs, though defunct and dead before, Break up their drowsy grave and newly move, With casted slough and fresh legerity. Lend me thy cloak, Sir Thomas. Brothers both, Commend me to the princes in our camp Do my good morrow to them, and anon Desire them an to my pavilion."
+        },
+        {
+            "speaker": "gloucester",
+            "text": "We shall, my liege."
+        },
+        {
+            "speaker": "erpingham",
+            "text": "Shall I attend your grace"
+        },
+        {
+            "speaker": "king henry the fifth",
+            "text": "No, my good knight Go with my brothers to my lords of England: I and my bosom must debate awhile, And then I would no other company."
+        },
+        {
+            "speaker": "erpingham",
+            "text": "The Lord in heaven bless thee, noble Harry!"
+        },
+        {
+            "text": "Exeunt all but KING HENRY"
+        },
+        {
+            "speaker": "king henry the fifth",
+            "text": "Godamercy, old heart! thou speakst cheerfully."
+        },
+        {
+            "text": "Enter PISTOL"
+        },
+        {
+            "speaker": "pistol",
+            "text": "Qui va la"
+        },
+        {
+            "speaker": "king henry the fifth",
+            "text": "A friend."
+        },
+        {
+            "speaker": "pistol",
+            "text": "Discuss unto me art thou officer Or art thou base, common and popular"
+        },
+        {
+            "speaker": "king henry the fifth",
+            "text": "I am a gentleman of a company."
+        },
+        {
+            "speaker": "pistol",
+            "text": "Trailst thou the puissant pike"
+        },
+        {
+            "speaker": "king henry the fifth",
+            "text": "Even so. What are you"
+        },
+        {
+            "speaker": "pistol",
+            "text": "As good a gentleman as the emperor."
+        },
+        {
+            "speaker": "king henry the fifth",
+            "text": "Then you are a better than the king."
+        },
+        {
+            "speaker": "pistol",
+            "text": "The kings a bawcock, and a heart of gold, A lad of life, an imp of fame Of parents good, of fist most valiant. I kiss his dirty shoe, and from heartstring I love the lovely bully. What is thy name"
+        },
+        {
+            "speaker": "king henry the fifth",
+            "text": "Harry le Roy."
+        },
+        {
+            "speaker": "pistol",
+            "text": "Le Roy! a Cornish name: art thou of Cornish crew"
+        },
+        {
+            "speaker": "king henry the fifth",
+            "text": "No, I am a Welshman."
+        },
+        {
+            "speaker": "pistol",
+            "text": "Knowst thou Fluellen"
+        },
+        {
+            "speaker": "king henry the fifth",
+            "text": "Yes."
+        },
+        {
+            "speaker": "pistol",
+            "text": "Tell him, Ill knock his leek about his pate Upon Saint Davys day."
+        },
+        {
+            "speaker": "king henry the fifth",
+            "text": "Do not you wear your dagger in your cap that day, lest he knock that about yours."
+        },
+        {
+            "speaker": "pistol",
+            "text": "Art thou his friend"
+        },
+        {
+            "speaker": "king henry the fifth",
+            "text": "And his kinsman too."
+        },
+        {
+            "speaker": "pistol",
+            "text": "The figo for thee, then!"
+        },
+        {
+            "speaker": "king henry the fifth",
+            "text": "I thank you: God be with you!"
+        },
+        {
+            "speaker": "pistol",
+            "text": "My name is Pistol calld."
+        },
+        {
+            "text": "Exit"
+        },
+        {
+            "speaker": "king henry the fifth",
+            "text": "It sorts well with your fierceness."
+        },
+        {
+            "text": "Enter FLUELLEN and GOWER"
+        },
+        {
+            "speaker": "gower",
+            "text": "Captain Fluellen!"
+        },
+        {
+            "speaker": "fluellen",
+            "text": "So! in the name of Jesu Christ, speak lower. It is the greatest admiration of the universal world, when the true and aunchient prerogatifes and laws of the wars is not kept: if you would take the pains but to examine the wars of Pompey the Great, you shall find, I warrant you, that there is no tiddle toddle nor pibble pabble in Pompeys camp I warrant you, you shall find the ceremonies of the wars, and the cares of it, and the forms of it, and the sobriety of it, and the modesty of it, to be otherwise."
+        },
+        {
+            "speaker": "gower",
+            "text": "Why, the enemy is loud you hear him all night."
+        },
+        {
+            "speaker": "fluellen",
+            "text": "If the enemy is an ass and a fool and a prating coxcomb, is it meet, think you, that we should also, look you, be an ass and a fool and a prating coxcomb in your own conscience, now"
+        },
+        {
+            "speaker": "gower",
+            "text": "I will speak lower."
+        },
+        {
+            "speaker": "fluellen",
+            "text": "I pray you and beseech you that you will."
+        },
+        {
+            "text": "Exeunt GOWER and FLUELLEN"
+        },
+        {
+            "speaker": "king henry the fifth",
+            "text": "Though it appear a little out of fashion, There is much care and valour in this Welshman."
+        },
+        {
+            "text": "Enter three soldiers, JOHN BATES, ALEXANDER COURT, and MICHAEL WILLIAMS"
+        },
+        {
+            "speaker": "court",
+            "text": "Brother John Bates, is not that the morning which breaks yonder"
+        },
+        {
+            "speaker": "bates",
+            "text": "I think it be: but we have no great cause to desire the approach of day."
+        },
+        {
+            "speaker": "williams",
+            "text": "We see yonder the beginning of the day, but I think we shall never see the end of it. Who goes there"
+        },
+        {
+            "speaker": "king henry the fifth",
+            "text": "A friend."
+        },
+        {
+            "speaker": "williams",
+            "text": "Under what captain serve you"
+        },
+        {
+            "speaker": "king henry the fifth",
+            "text": "Under Sir Thomas Erpingham."
+        },
+        {
+            "speaker": "williams",
+            "text": "A good old commander and a most kind gentleman: I pray you, what thinks he of our estate"
+        },
+        {
+            "speaker": "king henry the fifth",
+            "text": "Even as men wrecked upon a sand, that look to be washed off the next tide."
+        },
+        {
+            "speaker": "bates",
+            "text": "He hath not told his thought to the king"
+        },
+        {
+            "speaker": "king henry the fifth",
+            "text": "No nor it is not meet he should. For, though I speak it to you, I think the king is but a man, as I am: the violet smells to him as it doth to me: the element shows to him as it doth to me all his senses have but human conditions: his ceremonies laid by, in his nakedness he appears but a man and though his affections are higher mounted than ours, yet, when they stoop, they stoop with the like wing. Therefore when he sees reason of fears, as we do, his fears, out of doubt, be of the same relish as ours are: yet, in reason, no man should possess him with any appearance of fear, lest he, by showing it, should dishearten his army."
+        },
+        {
+            "speaker": "bates",
+            "text": "He may show what outward courage he will but I believe, as cold a night as tis, he could wish himself in Thames up to the neck and so I would he were, and I by him, at all adventures, so we were quit here."
+        },
+        {
+            "speaker": "king henry the fifth",
+            "text": "By my troth, I will speak my conscience of the king: I think he would not wish himself any where but where he is."
+        },
+        {
+            "speaker": "bates",
+            "text": "Then I would he were here alone so should he be sure to be ransomed, and a many poor mens lives saved."
+        },
+        {
+            "speaker": "king henry the fifth",
+            "text": "I dare say you love him not so ill, to wish him here alone, howsoever you speak this to feel other mens minds: methinks I could not die any where so contented as in the kings company his cause being just and his quarrel honourable."
+        },
+        {
+            "speaker": "williams",
+            "text": "Thats more than we know."
+        },
+        {
+            "speaker": "bates",
+            "text": "Ay, or more than we should seek after for we know enough, if we know we are the kings subjects: if his cause be wrong, our obedience to the king wipes the crime of it out of us."
+        },
+        {
+            "speaker": "williams",
+            "text": "But if the cause be not good, the king himself hath a heavy reckoning to make, when all those legs and arms and heads, chopped off in battle, shall join together at the latter day and cry all We died at such a place some swearing, some crying for a surgeon, some upon their wives left poor behind them, some upon the debts they owe, some upon their children rawly left. I am afeard there are few die well that die in a battle for how can they charitably dispose of any thing, when blood is their argument Now, if these men do not die well, it will be a black matter for the king that led them to it whom to disobey were against all proportion of subjection."
+        },
+        {
+            "speaker": "king henry the fifth",
+            "text": "So, if a son that is by his father sent about merchandise do sinfully miscarry upon the sea, the imputation of his wickedness by your rule, should be imposed upon his father that sent him: or if a servant, under his masters command transporting a sum of money, be assailed by robbers and die in many irreconciled iniquities, you may call the business of the master the author of the servants damnation: but this is not so: the king is not bound to answer the particular endings of his soldiers, the father of his son, nor the master of his servant for they purpose not their death, when they purpose their services. Besides, there is no king, be his cause never so spotless, if it come to the arbitrement of swords, can try it out with all unspotted soldiers: some peradventure have on them the guilt of premeditated and contrived murder some, of beguiling virgins with the broken seals of perjury some, making the wars their bulwark, that have before gored the gentle bosom of peace with pillage and robbery. Now, if these men have defeated the law and outrun native punishment, though they can outstrip men, they have no wings to fly from God: war is his beadle, war is vengeance so that here men are punished for beforebreach of the kings laws in now the kings quarrel: where they feared the death, they have borne life away and where they would be safe, they perish: then if they die unprovided, no more is the king guilty of their damnation than he was before guilty of those impieties for the which they are now visited. Every subjects duty is the kings but every subjects soul is his own. Therefore should every soldier in the wars do as every sick man in his bed, wash every mote out of his conscience: and dying so, death is to him advantage or not dying, the time was blessedly lost wherein such preparation was gained: and in him that escapes, it were not sin to think that, making God so free an offer, He let him outlive that day to see His greatness and to teach others how they should prepare."
+        },
+        {
+            "speaker": "williams",
+            "text": "Tis certain, every man that dies ill, the ill upon his own head, the king is not to answer it."
+        },
+        {
+            "speaker": "bates",
+            "text": "But I do not desire he should answer for me and yet I determine to fight lustily for him."
+        },
+        {
+            "speaker": "king henry the fifth",
+            "text": "I myself heard the king say he would not be ransomed."
+        },
+        {
+            "speaker": "williams",
+            "text": "Ay, he said so, to make us fight cheerfully: but when our throats are cut, he may be ransomed, and we neer the wiser."
+        },
+        {
+            "speaker": "king henry the fifth",
+            "text": "If I live to see it, I will never trust his word after."
+        },
+        {
+            "speaker": "williams",
+            "text": "You pay him then. Thats a perilous shot out of an eldergun, that a poor and private displeasure can do against a monarch! you may as well go about to turn the sun to ice with fanning in his face with a peacocks feather. Youll never trust his word after! come, tis a foolish saying."
+        },
+        {
+            "speaker": "king henry the fifth",
+            "text": "Your reproof is something too round: I should be angry with you, if the time were convenient."
+        },
+        {
+            "speaker": "williams",
+            "text": "Let it be a quarrel between us, if you live."
+        },
+        {
+            "speaker": "king henry the fifth",
+            "text": "I embrace it."
+        },
+        {
+            "speaker": "williams",
+            "text": "How shall I know thee again"
+        },
+        {
+            "speaker": "king henry the fifth",
+            "text": "Give me any gage of thine, and I will wear it in my bonnet: then, if ever thou darest acknowledge it, I will make it my quarrel."
+        },
+        {
+            "speaker": "williams",
+            "text": "Heres my glove: give me another of thine."
+        },
+        {
+            "speaker": "king henry the fifth",
+            "text": "There."
+        },
+        {
+            "speaker": "williams",
+            "text": "This will I also wear in my cap: if ever thou come to me and say, after tomorrow, This is my glove, by this hand, I will take thee a box on the ear."
+        },
+        {
+            "speaker": "king henry the fifth",
+            "text": "If ever I live to see it, I will challenge it."
+        },
+        {
+            "speaker": "williams",
+            "text": "Thou darest as well be hanged."
+        },
+        {
+            "speaker": "king henry the fifth",
+            "text": "Well. I will do it, though I take thee in the kings company."
+        },
+        {
+            "speaker": "williams",
+            "text": "Keep thy word: fare thee well."
+        },
+        {
+            "speaker": "bates",
+            "text": "Be friends, you English fools, be friends: we have French quarrels enow, if you could tell how to reckon."
+        },
+        {
+            "speaker": "king henry the fifth",
+            "text": "Indeed, the French may lay twenty French crowns to one, they will beat us for they bear them on their shoulders: but it is no English treason to cut French crowns, and tomorrow the king himself will be a clipper. Upon the king! let us our lives, our souls, Our debts, our careful wives, Our children and our sins lay on the king! We must bear all. O hard condition, Twinborn with greatness, subject to the breath Of every fool, whose sense no more can feel But his own wringing! What infinite heartsease Must kings neglect, that private men enjoy! And what have kings, that privates have not too, Save ceremony, save general ceremony And what art thou, thou idle ceremony What kind of god art thou, that sufferst more Of mortal griefs than do thy worshippers What are thy rents what are thy comings in O ceremony, show me but thy worth! What is thy soul of adoration Art thou aught else but place, degree and form, Creating awe and fear in other men Wherein thou art less happy being feard Than they in fearing. What drinkst thou oft, instead of homage sweet, But poisond flattery O, be sick, great greatness, And bid thy ceremony give thee cure! Thinkst thou the fiery fever will go out With titles blown from adulation Will it give place to flexure and low bending Canst thou, when thou commandst the beggars knee, Command the health of it No, thou proud dream, That playst so subtly with a kings repose I am a king that find thee, and I know Tis not the balm, the sceptre and the ball, The sword, the mace, the crown imperial, The intertissued robe of gold and pearl, The farced title running fore the king, The throne he sits on, nor the tide of pomp That beats upon the high shore of this world, No, not all these, thricegorgeous ceremony, Not all these, laid in bed majestical, Can sleep so soundly as the wretched slave, Who with a body filld and vacant mind Gets him to rest, crammd with distressful bread Never sees horrid night, the child of hell, But, like a lackey, from the rise to set Sweats in the eye of Phoebus and all night Sleeps in Elysium next day after dawn, Doth rise and help Hyperion to his horse, And follows so the everrunning year, With profitable labour, to his grave: And, but for ceremony, such a wretch, Winding up days with toil and nights with sleep, Had the forehand and vantage of a king. The slave, a member of the countrys peace, Enjoys it but in gross brain little wots What watch the king keeps to maintain the peace, Whose hours the peasant best advantages."
+        },
+        {
+            "text": "Exeunt soldiers"
+        },
+        {
+            "text": "Enter ERPINGHAM"
+        },
+        {
+            "speaker": "erpingham",
+            "text": "My lord, your nobles, jealous of your absence, Seek through your camp to find you."
+        },
+        {
+            "speaker": "king henry the fifth",
+            "text": "Good old knight, Collect them all together at my tent: Ill be before thee."
+        },
+        {
+            "speaker": "erpingham",
+            "text": "I shall dot, my lord."
+        },
+        {
+            "text": "Exit"
+        },
+        {
+            "speaker": "king henry the fifth",
+            "text": "O God of battles! steel my soldiers hearts Possess them not with fear take from them now The sense of reckoning, if the opposed numbers Pluck their hearts from them. Not today, O Lord, O, not today, think not upon the fault My father made in compassing the crown! I Richards body have interred anew And on it have bestowd more contrite tears Than from it issued forced drops of blood: Five hundred poor I have in yearly pay, Who twice aday their witherd hands hold up Toward heaven, to pardon blood and I have built Two chantries, where the sad and solemn priests Sing still for Richards soul. More will I do Though all that I can do is nothing worth, Since that my penitence comes after all, Imploring pardon."
+        },
+        {
+            "text": "Enter GLOUCESTER"
+        },
+        {
+            "speaker": "gloucester",
+            "text": "My liege!"
+        },
+        {
+            "speaker": "king henry the fifth",
+            "text": "My brother Gloucesters voice Ay I know thy errand, I will go with thee: The day, my friends and all things stay for me."
+        },
+        {
+            "text": "Exeunt"
+        }
+    ]
+}

@@ -1,0 +1,202 @@
+{
+    "sceneName": "Act 3, scene 2",
+    "playName": "alls well that ends well",
+    "location": "Rousillon. The COUNTs palace.",
+    "lines": [
+        {
+            "text": "Enter COUNTESS and Clown"
+        },
+        {
+            "speaker": "countess",
+            "text": "It hath happened all as I would have had it, save that he comes not along with her."
+        },
+        {
+            "speaker": "clown",
+            "text": "By my troth, I take my young lord to be a very melancholy man."
+        },
+        {
+            "speaker": "countess",
+            "text": "By what observance, I pray you"
+        },
+        {
+            "speaker": "clown",
+            "text": "Why, he will look upon his boot and sing mend the ruff and sing ask questions and sing pick his teeth and sing. I know a man that had this trick of melancholy sold a goodly manor for a song."
+        },
+        {
+            "speaker": "countess",
+            "text": "Let me see what he writes, and when he means to come."
+        },
+        {
+            "text": "Opening a letter"
+        },
+        {
+            "speaker": "clown",
+            "text": "I have no mind to Isbel since I was at court: our old ling and our Isbels o the country are nothing like your old ling and your Isbels o the court: the brains of my Cupids knocked out, and I begin to love, as an old man loves money, with no stomach."
+        },
+        {
+            "speaker": "countess",
+            "text": "What have we here"
+        },
+        {
+            "speaker": "clown",
+            "text": "Een that you have there."
+        },
+        {
+            "text": "Exit"
+        },
+        {
+            "speaker": "countess",
+            "text": "[Reads]  I have sent you a daughterinlaw: she hath recovered the king, and undone me. I have wedded her, not bedded her and sworn to make the not eternal. You shall hear I am run away: know it before the report come. If there be breadth enough in the world, I will hold a long distance. My duty to you.Your unfortunate son, BERTRAM. This is not well, rash and unbridled boy. To fly the favours of so good a king To pluck his indignation on thy head By the misprising of a maid too virtuous For the contempt of empire."
+        },
+        {
+            "text": "Reenter Clown"
+        },
+        {
+            "speaker": "clown",
+            "text": "O madam, yonder is heavy news within between two soldiers and my young lady!"
+        },
+        {
+            "speaker": "countess",
+            "text": "What is the matter"
+        },
+        {
+            "speaker": "clown",
+            "text": "Nay, there is some comfort in the news, some comfort your son will not be killed so soon as I thought he would."
+        },
+        {
+            "speaker": "countess",
+            "text": "Why should he be killed"
+        },
+        {
+            "speaker": "clown",
+            "text": "So say I, madam, if he run away, as I hear he does: the danger is in standing tot thats the loss of men, though it be the getting of children. Here they come will tell you more: for my part, I only hear your son was run away."
+        },
+        {
+            "text": "Exit"
+        },
+        {
+            "text": "Enter HELENA, and two Gentlemen"
+        },
+        {
+            "speaker": "first gentleman",
+            "text": "Save you, good madam."
+        },
+        {
+            "speaker": "helena",
+            "text": "Madam, my lord is gone, for ever gone."
+        },
+        {
+            "speaker": "second gentleman",
+            "text": "Do not say so."
+        },
+        {
+            "speaker": "countess",
+            "text": "Think upon patience. Pray you, gentlemen, I have felt so many quirks of joy and grief, That the first face of neither, on the start, Can woman me untot: where is my son, I pray you"
+        },
+        {
+            "speaker": "second gentleman",
+            "text": "Madam, hes gone to serve the duke of Florence: We met him thitherward for thence we came, And, after some dispatch in hand at court, Thither we bend again."
+        },
+        {
+            "speaker": "helena",
+            "text": "Look on his letter, madam heres my passport. When thou canst get the ring upon my finger which never shall come off, and show me a child begotten of thy body that I am father to, then call me husband: but in such a then I write a never. This is a dreadful sentence."
+        },
+        {
+            "text": "Reads"
+        },
+        {
+            "speaker": "countess",
+            "text": "Brought you this letter, gentlemen"
+        },
+        {
+            "speaker": "first gentleman",
+            "text": "Ay, madam And for the contents sake are sorry for our pain."
+        },
+        {
+            "speaker": "countess",
+            "text": "I prithee, lady, have a better cheer If thou engrossest all the griefs are thine, Thou robbst me of a moiety: he was my son But I do wash his name out of my blood, And thou art all my child. Towards Florence is he"
+        },
+        {
+            "speaker": "second gentleman",
+            "text": "Ay, madam."
+        },
+        {
+            "speaker": "countess",
+            "text": "And to be a soldier"
+        },
+        {
+            "speaker": "second gentleman",
+            "text": "Such is his noble purpose and believe t, The duke will lay upon him all the honour That good convenience claims."
+        },
+        {
+            "speaker": "countess",
+            "text": "Return you thither"
+        },
+        {
+            "speaker": "first gentleman",
+            "text": "Ay, madam, with the swiftest wing of speed."
+        },
+        {
+            "speaker": "helena",
+            "text": "[Reads]  Till I have no wife I have nothing in France. Tis bitter."
+        },
+        {
+            "speaker": "countess",
+            "text": "Find you that there"
+        },
+        {
+            "speaker": "helena",
+            "text": "Ay, madam."
+        },
+        {
+            "speaker": "first gentleman",
+            "text": "Tis but the boldness of his hand, haply, which his heart was not consenting to."
+        },
+        {
+            "speaker": "countess",
+            "text": "Nothing in France, until he have no wife! Theres nothing here that is too good for him But only she and she deserves a lord That twenty such rude boys might tend upon And call her hourly mistress. Who was with him"
+        },
+        {
+            "speaker": "first gentleman",
+            "text": "A servant only, and a gentleman Which I have sometime known."
+        },
+        {
+            "speaker": "countess",
+            "text": "Parolles, was it not"
+        },
+        {
+            "speaker": "first gentleman",
+            "text": "Ay, my good lady, he."
+        },
+        {
+            "speaker": "countess",
+            "text": "A very tainted fellow, and full of wickedness. My son corrupts a wellderived nature With his inducement."
+        },
+        {
+            "speaker": "first gentleman",
+            "text": "Indeed, good lady, The fellow has a deal of that too much, Which holds him much to have."
+        },
+        {
+            "speaker": "countess",
+            "text": "Youre welcome, gentlemen. I will entreat you, when you see my son, To tell him that his sword can never win The honour that he loses: more Ill entreat you Written to bear along."
+        },
+        {
+            "speaker": "second gentleman",
+            "text": "We serve you, madam, In that and all your worthiest affairs."
+        },
+        {
+            "speaker": "countess",
+            "text": "Not so, but as we change our courtesies. Will you draw near!"
+        },
+        {
+            "text": "Exeunt COUNTESS and Gentlemen"
+        },
+        {
+            "speaker": "helena",
+            "text": "Till I have no wife, I have nothing in France. Nothing in France, until he has no wife! Thou shalt have none, Rousillon, none in France Then hast thou all again. Poor lord! ist I That chase thee from thy country and expose Those tender limbs of thine to the event Of the nonesparing war and is it I That drive thee from the sportive court, where thou Wast shot at with fair eyes, to be the mark Of smoky muskets O you leaden messengers, That ride upon the violent speed of fire, Fly with false aim move the stillpeering air, That sings with piercing do not touch my lord. Whoever shoots at him, I set him there Whoever charges on his forward breast, I am the caitiff that do hold him tot And, though I kill him not, I am the cause His death was so effected: better twere I met the ravin lion when he roard With sharp constraint of hunger better twere That all the miseries which nature owes Were mine at once. No, come thou home, Rousillon, Whence honour but of danger wins a scar, As oft it loses all: I will be gone My being here it is that holds thee hence: Shall I stay here to dot  no, no, although The air of paradise did fan the house And angels officed all: I will be gone, That pitiful rumour may report my flight, To consolate thine ear. Come, night end, day! For with the dark, poor thief, Ill steal away."
+        },
+        {
+            "text": "Exit"
+        }
+    ]
+}

@@ -1,0 +1,206 @@
+{
+    "sceneName": "Act 3, scene 5",
+    "playName": "merry wives of windsor",
+    "location": "A room in the Garter Inn.",
+    "lines": [
+        {
+            "text": "Enter FALSTAFF and BARDOLPH"
+        },
+        {
+            "speaker": "falstaff",
+            "text": "Bardolph, I say,"
+        },
+        {
+            "speaker": "bardolph",
+            "text": "Here, sir."
+        },
+        {
+            "speaker": "falstaff",
+            "text": "Go fetch me a quart of sack put a toast int. Have I lived to be carried in a basket, like a barrow of butchers offal, and to be thrown in the Thames Well, if I be served such another trick, Ill have my brains taen out and buttered, and give them to a dog for a newyears gift. The rogues slighted me into the river with as little remorse as they would have drowned a blind bitchs puppies, fifteen i the litter: and you may know by my size that I have a kind of alacrity in sinking if the bottom were as deep as hell, I should down. I had been drowned, but that the shore was shelvy and shallow,a death that I abhor for the water swells a man and what a thing should I have been when I had been swelled! I should have been a mountain of mummy."
+        },
+        {
+            "text": "Exit BARDOLPH"
+        },
+        {
+            "text": "Reenter BARDOLPH with sack"
+        },
+        {
+            "speaker": "bardolph",
+            "text": "Heres Mistress Quickly, sir, to speak with you."
+        },
+        {
+            "speaker": "falstaff",
+            "text": "Let me pour in some sack to the Thames water for my bellys as cold as if I had swallowed snowballs for pills to cool the reins. Call her in."
+        },
+        {
+            "speaker": "bardolph",
+            "text": "Come in, woman!"
+        },
+        {
+            "text": "Enter MISTRESS QUICKLY"
+        },
+        {
+            "speaker": "mistress quickly",
+            "text": "By your leave I cry you mercy: give your worship good morrow."
+        },
+        {
+            "speaker": "falstaff",
+            "text": "Take away these chalices. Go brew me a pottle of sack finely."
+        },
+        {
+            "speaker": "bardolph",
+            "text": "With eggs, sir"
+        },
+        {
+            "speaker": "falstaff",
+            "text": "Simple of itself Ill no pulletsperm in my brewage. How now!"
+        },
+        {
+            "text": "Exit BARDOLPH"
+        },
+        {
+            "speaker": "mistress quickly",
+            "text": "Marry, sir, I come to your worship from Mistress Ford."
+        },
+        {
+            "speaker": "falstaff",
+            "text": "Mistress Ford! I have had ford enough I was thrown into the ford I have my belly full of ford."
+        },
+        {
+            "speaker": "mistress quickly",
+            "text": "Alas the day! good heart, that was not her fault: she does so take on with her men they mistook their erection."
+        },
+        {
+            "speaker": "falstaff",
+            "text": "So did I mine, to build upon a foolish womans promise."
+        },
+        {
+            "speaker": "mistress quickly",
+            "text": "Well, she laments, sir, for it, that it would yearn your heart to see it. Her husband goes this morning abirding she desires you once more to come to her between eight and nine: I must carry her word quickly: shell make you amends, I warrant you."
+        },
+        {
+            "speaker": "falstaff",
+            "text": "Well, I will visit her: tell her so and bid her think what a man is: let her consider his frailty, and then judge of my merit."
+        },
+        {
+            "speaker": "mistress quickly",
+            "text": "I will tell her."
+        },
+        {
+            "speaker": "falstaff",
+            "text": "Do so. Between nine and ten, sayest thou"
+        },
+        {
+            "speaker": "mistress quickly",
+            "text": "Eight and nine, sir."
+        },
+        {
+            "speaker": "falstaff",
+            "text": "Well, be gone: I will not miss her."
+        },
+        {
+            "speaker": "mistress quickly",
+            "text": "Peace be with you, sir."
+        },
+        {
+            "text": "Exit"
+        },
+        {
+            "speaker": "falstaff",
+            "text": "I marvel I hear not of Master Brook he sent me word to stay within: I like his money well. O, here he comes."
+        },
+        {
+            "text": "Enter FORD"
+        },
+        {
+            "speaker": "ford",
+            "text": "Bless you, sir!"
+        },
+        {
+            "speaker": "falstaff",
+            "text": "Now, master Brook, you come to know what hath passed between me and Fords wife"
+        },
+        {
+            "speaker": "ford",
+            "text": "That, indeed, Sir John, is my business."
+        },
+        {
+            "speaker": "falstaff",
+            "text": "Master Brook, I will not lie to you: I was at her house the hour she appointed me."
+        },
+        {
+            "speaker": "ford",
+            "text": "And sped you, sir"
+        },
+        {
+            "speaker": "falstaff",
+            "text": "Very illfavoredly, Master Brook."
+        },
+        {
+            "speaker": "ford",
+            "text": "How so, sir Did she change her determination"
+        },
+        {
+            "speaker": "falstaff",
+            "text": "No, Master Brook but the peaking Cornuto her husband, Master Brook, dwelling in a continual larum of jealousy, comes me in the instant of our encounter, after we had embraced, kissed, protested, and, as it were, spoke the prologue of our comedy and at his heels a rabble of his companions, thither provoked and instigated by his distemper, and, forsooth, to search his house for his wifes love."
+        },
+        {
+            "speaker": "ford",
+            "text": "What, while you were there"
+        },
+        {
+            "speaker": "falstaff",
+            "text": "While I was there."
+        },
+        {
+            "speaker": "ford",
+            "text": "And did he search for you, and could not find you"
+        },
+        {
+            "speaker": "falstaff",
+            "text": "You shall hear. As good luck would have it, comes in one Mistress Page gives intelligence of Fords approach and, in her invention and Fords wifes distraction, they conveyed me into a buckbasket."
+        },
+        {
+            "speaker": "ford",
+            "text": "A buckbasket!"
+        },
+        {
+            "speaker": "falstaff",
+            "text": "By the Lord, a buckbasket! rammed me in with foul shirts and smocks, socks, foul stockings, greasy napkins that, Master Brook, there was the rankest compound of villanous smell that ever offended nostril."
+        },
+        {
+            "speaker": "ford",
+            "text": "And how long lay you there"
+        },
+        {
+            "speaker": "falstaff",
+            "text": "Nay, you shall hear, Master Brook, what I have suffered to bring this woman to evil for your good. Being thus crammed in the basket, a couple of Fords knaves, his hinds, were called forth by their mistress to carry me in the name of foul clothes to Datchetlane: they took me on their shoulders met the jealous knave their master in the door, who asked them once or twice what they had in their basket: I quaked for fear, lest the lunatic knave would have searched it but fate, ordaining he should be a cuckold, held his hand. Well: on went he for a search, and away went I for foul clothes. But mark the sequel, Master Brook: I suffered the pangs of three several deaths first, an intolerable fright, to be detected with a jealous rotten bellwether next, to be compassed, like a good bilbo, in the circumference of a peck, hilt to point, heel to head and then, to be stopped in, like a strong distillation, with stinking clothes that fretted in their own grease: think of that,a man of my kidney,think of that,that am as subject to heat as butter a man of continual dissolution and thaw: it was a miracle to scape suffocation. And in the height of this bath, when I was more than half stewed in grease, like a Dutch dish, to be thrown into the Thames, and cooled, glowing hot, in that surge, like a horseshoe think of that,hissing hot,think of that, Master Brook."
+        },
+        {
+            "speaker": "ford",
+            "text": "In good sadness, I am sorry that for my sake you have sufferd all this. My suit then is desperate youll undertake her no more"
+        },
+        {
+            "speaker": "falstaff",
+            "text": "Master Brook, I will be thrown into Etna, as I have been into Thames, ere I will leave her thus. Her husband is this morning gone abirding: I have received from her another embassy of meeting twixt eight and nine is the hour, Master Brook."
+        },
+        {
+            "speaker": "ford",
+            "text": "Tis past eight already, sir."
+        },
+        {
+            "speaker": "falstaff",
+            "text": "Is it I will then address me to my appointment. Come to me at your convenient leisure, and you shall know how I speed and the conclusion shall be crowned with your enjoying her. Adieu. You shall have her, Master Brook Master Brook, you shall cuckold Ford."
+        },
+        {
+            "text": "Exit"
+        },
+        {
+            "speaker": "ford",
+            "text": "Hum! ha! is this a vision is this a dream do I sleep Master Ford awake! awake, Master Ford! theres a hole made in your best coat, Master Ford. This tis to be married! this tis to have linen and buckbaskets! Well, I will proclaim myself what I am: I will now take the lecher he is at my house he cannot scape me tis impossible he should he cannot creep into a halfpenny purse, nor into a pepperbox: but, lest the devil that guides him should aid him, I will search impossible places. Though what I am I cannot avoid, yet to be what I would not shall not make me tame: if I have horns to make one mad, let the proverb go with me: Ill be hornmad."
+        },
+        {
+            "text": "Exit"
+        }
+    ]
+}

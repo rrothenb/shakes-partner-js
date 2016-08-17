@@ -1,0 +1,299 @@
+{
+    "king henry the sixth": [
+        "Act 1, scene 1",
+        "Act 1, scene 3",
+        "Act 2, scene 1",
+        "Act 2, scene 3",
+        "Act 3, scene 1",
+        "Act 3, scene 2",
+        "Act 3, scene 3",
+        "Act 4, scene 4",
+        "Act 4, scene 9",
+        "Act 5, scene 1",
+        "Act 5, scene 2"
+    ],
+    "queen margaret": [
+        "Act 1, scene 1",
+        "Act 1, scene 3",
+        "Act 2, scene 1",
+        "Act 2, scene 3",
+        "Act 3, scene 1",
+        "Act 3, scene 2",
+        "Act 4, scene 4",
+        "Act 5, scene 1",
+        "Act 5, scene 2"
+    ],
+    "all": [
+        "Act 1, scene 1",
+        "Act 1, scene 3",
+        "Act 4, scene 2",
+        "Act 4, scene 7",
+        "Act 4, scene 8",
+        "Act 4, scene 9"
+    ],
+    "suffolk": [
+        "Act 1, scene 1",
+        "Act 1, scene 3",
+        "Act 2, scene 1",
+        "Act 2, scene 3",
+        "Act 3, scene 1",
+        "Act 3, scene 2",
+        "Act 4, scene 1"
+    ],
+    "gloucester": [
+        "Act 1, scene 1",
+        "Act 1, scene 2",
+        "Act 1, scene 3",
+        "Act 2, scene 1",
+        "Act 2, scene 3",
+        "Act 2, scene 4",
+        "Act 3, scene 1"
+    ],
+    "cardinal": [
+        "Act 1, scene 1",
+        "Act 1, scene 3",
+        "Act 2, scene 1",
+        "Act 3, scene 1",
+        "Act 3, scene 2",
+        "Act 3, scene 3"
+    ],
+    "salisbury": [
+        "Act 1, scene 1",
+        "Act 1, scene 3",
+        "Act 2, scene 2",
+        "Act 2, scene 3",
+        "Act 3, scene 2",
+        "Act 3, scene 3",
+        "Act 5, scene 1",
+        "Act 5, scene 3"
+    ],
+    "warwick": [
+        "Act 1, scene 1",
+        "Act 1, scene 3",
+        "Act 2, scene 2",
+        "Act 3, scene 2",
+        "Act 3, scene 3",
+        "Act 5, scene 1",
+        "Act 5, scene 2",
+        "Act 5, scene 3"
+    ],
+    "york": [
+        "Act 1, scene 1",
+        "Act 1, scene 3",
+        "Act 1, scene 4",
+        "Act 2, scene 2",
+        "Act 2, scene 3",
+        "Act 3, scene 1",
+        "Act 5, scene 1",
+        "Act 5, scene 2",
+        "Act 5, scene 3"
+    ],
+    "buckingham": [
+        "Act 1, scene 1",
+        "Act 1, scene 3",
+        "Act 1, scene 4",
+        "Act 2, scene 1",
+        "Act 3, scene 1",
+        "Act 4, scene 4",
+        "Act 4, scene 8",
+        "Act 4, scene 9",
+        "Act 5, scene 1"
+    ],
+    "somerset": [
+        "Act 1, scene 1",
+        "Act 1, scene 3",
+        "Act 3, scene 1",
+        "Act 3, scene 2",
+        "Act 4, scene 9",
+        "Act 5, scene 1"
+    ],
+    "duchess": [
+        "Act 1, scene 2",
+        "Act 1, scene 3",
+        "Act 1, scene 4",
+        "Act 2, scene 3",
+        "Act 2, scene 4"
+    ],
+    "messenger": [
+        "Act 1, scene 2",
+        "Act 4, scene 4",
+        "Act 4, scene 7",
+        "Act 4, scene 9"
+    ],
+    "hume": [
+        "Act 1, scene 2",
+        "Act 1, scene 4"
+    ],
+    "first petitioner": [
+        "Act 1, scene 3"
+    ],
+    "second petitioner": [
+        "Act 1, scene 3"
+    ],
+    "peter": [
+        "Act 1, scene 3",
+        "Act 2, scene 3"
+    ],
+    "horner": [
+        "Act 1, scene 3",
+        "Act 2, scene 3"
+    ],
+    "bolingbroke": [
+        "Act 1, scene 4"
+    ],
+    "spirit": [
+        "Act 1, scene 4"
+    ],
+    "margaret jourdain": [
+        "Act 1, scene 4"
+    ],
+    "townsman": [
+        "Act 2, scene 1"
+    ],
+    "simpcox": [
+        "Act 2, scene 1"
+    ],
+    "wife": [
+        "Act 2, scene 1"
+    ],
+    "mayor": [
+        "Act 2, scene 1"
+    ],
+    "beadle": [
+        "Act 2, scene 1"
+    ],
+    "both": [
+        "Act 2, scene 2"
+    ],
+    "first neighbour": [
+        "Act 2, scene 3"
+    ],
+    "second neighbour": [
+        "Act 2, scene 3"
+    ],
+    "third neighbour": [
+        "Act 2, scene 3"
+    ],
+    "servants": [
+        "Act 2, scene 4"
+    ],
+    "servant": [
+        "Act 2, scene 4"
+    ],
+    "herald": [
+        "Act 2, scene 4"
+    ],
+    "sheriff": [
+        "Act 2, scene 4"
+    ],
+    "stanley": [
+        "Act 2, scene 4"
+    ],
+    "post": [
+        "Act 3, scene 1"
+    ],
+    "first murderer": [
+        "Act 3, scene 2"
+    ],
+    "second murderer": [
+        "Act 3, scene 2"
+    ],
+    "first murder": [
+        "Act 3, scene 2"
+    ],
+    "commons": [
+        "Act 3, scene 2"
+    ],
+    "vaux": [
+        "Act 3, scene 2"
+    ],
+    "captain": [
+        "Act 4, scene 1"
+    ],
+    "first gentleman": [
+        "Act 4, scene 1"
+    ],
+    "master": [
+        "Act 4, scene 1"
+    ],
+    "second gentleman": [
+        "Act 4, scene 1"
+    ],
+    "whitmore": [
+        "Act 4, scene 1"
+    ],
+    "bevis": [
+        "Act 4, scene 2",
+        "Act 4, scene 7"
+    ],
+    "holland": [
+        "Act 4, scene 2",
+        "Act 4, scene 7"
+    ],
+    "cade": [
+        "Act 4, scene 10",
+        "Act 4, scene 2",
+        "Act 4, scene 3",
+        "Act 4, scene 6",
+        "Act 4, scene 7",
+        "Act 4, scene 8"
+    ],
+    "dick": [
+        "Act 4, scene 2",
+        "Act 4, scene 3",
+        "Act 4, scene 6",
+        "Act 4, scene 7"
+    ],
+    "smith": [
+        "Act 4, scene 2",
+        "Act 4, scene 6",
+        "Act 4, scene 7"
+    ],
+    "clerk": [
+        "Act 4, scene 2"
+    ],
+    "michael": [
+        "Act 4, scene 2"
+    ],
+    "sir humphrey": [
+        "Act 4, scene 2"
+    ],
+    "william stafford": [
+        "Act 4, scene 2"
+    ],
+    "say": [
+        "Act 4, scene 4",
+        "Act 4, scene 7"
+    ],
+    "scales": [
+        "Act 4, scene 5"
+    ],
+    "first citizen": [
+        "Act 4, scene 5"
+    ],
+    "soldier": [
+        "Act 4, scene 6"
+    ],
+    "clifford": [
+        "Act 4, scene 8",
+        "Act 4, scene 9",
+        "Act 5, scene 1",
+        "Act 5, scene 2"
+    ],
+    "iden": [
+        "Act 4, scene 10",
+        "Act 5, scene 1"
+    ],
+    "edward": [
+        "Act 5, scene 1"
+    ],
+    "richard": [
+        "Act 5, scene 1",
+        "Act 5, scene 2",
+        "Act 5, scene 3"
+    ],
+    "young clifford": [
+        "Act 5, scene 1",
+        "Act 5, scene 2"
+    ]
+}

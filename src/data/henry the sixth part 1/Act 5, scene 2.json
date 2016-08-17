@@ -1,0 +1,56 @@
+{
+    "sceneName": "Act 5, scene 2",
+    "playName": "henry the sixth part 1",
+    "location": "France. Plains in Anjou.",
+    "lines": [
+        {
+            "text": "Enter CHARLES, BURGUNDY, ALENCON, BASTARD OF ORLEANS, REIGNIER, JOAN LA PUCELLE, and forces"
+        },
+        {
+            "speaker": "charles",
+            "text": "These news, my lord, may cheer our drooping spirits: Tis said the stout Parisians do revolt And turn again unto the warlike French."
+        },
+        {
+            "speaker": "alencon",
+            "text": "Then march to Paris, royal Charles of France, And keep not back your powers in dalliance."
+        },
+        {
+            "speaker": "joan la pucelle",
+            "text": "Peace be amongst them, if they turn to us Else, ruin combat with their palaces!"
+        },
+        {
+            "text": "Enter Scout"
+        },
+        {
+            "speaker": "scout",
+            "text": "Success unto our valiant general, And happiness to his accomplices!"
+        },
+        {
+            "speaker": "charles",
+            "text": "What tidings send our scouts I prithee, speak."
+        },
+        {
+            "speaker": "scout",
+            "text": "The English army, that divided was Into two parties, is now conjoined in one, And means to give you battle presently."
+        },
+        {
+            "speaker": "charles",
+            "text": "Somewhat too sudden, sirs, the warning is But we will presently provide for them."
+        },
+        {
+            "speaker": "burgundy",
+            "text": "I trust the ghost of Talbot is not there: Now he is gone, my lord, you need not fear."
+        },
+        {
+            "speaker": "joan la pucelle",
+            "text": "Of all base passions, fear is most accursed. Command the conquest, Charles, it shall be thine, Let Henry fret and all the world repine."
+        },
+        {
+            "speaker": "charles",
+            "text": "Then on, my lords and France be fortunate!"
+        },
+        {
+            "text": "Exeunt"
+        }
+    ]
+}

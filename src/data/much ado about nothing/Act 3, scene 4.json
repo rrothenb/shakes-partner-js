@@ -1,0 +1,190 @@
+{
+    "sceneName": "Act 3, scene 4",
+    "playName": "much ado about nothing",
+    "location": "HEROs apartment.",
+    "lines": [
+        {
+            "text": "Enter HERO, MARGARET, and URSULA"
+        },
+        {
+            "speaker": "hero",
+            "text": "Good Ursula, wake my cousin Beatrice, and desire her to rise."
+        },
+        {
+            "speaker": "ursula",
+            "text": "I will, lady."
+        },
+        {
+            "speaker": "hero",
+            "text": "And bid her come hither."
+        },
+        {
+            "speaker": "ursula",
+            "text": "Well."
+        },
+        {
+            "text": "Exit"
+        },
+        {
+            "speaker": "margaret",
+            "text": "Troth, I think your other rabato were better."
+        },
+        {
+            "speaker": "hero",
+            "text": "No, pray thee, good Meg, Ill wear this."
+        },
+        {
+            "speaker": "margaret",
+            "text": "By my troth, s not so good and I warrant your cousin will say so."
+        },
+        {
+            "speaker": "hero",
+            "text": "My cousins a fool, and thou art another: Ill wear none but this."
+        },
+        {
+            "speaker": "margaret",
+            "text": "I like the new tire within excellently, if the hair were a thought browner and your gowns a most rare fashion, i faith. I saw the Duchess of Milans gown that they praise so."
+        },
+        {
+            "speaker": "hero",
+            "text": "O, that exceeds, they say."
+        },
+        {
+            "speaker": "margaret",
+            "text": "By my troth, s but a nightgown in respect of yours: cloth o gold, and cuts, and laced with silver, set with pearls, down sleeves, side sleeves, and skirts, round underborne with a bluish tinsel: but for a fine, quaint, graceful and excellent fashion, yours is worth ten on t."
+        },
+        {
+            "speaker": "hero",
+            "text": "God give me joy to wear it! for my heart is exceeding heavy."
+        },
+        {
+            "speaker": "margaret",
+            "text": "Twill be heavier soon by the weight of a man."
+        },
+        {
+            "speaker": "hero",
+            "text": "Fie upon thee! art not ashamed"
+        },
+        {
+            "speaker": "margaret",
+            "text": "Of what, lady of speaking honourably Is not marriage honourable in a beggar Is not your lord honourable without marriage I think you would have me say, saving your reverence, a husband: and bad thinking do not wrest true speaking, Ill offend nobody: is there any harm in the heavier for a husband None, I think, and it be the right husband and the right wife otherwise tis light, and not heavy: ask my Lady Beatrice else here she comes."
+        },
+        {
+            "text": "Enter BEATRICE"
+        },
+        {
+            "speaker": "hero",
+            "text": "Good morrow, coz."
+        },
+        {
+            "speaker": "beatrice",
+            "text": "Good morrow, sweet Hero."
+        },
+        {
+            "speaker": "hero",
+            "text": "Why how now do you speak in the sick tune"
+        },
+        {
+            "speaker": "beatrice",
+            "text": "I am out of all other tune, methinks."
+        },
+        {
+            "speaker": "margaret",
+            "text": "Claps into Light o love that goes without a burden: do you sing it, and Ill dance it."
+        },
+        {
+            "speaker": "beatrice",
+            "text": "Ye light o love, with your heels! then, if your husband have stables enough, youll see he shall lack no barns."
+        },
+        {
+            "speaker": "margaret",
+            "text": "O illegitimate construction! I scorn that with my heels."
+        },
+        {
+            "speaker": "beatrice",
+            "text": "Tis almost five oclock, cousin tis time you were ready. By my troth, I am exceeding ill: heighho!"
+        },
+        {
+            "speaker": "margaret",
+            "text": "For a hawk, a horse, or a husband"
+        },
+        {
+            "speaker": "beatrice",
+            "text": "For the letter that begins them all, H."
+        },
+        {
+            "speaker": "margaret",
+            "text": "Well, and you be not turned Turk, theres no more sailing by the star."
+        },
+        {
+            "speaker": "beatrice",
+            "text": "What means the fool, trow"
+        },
+        {
+            "speaker": "margaret",
+            "text": "Nothing I but God send every one their hearts desire!"
+        },
+        {
+            "speaker": "hero",
+            "text": "These gloves the count sent me they are an excellent perfume."
+        },
+        {
+            "speaker": "beatrice",
+            "text": "I am stuffed, cousin I cannot smell."
+        },
+        {
+            "speaker": "margaret",
+            "text": "A maid, and stuffed! theres goodly catching of cold."
+        },
+        {
+            "speaker": "beatrice",
+            "text": "O, God help me! God help me! how long have you professed apprehension"
+        },
+        {
+            "speaker": "margaret",
+            "text": "Even since you left it. Doth not my wit become me rarely"
+        },
+        {
+            "speaker": "beatrice",
+            "text": "It is not seen enough, you should wear it in your cap. By my troth, I am sick."
+        },
+        {
+            "speaker": "margaret",
+            "text": "Get you some of this distilled Carduus Benedictus, and lay it to your heart: it is the only thing for a qualm."
+        },
+        {
+            "speaker": "hero",
+            "text": "There thou prickest her with a thistle."
+        },
+        {
+            "speaker": "beatrice",
+            "text": "Benedictus! why Benedictus you have some moral in this Benedictus."
+        },
+        {
+            "speaker": "margaret",
+            "text": "Moral! no, by my troth, I have no moral meaning I meant, plain holythistle. You may think perchance that I think you are in love: nay, byr lady, I am not such a fool to think what I list, nor I list not to think what I can, nor indeed I cannot think, if I would think my heart out of thinking, that you are in love or that you will be in love or that you can be in love. Yet Benedick was such another, and now is he become a man: he swore he would never marry, and yet now, in despite of his heart, he eats his meat without grudging: and how you may be converted I know not, but methinks you look with your eyes as other women do."
+        },
+        {
+            "speaker": "beatrice",
+            "text": "What pace is this that thy tongue keeps"
+        },
+        {
+            "speaker": "margaret",
+            "text": "Not a false gallop."
+        },
+        {
+            "text": "Reenter URSULA"
+        },
+        {
+            "speaker": "ursula",
+            "text": "Madam, withdraw: the prince, the count, Signior Benedick, Don John, and all the gallants of the town, are come to fetch you to church."
+        },
+        {
+            "speaker": "hero",
+            "text": "Help to dress me, good coz, good Meg, good Ursula."
+        },
+        {
+            "text": "Exeunt"
+        }
+    ]
+}

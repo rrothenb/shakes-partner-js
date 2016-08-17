@@ -1,0 +1,352 @@
+{
+    "sceneName": "Act 3, scene 1",
+    "playName": "troilus and cressida",
+    "location": "Troy. Priams palace.",
+    "lines": [
+        {
+            "text": "Enter a Servant and PANDARUS"
+        },
+        {
+            "speaker": "pandarus",
+            "text": "Friend, you! pray you, a word: do not you follow the young Lord Paris"
+        },
+        {
+            "speaker": "servant",
+            "text": "Ay, sir, when he goes before me."
+        },
+        {
+            "speaker": "pandarus",
+            "text": "You depend upon him, I mean"
+        },
+        {
+            "speaker": "servant",
+            "text": "Sir, I do depend upon the lord."
+        },
+        {
+            "speaker": "pandarus",
+            "text": "You depend upon a noble gentleman I must needs praise him."
+        },
+        {
+            "speaker": "servant",
+            "text": "The lord be praised!"
+        },
+        {
+            "speaker": "pandarus",
+            "text": "You know me, do you not"
+        },
+        {
+            "speaker": "servant",
+            "text": "Faith, sir, superficially."
+        },
+        {
+            "speaker": "pandarus",
+            "text": "Friend, know me better I am the Lord Pandarus."
+        },
+        {
+            "speaker": "servant",
+            "text": "I hope I shall know your honour better."
+        },
+        {
+            "speaker": "pandarus",
+            "text": "I do desire it."
+        },
+        {
+            "speaker": "servant",
+            "text": "You are in the state of grace."
+        },
+        {
+            "speaker": "pandarus",
+            "text": "Grace! not so, friend: honour and lordship are my titles. What music is this"
+        },
+        {
+            "text": "Music within"
+        },
+        {
+            "speaker": "servant",
+            "text": "I do but partly know, sir: it is music in parts."
+        },
+        {
+            "speaker": "pandarus",
+            "text": "Know you the musicians"
+        },
+        {
+            "speaker": "servant",
+            "text": "Wholly, sir."
+        },
+        {
+            "speaker": "pandarus",
+            "text": "Who play they to"
+        },
+        {
+            "speaker": "servant",
+            "text": "To the hearers, sir."
+        },
+        {
+            "speaker": "pandarus",
+            "text": "At whose pleasure, friend"
+        },
+        {
+            "speaker": "servant",
+            "text": "At mine, sir, and theirs that love music."
+        },
+        {
+            "speaker": "pandarus",
+            "text": "Command, I mean, friend."
+        },
+        {
+            "speaker": "servant",
+            "text": "Who shall I command, sir"
+        },
+        {
+            "speaker": "pandarus",
+            "text": "Friend, we understand not one another: I am too courtly and thou art too cunning. At whose request do these men play"
+        },
+        {
+            "speaker": "servant",
+            "text": "Thats to t indeed, sir: marry, sir, at the request of Paris my lord, whos there in person with him, the mortal Venus, the heartblood of beauty, loves invisible soul,"
+        },
+        {
+            "speaker": "pandarus",
+            "text": "Who, my cousin Cressida"
+        },
+        {
+            "speaker": "servant",
+            "text": "No, sir, Helen: could you not find out that by her attributes"
+        },
+        {
+            "speaker": "pandarus",
+            "text": "It should seem, fellow, that thou hast not seen the Lady Cressida. I come to speak with Paris from the Prince Troilus: I will make a complimental assault upon him, for my business seethes."
+        },
+        {
+            "speaker": "servant",
+            "text": "Sodden business! theres a stewed phrase indeed!"
+        },
+        {
+            "text": "Enter PARIS and HELEN, attended"
+        },
+        {
+            "speaker": "pandarus",
+            "text": "Fair be to you, my lord, and to all this fair company! fair desires, in all fair measure, fairly guide them! especially to you, fair queen! fair thoughts be your fair pillow!"
+        },
+        {
+            "speaker": "helen",
+            "text": "Dear lord, you are full of fair words."
+        },
+        {
+            "speaker": "pandarus",
+            "text": "You speak your fair pleasure, sweet queen. Fair prince, here is good broken music."
+        },
+        {
+            "speaker": "paris",
+            "text": "You have broke it, cousin: and, by my life, you shall make it whole again you shall piece it out with a piece of your performance. Nell, he is full of harmony."
+        },
+        {
+            "speaker": "pandarus",
+            "text": "Truly, lady, no."
+        },
+        {
+            "speaker": "helen",
+            "text": "O, sir,"
+        },
+        {
+            "speaker": "pandarus",
+            "text": "Rude, in sooth in good sooth, very rude."
+        },
+        {
+            "speaker": "paris",
+            "text": "Well said, my lord! well, you say so in fits."
+        },
+        {
+            "speaker": "pandarus",
+            "text": "I have business to my lord, dear queen. My lord, will you vouchsafe me a word"
+        },
+        {
+            "speaker": "helen",
+            "text": "Nay, this shall not hedge us out: well hear you sing, certainly."
+        },
+        {
+            "speaker": "pandarus",
+            "text": "Well, sweet queen. you are pleasant with me. But, marry, thus, my lord: my dear lord and most esteemed friend, your brother Troilus,"
+        },
+        {
+            "speaker": "helen",
+            "text": "My Lord Pandarus honeysweet lord,"
+        },
+        {
+            "speaker": "pandarus",
+            "text": "Go to, sweet queen, to go:commends himself most affectionately to you,"
+        },
+        {
+            "speaker": "helen",
+            "text": "You shall not bob us out of our melody: if you do, our melancholy upon your head!"
+        },
+        {
+            "speaker": "pandarus",
+            "text": "Sweet queen, sweet queen! thats a sweet queen, i faith."
+        },
+        {
+            "speaker": "helen",
+            "text": "And to make a sweet lady sad is a sour offence."
+        },
+        {
+            "speaker": "pandarus",
+            "text": "Nay, that shall not serve your turn that shall not, in truth, la. Nay, I care not for such words no, no. And, my lord, he desires you, that if the king call for him at supper, you will make his excuse."
+        },
+        {
+            "speaker": "helen",
+            "text": "My Lord Pandarus,"
+        },
+        {
+            "speaker": "pandarus",
+            "text": "What says my sweet queen, my very very sweet queen"
+        },
+        {
+            "speaker": "paris",
+            "text": "What exploits in hand where sups he tonight"
+        },
+        {
+            "speaker": "helen",
+            "text": "Nay, but, my lord,"
+        },
+        {
+            "speaker": "pandarus",
+            "text": "What says my sweet queen My cousin will fall out with you. You must not know where he sups."
+        },
+        {
+            "speaker": "paris",
+            "text": "Ill lay my life, with my disposer Cressida."
+        },
+        {
+            "speaker": "pandarus",
+            "text": "No, no, no such matter you are wide: come, your disposer is sick."
+        },
+        {
+            "speaker": "paris",
+            "text": "Well, Ill make excuse."
+        },
+        {
+            "speaker": "pandarus",
+            "text": "Ay, good my lord. Why should you say Cressida no, your poor disposers sick."
+        },
+        {
+            "speaker": "paris",
+            "text": "I spy."
+        },
+        {
+            "speaker": "pandarus",
+            "text": "You spy! what do you spy Come, give me an instrument. Now, sweet queen."
+        },
+        {
+            "speaker": "helen",
+            "text": "Why, this is kindly done."
+        },
+        {
+            "speaker": "pandarus",
+            "text": "My niece is horribly in love with a thing you have, sweet queen."
+        },
+        {
+            "speaker": "helen",
+            "text": "She shall have it, my lord, if it be not my lord Paris."
+        },
+        {
+            "speaker": "pandarus",
+            "text": "He! no, shell none of him they two are twain."
+        },
+        {
+            "speaker": "helen",
+            "text": "Falling in, after falling out, may make them three."
+        },
+        {
+            "speaker": "pandarus",
+            "text": "Come, come, Ill hear no more of this Ill sing you a song now."
+        },
+        {
+            "speaker": "helen",
+            "text": "Ay, ay, prithee now. By my troth, sweet lord, thou hast a fine forehead."
+        },
+        {
+            "speaker": "pandarus",
+            "text": "Ay, you may, you may."
+        },
+        {
+            "speaker": "helen",
+            "text": "Let thy song be love: this love will undo us all. O Cupid, Cupid, Cupid!"
+        },
+        {
+            "speaker": "pandarus",
+            "text": "Love! ay, that it shall, i faith."
+        },
+        {
+            "speaker": "paris",
+            "text": "Ay, good now, love, love, nothing but love."
+        },
+        {
+            "speaker": "pandarus",
+            "text": "In good troth, it begins so. Love, love, nothing but love, still more! For, O, loves bow Shoots buck and doe: The shaft confounds, Not that it wounds, But tickles still the sore. These lovers cry Oh! oh! they die! Yet that which seems the wound to kill, Doth turn oh! oh! to ha! ha! he! So dying love lives still: Oh! oh! a while, but ha! ha! ha! Oh! oh! groans out for ha! ha! ha! Heighho!"
+        },
+        {
+            "text": "Sings"
+        },
+        {
+            "speaker": "helen",
+            "text": "In love, i faith, to the very tip of the nose."
+        },
+        {
+            "speaker": "paris",
+            "text": "He eats nothing but doves, love, and that breeds hot blood, and hot blood begets hot thoughts, and hot thoughts beget hot deeds, and hot deeds is love."
+        },
+        {
+            "speaker": "pandarus",
+            "text": "Is this the generation of love hot blood, hot thoughts, and hot deeds Why, they are vipers: is love a generation of vipers Sweet lord, whos afield today"
+        },
+        {
+            "speaker": "paris",
+            "text": "Hector, Deiphobus, Helenus, Antenor, and all the gallantry of Troy: I  would fain have armed today, but my Nell would not have it so. How chance my brother Troilus went not"
+        },
+        {
+            "speaker": "helen",
+            "text": "He hangs the lip at something: you know all, Lord Pandarus."
+        },
+        {
+            "speaker": "pandarus",
+            "text": "Not I, honeysweet queen. I long to hear how they sped today. Youll remember your brothers excuse"
+        },
+        {
+            "speaker": "paris",
+            "text": "To a hair."
+        },
+        {
+            "speaker": "pandarus",
+            "text": "Farewell, sweet queen."
+        },
+        {
+            "speaker": "helen",
+            "text": "Commend me to your niece."
+        },
+        {
+            "speaker": "pandarus",
+            "text": "I will, sweet queen."
+        },
+        {
+            "text": "Exit"
+        },
+        {
+            "text": "A retreat sounded"
+        },
+        {
+            "speaker": "paris",
+            "text": "Theyre come from field: let us to Priams hall, To greet the warriors. Sweet Helen, I must woo you To help unarm our Hector: his stubborn buckles, With these your white enchanting fingers touchd, Shall more obey than to the edge of steel Or force of Greekish sinews you shall do more Than all the island kings,disarm great Hector."
+        },
+        {
+            "speaker": "helen",
+            "text": "Twill make us proud to be his servant, Paris Yea, what he shall receive of us in duty Gives us more palm in beauty than we have, Yea, overshines ourself."
+        },
+        {
+            "speaker": "paris",
+            "text": "Sweet, above thought I love thee."
+        },
+        {
+            "text": "Exeunt"
+        }
+    ]
+}

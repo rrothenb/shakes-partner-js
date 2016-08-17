@@ -1,0 +1,189 @@
+{
+    "troilus": [
+        "Act 1, scene 1",
+        "Act 2, scene 2",
+        "Act 3, scene 2",
+        "Act 4, scene 2",
+        "Act 4, scene 3",
+        "Act 4, scene 4",
+        "Act 4, scene 5",
+        "Act 5, scene 1",
+        "Act 5, scene 10",
+        "Act 5, scene 2",
+        "Act 5, scene 3",
+        "Act 5, scene 4",
+        "Act 5, scene 6"
+    ],
+    "pandarus": [
+        "Act 1, scene 1",
+        "Act 1, scene 2",
+        "Act 3, scene 1",
+        "Act 3, scene 2",
+        "Act 4, scene 2",
+        "Act 4, scene 4",
+        "Act 5, scene 10",
+        "Act 5, scene 3"
+    ],
+    "aeneas": [
+        "Act 1, scene 1",
+        "Act 1, scene 3",
+        "Act 4, scene 1",
+        "Act 4, scene 2",
+        "Act 4, scene 4",
+        "Act 4, scene 5",
+        "Act 5, scene 10",
+        "Act 5, scene 2"
+    ],
+    "cressida": [
+        "Act 1, scene 2",
+        "Act 3, scene 2",
+        "Act 4, scene 2",
+        "Act 4, scene 4",
+        "Act 4, scene 5",
+        "Act 5, scene 2"
+    ],
+    "alexander": [
+        "Act 1, scene 2"
+    ],
+    "boy": [
+        "Act 1, scene 2",
+        "Act 3, scene 2"
+    ],
+    "agamemnon": [
+        "Act 1, scene 3",
+        "Act 2, scene 3",
+        "Act 3, scene 3",
+        "Act 4, scene 5",
+        "Act 5, scene 1",
+        "Act 5, scene 5",
+        "Act 5, scene 9"
+    ],
+    "nestor": [
+        "Act 1, scene 3",
+        "Act 2, scene 3",
+        "Act 3, scene 3",
+        "Act 4, scene 5",
+        "Act 5, scene 5",
+        "Act 5, scene 9"
+    ],
+    "ulysses": [
+        "Act 1, scene 3",
+        "Act 2, scene 3",
+        "Act 3, scene 3",
+        "Act 4, scene 5",
+        "Act 5, scene 1",
+        "Act 5, scene 2",
+        "Act 5, scene 5"
+    ],
+    "menelaus": [
+        "Act 1, scene 3",
+        "Act 3, scene 3",
+        "Act 4, scene 5",
+        "Act 5, scene 1"
+    ],
+    "ajax": [
+        "Act 2, scene 1",
+        "Act 2, scene 3",
+        "Act 3, scene 3",
+        "Act 4, scene 5",
+        "Act 5, scene 1",
+        "Act 5, scene 5",
+        "Act 5, scene 6",
+        "Act 5, scene 9"
+    ],
+    "thersites": [
+        "Act 2, scene 1",
+        "Act 2, scene 3",
+        "Act 3, scene 3",
+        "Act 5, scene 1",
+        "Act 5, scene 2",
+        "Act 5, scene 4",
+        "Act 5, scene 7"
+    ],
+    "achilles": [
+        "Act 2, scene 1",
+        "Act 2, scene 3",
+        "Act 3, scene 3",
+        "Act 4, scene 5",
+        "Act 5, scene 1",
+        "Act 5, scene 5",
+        "Act 5, scene 6",
+        "Act 5, scene 7",
+        "Act 5, scene 8"
+    ],
+    "patroclus": [
+        "Act 2, scene 1",
+        "Act 2, scene 3",
+        "Act 3, scene 3",
+        "Act 4, scene 5",
+        "Act 5, scene 1"
+    ],
+    "priam": [
+        "Act 2, scene 2",
+        "Act 5, scene 3"
+    ],
+    "hector": [
+        "Act 2, scene 2",
+        "Act 4, scene 5",
+        "Act 5, scene 1",
+        "Act 5, scene 3",
+        "Act 5, scene 4",
+        "Act 5, scene 6",
+        "Act 5, scene 8"
+    ],
+    "helenus": [
+        "Act 2, scene 2"
+    ],
+    "cassandra": [
+        "Act 2, scene 2",
+        "Act 5, scene 3"
+    ],
+    "paris": [
+        "Act 2, scene 2",
+        "Act 3, scene 1",
+        "Act 4, scene 1",
+        "Act 4, scene 3",
+        "Act 4, scene 4"
+    ],
+    "diomedes": [
+        "Act 2, scene 3",
+        "Act 3, scene 3",
+        "Act 4, scene 1",
+        "Act 4, scene 4",
+        "Act 4, scene 5",
+        "Act 5, scene 1",
+        "Act 5, scene 2",
+        "Act 5, scene 4",
+        "Act 5, scene 5",
+        "Act 5, scene 6",
+        "Act 5, scene 9"
+    ],
+    "servant": [
+        "Act 3, scene 1",
+        "Act 5, scene 5"
+    ],
+    "helen": [
+        "Act 3, scene 1"
+    ],
+    "calchas": [
+        "Act 3, scene 3",
+        "Act 5, scene 2"
+    ],
+    "deiphobus": [
+        "Act 4, scene 1",
+        "Act 4, scene 4"
+    ],
+    "all": [
+        "Act 4, scene 5",
+        "Act 5, scene 10"
+    ],
+    "andromache": [
+        "Act 5, scene 3"
+    ],
+    "margarelon": [
+        "Act 5, scene 7"
+    ],
+    "myrmidons": [
+        "Act 5, scene 8"
+    ]
+}

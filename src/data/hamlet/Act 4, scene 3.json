@@ -1,0 +1,139 @@
+{
+    "sceneName": "Act 4, scene 3",
+    "playName": "hamlet",
+    "location": "Another room in the castle.",
+    "lines": [
+        {
+            "text": "Enter KING CLAUDIUS, attended"
+        },
+        {
+            "speaker": "king claudius",
+            "text": "I have sent to seek him, and to find the body. How dangerous is it that this man goes loose! Yet must not we put the strong law on him: Hes loved of the distracted multitude, Who like not in their judgment, but their eyes And where tis so, the offenders scourge is weighd, But never the offence. To bear all smooth and even, This sudden sending him away must seem Deliberate pause: diseases desperate grown By desperate appliance are relieved, Or not at all. How now! what hath befalln"
+        },
+        {
+            "text": "Enter ROSENCRANTZ"
+        },
+        {
+            "speaker": "rosencrantz",
+            "text": "Where the dead body is bestowd, my lord, We cannot get from him."
+        },
+        {
+            "speaker": "king claudius",
+            "text": "But where is he"
+        },
+        {
+            "speaker": "rosencrantz",
+            "text": "Without, my lord guarded, to know your pleasure."
+        },
+        {
+            "speaker": "king claudius",
+            "text": "Bring him before us."
+        },
+        {
+            "speaker": "rosencrantz",
+            "text": "Ho, Guildenstern! bring in my lord."
+        },
+        {
+            "text": "Enter HAMLET and GUILDENSTERN"
+        },
+        {
+            "speaker": "king claudius",
+            "text": "Now, Hamlet, wheres Polonius"
+        },
+        {
+            "speaker": "hamlet",
+            "text": "At supper."
+        },
+        {
+            "speaker": "king claudius",
+            "text": "At supper! where"
+        },
+        {
+            "speaker": "hamlet",
+            "text": "Not where he eats, but where he is eaten: a certain convocation of politic worms are een at him. Your worm is your only emperor for diet: we fat all creatures else to fat us, and we fat ourselves for maggots: your fat king and your lean beggar is but variable service, two dishes, but to one table: thats the end."
+        },
+        {
+            "speaker": "king claudius",
+            "text": "Alas, alas!"
+        },
+        {
+            "speaker": "hamlet",
+            "text": "A man may fish with the worm that hath eat of a king, and cat of the fish that hath fed of that worm."
+        },
+        {
+            "speaker": "king claudius",
+            "text": "What dost you mean by this"
+        },
+        {
+            "speaker": "hamlet",
+            "text": "Nothing but to show you how a king may go a progress through the guts of a beggar."
+        },
+        {
+            "speaker": "king claudius",
+            "text": "Where is Polonius"
+        },
+        {
+            "speaker": "hamlet",
+            "text": "In heaven send hither to see: if your messenger find him not there, seek him i the other place yourself. But indeed, if you find him not within this month, you shall nose him as you go up the stairs into the lobby."
+        },
+        {
+            "speaker": "king claudius",
+            "text": "Go seek him there."
+        },
+        {
+            "text": "To some Attendants"
+        },
+        {
+            "speaker": "hamlet",
+            "text": "He will stay till ye come."
+        },
+        {
+            "text": "Exeunt Attendants"
+        },
+        {
+            "speaker": "king claudius",
+            "text": "Hamlet, this deed, for thine especial safety, Which we do tender, as we dearly grieve For that which thou hast done,must send thee hence With fiery quickness: therefore prepare thyself The bark is ready, and the wind at help, The associates tend, and every thing is bent For England."
+        },
+        {
+            "speaker": "hamlet",
+            "text": "For England!"
+        },
+        {
+            "speaker": "king claudius",
+            "text": "Ay, Hamlet."
+        },
+        {
+            "speaker": "hamlet",
+            "text": "Good."
+        },
+        {
+            "speaker": "king claudius",
+            "text": "So is it, if thou knewst our purposes."
+        },
+        {
+            "speaker": "hamlet",
+            "text": "I see a cherub that sees them. But, come for England! Farewell, dear mother."
+        },
+        {
+            "speaker": "king claudius",
+            "text": "Thy loving father, Hamlet."
+        },
+        {
+            "speaker": "hamlet",
+            "text": "My mother: father and mother is man and wife man and wife is one flesh and so, my mother. Come, for England!"
+        },
+        {
+            "text": "Exit"
+        },
+        {
+            "speaker": "king claudius",
+            "text": "Follow him at foot tempt him with speed aboard Delay it not Ill have him hence tonight: Away! for every thing is seald and done That else leans on the affair: pray you, make haste. And, England, if my love thou holdst at aught As my great power thereof may give thee sense, Since yet thy cicatrice looks raw and red After the Danish sword, and thy free awe Pays homage to usthou mayst not coldly set Our sovereign process which imports at full, By letters congruing to that effect, The present death of Hamlet. Do it, England For like the hectic in my blood he rages, And thou must cure me: till I know tis done, Howeer my haps, my joys were neer begun."
+        },
+        {
+            "text": "Exeunt ROSENCRANTZ and GUILDENSTERN"
+        },
+        {
+            "text": "Exit"
+        }
+    ]
+}

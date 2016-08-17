@@ -1,0 +1,370 @@
+{
+    "sceneName": "Act 2, scene 3",
+    "playName": "much ado about nothing",
+    "location": "LEONATOS orchard.",
+    "lines": [
+        {
+            "text": "Enter BENEDICK"
+        },
+        {
+            "speaker": "benedick",
+            "text": "Boy!"
+        },
+        {
+            "text": "Enter Boy"
+        },
+        {
+            "speaker": "boy",
+            "text": "Signior"
+        },
+        {
+            "speaker": "benedick",
+            "text": "In my chamberwindow lies a book: bring it hither to me in the orchard."
+        },
+        {
+            "speaker": "boy",
+            "text": "I am here already, sir."
+        },
+        {
+            "speaker": "benedick",
+            "text": "I know that but I would have thee hence, and here again. I do much wonder that one man, seeing how much another man is a fool when he dedicates his behaviors to love, will, after he hath laughed at such shallow follies in others, become the argument of his own scorn by failing in love: and such a man is Claudio. I have known when there was no music with him but the drum and the fife and now had he rather hear the tabour and the pipe: I have known when he would have walked ten mile afoot to see a good armour and now will he lie ten nights awake, carving the fashion of a new doublet. He was wont to speak plain and to the purpose, like an honest man and a soldier and now is he turned orthography his words are a very fantastical banquet, just so many strange dishes. May I be so converted and see with these eyes I cannot tell I think not: I will not be sworn, but love may transform me to an oyster but Ill take my oath on it, till he have made an oyster of me, he shall never make me such a fool. One woman is fair, yet I am well another is wise, yet I am well another virtuous, yet I am well but till all graces be in one woman, one woman shall not come in my grace. Rich she shall be, thats certain wise, or Ill none virtuous, or Ill never cheapen her fair, or Ill   never look on her mild, or come not near me noble, or not I for an angel of good discourse, an excellent musician, and her hair shall be of what colour it please God. Ha! the prince and Monsieur Love! I will hide me in the arbour."
+        },
+        {
+            "text": "Exit Boy"
+        },
+        {
+            "text": "Withdraws"
+        },
+        {
+            "text": "Enter DON PEDRO, CLAUDIO, and LEONATO"
+        },
+        {
+            "speaker": "don pedro",
+            "text": "Come, shall we hear this music"
+        },
+        {
+            "speaker": "claudio",
+            "text": "Yea, my good lord. How still the evening is, As hushd on purpose to grace harmony!"
+        },
+        {
+            "speaker": "don pedro",
+            "text": "See you where Benedick hath hid himself"
+        },
+        {
+            "speaker": "claudio",
+            "text": "O, very well, my lord: the music ended, Well fit the kidfox with a pennyworth."
+        },
+        {
+            "text": "Enter BALTHASAR with Music"
+        },
+        {
+            "speaker": "don pedro",
+            "text": "Come, Balthasar, well hear that song again."
+        },
+        {
+            "speaker": "balthasar",
+            "text": "O, good my lord, tax not so bad a voice To slander music any more than once."
+        },
+        {
+            "speaker": "don pedro",
+            "text": "It is the witness still of excellency To put a strange face on his own perfection. I pray thee, sing, and let me woo no more."
+        },
+        {
+            "speaker": "balthasar",
+            "text": "Because you talk of wooing, I will sing Since many a wooer doth commence his suit To her he thinks not worthy, yet he wooes, Yet will he swear he loves."
+        },
+        {
+            "speaker": "don pedro",
+            "text": "Now, pray thee, come Or, if thou wilt hold longer argument, Do it in notes."
+        },
+        {
+            "speaker": "balthasar",
+            "text": "Note this before my notes Theres not a note of mine thats worth the noting."
+        },
+        {
+            "speaker": "don pedro",
+            "text": "Why, these are very crotchets that he speaks Note, notes, forsooth, and nothing."
+        },
+        {
+            "text": "Air"
+        },
+        {
+            "speaker": "benedick",
+            "text": "Now, divine air! now is his soul ravished! Is it not strange that sheeps guts should hale souls out of mens bodies Well, a horn for my money, when alls done."
+        },
+        {
+            "text": "The Song"
+        },
+        {
+            "speaker": "balthasar",
+            "text": "Sigh no more, ladies, sigh no more, Men were deceivers ever, One foot in sea and one on shore, To one thing constant never: Then sigh not so, but let them go, And be you blithe and bonny, Converting all your sounds of woe Into Hey nonny, nonny. Sing no more ditties, sing no moe, Of dumps so dull and heavy The fraud of men was ever so, Since summer first was leafy: Then sigh not so,  and c."
+        },
+        {
+            "speaker": "don pedro",
+            "text": "By my troth, a good song."
+        },
+        {
+            "speaker": "balthasar",
+            "text": "And an ill singer, my lord."
+        },
+        {
+            "speaker": "don pedro",
+            "text": "Ha, no, no, faith thou singest well enough for a shift."
+        },
+        {
+            "speaker": "benedick",
+            "text": "An he had been a dog that should have howled thus, they would have hanged him: and I pray God his bad voice bode no mischief. I had as lief have heard the nightraven, come what plague could have come after it."
+        },
+        {
+            "speaker": "don pedro",
+            "text": "Yea, marry, dost thou hear, Balthasar I pray thee, get us some excellent music for tomorrow night we would have it at the Lady Heros chamberwindow."
+        },
+        {
+            "speaker": "balthasar",
+            "text": "The best I can, my lord."
+        },
+        {
+            "speaker": "don pedro",
+            "text": "Do so: farewell. Come hither, Leonato. What was it you told me of today, that your niece Beatrice was in love with Signior Benedick"
+        },
+        {
+            "text": "Exit BALTHASAR"
+        },
+        {
+            "speaker": "claudio",
+            "text": "O, ay: stalk on. stalk on the fowl sits. I did never think that lady would have loved any man."
+        },
+        {
+            "speaker": "leonato",
+            "text": "No, nor I neither but most wonderful that she should so dote on Signior Benedick, whom she hath in all outward behaviors seemed ever to abhor."
+        },
+        {
+            "speaker": "benedick",
+            "text": "Ist possible Sits the wind in that corner"
+        },
+        {
+            "speaker": "leonato",
+            "text": "By my troth, my lord, I cannot tell what to think of it but that she loves him with an enraged affection: it is past the infinite of thought."
+        },
+        {
+            "speaker": "don pedro",
+            "text": "May be she doth but counterfeit."
+        },
+        {
+            "speaker": "claudio",
+            "text": "Faith, like enough."
+        },
+        {
+            "speaker": "leonato",
+            "text": "O God, counterfeit! There was never counterfeit of passion came so near the life of passion as she discovers it."
+        },
+        {
+            "speaker": "don pedro",
+            "text": "Why, what effects of passion shows she"
+        },
+        {
+            "speaker": "claudio",
+            "text": "Bait the hook well this fish will bite."
+        },
+        {
+            "speaker": "leonato",
+            "text": "What effects, my lord She will sit you, you heard my daughter tell you how."
+        },
+        {
+            "speaker": "claudio",
+            "text": "She did, indeed."
+        },
+        {
+            "speaker": "don pedro",
+            "text": "How, how, pray you You amaze me: I would have I thought her spirit had been invincible against all assaults of affection."
+        },
+        {
+            "speaker": "leonato",
+            "text": "I would have sworn it had, my lord especially against Benedick."
+        },
+        {
+            "speaker": "benedick",
+            "text": "I should think this a gull, but that the whitebearded fellow speaks it: knavery cannot, sure, hide himself in such reverence."
+        },
+        {
+            "speaker": "claudio",
+            "text": "He hath taen the infection: hold it up."
+        },
+        {
+            "speaker": "don pedro",
+            "text": "Hath she made her affection known to Benedick"
+        },
+        {
+            "speaker": "leonato",
+            "text": "No and swears she never will: thats her torment."
+        },
+        {
+            "speaker": "claudio",
+            "text": "Tis true, indeed so your daughter says: Shall I, says she, that have so oft encountered him with scorn, write to him that I love him"
+        },
+        {
+            "speaker": "leonato",
+            "text": "This says she now when she is beginning to write to him for shell be up twenty times a night, and there will she sit in her smock till she have writ a sheet of paper: my daughter tells us all."
+        },
+        {
+            "speaker": "claudio",
+            "text": "Now you talk of a sheet of paper, I remember a pretty jest your daughter told us of."
+        },
+        {
+            "speaker": "leonato",
+            "text": "O, when she had writ it and was reading it over, she found Benedick and Beatrice between the sheet"
+        },
+        {
+            "speaker": "claudio",
+            "text": "That."
+        },
+        {
+            "speaker": "leonato",
+            "text": "O, she tore the letter into a thousand halfpence railed at herself, that she should be so immodest to write to one that she knew would flout her I measure him, says she, by my own spirit for I should flout him, if he writ to me yea, though I love him, I should."
+        },
+        {
+            "speaker": "claudio",
+            "text": "Then down upon her knees she falls, weeps, sobs, beats her heart, tears her hair, prays, curses O sweet Benedick! God give me patience!"
+        },
+        {
+            "speaker": "leonato",
+            "text": "She doth indeed my daughter says so: and the ecstasy hath so much overborne her that my daughter is sometime afeared she will do a desperate outrage to herself: it is very true."
+        },
+        {
+            "speaker": "don pedro",
+            "text": "It were good that Benedick knew of it by some other, if she will not discover it."
+        },
+        {
+            "speaker": "claudio",
+            "text": "To what end He would make but a sport of it and torment the poor lady worse."
+        },
+        {
+            "speaker": "don pedro",
+            "text": "An he should, it were an alms to hang him. Shes an excellent sweet lady and, out of all suspicion, she is virtuous."
+        },
+        {
+            "speaker": "claudio",
+            "text": "And she is exceeding wise."
+        },
+        {
+            "speaker": "don pedro",
+            "text": "In every thing but in loving Benedick."
+        },
+        {
+            "speaker": "leonato",
+            "text": "O, my lord, wisdom and blood combating in so tender a body, we have ten proofs to one that blood hath the victory. I am sorry for her, as I have just cause, being her uncle and her guardian."
+        },
+        {
+            "speaker": "don pedro",
+            "text": "I would she had bestowed this dotage on me: I would have daffed all other respects and made her half myself. I pray you, tell Benedick of it, and hear what a will say."
+        },
+        {
+            "speaker": "leonato",
+            "text": "Were it good, think you"
+        },
+        {
+            "speaker": "claudio",
+            "text": "Hero thinks surely she will die for she says she will die, if he love her not, and she will die, ere she make her love known, and she will die, if he woo her, rather than she will bate one breath of her accustomed crossness."
+        },
+        {
+            "speaker": "don pedro",
+            "text": "She doth well: if she should make tender of her love, tis very possible hell scorn it for the man, as you know all, hath a contemptible spirit."
+        },
+        {
+            "speaker": "claudio",
+            "text": "He is a very proper man."
+        },
+        {
+            "speaker": "don pedro",
+            "text": "He hath indeed a good outward happiness."
+        },
+        {
+            "speaker": "claudio",
+            "text": "Before God! and, in my mind, very wise."
+        },
+        {
+            "speaker": "don pedro",
+            "text": "He doth indeed show some sparks that are like wit."
+        },
+        {
+            "speaker": "claudio",
+            "text": "And I take him to be valiant."
+        },
+        {
+            "speaker": "don pedro",
+            "text": "As Hector, I assure you: and in the managing of quarrels you may say he is wise for either he avoids them with great discretion, or undertakes them with a most Christianlike fear."
+        },
+        {
+            "speaker": "leonato",
+            "text": "If he do fear God, a must necessarily keep peace: if he break the peace, he ought to enter into a quarrel with fear and trembling."
+        },
+        {
+            "speaker": "don pedro",
+            "text": "And so will he do for the man doth fear God, howsoever it seems not in him by some large jests he will make. Well I am sorry for your niece. Shall we go seek Benedick, and tell him of her love"
+        },
+        {
+            "speaker": "claudio",
+            "text": "Never tell him, my lord: let her wear it out with good counsel."
+        },
+        {
+            "speaker": "leonato",
+            "text": "Nay, thats impossible: she may wear her heart out first."
+        },
+        {
+            "speaker": "don pedro",
+            "text": "Well, we will hear further of it by your daughter: let it cool the while. I love Benedick well and I could wish he would modestly examine himself, to see how much he is unworthy so good a lady."
+        },
+        {
+            "speaker": "leonato",
+            "text": "My lord, will you walk dinner is ready."
+        },
+        {
+            "speaker": "claudio",
+            "text": "If he do not dote on her upon this, I will never trust my expectation."
+        },
+        {
+            "speaker": "don pedro",
+            "text": "Let there be the same net spread for her and that must your daughter and her gentlewomen carry. The sport will be, when they hold one an opinion of anothers dotage, and no such matter: thats the scene that I would see, which will be merely a dumbshow. Let us send her to call him in to dinner."
+        },
+        {
+            "text": "Exeunt DON PEDRO, CLAUDIO, and LEONATO"
+        },
+        {
+            "speaker": "benedick",
+            "text": "[Coming forward]  This can be no trick: the conference was sadly borne. They have the truth of this from Hero. They seem to pity the lady: it seems her affections have their full bent. Love me! why, it must be requited. I hear how I am censured: they say I will bear myself proudly, if I perceive the love come from her they say too that she will rather die than give any sign of affection. I did never think to marry: I must not seem proud: happy are they that hear their detractions and can put them to mending. They say the lady is fair tis a truth, I can bear them witness and virtuous tis so, I cannot reprove it and wise, but for loving me by my troth, it is no addition to her wit, nor no great argument of her folly, for I will be horribly in love with her. I may chance have some odd quirks and remnants of wit broken on me, because I have railed so long against marriage: but doth not the appetite alter a man loves the meat in his youth that he cannot endure in his age. Shall quips and sentences and these paper bullets of the brain awe a man from the career of his humour No, the world must be peopled. When I said I would die a bachelor, I did not think I should live till I were married. Here comes Beatrice. By this day! shes a fair lady: I do spy some marks of love in her."
+        },
+        {
+            "text": "Enter BEATRICE"
+        },
+        {
+            "speaker": "beatrice",
+            "text": "Against my will I am sent to bid you come in to dinner."
+        },
+        {
+            "speaker": "benedick",
+            "text": "Fair Beatrice, I thank you for your pains."
+        },
+        {
+            "speaker": "beatrice",
+            "text": "I took no more pains for those thanks than you take pains to thank me: if it had been painful, I would not have come."
+        },
+        {
+            "speaker": "benedick",
+            "text": "You take pleasure then in the message"
+        },
+        {
+            "speaker": "beatrice",
+            "text": "Yea, just so much as you may take upon a knifes point and choke a daw withal. You have no stomach, signior: fare you well."
+        },
+        {
+            "text": "Exit"
+        },
+        {
+            "speaker": "benedick",
+            "text": "Ha! Against my will I am sent to bid you come in to dinner theres a double meaning in that I took no more pains for those thanks than you took pains to thank me. thats as much as to say, Any pains that I take for you is as easy as thanks. If I do not take pity of her, I am a villain if I do not love her, I am a Jew. I will go get her picture."
+        },
+        {
+            "text": "Exit"
+        }
+    ]
+}

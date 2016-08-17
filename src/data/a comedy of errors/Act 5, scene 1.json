@@ -1,0 +1,622 @@
+{
+    "sceneName": "Act 5, scene 1",
+    "playName": "a comedy of errors",
+    "location": "A street before a Priory.",
+    "lines": [
+        {
+            "text": "Enter Second Merchant and ANGELO"
+        },
+        {
+            "speaker": "angelo",
+            "text": "I am sorry, sir, that I have hinderd you But, I protest, he had the chain of me, Though most dishonestly he doth deny it."
+        },
+        {
+            "speaker": "second merchant",
+            "text": "How is the man esteemed here in the city"
+        },
+        {
+            "speaker": "angelo",
+            "text": "Of very reverend reputation, sir, Of credit infinite, highly beloved, Second to none that lives here in the city: His word might bear my wealth at any time."
+        },
+        {
+            "speaker": "second merchant",
+            "text": "Speak softly yonder, as I think, he walks."
+        },
+        {
+            "text": "Enter ANTIPHOLUS of Syracuse and DROMIO of Syracuse"
+        },
+        {
+            "speaker": "angelo",
+            "text": "Tis so and that self chain about his neck Which he forswore most monstrously to have. Good sir, draw near to me, Ill speak to him. Signior Antipholus, I wonder much That you would put me to this shame and trouble And, not without some scandal to yourself, With circumstance and oaths so to deny This chain which now you wear so openly: Beside the charge, the shame, imprisonment, You have done wrong to this my honest friend, Who, but for staying on our controversy, Had hoisted sail and put to sea today: This chain you had of me can you deny it ANTIPHOLUS"
+        },
+        {
+            "speaker": "of syracuse",
+            "text": "I think I had I never did deny it."
+        },
+        {
+            "speaker": "second merchant",
+            "text": "Yes, that you did, sir, and forswore it too. ANTIPHOLUS"
+        },
+        {
+            "speaker": "of syracuse",
+            "text": "Who heard me to deny it or forswear it"
+        },
+        {
+            "speaker": "second merchant",
+            "text": "These ears of mine, thou knowst did hear thee. Fie on thee, wretch! tis pity that thou livest To walk where any honest man resort. ANTIPHOLUS"
+        },
+        {
+            "speaker": "of syracuse",
+            "text": "Thou art a villain to impeach me thus: Ill prove mine honour and mine honesty Against thee presently, if thou darest stand."
+        },
+        {
+            "speaker": "second merchant",
+            "text": "I dare, and do defy thee for a villain."
+        },
+        {
+            "text": "They draw"
+        },
+        {
+            "text": "Enter ADRIANA, LUCIANA, the Courtezan, and others"
+        },
+        {
+            "speaker": "adriana",
+            "text": "Hold, hurt him not, for Gods sake! he is mad. Some get within him, take his sword away: Bind Dromio too, and bear them to my house."
+        },
+        {
+            "speaker": "dromio of syracuse",
+            "text": "Run, master, run for Gods sake, take a house! This is some priory. In, or we are spoild!"
+        },
+        {
+            "text": "Exeunt Antipholus of Syracuse and Dromio of Syracuse to the Priory"
+        },
+        {
+            "text": "Enter the Lady Abbess, AEMILIA"
+        },
+        {
+            "speaker": "aemelia",
+            "text": "Be quiet, people. Wherefore throng you hither"
+        },
+        {
+            "speaker": "adriana",
+            "text": "To fetch my poor distracted husband hence. Let us come in, that we may bind him fast And bear him home for his recovery."
+        },
+        {
+            "speaker": "angelo",
+            "text": "I knew he was not in his perfect wits."
+        },
+        {
+            "speaker": "second merchant",
+            "text": "I am sorry now that I did draw on him."
+        },
+        {
+            "speaker": "aemelia",
+            "text": "How long hath this possession held the man"
+        },
+        {
+            "speaker": "adriana",
+            "text": "This week he hath been heavy, sour, sad, And much different from the man he was But till this afternoon his passion Neer brake into extremity of rage."
+        },
+        {
+            "speaker": "aemelia",
+            "text": "Hath he not lost much wealth by wreck of sea Buried some dear friend Hath not else his eye Strayd his affection in unlawful love A sin prevailing much in youthful men, Who give their eyes the liberty of gazing. Which of these sorrows is he subject to"
+        },
+        {
+            "speaker": "adriana",
+            "text": "To none of these, except it be the last Namely, some love that drew him oft from home."
+        },
+        {
+            "speaker": "aemelia",
+            "text": "You should for that have reprehended him."
+        },
+        {
+            "speaker": "adriana",
+            "text": "Why, so I did."
+        },
+        {
+            "speaker": "aemelia",
+            "text": "Ay, but not rough enough."
+        },
+        {
+            "speaker": "adriana",
+            "text": "As roughly as my modesty would let me."
+        },
+        {
+            "speaker": "aemelia",
+            "text": "Haply, in private."
+        },
+        {
+            "speaker": "adriana",
+            "text": "And in assemblies too."
+        },
+        {
+            "speaker": "aemelia",
+            "text": "Ay, but not enough."
+        },
+        {
+            "speaker": "adriana",
+            "text": "It was the copy of our conference: In bed he slept not for my urging it At board he fed not for my urging it Alone, it was the subject of my theme In company I often glanced it Still did I tell him it was vile and bad."
+        },
+        {
+            "speaker": "aemelia",
+            "text": "And thereof came it that the man was mad. The venom clamours of a jealous woman Poisons more deadly than a mad dogs tooth. It seems his sleeps were hinderd by thy railing, And therefore comes it that his head is light. Thou sayst his meat was sauced with thy upbraidings: Unquiet meals make ill digestions Thereof the raging fire of fever bred And whats a fever but a fit of madness Thou sayst his sports were hinderd by thy brawls: Sweet recreation barrd, what doth ensue But moody and dull melancholy, Kinsman to grim and comfortless despair, And at her heels a huge infectious troop Of pale distemperatures and foes to life In food, in sport and lifepreserving rest To be disturbd, would mad or man or beast: The consequence is then thy jealous fits Have scared thy husband from the use of wits."
+        },
+        {
+            "speaker": "luciana",
+            "text": "She never reprehended him but mildly, When he demeand himself rough, rude and wildly. Why bear you these rebukes and answer not"
+        },
+        {
+            "speaker": "adriana",
+            "text": "She did betray me to my own reproof. Good people enter and lay hold on him."
+        },
+        {
+            "speaker": "aemelia",
+            "text": "No, not a creature enters in my house."
+        },
+        {
+            "speaker": "adriana",
+            "text": "Then let your servants bring my husband forth."
+        },
+        {
+            "speaker": "aemelia",
+            "text": "Neither: he took this place for sanctuary, And it shall privilege him from your hands Till I have brought him to his wits again, Or lose my labour in assaying it."
+        },
+        {
+            "speaker": "adriana",
+            "text": "I will attend my husband, be his nurse, Diet his sickness, for it is my office, And will have no attorney but myself And therefore let me have him home with me."
+        },
+        {
+            "speaker": "aemelia",
+            "text": "Be patient for I will not let him stir Till I have used the approved means I have, With wholesome syrups, drugs and holy prayers, To make of him a formal man again: It is a branch and parcel of mine oath, A charitable duty of my order. Therefore depart and leave him here with me."
+        },
+        {
+            "speaker": "adriana",
+            "text": "I will not hence and leave my husband here: And ill it doth beseem your holiness To separate the husband and the wife."
+        },
+        {
+            "speaker": "aemelia",
+            "text": "Be quiet and depart: thou shalt not have him."
+        },
+        {
+            "text": "Exit"
+        },
+        {
+            "speaker": "luciana",
+            "text": "Complain unto the duke of this indignity."
+        },
+        {
+            "speaker": "adriana",
+            "text": "Come, go: I will fall prostrate at his feet And never rise until my tears and prayers Have won his grace to come in person hither And take perforce my husband from the abbess."
+        },
+        {
+            "speaker": "second merchant",
+            "text": "By this, I think, the dial points at five: Anon, Im sure, the duke himself in person Comes this way to the melancholy vale, The place of death and sorry execution, Behind the ditches of the abbey here."
+        },
+        {
+            "speaker": "angelo",
+            "text": "Upon what cause"
+        },
+        {
+            "speaker": "second merchant",
+            "text": "To see a reverend Syracusian merchant, Who put unluckily into this bay Against the laws and statutes of this town, Beheaded publicly for his offence."
+        },
+        {
+            "speaker": "angelo",
+            "text": "See where they come: we will behold his death."
+        },
+        {
+            "speaker": "luciana",
+            "text": "Kneel to the duke before he pass the abbey. Enter DUKE SOLINUS, attended AEGEON bareheaded with the Headsman and other Officers"
+        },
+        {
+            "speaker": "duke solinus",
+            "text": "Yet once again proclaim it publicly, If any friend will pay the sum for him, He shall not die so much we tender him."
+        },
+        {
+            "speaker": "adriana",
+            "text": "Justice, most sacred duke, against the abbess!"
+        },
+        {
+            "speaker": "duke solinus",
+            "text": "She is a virtuous and a reverend lady: It cannot be that she hath done thee wrong."
+        },
+        {
+            "speaker": "adriana",
+            "text": "May it please your grace, Antipholus, my husband, Whom I made lord of me and all I had, At your important letters,this ill day A most outrageous fit of madness took him That desperately he hurried through the street, With him his bondman, all as mad as he Doing displeasure to the citizens By rushing in their houses, bearing thence Rings, jewels, any thing his rage did like. Once did I get him bound and sent him home, Whilst to take order for the wrongs I went, That here and there his fury had committed. Anon, I wot not by what strong escape, He broke from those that had the guard of him And with his mad attendant and himself, Each one with ireful passion, with drawn swords, Met us again and madly bent on us, Chased us away till, raising of more aid, We came again to bind them. Then they fled Into this abbey, whither we pursued them: And here the abbess shuts the gates on us And will not suffer us to fetch him out, Nor send him forth that we may bear him hence. Therefore, most gracious duke, with thy command Let him be brought forth and borne hence for help."
+        },
+        {
+            "speaker": "duke solinus",
+            "text": "Long since thy husband served me in my wars, And I to thee engaged a princes word, When thou didst make him master of thy bed, To do him all the grace and good I could. Go, some of you, knock at the abbeygate And bid the lady abbess come to me. I will determine this before I stir."
+        },
+        {
+            "text": "Enter a Servant"
+        },
+        {
+            "speaker": "servant",
+            "text": "O mistress, mistress, shift and save yourself! My master and his man are both broke loose, Beaten the maids arow and bound the doctor Whose beard they have singed off with brands of fire And ever, as it blazed, they threw on him Great pails of puddled mire to quench the hair: My master preaches patience to him and the while His man with scissors nicks him like a fool, And sure, unless you send some present help, Between them they will kill the conjurer."
+        },
+        {
+            "speaker": "adriana",
+            "text": "Peace, fool! thy master and his man are here, And that is false thou dost report to us."
+        },
+        {
+            "speaker": "servant",
+            "text": "Mistress, upon my life, I tell you true I have not breathed almost since I did see it. He cries for you, and vows, if he can take you, To scorch your face and to disfigure you. Hark, hark! I hear him, mistress. fly, be gone!"
+        },
+        {
+            "text": "Cry within"
+        },
+        {
+            "speaker": "duke solinus",
+            "text": "Come, stand by me fear nothing. Guard with halberds!"
+        },
+        {
+            "speaker": "adriana",
+            "text": "Ay me, it is my husband! Witness you, That he is borne about invisible: Even now we housed him in the abbey here And now hes there, past thought of human reason. ANTIPHOLUS"
+        },
+        {
+            "text": "Enter ANTIPHOLUS of Ephesus and DROMIO of Ephesus"
+        },
+        {
+            "speaker": "of ephesus",
+            "text": "Justice, most gracious duke, O, grant me justice! Even for the service that long since I did thee, When I bestrid thee in the wars and took Deep scars to save thy life even for the blood That then I lost for thee, now grant me justice."
+        },
+        {
+            "speaker": "aegeon",
+            "text": "Unless the fear of death doth make me dote, I see my son Antipholus and Dromio. ANTIPHOLUS"
+        },
+        {
+            "speaker": "of ephesus",
+            "text": "Justice, sweet prince, against that woman there! She whom thou gavest to me to be my wife, That hath abused and dishonourd me Even in the strength and height of injury! Beyond imagination is the wrong That she this day hath shameless thrown on me."
+        },
+        {
+            "speaker": "duke solinus",
+            "text": "Discover how, and thou shalt find me just. ANTIPHOLUS"
+        },
+        {
+            "speaker": "of ephesus",
+            "text": "This day, great duke, she shut the doors upon me, While she with harlots feasted in my house."
+        },
+        {
+            "speaker": "duke solinus",
+            "text": "A grievous fault! Say, woman, didst thou so"
+        },
+        {
+            "speaker": "adriana",
+            "text": "No, my good lord: myself, he and my sister Today did dine together. So befall my soul As this is false he burdens me withal!"
+        },
+        {
+            "speaker": "luciana",
+            "text": "Neer may I look on day, nor sleep on night, But she tells to your highness simple truth!"
+        },
+        {
+            "speaker": "angelo",
+            "text": "O perjured woman! They are both forsworn: In this the madman justly chargeth them. ANTIPHOLUS"
+        },
+        {
+            "speaker": "of ephesus",
+            "text": "My liege, I am advised what I say, Neither disturbed with the effect of wine, Nor headyrash, provoked with raging ire, Albeit my wrongs might make one wiser mad. This woman lockd me out this day from dinner: That goldsmith there, were he not packd with her, Could witness it, for he was with me then Who parted with me to go fetch a chain, Promising to bring it to the Porpentine, Where Balthazar and I did dine together. Our dinner done, and he not coming thither, I went to seek him: in the street I met him And in his company that gentleman. There did this perjured goldsmith swear me down That I this day of him received the chain, Which, God he knows, I saw not: for the which He did arrest me with an officer. I did obey, and sent my peasant home For certain ducats: he with none returnd Then fairly I bespoke the officer To go in person with me to my house. By the way we met My wife, her sister, and a rabble more Of vile confederates. Along with them They brought one Pinch, a hungry leanfaced villain, A mere anatomy, a mountebank, A threadbare juggler and a fortuneteller, A needy, holloweyed, sharplooking wretch, A deadlooking man: this pernicious slave, Forsooth, took on him as a conjurer, And, gazing in mine eyes, feeling my pulse, And with no face, as twere, outfacing me, Cries out, I was possessd. Then all together They fell upon me, bound me, bore me thence And in a dark and dankish vault at home There left me and my man, both bound together Till, gnawing with my teeth my bonds in sunder, I gaind my freedom, and immediately Ran hither to your grace whom I beseech To give me ample satisfaction For these deep shames and great indignities."
+        },
+        {
+            "speaker": "angelo",
+            "text": "My lord, in truth, thus far I witness with him, That he dined not at home, but was lockd out."
+        },
+        {
+            "speaker": "duke solinus",
+            "text": "But had he such a chain of thee or no"
+        },
+        {
+            "speaker": "angelo",
+            "text": "He had, my lord: and when he ran in here, These people saw the chain about his neck."
+        },
+        {
+            "speaker": "second merchant",
+            "text": "Besides, I will be sworn these ears of mine Heard you confess you had the chain of him After you first forswore it on the mart: And thereupon I drew my sword on you And then you fled into this abbey here, From whence, I think, you are come by miracle. ANTIPHOLUS"
+        },
+        {
+            "speaker": "of ephesus",
+            "text": "I never came within these abbeywalls, Nor ever didst thou draw thy sword on me: I never saw the chain, so help me Heaven! And this is false you burden me withal."
+        },
+        {
+            "speaker": "duke solinus",
+            "text": "Why, what an intricate impeach is this! I think you all have drunk of Circes cup. If here you housed him, here he would have been If he were mad, he would not plead so coldly: You say he dined at home the goldsmith here Denies that saying. Sirrah, what say you"
+        },
+        {
+            "speaker": "dromio of ephesus",
+            "text": "Sir, he dined with her there, at the Porpentine."
+        },
+        {
+            "speaker": "courtezan",
+            "text": "He did, and from my finger snatchd that ring. ANTIPHOLUS"
+        },
+        {
+            "speaker": "of ephesus",
+            "text": "Tis true, my liege this ring I had of her."
+        },
+        {
+            "speaker": "duke solinus",
+            "text": "Sawst thou him enter at the abbey here"
+        },
+        {
+            "speaker": "courtezan",
+            "text": "As sure, my liege, as I do see your grace."
+        },
+        {
+            "speaker": "duke solinus",
+            "text": "Why, this is strange. Go call the abbess hither. I think you are all mated or stark mad."
+        },
+        {
+            "text": "Exit one to Abbess"
+        },
+        {
+            "speaker": "aegeon",
+            "text": "Most mighty duke, vouchsafe me speak a word: Haply I see a friend will save my life And pay the sum that may deliver me."
+        },
+        {
+            "speaker": "duke solinus",
+            "text": "Speak freely, Syracusian, what thou wilt."
+        },
+        {
+            "speaker": "aegeon",
+            "text": "Is not your name, sir, calld Antipholus And is not that your bondman, Dromio"
+        },
+        {
+            "speaker": "dromio of ephesus",
+            "text": "Within this hour I was his bondman sir, But he, I thank him, gnawd in two my cords: Now am I Dromio and his man unbound."
+        },
+        {
+            "speaker": "aegeon",
+            "text": "I am sure you both of you remember me."
+        },
+        {
+            "speaker": "dromio of ephesus",
+            "text": "Ourselves we do remember, sir, by you For lately we were bound, as you are now You are not Pinchs patient, are you, sir"
+        },
+        {
+            "speaker": "aegeon",
+            "text": "Why look you strange on me you know me well."
+        },
+        {
+            "speaker": "antipholus",
+            "text": "I never saw you in my life till now."
+        },
+        {
+            "speaker": "aegeon",
+            "text": "O, grief hath changed me since you saw me last, And careful hours with times deformed hand Have written strange defeatures in my face: But tell me yet, dost thou not know my voice ANTIPHOLUS"
+        },
+        {
+            "speaker": "of ephesus",
+            "text": "Neither."
+        },
+        {
+            "speaker": "aegeon",
+            "text": "Dromio, nor thou"
+        },
+        {
+            "speaker": "dromio of ephesus",
+            "text": "No, trust me, sir, nor I."
+        },
+        {
+            "speaker": "aegeon",
+            "text": "I am sure thou dost."
+        },
+        {
+            "speaker": "dromio of ephesus",
+            "text": "Ay, sir, but I am sure I do not and whatsoever a man denies, you are now bound to believe him."
+        },
+        {
+            "speaker": "aegeon",
+            "text": "Not know my voice! O times extremity, Hast thou so crackd and splitted my poor tongue In seven short years, that here my only son Knows not my feeble key of untuned cares Though now this grained face of mine be hid In sapconsuming winters drizzled snow, And all the conduits of my blood froze up, Yet hath my night of life some memory, My wasting lamps some fading glimmer left, My dull deaf ears a little use to hear: All these old witnessesI cannot err Tell me thou art my son Antipholus. ANTIPHOLUS"
+        },
+        {
+            "speaker": "of ephesus",
+            "text": "I never saw my father in my life."
+        },
+        {
+            "speaker": "aegeon",
+            "text": "But seven years since, in Syracusa, boy, Thou knowst we parted: but perhaps, my son, Thou shamest to acknowledge me in misery. ANTIPHOLUS"
+        },
+        {
+            "speaker": "of ephesus",
+            "text": "The duke and all that know me in the city Can witness with me that it is not so I neer saw Syracusa in my life."
+        },
+        {
+            "speaker": "duke solinus",
+            "text": "I tell thee, Syracusian, twenty years Have I been patron to Antipholus, During which time he neer saw Syracusa: I see thy age and dangers make thee dote."
+        },
+        {
+            "text": "Reenter AEMILIA, with ANTIPHOLUS of Syracuse and DROMIO of Syracuse"
+        },
+        {
+            "speaker": "aemelia",
+            "text": "Most mighty duke, behold a man much wrongd."
+        },
+        {
+            "text": "All gather to see them"
+        },
+        {
+            "speaker": "adriana",
+            "text": "I see two husbands, or mine eyes deceive me."
+        },
+        {
+            "speaker": "duke solinus",
+            "text": "One of these men is Genius to the other And so of these. Which is the natural man, And which the spirit who deciphers them"
+        },
+        {
+            "speaker": "dromio of syracuse",
+            "text": "I, sir, am Dromio command him away."
+        },
+        {
+            "speaker": "dromio of ephesus",
+            "text": "I, sir, am Dromio pray, let me stay. ANTIPHOLUS"
+        },
+        {
+            "speaker": "of syracuse",
+            "text": "AEgeon art thou not or else his ghost"
+        },
+        {
+            "speaker": "dromio of syracuse",
+            "text": "O, my old master! who hath bound him here"
+        },
+        {
+            "speaker": "aemelia",
+            "text": "Whoever bound him, I will loose his bonds And gain a husband by his liberty. Speak, old AEgeon, if thou best the man That hadst a wife once calld AEmilia That bore thee at a burden two fair sons: O, if thou best the same AEgeon, speak, And speak unto the same AEmilia!"
+        },
+        {
+            "speaker": "aegeon",
+            "text": "If I dream not, thou art AEmilia: If thou art she, tell me where is that son That floated with thee on the fatal raft"
+        },
+        {
+            "speaker": "aemelia",
+            "text": "By men of Epidamnum he and I And the twin Dromio all were taken up But by and by rude fishermen of Corinth By force took Dromio and my son from them And me they left with those of Epidamnum. What then became of them I cannot tell I to this fortune that you see me in."
+        },
+        {
+            "speaker": "duke solinus",
+            "text": "Why, here begins his morning story right These two Antipholuses, these two so like, And these two Dromios, one in semblance, Besides her urging of her wreck at sea, These are the parents to these children, Which accidentally are met together. Antipholus, thou camest from Corinth first ANTIPHOLUS"
+        },
+        {
+            "speaker": "of syracuse",
+            "text": "No, sir, not I I came from Syracuse."
+        },
+        {
+            "speaker": "duke solinus",
+            "text": "Stay, stand apart I know not which is which. ANTIPHOLUS"
+        },
+        {
+            "speaker": "of ephesus",
+            "text": "I came from Corinth, my most gracious lord,"
+        },
+        {
+            "speaker": "dromio of ephesus",
+            "text": "And I with him. ANTIPHOLUS"
+        },
+        {
+            "speaker": "of ephesus",
+            "text": "Brought to this town by that most famous warrior, Duke Menaphon, your most renowned uncle."
+        },
+        {
+            "speaker": "adriana",
+            "text": "Which of you two did dine with me today ANTIPHOLUS"
+        },
+        {
+            "speaker": "of syracuse",
+            "text": "I, gentle mistress."
+        },
+        {
+            "speaker": "adriana",
+            "text": "And are not you my husband ANTIPHOLUS"
+        },
+        {
+            "speaker": "of ephesus",
+            "text": "No I say nay to that. ANTIPHOLUS"
+        },
+        {
+            "speaker": "of syracuse",
+            "text": "And so do I yet did she call me so: And this fair gentlewoman, her sister here, Did call me brother. What I told you then, I hope I shall have leisure to make good If this be not a dream I see and hear."
+        },
+        {
+            "text": "To Luciana"
+        },
+        {
+            "speaker": "angelo",
+            "text": "That is the chain, sir, which you had of me. ANTIPHOLUS"
+        },
+        {
+            "speaker": "of syracuse",
+            "text": "I think it be, sir I deny it not. ANTIPHOLUS"
+        },
+        {
+            "speaker": "of ephesus",
+            "text": "And you, sir, for this chain arrested me."
+        },
+        {
+            "speaker": "angelo",
+            "text": "I think I did, sir I deny it not."
+        },
+        {
+            "speaker": "adriana",
+            "text": "I sent you money, sir, to be your bail, By Dromio but I think he brought it not."
+        },
+        {
+            "speaker": "dromio of ephesus",
+            "text": "No, none by me. ANTIPHOLUS"
+        },
+        {
+            "speaker": "of syracuse",
+            "text": "This purse of ducats I received from you, And Dromio, my man, did bring them me. I see we still did meet each others man, And I was taen for him, and he for me, And thereupon these errors are arose. ANTIPHOLUS"
+        },
+        {
+            "speaker": "of ephesus",
+            "text": "These ducats pawn I for my father here."
+        },
+        {
+            "speaker": "duke solinus",
+            "text": "It shall not need thy father hath his life."
+        },
+        {
+            "speaker": "courtezan",
+            "text": "Sir, I must have that diamond from you. ANTIPHOLUS"
+        },
+        {
+            "speaker": "of ephesus",
+            "text": "There, take it and much thanks for my good cheer."
+        },
+        {
+            "speaker": "aemelia",
+            "text": "Renowned duke, vouchsafe to take the pains To go with us into the abbey here And hear at large discoursed all our fortunes: And all that are assembled in this place, That by this sympathized one days error Have sufferd wrong, go keep us company, And we shall make full satisfaction. Thirtythree years have I but gone in travail Of you, my sons and till this present hour My heavy burden neer delivered. The duke, my husband and my children both, And you the calendars of their nativity, Go to a gossips feast and go with me After so long grief, such festivity!"
+        },
+        {
+            "speaker": "duke solinus",
+            "text": "With all my heart, Ill gossip at this feast."
+        },
+        {
+            "text": "Exeunt all but Antipholus of Syracuse, Antipholus of Ephesus, Dromio of Syracuse and Dromio of Ephesus"
+        },
+        {
+            "speaker": "dromio of syracuse",
+            "text": "Master, shall I fetch your stuff from shipboard ANTIPHOLUS"
+        },
+        {
+            "speaker": "of ephesus",
+            "text": "Dromio, what stuff of mine hast thou embarkd"
+        },
+        {
+            "speaker": "dromio of syracuse",
+            "text": "Your goods that lay at host, sir, in the Centaur. ANTIPHOLUS"
+        },
+        {
+            "speaker": "of syracuse",
+            "text": "He speaks to me. I am your master, Dromio: Come, go with us well look to that anon: Embrace thy brother there rejoice with him."
+        },
+        {
+            "text": "Exeunt Antipholus of Syracuse and Antipholus of Ephesus"
+        },
+        {
+            "speaker": "dromio of syracuse",
+            "text": "There is a fat friend at your masters house, That kitchend me for you today at dinner: She now shall be my sister, not my wife."
+        },
+        {
+            "speaker": "dromio of ephesus",
+            "text": "Methinks you are my glass, and not my brother: I see by you I am a sweetfaced youth. Will you walk in to see their gossiping"
+        },
+        {
+            "speaker": "dromio of syracuse",
+            "text": "Not I, sir you are my elder."
+        },
+        {
+            "speaker": "dromio of ephesus",
+            "text": "Thats a question: how shall we try it"
+        },
+        {
+            "speaker": "dromio of syracuse",
+            "text": "Well draw cuts for the senior: till then lead thou first."
+        },
+        {
+            "speaker": "dromio of ephesus",
+            "text": "Nay, then, thus: We came into the world like brother and brother And now lets go hand in hand, not one before another."
+        },
+        {
+            "text": "Exeunt"
+        }
+    ]
+}

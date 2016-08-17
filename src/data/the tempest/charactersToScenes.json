@@ -1,0 +1,99 @@
+{
+    "master": [
+        "Act 1, scene 1"
+    ],
+    "boatswain": [
+        "Act 1, scene 1",
+        "Act 5, scene 1"
+    ],
+    "alonso": [
+        "Act 1, scene 1",
+        "Act 2, scene 1",
+        "Act 3, scene 3",
+        "Act 5, scene 1"
+    ],
+    "antonio": [
+        "Act 1, scene 1",
+        "Act 2, scene 1",
+        "Act 3, scene 3",
+        "Act 5, scene 1"
+    ],
+    "gonzalo": [
+        "Act 1, scene 1",
+        "Act 2, scene 1",
+        "Act 3, scene 3",
+        "Act 5, scene 1"
+    ],
+    "sebastian": [
+        "Act 1, scene 1",
+        "Act 2, scene 1",
+        "Act 3, scene 3",
+        "Act 5, scene 1"
+    ],
+    "mariners": [
+        "Act 1, scene 1"
+    ],
+    "miranda": [
+        "Act 1, scene 2",
+        "Act 3, scene 1",
+        "Act 4, scene 1",
+        "Act 5, scene 1"
+    ],
+    "prospero": [
+        "Act 1, scene 2",
+        "Act 3, scene 1",
+        "Act 3, scene 3",
+        "Act 4, scene 1",
+        "Act 5, scene 1"
+    ],
+    "ariel": [
+        "Act 1, scene 2",
+        "Act 2, scene 1",
+        "Act 3, scene 2",
+        "Act 3, scene 3",
+        "Act 4, scene 1",
+        "Act 5, scene 1"
+    ],
+    "caliban": [
+        "Act 1, scene 2",
+        "Act 2, scene 2",
+        "Act 3, scene 2",
+        "Act 4, scene 1",
+        "Act 5, scene 1"
+    ],
+    "ferdinand": [
+        "Act 1, scene 2",
+        "Act 3, scene 1",
+        "Act 4, scene 1",
+        "Act 5, scene 1"
+    ],
+    "adrian": [
+        "Act 2, scene 1",
+        "Act 3, scene 3"
+    ],
+    "francisco": [
+        "Act 2, scene 1",
+        "Act 3, scene 3"
+    ],
+    "trinculo": [
+        "Act 2, scene 2",
+        "Act 3, scene 2",
+        "Act 4, scene 1",
+        "Act 5, scene 1"
+    ],
+    "stephano": [
+        "Act 2, scene 2",
+        "Act 3, scene 2",
+        "Act 4, scene 1",
+        "Act 5, scene 1"
+    ],
+    "iris": [
+        "Act 4, scene 1"
+    ],
+    "ceres": [
+        "Act 4, scene 1"
+    ],
+    "juno": [
+        "Act 4, scene 1"
+    ]
+}

@@ -1,0 +1,2594 @@
+[
+    {
+        "line_id": 1,
+        "line_number": "",
+        "play_name": "Henry IV",
+        "speaker": "",
+        "speech_number": "",
+        "text_entry": "ACT I"
+    },
+    {
+        "line_id": 2,
+        "line_number": "",
+        "play_name": "Henry IV",
+        "speaker": "",
+        "speech_number": "",
+        "text_entry": "SCENE I. London. The palace."
+    },
+    {
+        "line_id": 3,
+        "line_number": "",
+        "play_name": "Henry IV",
+        "speaker": "",
+        "speech_number": "",
+        "text_entry": "Enter KING HENRY, LORD JOHN OF LANCASTER, the EARL of WESTMORELAND, SIR WALTER BLUNT, and others"
+    },
+    {
+        "line_id": 4,
+        "line_number": "1.1.1",
+        "play_name": "Henry IV",
+        "speaker": "KING HENRY IV",
+        "speech_number": 1,
+        "text_entry": "So shaken as we are, so wan with care,"
+    },
+    {
+        "line_id": 5,
+        "line_number": "1.1.2",
+        "play_name": "Henry IV",
+        "speaker": "KING HENRY IV",
+        "speech_number": 1,
+        "text_entry": "Find we a time for frighted peace to pant,"
+    },
+    {
+        "line_id": 6,
+        "line_number": "1.1.3",
+        "play_name": "Henry IV",
+        "speaker": "KING HENRY IV",
+        "speech_number": 1,
+        "text_entry": "And breathe shortwinded accents of new broils"
+    },
+    {
+        "line_id": 7,
+        "line_number": "1.1.4",
+        "play_name": "Henry IV",
+        "speaker": "KING HENRY IV",
+        "speech_number": 1,
+        "text_entry": "To be commenced in strands afar remote."
+    },
+    {
+        "line_id": 8,
+        "line_number": "1.1.5",
+        "play_name": "Henry IV",
+        "speaker": "KING HENRY IV",
+        "speech_number": 1,
+        "text_entry": "No more the thirsty entrance of this soil"
+    },
+    {
+        "line_id": 9,
+        "line_number": "1.1.6",
+        "play_name": "Henry IV",
+        "speaker": "KING HENRY IV",
+        "speech_number": 1,
+        "text_entry": "Shall daub her lips with her own childrens blood"
+    },
+    {
+        "line_id": 10,
+        "line_number": "1.1.7",
+        "play_name": "Henry IV",
+        "speaker": "KING HENRY IV",
+        "speech_number": 1,
+        "text_entry": "Nor more shall trenching war channel her fields,"
+    },
+    {
+        "line_id": 11,
+        "line_number": "1.1.8",
+        "play_name": "Henry IV",
+        "speaker": "KING HENRY IV",
+        "speech_number": 1,
+        "text_entry": "Nor bruise her flowerets with the armed hoofs"
+    },
+    {
+        "line_id": 12,
+        "line_number": "1.1.9",
+        "play_name": "Henry IV",
+        "speaker": "KING HENRY IV",
+        "speech_number": 1,
+        "text_entry": "Of hostile paces: those opposed eyes,"
+    },
+    {
+        "line_id": 13,
+        "line_number": "1.1.10",
+        "play_name": "Henry IV",
+        "speaker": "KING HENRY IV",
+        "speech_number": 1,
+        "text_entry": "Which, like the meteors of a troubled heaven,"
+    },
+    {
+        "line_id": 14,
+        "line_number": "1.1.11",
+        "play_name": "Henry IV",
+        "speaker": "KING HENRY IV",
+        "speech_number": 1,
+        "text_entry": "All of one nature, of one substance bred,"
+    },
+    {
+        "line_id": 15,
+        "line_number": "1.1.12",
+        "play_name": "Henry IV",
+        "speaker": "KING HENRY IV",
+        "speech_number": 1,
+        "text_entry": "Did lately meet in the intestine shock"
+    },
+    {
+        "line_id": 16,
+        "line_number": "1.1.13",
+        "play_name": "Henry IV",
+        "speaker": "KING HENRY IV",
+        "speech_number": 1,
+        "text_entry": "And furious close of civil butchery"
+    },
+    {
+        "line_id": 17,
+        "line_number": "1.1.14",
+        "play_name": "Henry IV",
+        "speaker": "KING HENRY IV",
+        "speech_number": 1,
+        "text_entry": "Shall now, in mutual wellbeseeming ranks,"
+    },
+    {
+        "line_id": 18,
+        "line_number": "1.1.15",
+        "play_name": "Henry IV",
+        "speaker": "KING HENRY IV",
+        "speech_number": 1,
+        "text_entry": "March all one way and be no more opposed"
+    },
+    {
+        "line_id": 19,
+        "line_number": "1.1.16",
+        "play_name": "Henry IV",
+        "speaker": "KING HENRY IV",
+        "speech_number": 1,
+        "text_entry": "Against acquaintance, kindred and allies:"
+    },
+    {
+        "line_id": 20,
+        "line_number": "1.1.17",
+        "play_name": "Henry IV",
+        "speaker": "KING HENRY IV",
+        "speech_number": 1,
+        "text_entry": "The edge of war, like an illsheathed knife,"
+    },
+    {
+        "line_id": 21,
+        "line_number": "1.1.18",
+        "play_name": "Henry IV",
+        "speaker": "KING HENRY IV",
+        "speech_number": 1,
+        "text_entry": "No more shall cut his master. Therefore, friends,"
+    },
+    {
+        "line_id": 22,
+        "line_number": "1.1.19",
+        "play_name": "Henry IV",
+        "speaker": "KING HENRY IV",
+        "speech_number": 1,
+        "text_entry": "As far as to the sepulchre of Christ,"
+    },
+    {
+        "line_id": 23,
+        "line_number": "1.1.20",
+        "play_name": "Henry IV",
+        "speaker": "KING HENRY IV",
+        "speech_number": 1,
+        "text_entry": "Whose soldier now, under whose blessed cross"
+    },
+    {
+        "line_id": 24,
+        "line_number": "1.1.21",
+        "play_name": "Henry IV",
+        "speaker": "KING HENRY IV",
+        "speech_number": 1,
+        "text_entry": "We are impressed and engaged to fight,"
+    },
+    {
+        "line_id": 25,
+        "line_number": "1.1.22",
+        "play_name": "Henry IV",
+        "speaker": "KING HENRY IV",
+        "speech_number": 1,
+        "text_entry": "Forthwith a power of English shall we levy"
+    },
+    {
+        "line_id": 26,
+        "line_number": "1.1.23",
+        "play_name": "Henry IV",
+        "speaker": "KING HENRY IV",
+        "speech_number": 1,
+        "text_entry": "Whose arms were moulded in their mothers womb"
+    },
+    {
+        "line_id": 27,
+        "line_number": "1.1.24",
+        "play_name": "Henry IV",
+        "speaker": "KING HENRY IV",
+        "speech_number": 1,
+        "text_entry": "To chase these pagans in those holy fields"
+    },
+    {
+        "line_id": 28,
+        "line_number": "1.1.25",
+        "play_name": "Henry IV",
+        "speaker": "KING HENRY IV",
+        "speech_number": 1,
+        "text_entry": "Over whose acres walkd those blessed feet"
+    },
+    {
+        "line_id": 29,
+        "line_number": "1.1.26",
+        "play_name": "Henry IV",
+        "speaker": "KING HENRY IV",
+        "speech_number": 1,
+        "text_entry": "Which fourteen hundred years ago were naild"
+    },
+    {
+        "line_id": 30,
+        "line_number": "1.1.27",
+        "play_name": "Henry IV",
+        "speaker": "KING HENRY IV",
+        "speech_number": 1,
+        "text_entry": "For our advantage on the bitter cross."
+    },
+    {
+        "line_id": 31,
+        "line_number": "1.1.28",
+        "play_name": "Henry IV",
+        "speaker": "KING HENRY IV",
+        "speech_number": 1,
+        "text_entry": "But this our purpose now is twelve month old,"
+    },
+    {
+        "line_id": 32,
+        "line_number": "1.1.29",
+        "play_name": "Henry IV",
+        "speaker": "KING HENRY IV",
+        "speech_number": 1,
+        "text_entry": "And bootless tis to tell you we will go:"
+    },
+    {
+        "line_id": 33,
+        "line_number": "1.1.30",
+        "play_name": "Henry IV",
+        "speaker": "KING HENRY IV",
+        "speech_number": 1,
+        "text_entry": "Therefore we meet not now. Then let me hear"
+    },
+    {
+        "line_id": 34,
+        "line_number": "1.1.31",
+        "play_name": "Henry IV",
+        "speaker": "KING HENRY IV",
+        "speech_number": 1,
+        "text_entry": "Of you, my gentle cousin Westmoreland,"
+    },
+    {
+        "line_id": 35,
+        "line_number": "1.1.32",
+        "play_name": "Henry IV",
+        "speaker": "KING HENRY IV",
+        "speech_number": 1,
+        "text_entry": "What yesternight our council did decree"
+    },
+    {
+        "line_id": 36,
+        "line_number": "1.1.33",
+        "play_name": "Henry IV",
+        "speaker": "KING HENRY IV",
+        "speech_number": 1,
+        "text_entry": "In forwarding this dear expedience."
+    },
+    {
+        "line_id": 37,
+        "line_number": "1.1.34",
+        "play_name": "Henry IV",
+        "speaker": "WESTMORELAND",
+        "speech_number": 2,
+        "text_entry": "My liege, this haste was hot in question,"
+    },
+    {
+        "line_id": 38,
+        "line_number": "1.1.35",
+        "play_name": "Henry IV",
+        "speaker": "WESTMORELAND",
+        "speech_number": 2,
+        "text_entry": "And many limits of the charge set down"
+    },
+    {
+        "line_id": 39,
+        "line_number": "1.1.36",
+        "play_name": "Henry IV",
+        "speaker": "WESTMORELAND",
+        "speech_number": 2,
+        "text_entry": "But yesternight: when all athwart there came"
+    },
+    {
+        "line_id": 40,
+        "line_number": "1.1.37",
+        "play_name": "Henry IV",
+        "speaker": "WESTMORELAND",
+        "speech_number": 2,
+        "text_entry": "A post from Wales loaden with heavy news"
+    },
+    {
+        "line_id": 41,
+        "line_number": "1.1.38",
+        "play_name": "Henry IV",
+        "speaker": "WESTMORELAND",
+        "speech_number": 2,
+        "text_entry": "Whose worst was, that the noble Mortimer,"
+    },
+    {
+        "line_id": 42,
+        "line_number": "1.1.39",
+        "play_name": "Henry IV",
+        "speaker": "WESTMORELAND",
+        "speech_number": 2,
+        "text_entry": "Leading the men of Herefordshire to fight"
+    },
+    {
+        "line_id": 43,
+        "line_number": "1.1.40",
+        "play_name": "Henry IV",
+        "speaker": "WESTMORELAND",
+        "speech_number": 2,
+        "text_entry": "Against the irregular and wild Glendower,"
+    },
+    {
+        "line_id": 44,
+        "line_number": "1.1.41",
+        "play_name": "Henry IV",
+        "speaker": "WESTMORELAND",
+        "speech_number": 2,
+        "text_entry": "Was by the rude hands of that Welshman taken,"
+    },
+    {
+        "line_id": 45,
+        "line_number": "1.1.42",
+        "play_name": "Henry IV",
+        "speaker": "WESTMORELAND",
+        "speech_number": 2,
+        "text_entry": "A thousand of his people butchered"
+    },
+    {
+        "line_id": 46,
+        "line_number": "1.1.43",
+        "play_name": "Henry IV",
+        "speaker": "WESTMORELAND",
+        "speech_number": 2,
+        "text_entry": "Upon whose dead corpse there was such misuse,"
+    },
+    {
+        "line_id": 47,
+        "line_number": "1.1.44",
+        "play_name": "Henry IV",
+        "speaker": "WESTMORELAND",
+        "speech_number": 2,
+        "text_entry": "Such beastly shameless transformation,"
+    },
+    {
+        "line_id": 48,
+        "line_number": "1.1.45",
+        "play_name": "Henry IV",
+        "speaker": "WESTMORELAND",
+        "speech_number": 2,
+        "text_entry": "By those Welshwomen done as may not be"
+    },
+    {
+        "line_id": 49,
+        "line_number": "1.1.46",
+        "play_name": "Henry IV",
+        "speaker": "WESTMORELAND",
+        "speech_number": 2,
+        "text_entry": "Without much shame retold or spoken of."
+    },
+    {
+        "line_id": 50,
+        "line_number": "1.1.47",
+        "play_name": "Henry IV",
+        "speaker": "KING HENRY IV",
+        "speech_number": 3,
+        "text_entry": "It seems then that the tidings of this broil"
+    },
+    {
+        "line_id": 51,
+        "line_number": "1.1.48",
+        "play_name": "Henry IV",
+        "speaker": "KING HENRY IV",
+        "speech_number": 3,
+        "text_entry": "Brake off our business for the Holy Land."
+    },
+    {
+        "line_id": 52,
+        "line_number": "1.1.49",
+        "play_name": "Henry IV",
+        "speaker": "WESTMORELAND",
+        "speech_number": 4,
+        "text_entry": "This matchd with other did, my gracious lord"
+    },
+    {
+        "line_id": 53,
+        "line_number": "1.1.50",
+        "play_name": "Henry IV",
+        "speaker": "WESTMORELAND",
+        "speech_number": 4,
+        "text_entry": "For more uneven and unwelcome news"
+    },
+    {
+        "line_id": 54,
+        "line_number": "1.1.51",
+        "play_name": "Henry IV",
+        "speaker": "WESTMORELAND",
+        "speech_number": 4,
+        "text_entry": "Came from the north and thus it did import:"
+    },
+    {
+        "line_id": 55,
+        "line_number": "1.1.52",
+        "play_name": "Henry IV",
+        "speaker": "WESTMORELAND",
+        "speech_number": 4,
+        "text_entry": "On Holyrood day, the gallant Hotspur there,"
+    },
+    {
+        "line_id": 56,
+        "line_number": "1.1.53",
+        "play_name": "Henry IV",
+        "speaker": "WESTMORELAND",
+        "speech_number": 4,
+        "text_entry": "Young Harry Percy and brave Archibald,"
+    },
+    {
+        "line_id": 57,
+        "line_number": "1.1.54",
+        "play_name": "Henry IV",
+        "speaker": "WESTMORELAND",
+        "speech_number": 4,
+        "text_entry": "That evervaliant and approved Scot,"
+    },
+    {
+        "line_id": 58,
+        "line_number": "1.1.55",
+        "play_name": "Henry IV",
+        "speaker": "WESTMORELAND",
+        "speech_number": 4,
+        "text_entry": "At Holmedon met,"
+    },
+    {
+        "line_id": 59,
+        "line_number": "1.1.56",
+        "play_name": "Henry IV",
+        "speaker": "WESTMORELAND",
+        "speech_number": 4,
+        "text_entry": "Where they did spend a sad and bloody hour,"
+    },
+    {
+        "line_id": 60,
+        "line_number": "1.1.57",
+        "play_name": "Henry IV",
+        "speaker": "WESTMORELAND",
+        "speech_number": 4,
+        "text_entry": "As by discharge of their artillery,"
+    },
+    {
+        "line_id": 61,
+        "line_number": "1.1.58",
+        "play_name": "Henry IV",
+        "speaker": "WESTMORELAND",
+        "speech_number": 4,
+        "text_entry": "And shape of likelihood, the news was told"
+    },
+    {
+        "line_id": 62,
+        "line_number": "1.1.59",
+        "play_name": "Henry IV",
+        "speaker": "WESTMORELAND",
+        "speech_number": 4,
+        "text_entry": "For he that brought them, in the very heat"
+    },
+    {
+        "line_id": 63,
+        "line_number": "1.1.60",
+        "play_name": "Henry IV",
+        "speaker": "WESTMORELAND",
+        "speech_number": 4,
+        "text_entry": "And pride of their contention did take horse,"
+    },
+    {
+        "line_id": 64,
+        "line_number": "1.1.61",
+        "play_name": "Henry IV",
+        "speaker": "WESTMORELAND",
+        "speech_number": 4,
+        "text_entry": "Uncertain of the issue any way."
+    },
+    {
+        "line_id": 65,
+        "line_number": "1.1.62",
+        "play_name": "Henry IV",
+        "speaker": "KING HENRY IV",
+        "speech_number": 5,
+        "text_entry": "Here is a dear, a true industrious friend,"
+    },
+    {
+        "line_id": 66,
+        "line_number": "1.1.63",
+        "play_name": "Henry IV",
+        "speaker": "KING HENRY IV",
+        "speech_number": 5,
+        "text_entry": "Sir Walter Blunt, new lighted from his horse."
+    },
+    {
+        "line_id": 67,
+        "line_number": "1.1.64",
+        "play_name": "Henry IV",
+        "speaker": "KING HENRY IV",
+        "speech_number": 5,
+        "text_entry": "Staind with the variation of each soil"
+    },
+    {
+        "line_id": 68,
+        "line_number": "1.1.65",
+        "play_name": "Henry IV",
+        "speaker": "KING HENRY IV",
+        "speech_number": 5,
+        "text_entry": "Betwixt that Holmedon and this seat of ours"
+    },
+    {
+        "line_id": 69,
+        "line_number": "1.1.66",
+        "play_name": "Henry IV",
+        "speaker": "KING HENRY IV",
+        "speech_number": 5,
+        "text_entry": "And he hath brought us smooth and welcome news."
+    },
+    {
+        "line_id": 70,
+        "line_number": "1.1.67",
+        "play_name": "Henry IV",
+        "speaker": "KING HENRY IV",
+        "speech_number": 5,
+        "text_entry": "The Earl of Douglas is discomfited:"
+    },
+    {
+        "line_id": 71,
+        "line_number": "1.1.68",
+        "play_name": "Henry IV",
+        "speaker": "KING HENRY IV",
+        "speech_number": 5,
+        "text_entry": "Ten thousand bold Scots, two and twenty knights,"
+    },
+    {
+        "line_id": 72,
+        "line_number": "1.1.69",
+        "play_name": "Henry IV",
+        "speaker": "KING HENRY IV",
+        "speech_number": 5,
+        "text_entry": "Balkd in their own blood did Sir Walter see"
+    },
+    {
+        "line_id": 73,
+        "line_number": "1.1.70",
+        "play_name": "Henry IV",
+        "speaker": "KING HENRY IV",
+        "speech_number": 5,
+        "text_entry": "On Holmedons plains. Of prisoners, Hotspur took"
+    },
+    {
+        "line_id": 74,
+        "line_number": "1.1.71",
+        "play_name": "Henry IV",
+        "speaker": "KING HENRY IV",
+        "speech_number": 5,
+        "text_entry": "Mordake the Earl of Fife, and eldest son"
+    },
+    {
+        "line_id": 75,
+        "line_number": "1.1.72",
+        "play_name": "Henry IV",
+        "speaker": "KING HENRY IV",
+        "speech_number": 5,
+        "text_entry": "To beaten Douglas and the Earl of Athol,"
+    },
+    {
+        "line_id": 76,
+        "line_number": "1.1.73",
+        "play_name": "Henry IV",
+        "speaker": "KING HENRY IV",
+        "speech_number": 5,
+        "text_entry": "Of Murray, Angus, and Menteith:"
+    },
+    {
+        "line_id": 77,
+        "line_number": "1.1.74",
+        "play_name": "Henry IV",
+        "speaker": "KING HENRY IV",
+        "speech_number": 5,
+        "text_entry": "And is not this an honourable spoil"
+    },
+    {
+        "line_id": 78,
+        "line_number": "1.1.75",
+        "play_name": "Henry IV",
+        "speaker": "KING HENRY IV",
+        "speech_number": 5,
+        "text_entry": "A gallant prize ha, cousin, is it not"
+    },
+    {
+        "line_id": 79,
+        "line_number": "1.1.76",
+        "play_name": "Henry IV",
+        "speaker": "WESTMORELAND",
+        "speech_number": 6,
+        "text_entry": "In faith,"
+    },
+    {
+        "line_id": 80,
+        "line_number": "1.1.77",
+        "play_name": "Henry IV",
+        "speaker": "WESTMORELAND",
+        "speech_number": 6,
+        "text_entry": "It is a conquest for a prince to boast of."
+    },
+    {
+        "line_id": 81,
+        "line_number": "1.1.78",
+        "play_name": "Henry IV",
+        "speaker": "KING HENRY IV",
+        "speech_number": 7,
+        "text_entry": "Yea, there thou makest me sad and makest me sin"
+    },
+    {
+        "line_id": 82,
+        "line_number": "1.1.79",
+        "play_name": "Henry IV",
+        "speaker": "KING HENRY IV",
+        "speech_number": 7,
+        "text_entry": "In envy that my Lord Northumberland"
+    },
+    {
+        "line_id": 83,
+        "line_number": "1.1.80",
+        "play_name": "Henry IV",
+        "speaker": "KING HENRY IV",
+        "speech_number": 7,
+        "text_entry": "Should be the father to so blest a son,"
+    },
+    {
+        "line_id": 84,
+        "line_number": "1.1.81",
+        "play_name": "Henry IV",
+        "speaker": "KING HENRY IV",
+        "speech_number": 7,
+        "text_entry": "A son who is the theme of honours tongue"
+    },
+    {
+        "line_id": 85,
+        "line_number": "1.1.82",
+        "play_name": "Henry IV",
+        "speaker": "KING HENRY IV",
+        "speech_number": 7,
+        "text_entry": "Amongst a grove, the very straightest plant"
+    },
+    {
+        "line_id": 86,
+        "line_number": "1.1.83",
+        "play_name": "Henry IV",
+        "speaker": "KING HENRY IV",
+        "speech_number": 7,
+        "text_entry": "Who is sweet Fortunes minion and her pride:"
+    },
+    {
+        "line_id": 87,
+        "line_number": "1.1.84",
+        "play_name": "Henry IV",
+        "speaker": "KING HENRY IV",
+        "speech_number": 7,
+        "text_entry": "Whilst I, by looking on the praise of him,"
+    },
+    {
+        "line_id": 88,
+        "line_number": "1.1.85",
+        "play_name": "Henry IV",
+        "speaker": "KING HENRY IV",
+        "speech_number": 7,
+        "text_entry": "See riot and dishonour stain the brow"
+    },
+    {
+        "line_id": 89,
+        "line_number": "1.1.86",
+        "play_name": "Henry IV",
+        "speaker": "KING HENRY IV",
+        "speech_number": 7,
+        "text_entry": "Of my young Harry. O that it could be proved"
+    },
+    {
+        "line_id": 90,
+        "line_number": "1.1.87",
+        "play_name": "Henry IV",
+        "speaker": "KING HENRY IV",
+        "speech_number": 7,
+        "text_entry": "That some nighttripping fairy had exchanged"
+    },
+    {
+        "line_id": 91,
+        "line_number": "1.1.88",
+        "play_name": "Henry IV",
+        "speaker": "KING HENRY IV",
+        "speech_number": 7,
+        "text_entry": "In cradleclothes our children where they lay,"
+    },
+    {
+        "line_id": 92,
+        "line_number": "1.1.89",
+        "play_name": "Henry IV",
+        "speaker": "KING HENRY IV",
+        "speech_number": 7,
+        "text_entry": "And calld mine Percy, his Plantagenet!"
+    },
+    {
+        "line_id": 93,
+        "line_number": "1.1.90",
+        "play_name": "Henry IV",
+        "speaker": "KING HENRY IV",
+        "speech_number": 7,
+        "text_entry": "Then would I have his Harry, and he mine."
+    },
+    {
+        "line_id": 94,
+        "line_number": "1.1.91",
+        "play_name": "Henry IV",
+        "speaker": "KING HENRY IV",
+        "speech_number": 7,
+        "text_entry": "But let him from my thoughts. What think you, coz,"
+    },
+    {
+        "line_id": 95,
+        "line_number": "1.1.92",
+        "play_name": "Henry IV",
+        "speaker": "KING HENRY IV",
+        "speech_number": 7,
+        "text_entry": "Of this young Percys pride the prisoners,"
+    },
+    {
+        "line_id": 96,
+        "line_number": "1.1.93",
+        "play_name": "Henry IV",
+        "speaker": "KING HENRY IV",
+        "speech_number": 7,
+        "text_entry": "Which he in this adventure hath surprised,"
+    },
+    {
+        "line_id": 97,
+        "line_number": "1.1.94",
+        "play_name": "Henry IV",
+        "speaker": "KING HENRY IV",
+        "speech_number": 7,
+        "text_entry": "To his own use he keeps and sends me word,"
+    },
+    {
+        "line_id": 98,
+        "line_number": "1.1.95",
+        "play_name": "Henry IV",
+        "speaker": "KING HENRY IV",
+        "speech_number": 7,
+        "text_entry": "I shall have none but Mordake Earl of Fife."
+    },
+    {
+        "line_id": 99,
+        "line_number": "1.1.96",
+        "play_name": "Henry IV",
+        "speaker": "WESTMORELAND",
+        "speech_number": 8,
+        "text_entry": "This is his uncles teaching this is Worcester,"
+    },
+    {
+        "line_id": 100,
+        "line_number": "1.1.97",
+        "play_name": "Henry IV",
+        "speaker": "WESTMORELAND",
+        "speech_number": 8,
+        "text_entry": "Malevolent to you in all aspects"
+    },
+    {
+        "line_id": 101,
+        "line_number": "1.1.98",
+        "play_name": "Henry IV",
+        "speaker": "WESTMORELAND",
+        "speech_number": 8,
+        "text_entry": "Which makes him prune himself, and bristle up"
+    },
+    {
+        "line_id": 102,
+        "line_number": "1.1.99",
+        "play_name": "Henry IV",
+        "speaker": "WESTMORELAND",
+        "speech_number": 8,
+        "text_entry": "The crest of youth against your dignity."
+    },
+    {
+        "line_id": 103,
+        "line_number": "1.1.100",
+        "play_name": "Henry IV",
+        "speaker": "KING HENRY IV",
+        "speech_number": 9,
+        "text_entry": "But I have sent for him to answer this"
+    },
+    {
+        "line_id": 104,
+        "line_number": "1.1.101",
+        "play_name": "Henry IV",
+        "speaker": "KING HENRY IV",
+        "speech_number": 9,
+        "text_entry": "And for this cause awhile we must neglect"
+    },
+    {
+        "line_id": 105,
+        "line_number": "1.1.102",
+        "play_name": "Henry IV",
+        "speaker": "KING HENRY IV",
+        "speech_number": 9,
+        "text_entry": "Our holy purpose to Jerusalem."
+    },
+    {
+        "line_id": 106,
+        "line_number": "1.1.103",
+        "play_name": "Henry IV",
+        "speaker": "KING HENRY IV",
+        "speech_number": 9,
+        "text_entry": "Cousin, on Wednesday next our council we"
+    },
+    {
+        "line_id": 107,
+        "line_number": "1.1.104",
+        "play_name": "Henry IV",
+        "speaker": "KING HENRY IV",
+        "speech_number": 9,
+        "text_entry": "Will hold at Windsor so inform the lords:"
+    },
+    {
+        "line_id": 108,
+        "line_number": "1.1.105",
+        "play_name": "Henry IV",
+        "speaker": "KING HENRY IV",
+        "speech_number": 9,
+        "text_entry": "But come yourself with speed to us again"
+    },
+    {
+        "line_id": 109,
+        "line_number": "1.1.106",
+        "play_name": "Henry IV",
+        "speaker": "KING HENRY IV",
+        "speech_number": 9,
+        "text_entry": "For more is to be said and to be done"
+    },
+    {
+        "line_id": 110,
+        "line_number": "1.1.107",
+        "play_name": "Henry IV",
+        "speaker": "KING HENRY IV",
+        "speech_number": 9,
+        "text_entry": "Than out of anger can be uttered."
+    },
+    {
+        "line_id": 111,
+        "line_number": "1.1.108",
+        "play_name": "Henry IV",
+        "speaker": "WESTMORELAND",
+        "speech_number": 10,
+        "text_entry": "I will, my liege."
+    },
+    {
+        "line_id": 112,
+        "line_number": "",
+        "play_name": "Henry IV",
+        "speaker": "WESTMORELAND",
+        "speech_number": 10,
+        "text_entry": "Exeunt"
+    },
+    {
+        "line_id": 113,
+        "line_number": "",
+        "play_name": "Henry IV",
+        "speaker": "WESTMORELAND",
+        "speech_number": 10,
+        "text_entry": "SCENE II. London. An apartment of the Princes."
+    },
+    {
+        "line_id": 114,
+        "line_number": "",
+        "play_name": "Henry IV",
+        "speaker": "WESTMORELAND",
+        "speech_number": 10,
+        "text_entry": "Enter the PRINCE OF WALES and FALSTAFF"
+    },
+    {
+        "line_id": 115,
+        "line_number": "1.2.1",
+        "play_name": "Henry IV",
+        "speaker": "FALSTAFF",
+        "speech_number": 1,
+        "text_entry": "Now, Hal, what time of day is it, lad"
+    },
+    {
+        "line_id": 116,
+        "line_number": "1.2.2",
+        "play_name": "Henry IV",
+        "speaker": "PRINCE HENRY",
+        "speech_number": 2,
+        "text_entry": "Thou art so fatwitted, with drinking of old sack"
+    },
+    {
+        "line_id": 117,
+        "line_number": "1.2.3",
+        "play_name": "Henry IV",
+        "speaker": "PRINCE HENRY",
+        "speech_number": 2,
+        "text_entry": "and unbuttoning thee after supper and sleeping upon"
+    },
+    {
+        "line_id": 118,
+        "line_number": "1.2.4",
+        "play_name": "Henry IV",
+        "speaker": "PRINCE HENRY",
+        "speech_number": 2,
+        "text_entry": "benches after noon, that thou hast forgotten to"
+    },
+    {
+        "line_id": 119,
+        "line_number": "1.2.5",
+        "play_name": "Henry IV",
+        "speaker": "PRINCE HENRY",
+        "speech_number": 2,
+        "text_entry": "demand that truly which thou wouldst truly know."
+    },
+    {
+        "line_id": 120,
+        "line_number": "1.2.6",
+        "play_name": "Henry IV",
+        "speaker": "PRINCE HENRY",
+        "speech_number": 2,
+        "text_entry": "What a devil hast thou to do with the time of the"
+    },
+    {
+        "line_id": 121,
+        "line_number": "1.2.7",
+        "play_name": "Henry IV",
+        "speaker": "PRINCE HENRY",
+        "speech_number": 2,
+        "text_entry": "day Unless hours were cups of sack and minutes"
+    },
+    {
+        "line_id": 122,
+        "line_number": "1.2.8",
+        "play_name": "Henry IV",
+        "speaker": "PRINCE HENRY",
+        "speech_number": 2,
+        "text_entry": "capons and clocks the tongues of bawds and dials the"
+    },
+    {
+        "line_id": 123,
+        "line_number": "1.2.9",
+        "play_name": "Henry IV",
+        "speaker": "PRINCE HENRY",
+        "speech_number": 2,
+        "text_entry": "signs of leapinghouses and the blessed sun himself"
+    },
+    {
+        "line_id": 124,
+        "line_number": "1.2.10",
+        "play_name": "Henry IV",
+        "speaker": "PRINCE HENRY",
+        "speech_number": 2,
+        "text_entry": "a fair hot wench in flamecoloured taffeta, I see no"
+    },
+    {
+        "line_id": 125,
+        "line_number": "1.2.11",
+        "play_name": "Henry IV",
+        "speaker": "PRINCE HENRY",
+        "speech_number": 2,
+        "text_entry": "reason why thou shouldst be so superfluous to demand"
+    },
+    {
+        "line_id": 126,
+        "line_number": "1.2.12",
+        "play_name": "Henry IV",
+        "speaker": "PRINCE HENRY",
+        "speech_number": 2,
+        "text_entry": "the time of the day."
+    },
+    {
+        "line_id": 127,
+        "line_number": "1.2.13",
+        "play_name": "Henry IV",
+        "speaker": "FALSTAFF",
+        "speech_number": 3,
+        "text_entry": "Indeed, you come near me now, Hal for we that take"
+    },
+    {
+        "line_id": 128,
+        "line_number": "1.2.14",
+        "play_name": "Henry IV",
+        "speaker": "FALSTAFF",
+        "speech_number": 3,
+        "text_entry": "purses go by the moon and the seven stars, and not"
+    },
+    {
+        "line_id": 129,
+        "line_number": "1.2.15",
+        "play_name": "Henry IV",
+        "speaker": "FALSTAFF",
+        "speech_number": 3,
+        "text_entry": "by Phoebus, he,that wandering knight so fair. And,"
+    },
+    {
+        "line_id": 130,
+        "line_number": "1.2.16",
+        "play_name": "Henry IV",
+        "speaker": "FALSTAFF",
+        "speech_number": 3,
+        "text_entry": "I prithee, sweet wag, when thou art king, as, God"
+    },
+    {
+        "line_id": 131,
+        "line_number": "1.2.17",
+        "play_name": "Henry IV",
+        "speaker": "FALSTAFF",
+        "speech_number": 3,
+        "text_entry": "save thy grace,majesty I should say, for grace"
+    },
+    {
+        "line_id": 132,
+        "line_number": "1.2.18",
+        "play_name": "Henry IV",
+        "speaker": "FALSTAFF",
+        "speech_number": 3,
+        "text_entry": "thou wilt have none,"
+    },
+    {
+        "line_id": 133,
+        "line_number": "1.2.19",
+        "play_name": "Henry IV",
+        "speaker": "PRINCE HENRY",
+        "speech_number": 4,
+        "text_entry": "What, none"
+    },
+    {
+        "line_id": 134,
+        "line_number": "1.2.20",
+        "play_name": "Henry IV",
+        "speaker": "FALSTAFF",
+        "speech_number": 5,
+        "text_entry": "No, by my troth, not so much as will serve to"
+    },
+    {
+        "line_id": 135,
+        "line_number": "1.2.21",
+        "play_name": "Henry IV",
+        "speaker": "FALSTAFF",
+        "speech_number": 5,
+        "text_entry": "prologue to an egg and butter."
+    },
+    {
+        "line_id": 136,
+        "line_number": "1.2.22",
+        "play_name": "Henry IV",
+        "speaker": "PRINCE HENRY",
+        "speech_number": 6,
+        "text_entry": "Well, how then come, roundly, roundly."
+    },
+    {
+        "line_id": 137,
+        "line_number": "1.2.23",
+        "play_name": "Henry IV",
+        "speaker": "FALSTAFF",
+        "speech_number": 7,
+        "text_entry": "Marry, then, sweet wag, when thou art king, let not"
+    },
+    {
+        "line_id": 138,
+        "line_number": "1.2.24",
+        "play_name": "Henry IV",
+        "speaker": "FALSTAFF",
+        "speech_number": 7,
+        "text_entry": "us that are squires of the nights body be called"
+    },
+    {
+        "line_id": 139,
+        "line_number": "1.2.25",
+        "play_name": "Henry IV",
+        "speaker": "FALSTAFF",
+        "speech_number": 7,
+        "text_entry": "thieves of the days beauty: let us be Dianas"
+    },
+    {
+        "line_id": 140,
+        "line_number": "1.2.26",
+        "play_name": "Henry IV",
+        "speaker": "FALSTAFF",
+        "speech_number": 7,
+        "text_entry": "foresters, gentlemen of the shade, minions of the"
+    },
+    {
+        "line_id": 141,
+        "line_number": "1.2.27",
+        "play_name": "Henry IV",
+        "speaker": "FALSTAFF",
+        "speech_number": 7,
+        "text_entry": "moon and let men say we be men of good government,"
+    },
+    {
+        "line_id": 142,
+        "line_number": "1.2.28",
+        "play_name": "Henry IV",
+        "speaker": "FALSTAFF",
+        "speech_number": 7,
+        "text_entry": "being governed, as the sea is, by our noble and"
+    },
+    {
+        "line_id": 143,
+        "line_number": "1.2.29",
+        "play_name": "Henry IV",
+        "speaker": "FALSTAFF",
+        "speech_number": 7,
+        "text_entry": "chaste mistress the moon, under whose countenance we steal."
+    },
+    {
+        "line_id": 144,
+        "line_number": "1.2.30",
+        "play_name": "Henry IV",
+        "speaker": "PRINCE HENRY",
+        "speech_number": 8,
+        "text_entry": "Thou sayest well, and it holds well too for the"
+    },
+    {
+        "line_id": 145,
+        "line_number": "1.2.31",
+        "play_name": "Henry IV",
+        "speaker": "PRINCE HENRY",
+        "speech_number": 8,
+        "text_entry": "fortune of us that are the moons men doth ebb and"
+    },
+    {
+        "line_id": 146,
+        "line_number": "1.2.32",
+        "play_name": "Henry IV",
+        "speaker": "PRINCE HENRY",
+        "speech_number": 8,
+        "text_entry": "flow like the sea, being governed, as the sea is,"
+    },
+    {
+        "line_id": 147,
+        "line_number": "1.2.33",
+        "play_name": "Henry IV",
+        "speaker": "PRINCE HENRY",
+        "speech_number": 8,
+        "text_entry": "by the moon. As, for proof, now: a purse of gold"
+    },
+    {
+        "line_id": 148,
+        "line_number": "1.2.34",
+        "play_name": "Henry IV",
+        "speaker": "PRINCE HENRY",
+        "speech_number": 8,
+        "text_entry": "most resolutely snatched on Monday night and most"
+    },
+    {
+        "line_id": 149,
+        "line_number": "1.2.35",
+        "play_name": "Henry IV",
+        "speaker": "PRINCE HENRY",
+        "speech_number": 8,
+        "text_entry": "dissolutely spent on Tuesday morning got with"
+    },
+    {
+        "line_id": 150,
+        "line_number": "1.2.36",
+        "play_name": "Henry IV",
+        "speaker": "PRINCE HENRY",
+        "speech_number": 8,
+        "text_entry": "swearing Lay by and spent with crying Bring in"
+    },
+    {
+        "line_id": 151,
+        "line_number": "1.2.37",
+        "play_name": "Henry IV",
+        "speaker": "PRINCE HENRY",
+        "speech_number": 8,
+        "text_entry": "now in as low an ebb as the foot of the ladder"
+    },
+    {
+        "line_id": 152,
+        "line_number": "1.2.38",
+        "play_name": "Henry IV",
+        "speaker": "PRINCE HENRY",
+        "speech_number": 8,
+        "text_entry": "and by and by in as high a flow as the ridge of the gallows."
+    },
+    {
+        "line_id": 153,
+        "line_number": "1.2.39",
+        "play_name": "Henry IV",
+        "speaker": "FALSTAFF",
+        "speech_number": 9,
+        "text_entry": "By the Lord, thou sayest true, lad. And is not my"
+    },
+    {
+        "line_id": 154,
+        "line_number": "1.2.40",
+        "play_name": "Henry IV",
+        "speaker": "FALSTAFF",
+        "speech_number": 9,
+        "text_entry": "hostess of the tavern a most sweet wench"
+    },
+    {
+        "line_id": 155,
+        "line_number": "1.2.41",
+        "play_name": "Henry IV",
+        "speaker": "PRINCE HENRY",
+        "speech_number": 10,
+        "text_entry": "As the honey of Hybla, my old lad of the castle. And"
+    },
+    {
+        "line_id": 156,
+        "line_number": "1.2.42",
+        "play_name": "Henry IV",
+        "speaker": "PRINCE HENRY",
+        "speech_number": 10,
+        "text_entry": "is not a buff jerkin a most sweet robe of durance"
+    },
+    {
+        "line_id": 157,
+        "line_number": "1.2.43",
+        "play_name": "Henry IV",
+        "speaker": "FALSTAFF",
+        "speech_number": 11,
+        "text_entry": "How now, how now, mad wag! what, in thy quips and"
+    },
+    {
+        "line_id": 158,
+        "line_number": "1.2.44",
+        "play_name": "Henry IV",
+        "speaker": "FALSTAFF",
+        "speech_number": 11,
+        "text_entry": "thy quiddities what a plague have I to do with a"
+    },
+    {
+        "line_id": 159,
+        "line_number": "1.2.45",
+        "play_name": "Henry IV",
+        "speaker": "FALSTAFF",
+        "speech_number": 11,
+        "text_entry": "buff jerkin"
+    },
+    {
+        "line_id": 160,
+        "line_number": "1.2.46",
+        "play_name": "Henry IV",
+        "speaker": "PRINCE HENRY",
+        "speech_number": 12,
+        "text_entry": "Why, what a pox have I to do with my hostess of the tavern"
+    },
+    {
+        "line_id": 161,
+        "line_number": "1.2.47",
+        "play_name": "Henry IV",
+        "speaker": "FALSTAFF",
+        "speech_number": 13,
+        "text_entry": "Well, thou hast called her to a reckoning many a"
+    },
+    {
+        "line_id": 162,
+        "line_number": "1.2.48",
+        "play_name": "Henry IV",
+        "speaker": "FALSTAFF",
+        "speech_number": 13,
+        "text_entry": "time and oft."
+    },
+    {
+        "line_id": 163,
+        "line_number": "1.2.49",
+        "play_name": "Henry IV",
+        "speaker": "PRINCE HENRY",
+        "speech_number": 14,
+        "text_entry": "Did I ever call for thee to pay thy part"
+    },
+    {
+        "line_id": 164,
+        "line_number": "1.2.50",
+        "play_name": "Henry IV",
+        "speaker": "FALSTAFF",
+        "speech_number": 15,
+        "text_entry": "No Ill give thee thy due, thou hast paid all there."
+    },
+    {
+        "line_id": 165,
+        "line_number": "1.2.51",
+        "play_name": "Henry IV",
+        "speaker": "PRINCE HENRY",
+        "speech_number": 16,
+        "text_entry": "Yea, and elsewhere, so far as my coin would stretch"
+    },
+    {
+        "line_id": 166,
+        "line_number": "1.2.52",
+        "play_name": "Henry IV",
+        "speaker": "PRINCE HENRY",
+        "speech_number": 16,
+        "text_entry": "and where it would not, I have used my credit."
+    },
+    {
+        "line_id": 167,
+        "line_number": "1.2.53",
+        "play_name": "Henry IV",
+        "speaker": "FALSTAFF",
+        "speech_number": 17,
+        "text_entry": "Yea, and so used it that were it not here apparent"
+    },
+    {
+        "line_id": 168,
+        "line_number": "1.2.54",
+        "play_name": "Henry IV",
+        "speaker": "FALSTAFF",
+        "speech_number": 17,
+        "text_entry": "that thou art heir apparentBut, I prithee, sweet"
+    },
+    {
+        "line_id": 169,
+        "line_number": "1.2.55",
+        "play_name": "Henry IV",
+        "speaker": "FALSTAFF",
+        "speech_number": 17,
+        "text_entry": "wag, shall there be gallows standing in England when"
+    },
+    {
+        "line_id": 170,
+        "line_number": "1.2.56",
+        "play_name": "Henry IV",
+        "speaker": "FALSTAFF",
+        "speech_number": 17,
+        "text_entry": "thou art king and resolution thus fobbed as it is"
+    },
+    {
+        "line_id": 171,
+        "line_number": "1.2.57",
+        "play_name": "Henry IV",
+        "speaker": "FALSTAFF",
+        "speech_number": 17,
+        "text_entry": "with the rusty curb of old father antic the law Do"
+    },
+    {
+        "line_id": 172,
+        "line_number": "1.2.58",
+        "play_name": "Henry IV",
+        "speaker": "FALSTAFF",
+        "speech_number": 17,
+        "text_entry": "not thou, when thou art king, hang a thief."
+    },
+    {
+        "line_id": 173,
+        "line_number": "1.2.59",
+        "play_name": "Henry IV",
+        "speaker": "PRINCE HENRY",
+        "speech_number": 18,
+        "text_entry": "No thou shalt."
+    },
+    {
+        "line_id": 174,
+        "line_number": "1.2.60",
+        "play_name": "Henry IV",
+        "speaker": "FALSTAFF",
+        "speech_number": 19,
+        "text_entry": "Shall I O rare! By the Lord, Ill be a brave judge."
+    },
+    {
+        "line_id": 175,
+        "line_number": "1.2.61",
+        "play_name": "Henry IV",
+        "speaker": "PRINCE HENRY",
+        "speech_number": 20,
+        "text_entry": "Thou judgest false already: I mean, thou shalt have"
+    },
+    {
+        "line_id": 176,
+        "line_number": "1.2.62",
+        "play_name": "Henry IV",
+        "speaker": "PRINCE HENRY",
+        "speech_number": 20,
+        "text_entry": "the hanging of the thieves and so become a rare hangman."
+    },
+    {
+        "line_id": 177,
+        "line_number": "1.2.63",
+        "play_name": "Henry IV",
+        "speaker": "FALSTAFF",
+        "speech_number": 21,
+        "text_entry": "Well, Hal, well and in some sort it jumps with my"
+    },
+    {
+        "line_id": 178,
+        "line_number": "1.2.64",
+        "play_name": "Henry IV",
+        "speaker": "FALSTAFF",
+        "speech_number": 21,
+        "text_entry": "humour as well as waiting in the court, I can tell"
+    },
+    {
+        "line_id": 179,
+        "line_number": "1.2.65",
+        "play_name": "Henry IV",
+        "speaker": "FALSTAFF",
+        "speech_number": 21,
+        "text_entry": "you."
+    },
+    {
+        "line_id": 180,
+        "line_number": "1.2.66",
+        "play_name": "Henry IV",
+        "speaker": "PRINCE HENRY",
+        "speech_number": 22,
+        "text_entry": "For obtaining of suits"
+    },
+    {
+        "line_id": 181,
+        "line_number": "1.2.67",
+        "play_name": "Henry IV",
+        "speaker": "FALSTAFF",
+        "speech_number": 23,
+        "text_entry": "Yea, for obtaining of suits, whereof the hangman"
+    },
+    {
+        "line_id": 182,
+        "line_number": "1.2.68",
+        "play_name": "Henry IV",
+        "speaker": "FALSTAFF",
+        "speech_number": 23,
+        "text_entry": "hath no lean wardrobe. Sblood, I am as melancholy"
+    },
+    {
+        "line_id": 183,
+        "line_number": "1.2.69",
+        "play_name": "Henry IV",
+        "speaker": "FALSTAFF",
+        "speech_number": 23,
+        "text_entry": "as a gib cat or a lugged bear."
+    },
+    {
+        "line_id": 184,
+        "line_number": "1.2.70",
+        "play_name": "Henry IV",
+        "speaker": "PRINCE HENRY",
+        "speech_number": 24,
+        "text_entry": "Or an old lion, or a lovers lute."
+    },
+    {
+        "line_id": 185,
+        "line_number": "1.2.71",
+        "play_name": "Henry IV",
+        "speaker": "FALSTAFF",
+        "speech_number": 25,
+        "text_entry": "Yea, or the drone of a Lincolnshire bagpipe."
+    },
+    {
+        "line_id": 186,
+        "line_number": "1.2.72",
+        "play_name": "Henry IV",
+        "speaker": "PRINCE HENRY",
+        "speech_number": 26,
+        "text_entry": "What sayest thou to a hare, or the melancholy of"
+    },
+    {
+        "line_id": 187,
+        "line_number": "1.2.73",
+        "play_name": "Henry IV",
+        "speaker": "PRINCE HENRY",
+        "speech_number": 26,
+        "text_entry": "Moorditch"
+    },
+    {
+        "line_id": 188,
+        "line_number": "1.2.74",
+        "play_name": "Henry IV",
+        "speaker": "FALSTAFF",
+        "speech_number": 27,
+        "text_entry": "Thou hast the most unsavoury similes and art indeed"
+    },
+    {
+        "line_id": 189,
+        "line_number": "1.2.75",
+        "play_name": "Henry IV",
+        "speaker": "FALSTAFF",
+        "speech_number": 27,
+        "text_entry": "the most comparative, rascalliest, sweet young"
+    },
+    {
+        "line_id": 190,
+        "line_number": "1.2.76",
+        "play_name": "Henry IV",
+        "speaker": "FALSTAFF",
+        "speech_number": 27,
+        "text_entry": "prince. But, Hal, I prithee, trouble me no more"
+    },
+    {
+        "line_id": 191,
+        "line_number": "1.2.77",
+        "play_name": "Henry IV",
+        "speaker": "FALSTAFF",
+        "speech_number": 27,
+        "text_entry": "with vanity. I would to God thou and I knew where a"
+    },
+    {
+        "line_id": 192,
+        "line_number": "1.2.78",
+        "play_name": "Henry IV",
+        "speaker": "FALSTAFF",
+        "speech_number": 27,
+        "text_entry": "commodity of good names were to be bought. An old"
+    },
+    {
+        "line_id": 193,
+        "line_number": "1.2.79",
+        "play_name": "Henry IV",
+        "speaker": "FALSTAFF",
+        "speech_number": 27,
+        "text_entry": "lord of the council rated me the other day in the"
+    },
+    {
+        "line_id": 194,
+        "line_number": "1.2.80",
+        "play_name": "Henry IV",
+        "speaker": "FALSTAFF",
+        "speech_number": 27,
+        "text_entry": "street about you, sir, but I marked him not and yet"
+    },
+    {
+        "line_id": 195,
+        "line_number": "1.2.81",
+        "play_name": "Henry IV",
+        "speaker": "FALSTAFF",
+        "speech_number": 27,
+        "text_entry": "he talked very wisely, but I regarded him not and"
+    },
+    {
+        "line_id": 196,
+        "line_number": "1.2.82",
+        "play_name": "Henry IV",
+        "speaker": "FALSTAFF",
+        "speech_number": 27,
+        "text_entry": "yet he talked wisely, and in the street too."
+    },
+    {
+        "line_id": 197,
+        "line_number": "1.2.83",
+        "play_name": "Henry IV",
+        "speaker": "PRINCE HENRY",
+        "speech_number": 28,
+        "text_entry": "Thou didst well for wisdom cries out in the"
+    },
+    {
+        "line_id": 198,
+        "line_number": "1.2.84",
+        "play_name": "Henry IV",
+        "speaker": "PRINCE HENRY",
+        "speech_number": 28,
+        "text_entry": "streets, and no man regards it."
+    },
+    {
+        "line_id": 199,
+        "line_number": "1.2.85",
+        "play_name": "Henry IV",
+        "speaker": "FALSTAFF",
+        "speech_number": 29,
+        "text_entry": "O, thou hast damnable iteration and art indeed able"
+    },
+    {
+        "line_id": 200,
+        "line_number": "1.2.86",
+        "play_name": "Henry IV",
+        "speaker": "FALSTAFF",
+        "speech_number": 29,
+        "text_entry": "to corrupt a saint. Thou hast done much harm upon"
+    },
+    {
+        "line_id": 201,
+        "line_number": "1.2.87",
+        "play_name": "Henry IV",
+        "speaker": "FALSTAFF",
+        "speech_number": 29,
+        "text_entry": "me, Hal God forgive thee for it! Before I knew"
+    },
+    {
+        "line_id": 202,
+        "line_number": "1.2.88",
+        "play_name": "Henry IV",
+        "speaker": "FALSTAFF",
+        "speech_number": 29,
+        "text_entry": "thee, Hal, I knew nothing and now am I, if a man"
+    },
+    {
+        "line_id": 203,
+        "line_number": "1.2.89",
+        "play_name": "Henry IV",
+        "speaker": "FALSTAFF",
+        "speech_number": 29,
+        "text_entry": "should speak truly, little better than one of the"
+    },
+    {
+        "line_id": 204,
+        "line_number": "1.2.90",
+        "play_name": "Henry IV",
+        "speaker": "FALSTAFF",
+        "speech_number": 29,
+        "text_entry": "wicked. I must give over this life, and I will give"
+    },
+    {
+        "line_id": 205,
+        "line_number": "1.2.91",
+        "play_name": "Henry IV",
+        "speaker": "FALSTAFF",
+        "speech_number": 29,
+        "text_entry": "it over: by the Lord, and I do not, I am a villain:"
+    },
+    {
+        "line_id": 206,
+        "line_number": "1.2.92",
+        "play_name": "Henry IV",
+        "speaker": "FALSTAFF",
+        "speech_number": 29,
+        "text_entry": "Ill be damned for never a kings son in"
+    },
+    {
+        "line_id": 207,
+        "line_number": "1.2.93",
+        "play_name": "Henry IV",
+        "speaker": "FALSTAFF",
+        "speech_number": 29,
+        "text_entry": "Christendom."
+    },
+    {
+        "line_id": 208,
+        "line_number": "1.2.94",
+        "play_name": "Henry IV",
+        "speaker": "PRINCE HENRY",
+        "speech_number": 30,
+        "text_entry": "Where shall we take a purse tomorrow, Jack"
+    },
+    {
+        "line_id": 209,
+        "line_number": "1.2.95",
+        "play_name": "Henry IV",
+        "speaker": "FALSTAFF",
+        "speech_number": 31,
+        "text_entry": "Zounds, where thou wilt, lad Ill make one an I"
+    },
+    {
+        "line_id": 210,
+        "line_number": "1.2.96",
+        "play_name": "Henry IV",
+        "speaker": "FALSTAFF",
+        "speech_number": 31,
+        "text_entry": "do not, call me villain and baffle me."
+    },
+    {
+        "line_id": 211,
+        "line_number": "1.2.97",
+        "play_name": "Henry IV",
+        "speaker": "PRINCE HENRY",
+        "speech_number": 32,
+        "text_entry": "I see a good amendment of life in thee from praying"
+    },
+    {
+        "line_id": 212,
+        "line_number": "1.2.98",
+        "play_name": "Henry IV",
+        "speaker": "PRINCE HENRY",
+        "speech_number": 32,
+        "text_entry": "to pursetaking."
+    },
+    {
+        "line_id": 213,
+        "line_number": "1.2.99",
+        "play_name": "Henry IV",
+        "speaker": "FALSTAFF",
+        "speech_number": 33,
+        "text_entry": "Why, Hal, tis my vocation, Hal tis no sin for a"
+    },
+    {
+        "line_id": 214,
+        "line_number": "1.2.100",
+        "play_name": "Henry IV",
+        "speaker": "FALSTAFF",
+        "speech_number": 33,
+        "text_entry": "man to labour in his vocation."
+    },
+    {
+        "line_id": 215,
+        "line_number": "",
+        "play_name": "Henry IV",
+        "speaker": "FALSTAFF",
+        "speech_number": 33,
+        "text_entry": "Enter POINS"
+    },
+    {
+        "line_id": 216,
+        "line_number": "1.2.101",
+        "play_name": "Henry IV",
+        "speaker": "FALSTAFF",
+        "speech_number": 33,
+        "text_entry": "Poins! Now shall we know if Gadshill have set a"
+    },
+    {
+        "line_id": 217,
+        "line_number": "1.2.102",
+        "play_name": "Henry IV",
+        "speaker": "FALSTAFF",
+        "speech_number": 33,
+        "text_entry": "match. O, if men were to be saved by merit, what"
+    },
+    {
+        "line_id": 218,
+        "line_number": "1.2.103",
+        "play_name": "Henry IV",
+        "speaker": "FALSTAFF",
+        "speech_number": 33,
+        "text_entry": "hole in hell were hot enough for him This is the"
+    },
+    {
+        "line_id": 219,
+        "line_number": "1.2.104",
+        "play_name": "Henry IV",
+        "speaker": "FALSTAFF",
+        "speech_number": 33,
+        "text_entry": "most omnipotent villain that ever cried Stand to"
+    },
+    {
+        "line_id": 220,
+        "line_number": "1.2.105",
+        "play_name": "Henry IV",
+        "speaker": "FALSTAFF",
+        "speech_number": 33,
+        "text_entry": "a true man."
+    },
+    {
+        "line_id": 221,
+        "line_number": "1.2.106",
+        "play_name": "Henry IV",
+        "speaker": "PRINCE HENRY",
+        "speech_number": 34,
+        "text_entry": "Good morrow, Ned."
+    },
+    {
+        "line_id": 222,
+        "line_number": "1.2.107",
+        "play_name": "Henry IV",
+        "speaker": "POINS",
+        "speech_number": 35,
+        "text_entry": "Good morrow, sweet Hal. What says Monsieur Remorse"
+    },
+    {
+        "line_id": 223,
+        "line_number": "1.2.108",
+        "play_name": "Henry IV",
+        "speaker": "POINS",
+        "speech_number": 35,
+        "text_entry": "what says Sir John Sack and Sugar Jack! how"
+    },
+    {
+        "line_id": 224,
+        "line_number": "1.2.109",
+        "play_name": "Henry IV",
+        "speaker": "POINS",
+        "speech_number": 35,
+        "text_entry": "agrees the devil and thee about thy soul, that thou"
+    },
+    {
+        "line_id": 225,
+        "line_number": "1.2.110",
+        "play_name": "Henry IV",
+        "speaker": "POINS",
+        "speech_number": 35,
+        "text_entry": "soldest him on GoodFriday last for a cup of Madeira"
+    },
+    {
+        "line_id": 226,
+        "line_number": "1.2.111",
+        "play_name": "Henry IV",
+        "speaker": "POINS",
+        "speech_number": 35,
+        "text_entry": "and a cold capons leg"
+    },
+    {
+        "line_id": 227,
+        "line_number": "1.2.112",
+        "play_name": "Henry IV",
+        "speaker": "PRINCE HENRY",
+        "speech_number": 36,
+        "text_entry": "Sir John stands to his word, the devil shall have"
+    },
+    {
+        "line_id": 228,
+        "line_number": "1.2.113",
+        "play_name": "Henry IV",
+        "speaker": "PRINCE HENRY",
+        "speech_number": 36,
+        "text_entry": "his bargain for he was never yet a breaker of"
+    },
+    {
+        "line_id": 229,
+        "line_number": "1.2.114",
+        "play_name": "Henry IV",
+        "speaker": "PRINCE HENRY",
+        "speech_number": 36,
+        "text_entry": "proverbs: he will give the devil his due."
+    },
+    {
+        "line_id": 230,
+        "line_number": "1.2.115",
+        "play_name": "Henry IV",
+        "speaker": "POINS",
+        "speech_number": 37,
+        "text_entry": "Then art thou damned for keeping thy word with the devil."
+    },
+    {
+        "line_id": 231,
+        "line_number": "1.2.116",
+        "play_name": "Henry IV",
+        "speaker": "PRINCE HENRY",
+        "speech_number": 38,
+        "text_entry": "Else he had been damned for cozening the devil."
+    },
+    {
+        "line_id": 232,
+        "line_number": "1.2.117",
+        "play_name": "Henry IV",
+        "speaker": "POINS",
+        "speech_number": 39,
+        "text_entry": "But, my lads, my lads, tomorrow morning, by four"
+    },
+    {
+        "line_id": 233,
+        "line_number": "1.2.118",
+        "play_name": "Henry IV",
+        "speaker": "POINS",
+        "speech_number": 39,
+        "text_entry": "oclock, early at Gadshill! there are pilgrims going"
+    },
+    {
+        "line_id": 234,
+        "line_number": "1.2.119",
+        "play_name": "Henry IV",
+        "speaker": "POINS",
+        "speech_number": 39,
+        "text_entry": "to Canterbury with rich offerings, and traders"
+    },
+    {
+        "line_id": 235,
+        "line_number": "1.2.120",
+        "play_name": "Henry IV",
+        "speaker": "POINS",
+        "speech_number": 39,
+        "text_entry": "riding to London with fat purses: I have vizards"
+    },
+    {
+        "line_id": 236,
+        "line_number": "1.2.121",
+        "play_name": "Henry IV",
+        "speaker": "POINS",
+        "speech_number": 39,
+        "text_entry": "for you all you have horses for yourselves:"
+    },
+    {
+        "line_id": 237,
+        "line_number": "1.2.122",
+        "play_name": "Henry IV",
+        "speaker": "POINS",
+        "speech_number": 39,
+        "text_entry": "Gadshill lies tonight in Rochester: I have bespoke"
+    },
+    {
+        "line_id": 238,
+        "line_number": "1.2.123",
+        "play_name": "Henry IV",
+        "speaker": "POINS",
+        "speech_number": 39,
+        "text_entry": "supper tomorrow night in Eastcheap: we may do it"
+    },
+    {
+        "line_id": 239,
+        "line_number": "1.2.124",
+        "play_name": "Henry IV",
+        "speaker": "POINS",
+        "speech_number": 39,
+        "text_entry": "as secure as sleep. If you will go, I will stuff"
+    },
+    {
+        "line_id": 240,
+        "line_number": "1.2.125",
+        "play_name": "Henry IV",
+        "speaker": "POINS",
+        "speech_number": 39,
+        "text_entry": "your purses full of crowns if you will not, tarry"
+    },
+    {
+        "line_id": 241,
+        "line_number": "1.2.126",
+        "play_name": "Henry IV",
+        "speaker": "POINS",
+        "speech_number": 39,
+        "text_entry": "at home and be hanged."
+    },
+    {
+        "line_id": 242,
+        "line_number": "1.2.127",
+        "play_name": "Henry IV",
+        "speaker": "FALSTAFF",
+        "speech_number": 40,
+        "text_entry": "Hear ye, Yedward if I tarry at home and go not,"
+    },
+    {
+        "line_id": 243,
+        "line_number": "1.2.128",
+        "play_name": "Henry IV",
+        "speaker": "FALSTAFF",
+        "speech_number": 40,
+        "text_entry": "Ill hang you for going."
+    },
+    {
+        "line_id": 244,
+        "line_number": "1.2.129",
+        "play_name": "Henry IV",
+        "speaker": "POINS",
+        "speech_number": 41,
+        "text_entry": "You will, chops"
+    },
+    {
+        "line_id": 245,
+        "line_number": "1.2.130",
+        "play_name": "Henry IV",
+        "speaker": "FALSTAFF",
+        "speech_number": 42,
+        "text_entry": "Hal, wilt thou make one"
+    },
+    {
+        "line_id": 246,
+        "line_number": "1.2.131",
+        "play_name": "Henry IV",
+        "speaker": "PRINCE HENRY",
+        "speech_number": 43,
+        "text_entry": "Who, I rob I a thief not I, by my faith."
+    },
+    {
+        "line_id": 247,
+        "line_number": "1.2.132",
+        "play_name": "Henry IV",
+        "speaker": "FALSTAFF",
+        "speech_number": 44,
+        "text_entry": "Theres neither honesty, manhood, nor good"
+    },
+    {
+        "line_id": 248,
+        "line_number": "1.2.133",
+        "play_name": "Henry IV",
+        "speaker": "FALSTAFF",
+        "speech_number": 44,
+        "text_entry": "fellowship in thee, nor thou camest not of the blood"
+    },
+    {
+        "line_id": 249,
+        "line_number": "1.2.134",
+        "play_name": "Henry IV",
+        "speaker": "FALSTAFF",
+        "speech_number": 44,
+        "text_entry": "royal, if thou darest not stand for ten shillings."
+    },
+    {
+        "line_id": 250,
+        "line_number": "1.2.135",
+        "play_name": "Henry IV",
+        "speaker": "PRINCE HENRY",
+        "speech_number": 45,
+        "text_entry": "Well then, once in my days Ill be a madcap."
+    },
+    {
+        "line_id": 251,
+        "line_number": "1.2.136",
+        "play_name": "Henry IV",
+        "speaker": "FALSTAFF",
+        "speech_number": 46,
+        "text_entry": "Why, thats well said."
+    },
+    {
+        "line_id": 252,
+        "line_number": "1.2.137",
+        "play_name": "Henry IV",
+        "speaker": "PRINCE HENRY",
+        "speech_number": 47,
+        "text_entry": "Well, come what will, Ill tarry at home."
+    },
+    {
+        "line_id": 253,
+        "line_number": "1.2.138",
+        "play_name": "Henry IV",
+        "speaker": "FALSTAFF",
+        "speech_number": 48,
+        "text_entry": "By the Lord, Ill be a traitor then, when thou art king."
+    },
+    {
+        "line_id": 254,
+        "line_number": "1.2.139",
+        "play_name": "Henry IV",
+        "speaker": "PRINCE HENRY",
+        "speech_number": 49,
+        "text_entry": "I care not."
+    },
+    {
+        "line_id": 255,
+        "line_number": "1.2.140",
+        "play_name": "Henry IV",
+        "speaker": "POINS",
+        "speech_number": 50,
+        "text_entry": "Sir John, I prithee, leave the prince and me alone:"
+    },
+    {
+        "line_id": 256,
+        "line_number": "1.2.141",
+        "play_name": "Henry IV",
+        "speaker": "POINS",
+        "speech_number": 50,
+        "text_entry": "I will lay him down such reasons for this adventure"
+    },
+    {
+        "line_id": 257,
+        "line_number": "1.2.142",
+        "play_name": "Henry IV",
+        "speaker": "POINS",
+        "speech_number": 50,
+        "text_entry": "that he shall go."
+    },
+    {
+        "line_id": 258,
+        "line_number": "1.2.143",
+        "play_name": "Henry IV",
+        "speaker": "FALSTAFF",
+        "speech_number": 51,
+        "text_entry": "Well, God give thee the spirit of persuasion and him"
+    },
+    {
+        "line_id": 259,
+        "line_number": "1.2.144",
+        "play_name": "Henry IV",
+        "speaker": "FALSTAFF",
+        "speech_number": 51,
+        "text_entry": "the ears of profiting, that what thou speakest may"
+    },
+    {
+        "line_id": 260,
+        "line_number": "1.2.145",
+        "play_name": "Henry IV",
+        "speaker": "FALSTAFF",
+        "speech_number": 51,
+        "text_entry": "move and what he hears may be believed, that the"
+    },
+    {
+        "line_id": 261,
+        "line_number": "1.2.146",
+        "play_name": "Henry IV",
+        "speaker": "FALSTAFF",
+        "speech_number": 51,
+        "text_entry": "true prince may, for recreation sake, prove a false"
+    },
+    {
+        "line_id": 262,
+        "line_number": "1.2.147",
+        "play_name": "Henry IV",
+        "speaker": "FALSTAFF",
+        "speech_number": 51,
+        "text_entry": "thief for the poor abuses of the time want"
+    },
+    {
+        "line_id": 263,
+        "line_number": "1.2.148",
+        "play_name": "Henry IV",
+        "speaker": "FALSTAFF",
+        "speech_number": 51,
+        "text_entry": "countenance. Farewell: you shall find me in Eastcheap."
+    },
+    {
+        "line_id": 264,
+        "line_number": "1.2.149",
+        "play_name": "Henry IV",
+        "speaker": "PRINCE HENRY",
+        "speech_number": 52,
+        "text_entry": "Farewell, thou latter spring! farewell, Allhallown summer!"
+    },
+    {
+        "line_id": 265,
+        "line_number": "",
+        "play_name": "Henry IV",
+        "speaker": "PRINCE HENRY",
+        "speech_number": 52,
+        "text_entry": "Exit Falstaff"
+    },
+    {
+        "line_id": 266,
+        "line_number": "1.2.150",
+        "play_name": "Henry IV",
+        "speaker": "POINS",
+        "speech_number": 53,
+        "text_entry": "Now, my good sweet honey lord, ride with us"
+    },
+    {
+        "line_id": 267,
+        "line_number": "1.2.151",
+        "play_name": "Henry IV",
+        "speaker": "POINS",
+        "speech_number": 53,
+        "text_entry": "tomorrow: I have a jest to execute that I cannot"
+    },
+    {
+        "line_id": 268,
+        "line_number": "1.2.152",
+        "play_name": "Henry IV",
+        "speaker": "POINS",
+        "speech_number": 53,
+        "text_entry": "manage alone. Falstaff, Bardolph, Peto and Gadshill"
+    },
+    {
+        "line_id": 269,
+        "line_number": "1.2.153",
+        "play_name": "Henry IV",
+        "speaker": "POINS",
+        "speech_number": 53,
+        "text_entry": "shall rob those men that we have already waylaid:"
+    },
+    {
+        "line_id": 270,
+        "line_number": "1.2.154",
+        "play_name": "Henry IV",
+        "speaker": "POINS",
+        "speech_number": 53,
+        "text_entry": "yourself and I will not be there and when they"
+    },
+    {
+        "line_id": 271,
+        "line_number": "1.2.155",
+        "play_name": "Henry IV",
+        "speaker": "POINS",
+        "speech_number": 53,
+        "text_entry": "have the booty, if you and I do not rob them, cut"
+    },
+    {
+        "line_id": 272,
+        "line_number": "1.2.156",
+        "play_name": "Henry IV",
+        "speaker": "POINS",
+        "speech_number": 53,
+        "text_entry": "this head off from my shoulders."
+    },
+    {
+        "line_id": 273,
+        "line_number": "1.2.157",
+        "play_name": "Henry IV",
+        "speaker": "PRINCE HENRY",
+        "speech_number": 54,
+        "text_entry": "How shall we part with them in setting forth"
+    },
+    {
+        "line_id": 274,
+        "line_number": "1.2.158",
+        "play_name": "Henry IV",
+        "speaker": "POINS",
+        "speech_number": 55,
+        "text_entry": "Why, we will set forth before or after them, and"
+    },
+    {
+        "line_id": 275,
+        "line_number": "1.2.159",
+        "play_name": "Henry IV",
+        "speaker": "POINS",
+        "speech_number": 55,
+        "text_entry": "appoint them a place of meeting, wherein it is at"
+    },
+    {
+        "line_id": 276,
+        "line_number": "1.2.160",
+        "play_name": "Henry IV",
+        "speaker": "POINS",
+        "speech_number": 55,
+        "text_entry": "our pleasure to fail, and then will they adventure"
+    },
+    {
+        "line_id": 277,
+        "line_number": "1.2.161",
+        "play_name": "Henry IV",
+        "speaker": "POINS",
+        "speech_number": 55,
+        "text_entry": "upon the exploit themselves which they shall have"
+    },
+    {
+        "line_id": 278,
+        "line_number": "1.2.162",
+        "play_name": "Henry IV",
+        "speaker": "POINS",
+        "speech_number": 55,
+        "text_entry": "no sooner achieved, but well set upon them."
+    },
+    {
+        "line_id": 279,
+        "line_number": "1.2.163",
+        "play_name": "Henry IV",
+        "speaker": "PRINCE HENRY",
+        "speech_number": 56,
+        "text_entry": "Yea, but tis like that they will know us by our"
+    },
+    {
+        "line_id": 280,
+        "line_number": "1.2.164",
+        "play_name": "Henry IV",
+        "speaker": "PRINCE HENRY",
+        "speech_number": 56,
+        "text_entry": "horses, by our habits and by every other"
+    },
+    {
+        "line_id": 281,
+        "line_number": "1.2.165",
+        "play_name": "Henry IV",
+        "speaker": "PRINCE HENRY",
+        "speech_number": 56,
+        "text_entry": "appointment, to be ourselves."
+    },
+    {
+        "line_id": 282,
+        "line_number": "1.2.166",
+        "play_name": "Henry IV",
+        "speaker": "POINS",
+        "speech_number": 57,
+        "text_entry": "Tut! our horses they shall not see: Ill tie them"
+    },
+    {
+        "line_id": 283,
+        "line_number": "1.2.167",
+        "play_name": "Henry IV",
+        "speaker": "POINS",
+        "speech_number": 57,
+        "text_entry": "in the wood our vizards we will change after we"
+    },
+    {
+        "line_id": 284,
+        "line_number": "1.2.168",
+        "play_name": "Henry IV",
+        "speaker": "POINS",
+        "speech_number": 57,
+        "text_entry": "leave them: and, sirrah, I have cases of buckram"
+    },
+    {
+        "line_id": 285,
+        "line_number": "1.2.169",
+        "play_name": "Henry IV",
+        "speaker": "POINS",
+        "speech_number": 57,
+        "text_entry": "for the nonce, to immask our noted outward garments."
+    },
+    {
+        "line_id": 286,
+        "line_number": "1.2.170",
+        "play_name": "Henry IV",
+        "speaker": "PRINCE HENRY",
+        "speech_number": 58,
+        "text_entry": "Yea, but I doubt they will be too hard for us."
+    },
+    {
+        "line_id": 287,
+        "line_number": "1.2.171",
+        "play_name": "Henry IV",
+        "speaker": "POINS",
+        "speech_number": 59,
+        "text_entry": "Well, for two of them, I know them to be as"
+    },
+    {
+        "line_id": 288,
+        "line_number": "1.2.172",
+        "play_name": "Henry IV",
+        "speaker": "POINS",
+        "speech_number": 59,
+        "text_entry": "truebred cowards as ever turned back and for the"
+    },
+    {
+        "line_id": 289,
+        "line_number": "1.2.173",
+        "play_name": "Henry IV",
+        "speaker": "POINS",
+        "speech_number": 59,
+        "text_entry": "third, if he fight longer than he sees reason, Ill"
+    },
+    {
+        "line_id": 290,
+        "line_number": "1.2.174",
+        "play_name": "Henry IV",
+        "speaker": "POINS",
+        "speech_number": 59,
+        "text_entry": "forswear arms. The virtue of this jest will be, the"
+    },
+    {
+        "line_id": 291,
+        "line_number": "1.2.175",
+        "play_name": "Henry IV",
+        "speaker": "POINS",
+        "speech_number": 59,
+        "text_entry": "incomprehensible lies that this same fat rogue will"
+    },
+    {
+        "line_id": 292,
+        "line_number": "1.2.176",
+        "play_name": "Henry IV",
+        "speaker": "POINS",
+        "speech_number": 59,
+        "text_entry": "tell us when we meet at supper: how thirty, at"
+    },
+    {
+        "line_id": 293,
+        "line_number": "1.2.177",
+        "play_name": "Henry IV",
+        "speaker": "POINS",
+        "speech_number": 59,
+        "text_entry": "least, he fought with what wards, what blows, what"
+    },
+    {
+        "line_id": 294,
+        "line_number": "1.2.178",
+        "play_name": "Henry IV",
+        "speaker": "POINS",
+        "speech_number": 59,
+        "text_entry": "extremities he endured and in the reproof of this"
+    },
+    {
+        "line_id": 295,
+        "line_number": "1.2.179",
+        "play_name": "Henry IV",
+        "speaker": "POINS",
+        "speech_number": 59,
+        "text_entry": "lies the jest."
+    },
+    {
+        "line_id": 296,
+        "line_number": "1.2.180",
+        "play_name": "Henry IV",
+        "speaker": "PRINCE HENRY",
+        "speech_number": 60,
+        "text_entry": "Well, Ill go with thee: provide us all things"
+    },
+    {
+        "line_id": 297,
+        "line_number": "1.2.181",
+        "play_name": "Henry IV",
+        "speaker": "PRINCE HENRY",
+        "speech_number": 60,
+        "text_entry": "necessary and meet me tomorrow night in Eastcheap"
+    },
+    {
+        "line_id": 298,
+        "line_number": "1.2.182",
+        "play_name": "Henry IV",
+        "speaker": "PRINCE HENRY",
+        "speech_number": 60,
+        "text_entry": "there Ill sup. Farewell."
+    },
+    {
+        "line_id": 299,
+        "line_number": "1.2.183",
+        "play_name": "Henry IV",
+        "speaker": "POINS",
+        "speech_number": 61,
+        "text_entry": "Farewell, my lord."
+    },
+    {
+        "line_id": 300,
+        "line_number": "",
+        "play_name": "Henry IV",
+        "speaker": "POINS",
+        "speech_number": 61,
+        "text_entry": "Exit Poins"
+    },
+    {
+        "line_id": 301,
+        "line_number": "1.2.184",
+        "play_name": "Henry IV",
+        "speaker": "PRINCE HENRY",
+        "speech_number": 62,
+        "text_entry": "I know you all, and will awhile uphold"
+    },
+    {
+        "line_id": 302,
+        "line_number": "1.2.185",
+        "play_name": "Henry IV",
+        "speaker": "PRINCE HENRY",
+        "speech_number": 62,
+        "text_entry": "The unyoked humour of your idleness:"
+    },
+    {
+        "line_id": 303,
+        "line_number": "1.2.186",
+        "play_name": "Henry IV",
+        "speaker": "PRINCE HENRY",
+        "speech_number": 62,
+        "text_entry": "Yet herein will I imitate the sun,"
+    },
+    {
+        "line_id": 304,
+        "line_number": "1.2.187",
+        "play_name": "Henry IV",
+        "speaker": "PRINCE HENRY",
+        "speech_number": 62,
+        "text_entry": "Who doth permit the base contagious clouds"
+    },
+    {
+        "line_id": 305,
+        "line_number": "1.2.188",
+        "play_name": "Henry IV",
+        "speaker": "PRINCE HENRY",
+        "speech_number": 62,
+        "text_entry": "To smother up his beauty from the world,"
+    },
+    {
+        "line_id": 306,
+        "line_number": "1.2.189",
+        "play_name": "Henry IV",
+        "speaker": "PRINCE HENRY",
+        "speech_number": 62,
+        "text_entry": "That, when he please again to be himself,"
+    },
+    {
+        "line_id": 307,
+        "line_number": "1.2.190",
+        "play_name": "Henry IV",
+        "speaker": "PRINCE HENRY",
+        "speech_number": 62,
+        "text_entry": "Being wanted, he may be more wonderd at,"
+    },
+    {
+        "line_id": 308,
+        "line_number": "1.2.191",
+        "play_name": "Henry IV",
+        "speaker": "PRINCE HENRY",
+        "speech_number": 62,
+        "text_entry": "By breaking through the foul and ugly mists"
+    },
+    {
+        "line_id": 309,
+        "line_number": "1.2.192",
+        "play_name": "Henry IV",
+        "speaker": "PRINCE HENRY",
+        "speech_number": 62,
+        "text_entry": "Of vapours that did seem to strangle him."
+    },
+    {
+        "line_id": 310,
+        "line_number": "1.2.193",
+        "play_name": "Henry IV",
+        "speaker": "PRINCE HENRY",
+        "speech_number": 62,
+        "text_entry": "If all the year were playing holidays,"
+    },
+    {
+        "line_id": 311,
+        "line_number": "1.2.194",
+        "play_name": "Henry IV",
+        "speaker": "PRINCE HENRY",
+        "speech_number": 62,
+        "text_entry": "To sport would be as tedious as to work"
+    },
+    {
+        "line_id": 312,
+        "line_number": "1.2.195",
+        "play_name": "Henry IV",
+        "speaker": "PRINCE HENRY",
+        "speech_number": 62,
+        "text_entry": "But when they seldom come, they wishd for come,"
+    },
+    {
+        "line_id": 313,
+        "line_number": "1.2.196",
+        "play_name": "Henry IV",
+        "speaker": "PRINCE HENRY",
+        "speech_number": 62,
+        "text_entry": "And nothing pleaseth but rare accidents."
+    },
+    {
+        "line_id": 314,
+        "line_number": "1.2.197",
+        "play_name": "Henry IV",
+        "speaker": "PRINCE HENRY",
+        "speech_number": 62,
+        "text_entry": "So, when this loose behavior I throw off"
+    },
+    {
+        "line_id": 315,
+        "line_number": "1.2.198",
+        "play_name": "Henry IV",
+        "speaker": "PRINCE HENRY",
+        "speech_number": 62,
+        "text_entry": "And pay the debt I never promised,"
+    },
+    {
+        "line_id": 316,
+        "line_number": "1.2.199",
+        "play_name": "Henry IV",
+        "speaker": "PRINCE HENRY",
+        "speech_number": 62,
+        "text_entry": "By how much better than my word I am,"
+    },
+    {
+        "line_id": 317,
+        "line_number": "1.2.200",
+        "play_name": "Henry IV",
+        "speaker": "PRINCE HENRY",
+        "speech_number": 62,
+        "text_entry": "By so much shall I falsify mens hopes"
+    },
+    {
+        "line_id": 318,
+        "line_number": "1.2.201",
+        "play_name": "Henry IV",
+        "speaker": "PRINCE HENRY",
+        "speech_number": 62,
+        "text_entry": "And like bright metal on a sullen ground,"
+    },
+    {
+        "line_id": 319,
+        "line_number": "1.2.202",
+        "play_name": "Henry IV",
+        "speaker": "PRINCE HENRY",
+        "speech_number": 62,
+        "text_entry": "My reformation, glittering oer my fault,"
+    },
+    {
+        "line_id": 320,
+        "line_number": "1.2.203",
+        "play_name": "Henry IV",
+        "speaker": "PRINCE HENRY",
+        "speech_number": 62,
+        "text_entry": "Shall show more goodly and attract more eyes"
+    },
+    {
+        "line_id": 321,
+        "line_number": "1.2.204",
+        "play_name": "Henry IV",
+        "speaker": "PRINCE HENRY",
+        "speech_number": 62,
+        "text_entry": "Than that which hath no foil to set it off."
+    },
+    {
+        "line_id": 322,
+        "line_number": "1.2.205",
+        "play_name": "Henry IV",
+        "speaker": "PRINCE HENRY",
+        "speech_number": 62,
+        "text_entry": "Ill so offend, to make offence a skill"
+    },
+    {
+        "line_id": 323,
+        "line_number": "1.2.206",
+        "play_name": "Henry IV",
+        "speaker": "PRINCE HENRY",
+        "speech_number": 62,
+        "text_entry": "Redeeming time when men think least I will."
+    },
+    {
+        "line_id": 324,
+        "line_number": "",
+        "play_name": "Henry IV",
+        "speaker": "PRINCE HENRY",
+        "speech_number": 62,
+        "text_entry": "Exit"
+    }
+]

@@ -1,0 +1,283 @@
+{
+    "sceneName": "Act 1, scene 3",
+    "playName": "twelfth night",
+    "location": "OLIVIAS house.",
+    "lines": [
+        {
+            "text": "Enter SIR TOBY BELCH and MARIA"
+        },
+        {
+            "speaker": "sir toby belch",
+            "text": "What a plague means my niece, to take the death of her brother thus I am sure cares an enemy to life."
+        },
+        {
+            "speaker": "maria",
+            "text": "By my troth, Sir Toby, you must come in earlier o nights: your cousin, my lady, takes great exceptions to your ill hours."
+        },
+        {
+            "speaker": "sir toby belch",
+            "text": "Why, let her except, before excepted."
+        },
+        {
+            "speaker": "maria",
+            "text": "Ay, but you must confine yourself within the modest limits of order."
+        },
+        {
+            "speaker": "sir toby belch",
+            "text": "Confine! Ill confine myself no finer than I am: these clothes are good enough to drink in and so be these boots too: an they be not, let them hang themselves in their own straps."
+        },
+        {
+            "speaker": "maria",
+            "text": "That quaffing and drinking will undo you: I heard my lady talk of it yesterday and of a foolish knight that you brought in one night here to be her wooer."
+        },
+        {
+            "speaker": "sir toby belch",
+            "text": "Who, Sir Andrew Aguecheek"
+        },
+        {
+            "speaker": "maria",
+            "text": "Ay, he."
+        },
+        {
+            "speaker": "sir toby belch",
+            "text": "Hes as tall a man as anys in Illyria."
+        },
+        {
+            "speaker": "maria",
+            "text": "Whats that to the purpose"
+        },
+        {
+            "speaker": "sir toby belch",
+            "text": "Why, he has three thousand ducats a year."
+        },
+        {
+            "speaker": "maria",
+            "text": "Ay, but hell have but a year in all these ducats: hes a very fool and a prodigal."
+        },
+        {
+            "speaker": "sir toby belch",
+            "text": "Fie, that youll say so! he plays o the violdegamboys, and speaks three or four languages word for word without book, and hath all the good gifts of nature."
+        },
+        {
+            "speaker": "maria",
+            "text": "He hath indeed, almost natural: for besides that hes a fool, hes a great quarreller: and but that he hath the gift of a coward to allay the gust he hath in quarrelling, tis thought among the prudent he would quickly have the gift of a grave."
+        },
+        {
+            "speaker": "sir toby belch",
+            "text": "By this hand, they are scoundrels and subtractors that say so of him. Who are they"
+        },
+        {
+            "speaker": "maria",
+            "text": "They that add, moreover, hes drunk nightly in your company."
+        },
+        {
+            "speaker": "sir toby belch",
+            "text": "With drinking healths to my niece: Ill drink to her as long as there is a passage in my throat and drink in Illyria: hes a coward and a coystrill that will not drink to my niece till his brains turn o the toe like a parishtop. What, wench! Castiliano vulgo! for here comes Sir Andrew Agueface."
+        },
+        {
+            "text": "Enter SIR ANDREW"
+        },
+        {
+            "speaker": "sir andrew",
+            "text": "Sir Toby Belch! how now, Sir Toby Belch!"
+        },
+        {
+            "speaker": "sir toby belch",
+            "text": "Sweet Sir Andrew!"
+        },
+        {
+            "speaker": "sir andrew",
+            "text": "Bless you, fair shrew."
+        },
+        {
+            "speaker": "maria",
+            "text": "And you too, sir."
+        },
+        {
+            "speaker": "sir toby belch",
+            "text": "Accost, Sir Andrew, accost."
+        },
+        {
+            "speaker": "sir andrew",
+            "text": "Whats that"
+        },
+        {
+            "speaker": "sir toby belch",
+            "text": "My nieces chambermaid."
+        },
+        {
+            "speaker": "sir andrew",
+            "text": "Good Mistress Accost, I desire better acquaintance."
+        },
+        {
+            "speaker": "maria",
+            "text": "My name is Mary, sir."
+        },
+        {
+            "speaker": "sir andrew",
+            "text": "Good Mistress Mary Accost,"
+        },
+        {
+            "speaker": "sir toby belch",
+            "text": "You mistake, knight accost is front her, board her, woo her, assail her."
+        },
+        {
+            "speaker": "sir andrew",
+            "text": "By my troth, I would not undertake her in this company. Is that the meaning of accost"
+        },
+        {
+            "speaker": "maria",
+            "text": "Fare you well, gentlemen."
+        },
+        {
+            "speaker": "sir toby belch",
+            "text": "An thou let part so, Sir Andrew, would thou mightst never draw sword again."
+        },
+        {
+            "speaker": "sir andrew",
+            "text": "An you part so, mistress, I would I might never draw sword again. Fair lady, do you think you have fools in hand"
+        },
+        {
+            "speaker": "maria",
+            "text": "Sir, I have not you by the hand."
+        },
+        {
+            "speaker": "sir andrew",
+            "text": "Marry, but you shall have and heres my hand."
+        },
+        {
+            "speaker": "maria",
+            "text": "Now, sir, thought is free: I pray you, bring your hand to the butterybar and let it drink."
+        },
+        {
+            "speaker": "sir andrew",
+            "text": "Wherefore, sweetheart whats your metaphor"
+        },
+        {
+            "speaker": "maria",
+            "text": "Its dry, sir."
+        },
+        {
+            "speaker": "sir andrew",
+            "text": "Why, I think so: I am not such an ass but I can keep my hand dry. But whats your jest"
+        },
+        {
+            "speaker": "maria",
+            "text": "A dry jest, sir."
+        },
+        {
+            "speaker": "sir andrew",
+            "text": "Are you full of them"
+        },
+        {
+            "speaker": "maria",
+            "text": "Ay, sir, I have them at my fingers ends: marry, now I let go your hand, I am barren."
+        },
+        {
+            "text": "Exit"
+        },
+        {
+            "speaker": "sir toby belch",
+            "text": "O knight thou lackest a cup of canary: when did I see thee so put down"
+        },
+        {
+            "speaker": "sir andrew",
+            "text": "Never in your life, I think unless you see canary put me down. Methinks sometimes I have no more wit than a Christian or an ordinary man has: but I am a great eater of beef and I believe that does harm to my wit."
+        },
+        {
+            "speaker": "sir toby belch",
+            "text": "No question."
+        },
+        {
+            "speaker": "sir andrew",
+            "text": "An I thought that, Ild forswear it. Ill ride home tomorrow, Sir Toby."
+        },
+        {
+            "speaker": "sir toby belch",
+            "text": "Pourquoi, my dear knight"
+        },
+        {
+            "speaker": "sir andrew",
+            "text": "What is Pourquoi do or not do I would I had bestowed that time in the tongues that I have in fencing, dancing and bearbaiting: O, had I but followed the arts!"
+        },
+        {
+            "speaker": "sir toby belch",
+            "text": "Then hadst thou had an excellent head of hair."
+        },
+        {
+            "speaker": "sir andrew",
+            "text": "Why, would that have mended my hair"
+        },
+        {
+            "speaker": "sir toby belch",
+            "text": "Past question for thou seest it will not curl by nature."
+        },
+        {
+            "speaker": "sir andrew",
+            "text": "But it becomes me well enough, doest not"
+        },
+        {
+            "speaker": "sir toby belch",
+            "text": "Excellent it hangs like flax on a distaff and I hope to see a housewife take thee between her legs and spin it off."
+        },
+        {
+            "speaker": "sir andrew",
+            "text": "Faith, Ill home tomorrow, Sir Toby: your niece will not be seen or if she be, its four to one shell none of me: the count himself here hard by woos her."
+        },
+        {
+            "speaker": "sir toby belch",
+            "text": "Shell none o the count: shell not match above her degree, neither in estate, years, nor wit I have heard her sweart. Tut, theres life int, man."
+        },
+        {
+            "speaker": "sir andrew",
+            "text": "Ill stay a month longer. I am a fellow o the strangest mind i the world I delight in masques and revels sometimes altogether."
+        },
+        {
+            "speaker": "sir toby belch",
+            "text": "Art thou good at these kickshawses, knight"
+        },
+        {
+            "speaker": "sir andrew",
+            "text": "As any man in Illyria, whatsoever he be, under the degree of my betters and yet I will not compare with an old man."
+        },
+        {
+            "speaker": "sir toby belch",
+            "text": "What is thy excellence in a galliard, knight"
+        },
+        {
+            "speaker": "sir andrew",
+            "text": "Faith, I can cut a caper."
+        },
+        {
+            "speaker": "sir toby belch",
+            "text": "And I can cut the mutton tot."
+        },
+        {
+            "speaker": "sir andrew",
+            "text": "And I think I have the backtrick simply as strong as any man in Illyria."
+        },
+        {
+            "speaker": "sir toby belch",
+            "text": "Wherefore are these things hid wherefore have these gifts a curtain before em are they like to take dust, like Mistress Malls picture why dost thou not go to church in a galliard and come home in a coranto My very walk should be a jig I would not so much as make water but in a sinkapace. What dost thou mean Is it a world to hide virtues in I did think, by the excellent constitution of thy leg, it was formed under the star of a galliard."
+        },
+        {
+            "speaker": "sir andrew",
+            "text": "Ay, tis strong, and it does indifferent well in a flamecoloured stock. Shall we set about some revels"
+        },
+        {
+            "speaker": "sir toby belch",
+            "text": "What shall we do else were we not born under Taurus"
+        },
+        {
+            "speaker": "sir andrew",
+            "text": "Taurus! Thats sides and heart."
+        },
+        {
+            "speaker": "sir toby belch",
+            "text": "No, sir it is legs and thighs. Let me see the caper ha! higher: ha, ha! excellent!"
+        },
+        {
+            "text": "Exeunt"
+        }
+    ]
+}

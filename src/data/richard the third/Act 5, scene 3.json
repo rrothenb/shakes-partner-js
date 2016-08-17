@@ -1,0 +1,442 @@
+{
+    "sceneName": "Act 5, scene 3",
+    "playName": "richard the third",
+    "location": "Bosworth Field.",
+    "lines": [
+        {
+            "text": "Enter KING RICHARD III in arms, with NORFOLK, SURREY, and others"
+        },
+        {
+            "speaker": "king richard the third",
+            "text": "Here pitch our tents, even here in Bosworth field. My Lord of Surrey, why look you so sad"
+        },
+        {
+            "speaker": "surrey",
+            "text": "My heart is ten times lighter than my looks."
+        },
+        {
+            "speaker": "king richard the third",
+            "text": "My Lord of Norfolk,"
+        },
+        {
+            "speaker": "norfolk",
+            "text": "Here, most gracious liege."
+        },
+        {
+            "speaker": "king richard the third",
+            "text": "Norfolk, we must have knocks ha! must we not"
+        },
+        {
+            "speaker": "norfolk",
+            "text": "We must both give and take, my gracious lord."
+        },
+        {
+            "speaker": "king richard the third",
+            "text": "Up with my tent there! here will I lie tonight But where tomorrow  Well, alls one for that. Who hath descried the number of the foe"
+        },
+        {
+            "speaker": "norfolk",
+            "text": "Six or seven thousand is their utmost power."
+        },
+        {
+            "speaker": "king richard the third",
+            "text": "Why, our battalion trebles that account: Besides, the kings name is a tower of strength, Which they upon the adverse party want. Up with my tent there! Valiant gentlemen, Let us survey the vantage of the field Call for some men of sound direction Lets want no discipline, make no delay, For, lords, tomorrow is a busy day."
+        },
+        {
+            "text": "Exeunt"
+        },
+        {
+            "text": "Enter, on the other side of the field, RICHMOND,  Sir William Brandon, OXFORD, and others. Some of the Soldiers pitch RICHMONDs tent"
+        },
+        {
+            "speaker": "richmond",
+            "text": "The weary sun hath made a golden set, And by the bright track of his fiery car, Gives signal, of a goodly day tomorrow. Sir William Brandon, you shall bear my standard. Give me some ink and paper in my tent Ill draw the form and model of our battle, Limit each leader to his several charge, And part in just proportion our small strength. My Lord of Oxford, you, Sir William Brandon, And you, Sir Walter Herbert, stay with me. The Earl of Pembroke keeps his regiment: Good Captain Blunt, bear my good night to him And by the second hour in the morning Desire the earl to see me in my tent: Yet one thing more, good Blunt, before thou gost, Where is Lord Stanley quarterd, dost thou know"
+        },
+        {
+            "speaker": "blunt",
+            "text": "Unless I have mistaen his colours much, Which well I am assured I have not done, His regiment lies half a mile at least South from the mighty power of the king."
+        },
+        {
+            "speaker": "richmond",
+            "text": "If without peril it be possible, Good Captain Blunt, bear my goodnight to him, And give him from me this most needful scroll."
+        },
+        {
+            "speaker": "blunt",
+            "text": "Upon my life, my lord, Ill undertake it And so, God give you quiet rest tonight!"
+        },
+        {
+            "speaker": "richmond",
+            "text": "Good night, good Captain Blunt. Come gentlemen, Let us consult upon tomorrows business In to our tent the air is raw and cold."
+        },
+        {
+            "text": "They withdraw into the tent"
+        },
+        {
+            "text": "Enter, to his tent, KING RICHARD III, NORFOLK, RATCLIFF, CATESBY, and others"
+        },
+        {
+            "speaker": "king richard the third",
+            "text": "What ist oclock"
+        },
+        {
+            "speaker": "catesby",
+            "text": "Its suppertime, my lord Its nine oclock."
+        },
+        {
+            "speaker": "king richard the third",
+            "text": "I will not sup tonight. Give me some ink and paper. What, is my beaver easier than it was And all my armour laid into my tent"
+        },
+        {
+            "speaker": "catesby",
+            "text": "If is, my liege and all things are in readiness."
+        },
+        {
+            "speaker": "king richard the third",
+            "text": "Good Norfolk, hie thee to thy charge Use careful watch, choose trusty sentinels."
+        },
+        {
+            "speaker": "norfolk",
+            "text": "I go, my lord."
+        },
+        {
+            "speaker": "king richard the third",
+            "text": "Stir with the lark tomorrow, gentle Norfolk."
+        },
+        {
+            "speaker": "norfolk",
+            "text": "I warrant you, my lord."
+        },
+        {
+            "text": "Exit"
+        },
+        {
+            "speaker": "king richard the third",
+            "text": "Catesby!"
+        },
+        {
+            "speaker": "catesby",
+            "text": "My lord"
+        },
+        {
+            "speaker": "king richard the third",
+            "text": "Send out a pursuivant at arms To Stanleys regiment bid him bring his power Before sunrising, lest his son George fall Into the blind cave of eternal night. Fill me a bowl of wine. Give me a watch. Saddle white Surrey for the field tomorrow. Look that my staves be sound, and not too heavy. Ratcliff!"
+        },
+        {
+            "text": "Exit CATESBY"
+        },
+        {
+            "speaker": "ratcliff",
+            "text": "My lord"
+        },
+        {
+            "speaker": "king richard the third",
+            "text": "Sawst thou the melancholy Lord Northumberland"
+        },
+        {
+            "speaker": "ratcliff",
+            "text": "Thomas the Earl of Surrey, and himself, Much about cockshut time, from troop to troop Went through the army, cheering up the soldiers."
+        },
+        {
+            "speaker": "king richard the third",
+            "text": "So, I am satisfied. Give me a bowl of wine: I have not that alacrity of spirit, Nor cheer of mind, that I was wont to have. Set it down. Is ink and paper ready"
+        },
+        {
+            "speaker": "ratcliff",
+            "text": "It is, my lord."
+        },
+        {
+            "speaker": "king richard the third",
+            "text": "Bid my guard watch leave me. Ratcliff, about the mid of night come to my tent And help to arm me. Leave me, I say."
+        },
+        {
+            "text": "Exeunt RATCLIFF and the other Attendants"
+        },
+        {
+            "text": "Enter DERBY to RICHMOND in his tent, Lords and others attending"
+        },
+        {
+            "speaker": "derby",
+            "text": "Fortune and victory sit on thy helm!"
+        },
+        {
+            "speaker": "richmond",
+            "text": "All comfort that the dark night can afford Be to thy person, noble fatherinlaw! Tell me, how fares our loving mother"
+        },
+        {
+            "speaker": "derby",
+            "text": "I, by attorney, bless thee from thy mother Who prays continually for Richmonds good: So much for that. The silent hours steal on, And flaky darkness breaks within the east. In brief,for so the season bids us be, Prepare thy battle early in the morning, And put thy fortune to the arbitrement Of bloody strokes and mortalstaring war. I, as I maythat which I would I cannot, With best advantage will deceive the time, And aid thee in this doubtful shock of arms: But on thy side I may not be too forward Lest, being seen, thy brother, tender George, Be executed in his fathers sight. Farewell: the leisure and the fearful time Cuts off the ceremonious vows of love And ample interchange of sweet discourse, Which so long sunderd friends should dwell upon: God give us leisure for these rites of love! Once more, adieu: be valiant, and speed well!"
+        },
+        {
+            "speaker": "richmond",
+            "text": "Good lords, conduct him to his regiment: Ill strive, with troubled thoughts, to take a nap, Lest leaden slumber peise me down tomorrow, When I should mount with wings of victory: Once more, good night, kind lords and gentlemen. O Thou, whose captain I account myself, Look on my forces with a gracious eye Put in their hands thy bruising irons of wrath, That they may crush down with a heavy fall The usurping helmets of our adversaries! Make us thy ministers of chastisement, That we may praise thee in the victory! To thee I do commend my watchful soul, Ere I let fall the windows of mine eyes: Sleeping and waking, O, defend me still! Ghost"
+        },
+        {
+            "text": "Exeunt all but RICHMOND"
+        },
+        {
+            "text": "Sleeps"
+        },
+        {
+            "text": "Enter the Ghost of Prince Edward, son to King Henry VI"
+        },
+        {
+            "speaker": "of prince edward",
+            "text": "[To KING RICHARD III] Let me sit heavy on thy soul tomorrow! Think, how thou stabdst me in my prime of youth At Tewksbury: despair, therefore, and die! Be cheerful, Richmond for the wronged souls Of butcherd princes fight in thy behalf King Henrys issue, Richmond, comforts thee. Ghost"
+        },
+        {
+            "text": "To RICHMOND"
+        },
+        {
+            "text": "Enter the Ghost of King Henry VI"
+        },
+        {
+            "speaker": "of king henry the sixth",
+            "text": "[To KING RICHARD III] When I was mortal, my anointed body By thee was punched full of deadly holes Think on the Tower and me: despair, and die! Harry the Sixth bids thee despair, and die! Virtuous and holy, be thou conqueror! Harry, that prophesied thou shouldst be king, Doth comfort thee in thy sleep: live, and flourish!"
+        },
+        {
+            "text": "To RICHMOND"
+        },
+        {
+            "text": "Enter the Ghost of CLARENCE"
+        },
+        {
+            "speaker": "ghost of clarence",
+            "text": "[To KING RICHARD III] Let me sit heavy on thy soul tomorrow! I, that was washd to death with fulsome wine, Poor Clarence, by thy guile betrayed to death! Tomorrow in the battle think on me, And fall thy edgeless sword: despair, and die! Thou offspring of the house of Lancaster The wronged heirs of York do pray for thee Good angels guard thy battle! live, and flourish!"
+        },
+        {
+            "text": "To RICHMOND"
+        },
+        {
+            "text": "Enter the Ghosts of RIVERS, GRAY, and VAUGHAN"
+        },
+        {
+            "speaker": "ghost of rivers",
+            "text": "[To KING RICHARD III] Let me sit heavy on thy soul tomorrow, Rivers. that died at Pomfret! despair, and die!"
+        },
+        {
+            "speaker": "ghost of grey",
+            "text": "[To KING RICHARD III] Think upon Grey, and let thy soul despair!"
+        },
+        {
+            "speaker": "ghost of vaughan",
+            "text": "[To KING RICHARD III] Think upon Vaughan, and, with guilty fear, Let fall thy lance: despair, and die!"
+        },
+        {
+            "speaker": "all",
+            "text": "[To RICHMOND] Awake, and think our wrongs in Richards bosom Will conquer him! awake, and win the day!"
+        },
+        {
+            "text": "Enter the Ghost of HASTINGS"
+        },
+        {
+            "speaker": "ghost of hastings",
+            "text": "[To KING RICHARD III] Bloody and guilty, guiltily awake, And in a bloody battle end thy days! Think on Lord Hastings: despair, and die! Quiet untroubled soul, awake, awake! Arm, fight, and conquer, for fair Englands sake! Ghosts"
+        },
+        {
+            "text": "To RICHMOND"
+        },
+        {
+            "text": "Enter the Ghosts of the two young Princes"
+        },
+        {
+            "speaker": "of young princes",
+            "text": "[To KING RICHARD III] Dream on thy cousins smotherd in the Tower: Let us be led within thy bosom, Richard, And weigh thee down to ruin, shame, and death! Thy nephews souls bid thee despair and die! Sleep, Richmond, sleep in peace, and wake in joy Good angels guard thee from the boars annoy! Live, and beget a happy race of kings! Edwards unhappy sons do bid thee flourish."
+        },
+        {
+            "text": "To RICHMOND"
+        },
+        {
+            "text": "Enter the Ghost of LADY ANNE"
+        },
+        {
+            "speaker": "ghost of lady anne",
+            "text": "[To KING RICHARD III] Richard, thy wife, that wretched Anne thy wife, That never slept a quiet hour with thee, Now fills thy sleep with perturbations Tomorrow in the battle think on me, And fall thy edgeless sword: despair, and die! Thou quiet soul, sleep thou a quiet sleep Dream of success and happy victory! Thy adversarys wife doth pray for thee. Ghost"
+        },
+        {
+            "text": "To RICHMOND"
+        },
+        {
+            "text": "Enter the Ghost of BUCKINGHAM"
+        },
+        {
+            "speaker": "of buckingham",
+            "text": "[To KING RICHARD III] The last was I that helped thee to the crown The last was I that felt thy tyranny: O, in the battle think on Buckingham, And die in terror of thy guiltiness! Dream on, dream on, of bloody deeds and death: Fainting, despair despairing, yield thy breath! I died for hope ere I could lend thee aid: But cheer thy heart, and be thou not dismayd: God and good angel fight on Richmonds side And Richard falls in height of all his pride."
+        },
+        {
+            "text": "To RICHMOND"
+        },
+        {
+            "text": "The Ghosts vanish"
+        },
+        {
+            "text": "KING RICHARD III starts out of his dream"
+        },
+        {
+            "speaker": "king richard the third",
+            "text": "Give me another horse: bind up my wounds. Have mercy, Jesu!Soft! I did but dream. O coward conscience, how dost thou afflict me! The lights burn blue. It is now dead midnight. Cold fearful drops stand on my trembling flesh. What do I fear  myself  theres none else by: Richard loves Richard that is, I am I. Is there a murderer here  No. Yes, I am: Then fly. What, from myself   Great reason why: Lest I revenge. What, myself upon myself Alack. I love myself. Wherefore  for any good That I myself have done unto myself O, no! alas, I rather hate myself For hateful deeds committed by myself! I am a villain: yet I lie. I am not. Fool, of thyself speak well: fool, do not flatter. My conscience hath a thousand several tongues, And every tongue brings in a several tale, And every tale condemns me for a villain. Perjury, perjury, in the highst degree Murder, stem murder, in the direst degree All several sins, all used in each degree, Throng to the bar, crying all, Guilty! guilty! I shall despair. There is no creature loves me And if I die, no soul shall pity me: Nay, wherefore should they, since that I myself Find in myself no pity to myself Methought the souls of all that I had murderd Came to my tent and every one did threat Tomorrows vengeance on the head of Richard."
+        },
+        {
+            "text": "Enter RATCLIFF"
+        },
+        {
+            "speaker": "ratcliff",
+            "text": "My lord!"
+        },
+        {
+            "speaker": "king richard the third",
+            "text": "Zounds! who is there"
+        },
+        {
+            "speaker": "ratcliff",
+            "text": "Ratcliff, my lord tis I. The early villagecock Hath twice done salutation to the morn Your friends are up, and buckle on their armour."
+        },
+        {
+            "speaker": "king richard the third",
+            "text": "O Ratcliff, I have dreamd a fearful dream! What thinkest thou, will our friends prove all true"
+        },
+        {
+            "speaker": "ratcliff",
+            "text": "No doubt, my lord."
+        },
+        {
+            "speaker": "king richard the third",
+            "text": "O Ratcliff, I fear, I fear,"
+        },
+        {
+            "speaker": "ratcliff",
+            "text": "Nay, good my lord, be not afraid of shadows."
+        },
+        {
+            "speaker": "king richard the third",
+            "text": "By the apostle Paul, shadows tonight Have struck more terror to the soul of Richard Than can the substance of ten thousand soldiers Armed in proof, and led by shallow Richmond. It is not yet near day. Come, go with me Under our tents Ill play the eavesdropper, To see if any mean to shrink from me."
+        },
+        {
+            "text": "Exeunt"
+        },
+        {
+            "text": "Enter the Lords to RICHMOND, sitting in his tent"
+        },
+        {
+            "speaker": "lords",
+            "text": "Good morrow, Richmond!"
+        },
+        {
+            "speaker": "richmond",
+            "text": "Cry mercy, lords and watchful gentlemen, That you have taen a tardy sluggard here."
+        },
+        {
+            "speaker": "lords",
+            "text": "How have you slept, my lord"
+        },
+        {
+            "speaker": "richmond",
+            "text": "The sweetest sleep, and fairestboding dreams That ever enterd in a drowsy head, Have I since your departure had, my lords. Methought their souls, whose bodies Richard murderd, Came to my tent, and cried on victory: I promise you, my soul is very jocund In the remembrance of so fair a dream. How far into the morning is it, lords"
+        },
+        {
+            "speaker": "lords",
+            "text": "Upon the stroke of four."
+        },
+        {
+            "speaker": "richmond",
+            "text": "Why, then tis time to arm and give direction. More than I have said, loving countrymen, The leisure and enforcement of the time Forbids to dwell upon: yet remember this, God and our good cause fight upon our side The prayers of holy saints and wronged souls, Like highreard bulwarks, stand before our faces Richard except, those whom we fight against Had rather have us win than him they follow: For what is he they follow  truly, gentlemen, A bloody tyrant and a homicide One raised in blood, and one in blood establishd One that made means to come by what he hath, And slaughterd those that were the means to help him Abase foul stone, made precious by the foil Of Englands chair, where he is falsely set One that hath ever been Gods enemy: Then, if you fight against Gods enemy, God will in justice ward you as his soldiers If you do sweat to put a tyrant down, You sleep in peace, the tyrant being slain If you do fight against your countrys foes, Your countrys fat shall pay your pains the hire If you do fight in safeguard of your wives, Your wives shall welcome home the conquerors If you do free your children from the sword, Your childrens children quit it in your age. Then, in the name of God and all these rights, Advance your standards, draw your willing swords. For me, the ransom of my bold attempt Shall be this cold corpse on the earths cold face But if I thrive, the gain of my attempt The least of you shall share his part thereof. Sound drums and trumpets boldly and cheerfully God and Saint George! Richmond and victory!"
+        },
+        {
+            "text": "His oration to his soldiers"
+        },
+        {
+            "text": "Exeunt"
+        },
+        {
+            "text": "Reenter KING RICHARD, RATCLIFF, Attendants and Forces"
+        },
+        {
+            "speaker": "king richard the third",
+            "text": "What said Northumberland as touching Richmond"
+        },
+        {
+            "speaker": "ratcliff",
+            "text": "That he was never trained up in arms."
+        },
+        {
+            "speaker": "king richard the third",
+            "text": "He said the truth: and what said Surrey then"
+        },
+        {
+            "speaker": "ratcliff",
+            "text": "He smiled and said The better for our purpose."
+        },
+        {
+            "speaker": "king richard the third",
+            "text": "He was in the right and so indeed it is. Ten the clock there. Give me a calendar. Who saw the sun today"
+        },
+        {
+            "text": "Clock striketh"
+        },
+        {
+            "speaker": "ratcliff",
+            "text": "Not I, my lord."
+        },
+        {
+            "speaker": "king richard the third",
+            "text": "Then he disdains to shine for by the book He should have braved the east an hour ago A black day will it be to somebody. Ratcliff!"
+        },
+        {
+            "speaker": "ratcliff",
+            "text": "My lord"
+        },
+        {
+            "speaker": "king richard the third",
+            "text": "The sun will not be seen today The sky doth frown and lour upon our army. I would these dewy tears were from the ground. Not shine today! Why, what is that to me More than to Richmond  for the selfsame heaven That frowns on me looks sadly upon him."
+        },
+        {
+            "text": "Enter NORFOLK"
+        },
+        {
+            "speaker": "norfolk",
+            "text": "Arm, arm, my lord the foe vaunts in the field."
+        },
+        {
+            "speaker": "king richard the third",
+            "text": "Come, bustle, bustle caparison my horse. Call up Lord Stanley, bid him bring his power: I will lead forth my soldiers to the plain, And thus my battle shall be ordered: My foreward shall be drawn out all in length, Consisting equally of horse and foot Our archers shall be placed in the midst John Duke of Norfolk, Thomas Earl of Surrey, Shall have the leading of this foot and horse. They thus directed, we will follow In the main battle, whose puissance on either side Shall be well winged with our chiefest horse. This, and Saint George to boot! What thinkst thou, Norfolk"
+        },
+        {
+            "speaker": "norfolk",
+            "text": "A good direction, warlike sovereign. This found I on my tent this morning."
+        },
+        {
+            "text": "He sheweth him a paper"
+        },
+        {
+            "speaker": "king richard the third",
+            "text": "[Reads] Jockey of Norfolk, be not too bold, For Dickon thy master is bought and sold. A thing devised by the enemy. Go, gentleman, every man unto his charge Let not our babbling dreams affright our souls: Conscience is but a word that cowards use, Devised at first to keep the strong in awe: Our strong arms be our conscience, swords our law. March on, join bravely, let us tot pellmell If not to heaven, then hand in hand to hell. What shall I say more than I have inferrd Remember whom you are to cope withal A sort of vagabonds, rascals, and runaways, A scum of Bretons, and base lackey peasants, Whom their oercloyed country vomits forth To desperate ventures and assured destruction. You sleeping safe, they bring to you unrest You having lands, and blest with beauteous wives, They would restrain the one, distain the other. And who doth lead them but a paltry fellow, Long kept in Bretagne at our mothers cost A milksop, one that never in his life Felt so much cold as over shoes in snow Lets whip these stragglers oer the seas again Lash hence these overweening rags of France, These famishd beggars, weary of their lives Who, but for dreaming on this fond exploit, For want of means, poor rats, had hangd themselves: If we be conquerd, let men conquer us, And not these bastard Bretons whom our fathers Have in their own land beaten, bobbd, and thumpd, And in record, left them the heirs of shame. Shall these enjoy our lands  lie with our wives Ravish our daughters Hark! I hear their drum. Fight, gentlemen of England! fight, bold yoemen! Draw, archers, draw your arrows to the head! Spur your proud horses hard, and ride in blood Amaze the welkin with your broken staves! What says Lord Stanley will he bring his power"
+        },
+        {
+            "text": "His oration to his Army"
+        },
+        {
+            "text": "Drum afar off"
+        },
+        {
+            "text": "Enter a Messenger"
+        },
+        {
+            "speaker": "messenger",
+            "text": "My lord, he doth deny to come."
+        },
+        {
+            "speaker": "king richard the third",
+            "text": "Off with his son Georges head!"
+        },
+        {
+            "speaker": "norfolk",
+            "text": "My lord, the enemy is past the marsh After the battle let George Stanley die."
+        },
+        {
+            "speaker": "king richard the third",
+            "text": "A thousand hearts are great within my bosom: Advance our standards, set upon our foes Our ancient word of courage, fair Saint George, Inspire us with the spleen of fiery dragons! Upon them! victory sits on our helms."
+        },
+        {
+            "text": "Exeunt"
+        }
+    ]
+}

@@ -1,0 +1,212 @@
+{
+    "sceneName": "Act 5, scene 4",
+    "playName": "henry the fourth",
+    "location": "Another part of the field.",
+    "lines": [
+        {
+            "text": "Alarum. Excursions. Enter PRINCE HENRY, LORD JOHN OF LANCASTER, and EARL OF WESTMORELAND"
+        },
+        {
+            "speaker": "king henry the fourth",
+            "text": "I prithee, Harry, withdraw thyself thou bleedst too much. Lord John of Lancaster, go you with him."
+        },
+        {
+            "speaker": "lancaster",
+            "text": "Not I, my lord, unless I did bleed too."
+        },
+        {
+            "speaker": "prince henry",
+            "text": "I beseech your majesty, make up, Lest your retirement do amaze your friends."
+        },
+        {
+            "speaker": "king henry the fourth",
+            "text": "I will do so. My Lord of Westmoreland, lead him to his tent."
+        },
+        {
+            "speaker": "westmoreland",
+            "text": "Come, my lord, Ill lead you to your tent."
+        },
+        {
+            "speaker": "prince henry",
+            "text": "Lead me, my lord I do not need your help: And God forbid a shallow scratch should drive The Prince of Wales from such a field as this, Where staind nobility lies trodden on, and rebels arms triumph in massacres!"
+        },
+        {
+            "speaker": "lancaster",
+            "text": "We breathe too long: come, cousin Westmoreland, Our duty this way lies for Gods sake come."
+        },
+        {
+            "text": "Exeunt LANCASTER and WESTMORELAND"
+        },
+        {
+            "speaker": "prince henry",
+            "text": "By God, thou hast deceived me, Lancaster I did not think thee lord of such a spirit: Before, I loved thee as a brother, John But now, I do respect thee as my soul."
+        },
+        {
+            "speaker": "king henry the fourth",
+            "text": "I saw him hold Lord Percy at the point With lustier maintenance than I did look for Of such an ungrown warrior."
+        },
+        {
+            "speaker": "prince henry",
+            "text": "O, this boy Lends mettle to us all!"
+        },
+        {
+            "text": "Exit"
+        },
+        {
+            "text": "Enter DOUGLAS"
+        },
+        {
+            "speaker": "earl of douglas",
+            "text": "Another king! they grow like Hydras heads: I am the Douglas, fatal to all those That wear those colours on them: what art thou, That counterfeitst the person of a king"
+        },
+        {
+            "speaker": "king henry the fourth",
+            "text": "The king himself who, Douglas, grieves at heart So many of his shadows thou hast met And not the very king. I have two boys Seek Percy and thyself about the field: But, seeing thou fallst on me so luckily, I will assay thee: so, defend thyself."
+        },
+        {
+            "speaker": "earl of douglas",
+            "text": "I fear thou art another counterfeit And yet, in faith, thou bearst thee like a king: But mine I am sure thou art, whoeer thou be, And thus I win thee."
+        },
+        {
+            "text": "They fight. KING HENRY being in danger, PRINCE HENRY enters"
+        },
+        {
+            "speaker": "prince henry",
+            "text": "Hold up thy head, vile Scot, or thou art like Never to hold it up again! the spirits Of valiant Shirley, Stafford, Blunt, are in my arms: It is the Prince of Wales that threatens thee Who never promiseth but he means to pay. They fight: DOUGLAS flies Cheerly, my lord how fares your grace Sir Nicholas Gawsey hath for succor sent, And so hath Clifton: Ill to Clifton straight."
+        },
+        {
+            "speaker": "king henry the fourth",
+            "text": "Stay, and breathe awhile: Thou hast redeemd thy lost opinion, And showd thou makest some tender of my life, In this fair rescue thou hast brought to me."
+        },
+        {
+            "speaker": "prince henry",
+            "text": "O God! they did me too much injury That ever said I hearkend for your death. If it were so, I might have let alone The insulting hand of Douglas over you, Which would have been as speedy in your end As all the poisonous potions in the world And saved the treacherous labour of your son."
+        },
+        {
+            "speaker": "king henry the fourth",
+            "text": "Make up to Clifton: Ill to Sir Nicholas Gawsey."
+        },
+        {
+            "text": "Exit"
+        },
+        {
+            "text": "Enter HOTSPUR"
+        },
+        {
+            "speaker": "hotspur",
+            "text": "If I mistake not, thou art Harry Monmouth."
+        },
+        {
+            "speaker": "prince henry",
+            "text": "Thou speakst as if I would deny my name."
+        },
+        {
+            "speaker": "hotspur",
+            "text": "My name is Harry Percy."
+        },
+        {
+            "speaker": "prince henry",
+            "text": "Why, then I see A very valiant rebel of the name. I am the Prince of Wales and think not, Percy, To share with me in glory any more: Two stars keep not their motion in one sphere Nor can one England brook a double reign, Of Harry Percy and the Prince of Wales."
+        },
+        {
+            "speaker": "hotspur",
+            "text": "Nor shall it, Harry for the hour is come To end the one of us and would to God Thy name in arms were now as great as mine!"
+        },
+        {
+            "speaker": "prince henry",
+            "text": "Ill make it greater ere I part from thee And all the budding honours on thy crest Ill crop, to make a garland for my head."
+        },
+        {
+            "speaker": "hotspur",
+            "text": "I can no longer brook thy vanities."
+        },
+        {
+            "text": "They fight"
+        },
+        {
+            "text": "Enter FALSTAFF"
+        },
+        {
+            "speaker": "falstaff",
+            "text": "Well said, Hal! to it Hal! Nay, you shall find no boys play here, I can tell you. Reenter DOUGLAS he fights with FALSTAFF,  who falls down as if he were dead, and exit DOUGLAS. HOTSPUR is wounded, and falls"
+        },
+        {
+            "speaker": "hotspur",
+            "text": "O, Harry, thou hast robbd me of my youth! I better brook the loss of brittle life Than those proud titles thou hast won of me They wound my thoughts worse than sword my flesh: But thoughts the slave of life, and life times fool And time, that takes survey of all the world, Must have a stop. O, I could prophesy, But that the earthy and cold hand of death Lies on my tongue: no, Percy, thou art dust And food for"
+        },
+        {
+            "text": "Dies"
+        },
+        {
+            "speaker": "prince henry",
+            "text": "For worms, brave Percy: fare thee well, great heart! Illweaved ambition, how much art thou shrunk! When that this body did contain a spirit, A kingdom for it was too small a bound But now two paces of the vilest earth Is room enough: this earth that bears thee dead Bears not alive so stout a gentleman. If thou wert sensible of courtesy, I should not make so dear a show of zeal: But let my favours hide thy mangled face And, even in thy behalf, Ill thank myself For doing these fair rites of tenderness. Adieu, and take thy praise with thee to heaven! Thy ignominy sleep with thee in the grave, But not rememberd in thy epitaph! What, old acquaintance! could not all this flesh Keep in a little life Poor Jack, farewell! I could have better spared a better man: O, I should have a heavy miss of thee, If I were much in love with vanity! Death hath not struck so fat a deer today, Though many dearer, in this bloody fray. Embowelld will I see thee by and by: Till then in blood by noble Percy lie."
+        },
+        {
+            "text": "He spieth FALSTAFF on the ground"
+        },
+        {
+            "text": "Exit PRINCE HENRY"
+        },
+        {
+            "speaker": "falstaff",
+            "text": "[Rising up]  Embowelled! if thou embowel me today, Ill give you leave to powder me and eat me too tomorrow. Sblood,twas time to counterfeit, or that hot termagant Scot had paid me scot and lot too. Counterfeit I lie, I am no counterfeit: to die, is to be a counterfeit for he is but the counterfeit of a man who hath not the life of a man: but to counterfeit dying, when a man thereby liveth, is to be no counterfeit, but the true and perfect image of life indeed. The better part of valour is discretion in the which better part I have saved my life.Zounds, I am afraid of this gunpowder Percy, though he be dead: how, if he should counterfeit too and rise by my faith, I am afraid he would prove the better counterfeit. Therefore Ill make him sure yea, and Ill swear I killed him. Why may not he rise as well as I Nothing confutes me but eyes, and nobody sees me. Therefore, sirrah, with a new wound in your thigh, come you along with me."
+        },
+        {
+            "text": "Stabbing him"
+        },
+        {
+            "text": "Takes up HOTSPUR on his back"
+        },
+        {
+            "text": "Reenter PRINCE HENRY and LORD JOHN OF LANCASTER"
+        },
+        {
+            "speaker": "prince henry",
+            "text": "Come, brother John full bravely hast thou fleshd Thy maiden sword."
+        },
+        {
+            "speaker": "lancaster",
+            "text": "But, soft! whom have we here Did you not tell me this fat man was dead"
+        },
+        {
+            "speaker": "prince henry",
+            "text": "I did I saw him dead, Breathless and bleeding on the ground. Art thou alive Or is it fantasy that plays upon our eyesight I prithee, speak we will not trust our eyes Without our ears: thou art not what thou seemst."
+        },
+        {
+            "speaker": "falstaff",
+            "text": "No, thats certain I am not a double man: but if I be not Jack Falstaff, then am I a Jack. There is Percy: if your father will do me any honour, so if not, let him kill the next Percy himself. I look to be either earl or duke, I can assure you."
+        },
+        {
+            "text": "Throwing the body down"
+        },
+        {
+            "speaker": "prince henry",
+            "text": "Why, Percy I killed myself and saw thee dead."
+        },
+        {
+            "speaker": "falstaff",
+            "text": "Didst thou Lord, Lord, how this world is given to lying! I grant you I was down and out of breath and so was he: but we rose both at an instant and fought a long hour by Shrewsbury clock. If I may be believed, so if not, let them that should reward valour bear the sin upon their own heads. Ill take it upon my death, I gave him this wound in the thigh: if the man were alive and would deny it, zounds, I would make him eat a piece of my sword."
+        },
+        {
+            "speaker": "lancaster",
+            "text": "This is the strangest tale that ever I heard."
+        },
+        {
+            "speaker": "prince henry",
+            "text": "This is the strangest fellow, brother John. Come, bring your luggage nobly on your back: For my part, if a lie may do thee grace, Ill gild it with the happiest terms I have. The trumpet sounds retreat the day is ours. Come, brother, let us to the highest of the field, To see what friends are living, who are dead."
+        },
+        {
+            "text": "A retreat is sounded"
+        },
+        {
+            "text": "Exeunt PRINCE HENRY and LANCASTER"
+        },
+        {
+            "speaker": "falstaff",
+            "text": "Ill follow, as they say, for reward. He that rewards me, God reward him! If I do grow great, Ill grow less for Ill purge, and leave sack, and live cleanly as a nobleman should do."
+        },
+        {
+            "text": "Exit"
+        }
+    ]
+}

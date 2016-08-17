@@ -1,0 +1,255 @@
+{
+    "sceneName": "Act 4, scene 1",
+    "playName": "macbeth",
+    "location": "A cavern. In the middle, a boiling cauldron.",
+    "lines": [
+        {
+            "text": "Thunder. Enter the three Witches"
+        },
+        {
+            "speaker": "first witch",
+            "text": "Thrice the brinded cat hath mewd."
+        },
+        {
+            "speaker": "second witch",
+            "text": "Thrice and once the hedgepig whined."
+        },
+        {
+            "speaker": "third witch",
+            "text": "Harpier cries Tis time, tis time."
+        },
+        {
+            "speaker": "first witch",
+            "text": "Round about the cauldron go In the poisond entrails throw. Toad, that under cold stone Days and nights has thirtyone Swelterd venom sleeping got, Boil thou first i the charmed pot."
+        },
+        {
+            "speaker": "all",
+            "text": "Double, double toil and trouble Fire burn, and cauldron bubble."
+        },
+        {
+            "speaker": "second witch",
+            "text": "Fillet of a fenny snake, In the cauldron boil and bake Eye of newt and toe of frog, Wool of bat and tongue of dog, Adders fork and blindworms sting, Lizards leg and owlets wing, For a charm of powerful trouble, Like a hellbroth boil and bubble."
+        },
+        {
+            "speaker": "all",
+            "text": "Double, double toil and trouble Fire burn and cauldron bubble."
+        },
+        {
+            "speaker": "third witch",
+            "text": "Scale of dragon, tooth of wolf, Witches mummy, maw and gulf Of the ravind saltsea shark, Root of hemlock diggd i the dark, Liver of blaspheming Jew, Gall of goat, and slips of yew Silverd in the moons eclipse, Nose of Turk and Tartars lips, Finger of birthstrangled babe Ditchdeliverd by a drab, Make the gruel thick and slab: Add thereto a tigers chaudron, For the ingredients of our cauldron."
+        },
+        {
+            "speaker": "all",
+            "text": "Double, double toil and trouble Fire burn and cauldron bubble."
+        },
+        {
+            "speaker": "second witch",
+            "text": "Cool it with a baboons blood, Then the charm is firm and good."
+        },
+        {
+            "text": "Enter HECATE to the other three Witches"
+        },
+        {
+            "speaker": "hecate",
+            "text": "O well done! I commend your pains And every one shall share i the gains And now about the cauldron sing, Live elves and fairies in a ring, Enchanting all that you put in. Music and a song: Black spirits,  and c"
+        },
+        {
+            "text": "HECATE retires"
+        },
+        {
+            "speaker": "second witch",
+            "text": "By the pricking of my thumbs, Something wicked this way comes. Open, locks, Whoever knocks!"
+        },
+        {
+            "text": "Enter MACBETH"
+        },
+        {
+            "speaker": "macbeth",
+            "text": "How now, you secret, black, and midnight hags! What ist you do"
+        },
+        {
+            "speaker": "all",
+            "text": "A deed without a name."
+        },
+        {
+            "speaker": "macbeth",
+            "text": "I conjure you, by that which you profess, Howeer you come to know it, answer me: Though you untie the winds and let them fight Against the churches though the yesty waves Confound and swallow navigation up Though bladed corn be lodged and trees blown down Though castles topple on their warders heads Though palaces and pyramids do slope Their heads to their foundations though the treasure Of natures germens tumble all together, Even till destruction sicken answer me To what I ask you."
+        },
+        {
+            "speaker": "first witch",
+            "text": "Speak."
+        },
+        {
+            "speaker": "second witch",
+            "text": "Demand."
+        },
+        {
+            "speaker": "third witch",
+            "text": "Well answer."
+        },
+        {
+            "speaker": "first witch",
+            "text": "Say, if thoudst rather hear it from our mouths, Or from our masters"
+        },
+        {
+            "speaker": "macbeth",
+            "text": "Call em let me see em."
+        },
+        {
+            "speaker": "first witch",
+            "text": "Pour in sows blood, that hath eaten Her nine farrow grease thats sweaten From the murderers gibbet throw Into the flame."
+        },
+        {
+            "speaker": "all",
+            "text": "Come, high or low Thyself and office deftly show! Thunder. First Apparition: an armed Head"
+        },
+        {
+            "speaker": "macbeth",
+            "text": "Tell me, thou unknown power,"
+        },
+        {
+            "speaker": "first witch",
+            "text": "He knows thy thought: Hear his speech, but say thou nought."
+        },
+        {
+            "speaker": "first apparition",
+            "text": "Macbeth! Macbeth! Macbeth! beware Macduff Beware the thane of Fife. Dismiss me. Enough."
+        },
+        {
+            "text": "Descends"
+        },
+        {
+            "speaker": "macbeth",
+            "text": "Whateer thou art, for thy good caution, thanks Thou hast harpd my fear aright: but one word more,"
+        },
+        {
+            "speaker": "first witch",
+            "text": "He will not be commanded: heres another, More potent than the first. Thunder. Second Apparition: A bloody Child"
+        },
+        {
+            "speaker": "second apparition",
+            "text": "Macbeth! Macbeth! Macbeth!"
+        },
+        {
+            "speaker": "macbeth",
+            "text": "Had I three ears, Ild hear thee."
+        },
+        {
+            "speaker": "second apparition",
+            "text": "Be bloody, bold, and resolute laugh to scorn The power of man, for none of woman born Shall harm Macbeth."
+        },
+        {
+            "text": "Descends"
+        },
+        {
+            "speaker": "macbeth",
+            "text": "Then live, Macduff: what need I fear of thee But yet Ill make assurance double sure, And take a bond of fate: thou shalt not live That I may tell palehearted fear it lies, And sleep in spite of thunder. Thunder. Third Apparition: a Child crowned, with a tree in his hand What is this That rises like the issue of a king, And wears upon his babybrow the round And top of sovereignty"
+        },
+        {
+            "speaker": "all",
+            "text": "Listen, but speak not tot."
+        },
+        {
+            "speaker": "third apparition",
+            "text": "Be lionmettled, proud and take no care Who chafes, who frets, or where conspirers are: Macbeth shall never vanquishd be until Great Birnam wood to high Dunsinane hill Shall come against him."
+        },
+        {
+            "text": "Descends"
+        },
+        {
+            "speaker": "macbeth",
+            "text": "That will never be Who can impress the forest, bid the tree Unfix his earthbound root Sweet bodements! good! Rebellions head, rise never till the wood Of Birnam rise, and our highplaced Macbeth Shall live the lease of nature, pay his breath To time and mortal custom. Yet my heart Throbs to know one thing: tell me, if your art Can tell so much: shall Banquos issue ever Reign in this kingdom"
+        },
+        {
+            "speaker": "all",
+            "text": "Seek to know no more."
+        },
+        {
+            "speaker": "macbeth",
+            "text": "I will be satisfied: deny me this, And an eternal curse fall on you! Let me know. Why sinks that cauldron and what noise is this"
+        },
+        {
+            "text": "Hautboys"
+        },
+        {
+            "speaker": "first witch",
+            "text": "Show!"
+        },
+        {
+            "speaker": "second witch",
+            "text": "Show!"
+        },
+        {
+            "speaker": "third witch",
+            "text": "Show!"
+        },
+        {
+            "speaker": "all",
+            "text": "Show his eyes, and grieve his heart Come like shadows, so depart! A show of Eight Kings, the last with a glass in his hand GHOST OF BANQUO following"
+        },
+        {
+            "speaker": "macbeth",
+            "text": "Thou art too like the spirit of Banquo: down! Thy crown does sear mine eyeballs. And thy hair, Thou other goldbound brow, is like the first. A third is like the former. Filthy hags! Why do you show me this A fourth! Start, eyes! What, will the line stretch out to the crack of doom Another yet! A seventh! Ill see no more: And yet the eighth appears, who bears a glass Which shows me many more and some I see That twofold balls and treble scepters carry: Horrible sight! Now, I see, tis true For the bloodbolterd Banquo smiles upon me, And points at them for his. What, is this so"
+        },
+        {
+            "text": "Apparitions vanish"
+        },
+        {
+            "speaker": "first witch",
+            "text": "Ay, sir, all this is so: but why Stands Macbeth thus amazedly Come, sisters, cheer we up his sprites, And show the best of our delights: Ill charm the air to give a sound, While you perform your antic round: That this great king may kindly say, Our duties did his welcome pay."
+        },
+        {
+            "text": "Music. The witches dance and then vanish, with HECATE"
+        },
+        {
+            "speaker": "macbeth",
+            "text": "Where are they Gone Let this pernicious hour Stand aye accursed in the calendar! Come in, without there!"
+        },
+        {
+            "text": "Enter LENNOX"
+        },
+        {
+            "speaker": "lennox",
+            "text": "Whats your graces will"
+        },
+        {
+            "speaker": "macbeth",
+            "text": "Saw you the weird sisters"
+        },
+        {
+            "speaker": "lennox",
+            "text": "No, my lord."
+        },
+        {
+            "speaker": "macbeth",
+            "text": "Came they not by you"
+        },
+        {
+            "speaker": "lennox",
+            "text": "No, indeed, my lord."
+        },
+        {
+            "speaker": "macbeth",
+            "text": "Infected be the air whereon they ride And damnd all those that trust them! I did hear The galloping of horse: who wast came by"
+        },
+        {
+            "speaker": "lennox",
+            "text": "Tis two or three, my lord, that bring you word Macduff is fled to England."
+        },
+        {
+            "speaker": "macbeth",
+            "text": "Fled to England!"
+        },
+        {
+            "speaker": "lennox",
+            "text": "Ay, my good lord."
+        },
+        {
+            "speaker": "macbeth",
+            "text": "Time, thou anticipatest my dread exploits: The flighty purpose never is oertook Unless the deed go with it from this moment The very firstlings of my heart shall be The firstlings of my hand. And even now, To crown my thoughts with acts, be it thought and done: The castle of Macduff I will surprise Seize upon Fife give to the edge o the sword His wife, his babes, and all unfortunate souls That trace him in his line. No boasting like a fool This deed Ill do before this purpose cool. But no more sights!Where are these gentlemen Come, bring me where they are."
+        },
+        {
+            "text": "Exeunt"
+        }
+    ]
+}

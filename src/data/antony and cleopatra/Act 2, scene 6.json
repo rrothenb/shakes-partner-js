@@ -1,0 +1,292 @@
+{
+    "sceneName": "Act 2, scene 6",
+    "playName": "antony and cleopatra",
+    "location": "Near Misenum.",
+    "lines": [
+        {
+            "text": "Flourish. Enter POMPEY and MENAS at one door,  with drum and trumpet: at another, OCTAVIUS CAESAR,  MARK ANTONY, LEPIDUS, DOMITIUS ENOBARBUS, MECAENAS, with Soldiers marching"
+        },
+        {
+            "speaker": "pompey",
+            "text": "Your hostages I have, so have you mine And we shall talk before we fight."
+        },
+        {
+            "speaker": "octavius caesar",
+            "text": "Most meet That first we come to words and therefore have we Our written purposes before us sent Which, if thou hast considerd, let us know If twill tie up thy discontented sword, And carry back to Sicily much tall youth That else must perish here."
+        },
+        {
+            "speaker": "pompey",
+            "text": "To you all three, The senators alone of this great world, Chief factors for the gods, I do not know Wherefore my father should revengers want, Having a son and friends since Julius Caesar, Who at Philippi the good Brutus ghosted, There saw you labouring for him. What wast That moved pale Cassius to conspire and what Made the allhonourd, honest Roman, Brutus, With the armd rest, courtiers and beauteous freedom, To drench the Capitol but that they would Have one man but a man And that is it Hath made me rig my navy at whose burthen The angerd ocean foams with which I meant To scourge the ingratitude that despiteful Rome Cast on my noble father."
+        },
+        {
+            "speaker": "octavius caesar",
+            "text": "Take your time."
+        },
+        {
+            "speaker": "mark antony",
+            "text": "Thou canst not fear us, Pompey, with thy sails Well speak with thee at sea: at land, thou knowst How much we do oercount thee."
+        },
+        {
+            "speaker": "pompey",
+            "text": "At land, indeed, Thou dost oercount me of my fathers house: But, since the cuckoo builds not for himself, Remain int as thou mayst."
+        },
+        {
+            "speaker": "lepidus",
+            "text": "Be pleased to tell us For this is from the presenthow you take The offers we have sent you."
+        },
+        {
+            "speaker": "octavius caesar",
+            "text": "Theres the point."
+        },
+        {
+            "speaker": "mark antony",
+            "text": "Which do not be entreated to, but weigh What it is worth embraced."
+        },
+        {
+            "speaker": "octavius caesar",
+            "text": "And what may follow, To try a larger fortune."
+        },
+        {
+            "speaker": "pompey",
+            "text": "You have made me offer Of Sicily, Sardinia and I must Rid all the sea of pirates then, to send Measures of wheat to Rome this greed upon To part with unhackd edges, and bear back Our targes undinted."
+        },
+        {
+            "speaker": "lepidus",
+            "text": "Thats our offer."
+        },
+        {
+            "speaker": "pompey",
+            "text": "Know, then, I came before you here a man prepared To take this offer: but Mark Antony Put me to some impatience: though I lose The praise of it by telling, you must know, When Caesar and your brother were at blows, Your mother came to Sicily and did find Her welcome friendly."
+        },
+        {
+            "speaker": "mark antony",
+            "text": "I have heard it, Pompey And am well studied for a liberal thanks Which I do owe you."
+        },
+        {
+            "speaker": "pompey",
+            "text": "Let me have your hand: I did not think, sir, to have met you here."
+        },
+        {
+            "speaker": "mark antony",
+            "text": "The beds i the east are soft and thanks to you, That calld me timelier than my purpose hither For I have gaind by t."
+        },
+        {
+            "speaker": "octavius caesar",
+            "text": "Since I saw you last, There is a change upon you."
+        },
+        {
+            "speaker": "pompey",
+            "text": "Well, I know not What counts harsh fortune casts upon my face But in my bosom shall she never come, To make my heart her vassal."
+        },
+        {
+            "speaker": "lepidus",
+            "text": "Well met here."
+        },
+        {
+            "speaker": "pompey",
+            "text": "I hope so, Lepidus. Thus we are agreed: I crave our composition may be written, And seald between us."
+        },
+        {
+            "speaker": "octavius caesar",
+            "text": "Thats the next to do."
+        },
+        {
+            "speaker": "pompey",
+            "text": "Well feast each other ere we part and lets Draw lots who shall begin."
+        },
+        {
+            "speaker": "mark antony",
+            "text": "That will I, Pompey."
+        },
+        {
+            "speaker": "pompey",
+            "text": "No, Antony, take the lot: but, first Or last, your fine Egyptian cookery Shall have the fame. I have heard that Julius Caesar Grew fat with feasting there."
+        },
+        {
+            "speaker": "mark antony",
+            "text": "You have heard much."
+        },
+        {
+            "speaker": "pompey",
+            "text": "I have fair meanings, sir."
+        },
+        {
+            "speaker": "mark antony",
+            "text": "And fair words to them."
+        },
+        {
+            "speaker": "pompey",
+            "text": "Then so much have I heard: And I have heard, Apollodorus carried"
+        },
+        {
+            "speaker": "domitius enobarbus",
+            "text": "No more of that: he did so."
+        },
+        {
+            "speaker": "pompey",
+            "text": "What, I pray you"
+        },
+        {
+            "speaker": "domitius enobarbus",
+            "text": "A certain queen to Caesar in a mattress."
+        },
+        {
+            "speaker": "pompey",
+            "text": "I know thee now: how farest thou, soldier"
+        },
+        {
+            "speaker": "domitius enobarbus",
+            "text": "Well And well am like to do for, I perceive, Four feasts are toward."
+        },
+        {
+            "speaker": "pompey",
+            "text": "Let me shake thy hand I never hated thee: I have seen thee fight, When I have envied thy behavior."
+        },
+        {
+            "speaker": "domitius enobarbus",
+            "text": "Sir, I never loved you much but I ha praised ye, When you have well deserved ten times as much As I have said you did."
+        },
+        {
+            "speaker": "pompey",
+            "text": "Enjoy thy plainness, It nothing ill becomes thee. Aboard my galley I invite you all: Will you lead, lords"
+        },
+        {
+            "speaker": "lepidus",
+            "text": "Show us the way, sir."
+        },
+        {
+            "speaker": "pompey",
+            "text": "Come."
+        },
+        {
+            "text": "Exeunt all but MENAS and ENOBARBUS"
+        },
+        {
+            "speaker": "menas",
+            "text": "[Aside]  Thy father, Pompey, would neer have made this treaty.You and I have known, sir."
+        },
+        {
+            "speaker": "domitius enobarbus",
+            "text": "At sea, I think."
+        },
+        {
+            "speaker": "menas",
+            "text": "We have, sir."
+        },
+        {
+            "speaker": "domitius enobarbus",
+            "text": "You have done well by water."
+        },
+        {
+            "speaker": "menas",
+            "text": "And you by land."
+        },
+        {
+            "speaker": "domitius enobarbus",
+            "text": "I will praise any man that will praise me though it cannot be denied what I have done by land."
+        },
+        {
+            "speaker": "menas",
+            "text": "Nor what I have done by water."
+        },
+        {
+            "speaker": "domitius enobarbus",
+            "text": "Yes, something you can deny for your own safety: you have been a great thief by sea."
+        },
+        {
+            "speaker": "menas",
+            "text": "And you by land."
+        },
+        {
+            "speaker": "domitius enobarbus",
+            "text": "There I deny my land service. But give me your hand, Menas: if our eyes had authority, here they might take two thieves kissing."
+        },
+        {
+            "speaker": "menas",
+            "text": "All mens faces are true, whatsomeer their hands are."
+        },
+        {
+            "speaker": "domitius enobarbus",
+            "text": "But there is never a fair woman has a true face."
+        },
+        {
+            "speaker": "menas",
+            "text": "No slander they steal hearts."
+        },
+        {
+            "speaker": "domitius enobarbus",
+            "text": "We came hither to fight with you."
+        },
+        {
+            "speaker": "menas",
+            "text": "For my part, I am sorry it is turned to a drinking. Pompey doth this day laugh away his fortune."
+        },
+        {
+            "speaker": "domitius enobarbus",
+            "text": "If he do, sure, he cannot weept back again."
+        },
+        {
+            "speaker": "menas",
+            "text": "Youve said, sir. We looked not for Mark Antony here: pray you, is he married to Cleopatra"
+        },
+        {
+            "speaker": "domitius enobarbus",
+            "text": "Caesars sister is called Octavia."
+        },
+        {
+            "speaker": "menas",
+            "text": "True, sir she was the wife of Caius Marcellus."
+        },
+        {
+            "speaker": "domitius enobarbus",
+            "text": "But she is now the wife of Marcus Antonius."
+        },
+        {
+            "speaker": "menas",
+            "text": "Pray ye, sir"
+        },
+        {
+            "speaker": "domitius enobarbus",
+            "text": "Tis true."
+        },
+        {
+            "speaker": "menas",
+            "text": "Then is Caesar and he for ever knit together."
+        },
+        {
+            "speaker": "domitius enobarbus",
+            "text": "If I were bound to divine of this unity, I would not prophesy so."
+        },
+        {
+            "speaker": "menas",
+            "text": "I think the policy of that purpose made more in the marriage than the love of the parties."
+        },
+        {
+            "speaker": "domitius enobarbus",
+            "text": "I think so too. But you shall find, the band that seems to tie their friendship together will be the very strangler of their amity: Octavia is of a holy, cold, and still conversation."
+        },
+        {
+            "speaker": "menas",
+            "text": "Who would not have his wife so"
+        },
+        {
+            "speaker": "domitius enobarbus",
+            "text": "Not he that himself is not so which is Mark Antony. He will to his Egyptian dish again: then shall the sighs of Octavia blow the fire up in Caesar and, as I said before, that which is the strength of their amity shall prove the immediate author of their variance. Antony will use his affection where it is: he married but his occasion here."
+        },
+        {
+            "speaker": "menas",
+            "text": "And thus it may be. Come, sir, will you aboard I have a health for you."
+        },
+        {
+            "speaker": "domitius enobarbus",
+            "text": "I shall take it, sir: we have used our throats in Egypt."
+        },
+        {
+            "speaker": "menas",
+            "text": "Come, lets away."
+        },
+        {
+            "text": "Exeunt"
+        }
+    ]
+}

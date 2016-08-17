@@ -1,0 +1,140 @@
+{
+    "king john": [
+        "Act 1, scene 1",
+        "Act 2, scene 1",
+        "Act 3, scene 1",
+        "Act 3, scene 2",
+        "Act 3, scene 3",
+        "Act 4, scene 2",
+        "Act 5, scene 1",
+        "Act 5, scene 3",
+        "Act 5, scene 7"
+    ],
+    "chatillon": [
+        "Act 1, scene 1",
+        "Act 2, scene 1"
+    ],
+    "queen elinor": [
+        "Act 1, scene 1",
+        "Act 2, scene 1",
+        "Act 3, scene 1",
+        "Act 3, scene 3"
+    ],
+    "essex": [
+        "Act 1, scene 1"
+    ],
+    "bastard": [
+        "Act 1, scene 1",
+        "Act 2, scene 1",
+        "Act 3, scene 1",
+        "Act 3, scene 2",
+        "Act 3, scene 3",
+        "Act 4, scene 2",
+        "Act 4, scene 3",
+        "Act 5, scene 1",
+        "Act 5, scene 2",
+        "Act 5, scene 6",
+        "Act 5, scene 7"
+    ],
+    "robert": [
+        "Act 1, scene 1"
+    ],
+    "lady faulconbridge": [
+        "Act 1, scene 1"
+    ],
+    "gurney": [
+        "Act 1, scene 1"
+    ],
+    "lewis": [
+        "Act 2, scene 1",
+        "Act 3, scene 1",
+        "Act 3, scene 4",
+        "Act 5, scene 2",
+        "Act 5, scene 5"
+    ],
+    "arthur": [
+        "Act 2, scene 1",
+        "Act 3, scene 1",
+        "Act 3, scene 3",
+        "Act 4, scene 1",
+        "Act 4, scene 3"
+    ],
+    "austria": [
+        "Act 2, scene 1",
+        "Act 3, scene 1"
+    ],
+    "constance": [
+        "Act 2, scene 1",
+        "Act 3, scene 1",
+        "Act 3, scene 4"
+    ],
+    "king philip": [
+        "Act 2, scene 1",
+        "Act 3, scene 1",
+        "Act 3, scene 4"
+    ],
+    "blanch": [
+        "Act 2, scene 1",
+        "Act 3, scene 1"
+    ],
+    "first citizen": [
+        "Act 2, scene 1"
+    ],
+    "french herald": [
+        "Act 2, scene 1"
+    ],
+    "english herald": [
+        "Act 2, scene 1"
+    ],
+    "salisbury": [
+        "Act 3, scene 1",
+        "Act 4, scene 2",
+        "Act 4, scene 3",
+        "Act 5, scene 2",
+        "Act 5, scene 4",
+        "Act 5, scene 7"
+    ],
+    "cardinal pandulph": [
+        "Act 3, scene 1",
+        "Act 3, scene 4",
+        "Act 5, scene 1",
+        "Act 5, scene 2"
+    ],
+    "elinor": [
+        "Act 3, scene 3"
+    ],
+    "hubert": [
+        "Act 3, scene 3",
+        "Act 4, scene 1",
+        "Act 4, scene 2",
+        "Act 4, scene 3",
+        "Act 5, scene 3",
+        "Act 5, scene 6"
+    ],
+    "first executioner": [
+        "Act 4, scene 1"
+    ],
+    "pembroke": [
+        "Act 4, scene 2",
+        "Act 4, scene 3",
+        "Act 5, scene 4",
+        "Act 5, scene 7"
+    ],
+    "messenger": [
+        "Act 4, scene 2",
+        "Act 5, scene 3",
+        "Act 5, scene 5"
+    ],
+    "peter": [
+        "Act 4, scene 2"
+    ],
+    "bigot": [
+        "Act 4, scene 3"
+    ],
+    "melun": [
+        "Act 5, scene 4"
+    ],
+    "prince henry": [
+        "Act 5, scene 7"
+    ]
+}

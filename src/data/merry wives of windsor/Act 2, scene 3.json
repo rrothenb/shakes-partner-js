@@ -1,0 +1,206 @@
+{
+    "sceneName": "Act 2, scene 3",
+    "playName": "merry wives of windsor",
+    "location": "A field near Windsor.",
+    "lines": [
+        {
+            "text": "Enter DOCTOR CAIUS and RUGBY"
+        },
+        {
+            "speaker": "doctor caius",
+            "text": "Jack Rugby!"
+        },
+        {
+            "speaker": "rugby",
+            "text": "Sir"
+        },
+        {
+            "speaker": "doctor caius",
+            "text": "Vat is de clock, Jack"
+        },
+        {
+            "speaker": "rugby",
+            "text": "Tis past the hour, sir, that Sir Hugh promised to meet."
+        },
+        {
+            "speaker": "doctor caius",
+            "text": "By gar, he has save his soul, dat he is no come he has pray his Pible well, dat he is no come: by gar, Jack Rugby, he is dead already, if he be come."
+        },
+        {
+            "speaker": "rugby",
+            "text": "He is wise, sir he knew your worship would kill him, if he came."
+        },
+        {
+            "speaker": "doctor caius",
+            "text": "By gar, de herring is no dead so as I vill kill him. Take your rapier, Jack I vill tell you how I vill kill him."
+        },
+        {
+            "speaker": "rugby",
+            "text": "Alas, sir, I cannot fence."
+        },
+        {
+            "speaker": "doctor caius",
+            "text": "Villany, take your rapier."
+        },
+        {
+            "speaker": "rugby",
+            "text": "Forbear heres company."
+        },
+        {
+            "text": "Enter Host, SHALLOW, SLENDER, and PAGE"
+        },
+        {
+            "speaker": "host",
+            "text": "Bless thee, bully doctor!"
+        },
+        {
+            "speaker": "shallow",
+            "text": "Save you, Master Doctor Caius!"
+        },
+        {
+            "speaker": "page",
+            "text": "Now, good master doctor!"
+        },
+        {
+            "speaker": "slender",
+            "text": "Give you good morrow, sir."
+        },
+        {
+            "speaker": "doctor caius",
+            "text": "Vat be all you, one, two, tree, four, come for"
+        },
+        {
+            "speaker": "host",
+            "text": "To see thee fight, to see thee foin, to see thee traverse to see thee here, to see thee there to see thee pass thy punto, thy stock, thy reverse, thy distance, thy montant. Is he dead, my Ethiopian is he dead, my Francisco ha, bully! What says my AEsculapius my Galen my heart of elder ha! is he dead, bully stale is he dead"
+        },
+        {
+            "speaker": "doctor caius",
+            "text": "By gar, he is de coward Jack priest of de vorld he is not show his face."
+        },
+        {
+            "speaker": "host",
+            "text": "Thou art a CastalionKingUrinal. Hector of Greece, my boy!"
+        },
+        {
+            "speaker": "doctor caius",
+            "text": "I pray you, bear vitness that me have stay six or seven, two, tree hours for him, and he is no come."
+        },
+        {
+            "speaker": "shallow",
+            "text": "He is the wiser man, master doctor: he is a curer of souls, and you a curer of bodies if you should fight, you go against the hair of your professions. Is it not true, Master Page"
+        },
+        {
+            "speaker": "page",
+            "text": "Master Shallow, you have yourself been a great fighter, though now a man of peace."
+        },
+        {
+            "speaker": "shallow",
+            "text": "Bodykins, Master Page, though I now be old and of the peace, if I see a sword out, my finger itches to make one. Though we are justices and doctors and churchmen, Master Page, we have some salt of our youth in us we are the sons of women, Master Page."
+        },
+        {
+            "speaker": "page",
+            "text": "Tis true, Master Shallow."
+        },
+        {
+            "speaker": "shallow",
+            "text": "It will be found so, Master Page. Master Doctor Caius, I am come to fetch you home. I am sworn of the peace: you have showed yourself a wise physician, and Sir Hugh hath shown himself a wise and patient churchman. You must go with me, master doctor."
+        },
+        {
+            "speaker": "host",
+            "text": "Pardon, guestjustice. A word, Mounseur Mockwater."
+        },
+        {
+            "speaker": "doctor caius",
+            "text": "Mockvater! vat is dat"
+        },
+        {
+            "speaker": "host",
+            "text": "Mockwater, in our English tongue, is valour, bully."
+        },
+        {
+            "speaker": "doctor caius",
+            "text": "By gar, den, I have as mush mockvater as de Englishman. Scurvy jackdog priest! by gar, me vill cut his ears."
+        },
+        {
+            "speaker": "host",
+            "text": "He will clapperclaw thee tightly, bully."
+        },
+        {
+            "speaker": "doctor caius",
+            "text": "Clapperdeclaw! vat is dat"
+        },
+        {
+            "speaker": "host",
+            "text": "That is, he will make thee amends."
+        },
+        {
+            "speaker": "doctor caius",
+            "text": "By gar, me do look he shall clapperdeclaw me for, by gar, me vill have it."
+        },
+        {
+            "speaker": "host",
+            "text": "And I will provoke him tot, or let him wag."
+        },
+        {
+            "speaker": "doctor caius",
+            "text": "Me tank you for dat."
+        },
+        {
+            "speaker": "host",
+            "text": "And, moreover, bully,but first, master guest, and Master Page, and eke Cavaleiro Slender, go you through the town to Frogmore."
+        },
+        {
+            "text": "Aside to them"
+        },
+        {
+            "speaker": "page",
+            "text": "Sir Hugh is there, is he"
+        },
+        {
+            "speaker": "host",
+            "text": "He is there: see what humour he is in and I will bring the doctor about by the fields. Will it do well"
+        },
+        {
+            "speaker": "shallow",
+            "text": "We will do it."
+        },
+        {
+            "speaker": "slender",
+            "text": "Adieu, good master doctor."
+        },
+        {
+            "text": "Exeunt PAGE, SHALLOW, and SLENDER"
+        },
+        {
+            "speaker": "doctor caius",
+            "text": "By gar, me vill kill de priest for he speak for a jackanape to Anne Page."
+        },
+        {
+            "speaker": "host",
+            "text": "Let him die: sheathe thy impatience, throw cold water on thy choler: go about the fields with me through Frogmore: I will bring thee where Mistress Anne Page is, at a farmhouse afeasting and thou shalt woo her. Cried I aim said I well"
+        },
+        {
+            "speaker": "doctor caius",
+            "text": "By gar, me dank you for dat: by gar, I love you and I shall procurea you de good guest, de earl, de knight, de lords, de gentlemen, my patients."
+        },
+        {
+            "speaker": "host",
+            "text": "For the which I will be thy adversary toward Anne Page. Said I well"
+        },
+        {
+            "speaker": "doctor caius",
+            "text": "By gar, tis good vell said."
+        },
+        {
+            "speaker": "host",
+            "text": "Let us wag, then."
+        },
+        {
+            "speaker": "doctor caius",
+            "text": "Come at my heels, Jack Rugby."
+        },
+        {
+            "text": "Exeunt"
+        }
+    ]
+}

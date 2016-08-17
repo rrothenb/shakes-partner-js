@@ -1,0 +1,135 @@
+{
+    "sceneName": "Act 1, scene 5",
+    "playName": "king lear",
+    "location": "Court before the same.",
+    "lines": [
+        {
+            "text": "Enter KING LEAR, KENT, and Fool"
+        },
+        {
+            "speaker": "king lear",
+            "text": "Go you before to Gloucester with these letters. Acquaint my daughter no further with any thing you know than comes from her demand out of the letter. If your diligence be not speedy, I shall be there afore you."
+        },
+        {
+            "speaker": "kent",
+            "text": "I will not sleep, my lord, till I have delivered your letter."
+        },
+        {
+            "text": "Exit"
+        },
+        {
+            "speaker": "fool",
+            "text": "If a mans brains were ins heels, weret not in danger of kibes"
+        },
+        {
+            "speaker": "king lear",
+            "text": "Ay, boy."
+        },
+        {
+            "speaker": "fool",
+            "text": "Then, I prithee, be merry thy wit shall neer go slipshod."
+        },
+        {
+            "speaker": "king lear",
+            "text": "Ha, ha, ha!"
+        },
+        {
+            "speaker": "fool",
+            "text": "Shalt see thy other daughter will use thee kindly for though shes as like this as a crabs like an apple, yet I can tell what I can tell."
+        },
+        {
+            "speaker": "king lear",
+            "text": "Why, what canst thou tell, my boy"
+        },
+        {
+            "speaker": "fool",
+            "text": "She will taste as like this as a crab does to a crab. Thou canst tell why ones nose stands i the middle ons face"
+        },
+        {
+            "speaker": "king lear",
+            "text": "No."
+        },
+        {
+            "speaker": "fool",
+            "text": "Why, to keep ones eyes of either sides nose that what a man cannot smell out, he may spy into."
+        },
+        {
+            "speaker": "king lear",
+            "text": "I did her wrong"
+        },
+        {
+            "speaker": "fool",
+            "text": "Canst tell how an oyster makes his shell"
+        },
+        {
+            "speaker": "king lear",
+            "text": "No."
+        },
+        {
+            "speaker": "fool",
+            "text": "Nor I neither but I can tell why a snail has a house."
+        },
+        {
+            "speaker": "king lear",
+            "text": "Why"
+        },
+        {
+            "speaker": "fool",
+            "text": "Why, to put his head in not to give it away to his daughters, and leave his horns without a case."
+        },
+        {
+            "speaker": "king lear",
+            "text": "I will forget my nature. So kind a father! Be my horses ready"
+        },
+        {
+            "speaker": "fool",
+            "text": "Thy asses are gone about em. The reason why the seven stars are no more than seven is a pretty reason."
+        },
+        {
+            "speaker": "king lear",
+            "text": "Because they are not eight"
+        },
+        {
+            "speaker": "fool",
+            "text": "Yes, indeed: thou wouldst make a good fool."
+        },
+        {
+            "speaker": "king lear",
+            "text": "To take t again perforce! Monster ingratitude!"
+        },
+        {
+            "speaker": "fool",
+            "text": "If thou wert my fool, nuncle, Ild have thee beaten for being old before thy time."
+        },
+        {
+            "speaker": "king lear",
+            "text": "Hows that"
+        },
+        {
+            "speaker": "fool",
+            "text": "Thou shouldst not have been old till thou hadst been wise."
+        },
+        {
+            "speaker": "king lear",
+            "text": "O, let me not be mad, not mad, sweet heaven Keep me in temper: I would not be mad! How now! are the horses ready"
+        },
+        {
+            "text": "Enter Gentleman"
+        },
+        {
+            "speaker": "gentleman",
+            "text": "Ready, my lord."
+        },
+        {
+            "speaker": "king lear",
+            "text": "Come, boy."
+        },
+        {
+            "speaker": "fool",
+            "text": "She thats a maid now, and laughs at my departure, Shall not be a maid long, unless things be cut shorter."
+        },
+        {
+            "text": "Exeunt"
+        }
+    ]
+}

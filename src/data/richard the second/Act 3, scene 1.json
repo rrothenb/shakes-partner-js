@@ -1,0 +1,40 @@
+{
+    "sceneName": "Act 3, scene 1",
+    "playName": "richard the second",
+    "location": "Bristol. Before the castle.",
+    "lines": [
+        {
+            "text": "Enter HENRY BOLINGBROKE, DUKE OF YORK,  NORTHUMBERLAND, LORD ROSS, HENRY PERCY, LORD WILLOUGHBY, with BUSHY and GREEN, prisoners"
+        },
+        {
+            "speaker": "henry bolingbroke",
+            "text": "Bring forth these men. Bushy and Green, I will not vex your souls Since presently your souls must part your bodies With too much urging your pernicious lives, For twere no charity yet, to wash your blood From off my hands, here in the view of men I will unfold some causes of your deaths. You have misled a prince, a royal king, A happy gentleman in blood and lineaments, By you unhappied and disfigured clean: You have in manner with your sinful hours Made a divorce betwixt his queen and him, Broke the possession of a royal bed And staind the beauty of a fair queens cheeks With tears drawn from her eyes by your foul wrongs. Myself, a prince by fortune of my birth, Near to the king in blood, and near in love Till you did make him misinterpret me, Have stoopd my neck under your injuries, And sighd my English breath in foreign clouds, Eating the bitter bread of banishment Whilst you have fed upon my signories, Disparkd my parks and felld my forest woods, From my own windows torn my household coat, Razed out my imprese, leaving me no sign, Save mens opinions and my living blood, To show the world I am a gentleman. This and much more, much more than twice all this, Condemns you to the death. See them deliverd over To execution and the hand of death."
+        },
+        {
+            "speaker": "bushy",
+            "text": "More welcome is the stroke of death to me Than Bolingbroke to England. Lords, farewell."
+        },
+        {
+            "speaker": "green",
+            "text": "My comfort is that heaven will take our souls And plague injustice with the pains of hell."
+        },
+        {
+            "speaker": "henry bolingbroke",
+            "text": "My Lord Northumberland, see them dispatchd. Uncle, you say the queen is at your house For Gods sake, fairly let her be entreated: Tell her I send to her my kind commends Take special care my greetings be deliverd."
+        },
+        {
+            "text": "Exeunt NORTHUMBERLAND and others, with the prisoners"
+        },
+        {
+            "speaker": "duke of york",
+            "text": "A gentleman of mine I have dispatchd With letters of your love to her at large."
+        },
+        {
+            "speaker": "henry bolingbroke",
+            "text": "Thank, gentle uncle. Come, lords, away. To fight with Glendower and his complices: Awhile to work, and after holiday."
+        },
+        {
+            "text": "Exeunt"
+        }
+    ]
+}

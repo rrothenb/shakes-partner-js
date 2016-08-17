@@ -1,0 +1,418 @@
+{
+    "sceneName": "Act 5, scene 1",
+    "playName": "pericles",
+    "location": "On board PERICLES ship, off Mytilene. A close",
+    "lines": [
+        {
+            "speaker": "tyrian sailor",
+            "text": "[To the Sailor of Mytilene]  Where is lord Helicanus he can resolve you. O, here he is. Sir, theres a barge put off from Mytilene, And in it is Lysimachus the governor, Who craves to come aboard. What is your will"
+        },
+        {
+            "speaker": "helicanus",
+            "text": "That he have his. Call up some gentlemen."
+        },
+        {
+            "speaker": "tyrian sailor",
+            "text": "Ho, gentlemen! my lord calls."
+        },
+        {
+            "text": "Enter two or three Gentlemen"
+        },
+        {
+            "speaker": "first gentleman",
+            "text": "Doth your lordship call"
+        },
+        {
+            "speaker": "helicanus",
+            "text": "Gentlemen, theres some of worth would come aboard I pray ye, greet them fairly."
+        },
+        {
+            "text": "The Gentlemen and the two Sailors descend, and go on board the barge"
+        },
+        {
+            "text": "Enter, from thence, LYSIMACHUS and Lords with the Gentlemen and the two Sailors"
+        },
+        {
+            "speaker": "tyrian sailor",
+            "text": "Sir, This is the man that can, in aught you would, Resolve you."
+        },
+        {
+            "speaker": "lysimachus",
+            "text": "Hail, reverend sir! the gods preserve you!"
+        },
+        {
+            "speaker": "helicanus",
+            "text": "And you, sir, to outlive the age I am, And die as I would do."
+        },
+        {
+            "speaker": "lysimachus",
+            "text": "You wish me well. Being on shore, honouring of Neptunes triumphs, Seeing this goodly vessel ride before us, I made to it, to know of whence you are."
+        },
+        {
+            "speaker": "helicanus",
+            "text": "First, what is your place"
+        },
+        {
+            "speaker": "lysimachus",
+            "text": "I am the governor of this place you lie before."
+        },
+        {
+            "speaker": "helicanus",
+            "text": "Sir, Our vessel is of Tyre, in it the king A man who for this three months hath not spoken To any one, nor taken sustenance But to prorogue his grief."
+        },
+        {
+            "speaker": "lysimachus",
+            "text": "Upon what ground is his distemperature"
+        },
+        {
+            "speaker": "helicanus",
+            "text": "Twould be too tedious to repeat But the main grief springs from the loss Of a beloved daughter and a wife."
+        },
+        {
+            "speaker": "lysimachus",
+            "text": "May we not see him"
+        },
+        {
+            "speaker": "helicanus",
+            "text": "You may But bootless is your sight: he will not speak To any."
+        },
+        {
+            "speaker": "lysimachus",
+            "text": "Yet let me obtain my wish."
+        },
+        {
+            "speaker": "helicanus",
+            "text": "Behold him. This was a goodly person, Till the disaster that, one mortal night, Drove him to this."
+        },
+        {
+            "text": "PERICLES discovered"
+        },
+        {
+            "speaker": "lysimachus",
+            "text": "Sir king, all hail! the gods preserve you! Hail, royal sir!"
+        },
+        {
+            "speaker": "helicanus",
+            "text": "It is in vain he will not speak to you."
+        },
+        {
+            "speaker": "first lord",
+            "text": "Sir, We have a maid in Mytilene, I durst wager, Would win some words of him."
+        },
+        {
+            "speaker": "lysimachus",
+            "text": "Tis well bethought. She questionless with her sweet harmony And other chosen attractions, would allure, And make a battery through his deafend parts, Which now are midway stoppd: She is all happy as the fairest of all, And, with her fellow maids is now upon The leafy shelter that abuts against The islands side."
+        },
+        {
+            "text": "Whispers a Lord, who goes off in the barge of LYSIMACHUS"
+        },
+        {
+            "speaker": "helicanus",
+            "text": "Sure, alls effectless yet nothing well omit That bears recoverys name. But, since your kindness We have stretchd thus far, let us beseech you That for our gold we may provision have, Wherein we are not destitute for want, But weary for the staleness."
+        },
+        {
+            "speaker": "lysimachus",
+            "text": "O, sir, a courtesy Which if we should deny, the most just gods For every graff would send a caterpillar, And so afflict our province. Yet once more Let me entreat to know at large the cause Of your kings sorrow."
+        },
+        {
+            "speaker": "helicanus",
+            "text": "Sit, sir, I will recount it to you: But, see, I am prevented."
+        },
+        {
+            "text": "Reenter, from the barge, Lord, with MARINA, and a young Lady"
+        },
+        {
+            "speaker": "lysimachus",
+            "text": "O, here is The lady that I sent for. Welcome, fair one! Ist not a goodly presence"
+        },
+        {
+            "speaker": "helicanus",
+            "text": "Shes a gallant lady."
+        },
+        {
+            "speaker": "lysimachus",
+            "text": "Shes such a one, that, were I well assured Came of a gentle kind and noble stock, Ild wish no better choice, and think me rarely wed. Fair one, all goodness that consists in bounty Expect even here, where is a kingly patient: If that thy prosperous and artificial feat Can draw him but to answer thee in aught, Thy sacred physic shall receive such pay As thy desires can wish."
+        },
+        {
+            "speaker": "marina",
+            "text": "Sir, I will use My utmost skill in his recovery, Provided That none but I and my companion maid Be sufferd to come near him."
+        },
+        {
+            "speaker": "lysimachus",
+            "text": "Come, let us leave her And the gods make her prosperous! Markd he your music"
+        },
+        {
+            "text": "MARINA sings"
+        },
+        {
+            "speaker": "marina",
+            "text": "No, nor lookd on us."
+        },
+        {
+            "speaker": "lysimachus",
+            "text": "See, she will speak to him."
+        },
+        {
+            "speaker": "marina",
+            "text": "Hail, sir! my lord, lend ear."
+        },
+        {
+            "speaker": "pericles",
+            "text": "Hum, ha!"
+        },
+        {
+            "speaker": "marina",
+            "text": "I am a maid, My lord, that neer before invited eyes, But have been gazed on like a comet: she speaks, My lord, that, may be, hath endured a grief Might equal yours, if both were justly weighd. Though wayward fortune did malign my state, My derivation was from ancestors Who stood equivalent with mighty kings: But time hath rooted out my parentage, And to the world and awkward casualties Bound me in servitude. I will desist But there is something glows upon my cheek, And whispers in mine ear, Go not till he speak."
+        },
+        {
+            "text": "Aside"
+        },
+        {
+            "speaker": "pericles",
+            "text": "My fortunesparentagegood parentage To equal mine!was it not thus what say you"
+        },
+        {
+            "speaker": "marina",
+            "text": "I said, my lord, if you did know my parentage, You would not do me violence."
+        },
+        {
+            "speaker": "pericles",
+            "text": "I do think so. Pray you, turn your eyes upon me. You are like something thatWhat countrywoman Here of these shores"
+        },
+        {
+            "speaker": "marina",
+            "text": "No, nor of any shores: Yet I was mortally brought forth, and am No other than I appear."
+        },
+        {
+            "speaker": "pericles",
+            "text": "I am great with woe, and shall deliver weeping. My dearest wife was like this maid, and such a one My daughter might have been: my queens square brows Her stature to an inch as wandlike straight As silvervoiced her eyes as jewellike And cased as richly in pace another Juno Who starves the ears she feeds, and makes them hungry, The more she gives them speech. Where do you live"
+        },
+        {
+            "speaker": "marina",
+            "text": "Where I am but a stranger: from the deck You may discern the place."
+        },
+        {
+            "speaker": "pericles",
+            "text": "Where were you bred And how achieved you these endowments, which You make more rich to owe"
+        },
+        {
+            "speaker": "marina",
+            "text": "If I should tell my history, it would seem Like lies disdaind in the reporting."
+        },
+        {
+            "speaker": "pericles",
+            "text": "Prithee, speak: Falseness cannot come from thee for thou lookst Modest as Justice, and thou seemst a palace For the crownd Truth to dwell in: I will believe thee, And make my senses credit thy relation To points that seem impossible for thou lookst Like one I loved indeed. What were thy friends Didst thou not say, when I did push thee back Which was when I perceived theethat thou camest From good descending"
+        },
+        {
+            "speaker": "marina",
+            "text": "So indeed I did."
+        },
+        {
+            "speaker": "pericles",
+            "text": "Report thy parentage. I think thou saidst Thou hadst been tossd from wrong to injury, And that thou thoughtst thy griefs might equal mine, If both were opend."
+        },
+        {
+            "speaker": "marina",
+            "text": "Some such thing I said, and said no more but what my thoughts Did warrant me was likely."
+        },
+        {
+            "speaker": "pericles",
+            "text": "Tell thy story If thine considerd prove the thousandth part Of my endurance, thou art a man, and I Have sufferd like a girl: yet thou dost look Like Patience gazing on kings graves, and smiling Extremity out of act. What were thy friends How lost thou them Thy name, my most kind virgin Recount, I do beseech thee: come, sit by me."
+        },
+        {
+            "speaker": "marina",
+            "text": "My name is Marina."
+        },
+        {
+            "speaker": "pericles",
+            "text": "O, I am mockd, And thou by some incensed god sent hither To make the world to laugh at me."
+        },
+        {
+            "speaker": "marina",
+            "text": "Patience, good sir, Or here Ill cease."
+        },
+        {
+            "speaker": "pericles",
+            "text": "Nay, Ill be patient. Thou little knowst how thou dost startle me, To call thyself Marina."
+        },
+        {
+            "speaker": "marina",
+            "text": "The name Was given me by one that had some power, My father, and a king."
+        },
+        {
+            "speaker": "pericles",
+            "text": "How! a kings daughter And calld Marina"
+        },
+        {
+            "speaker": "marina",
+            "text": "You said you would believe me But, not to be a troubler of your peace, I will end here."
+        },
+        {
+            "speaker": "pericles",
+            "text": "But are you flesh and blood Have you a working pulse and are no fairy Motion! Well speak on. Where were you born And wherefore calld Marina"
+        },
+        {
+            "speaker": "marina",
+            "text": "Calld Marina For I was born at sea."
+        },
+        {
+            "speaker": "pericles",
+            "text": "At sea! what mother"
+        },
+        {
+            "speaker": "marina",
+            "text": "My mother was the daughter of a king Who died the minute I was born, As my good nurse Lychorida hath oft Deliverd weeping."
+        },
+        {
+            "speaker": "pericles",
+            "text": "O, stop there a little! This is the rarest dream that eer dull sleep Did mock sad fools withal: this cannot be: My daughters buried. Well: where were you bred Ill hear you more, to the bottom of your story, And never interrupt you."
+        },
+        {
+            "text": "Aside"
+        },
+        {
+            "speaker": "marina",
+            "text": "You scorn: believe me, twere best I did give oer."
+        },
+        {
+            "speaker": "pericles",
+            "text": "I will believe you by the syllable Of what you shall deliver. Yet, give me leave: How came you in these parts where were you bred"
+        },
+        {
+            "speaker": "marina",
+            "text": "The king my father did in Tarsus leave me Till cruel Cleon, with his wicked wife, Did seek to murder me: and having wood A villain to attempt it, who having drawn to dot, A crew of pirates came and rescued me Brought me to Mytilene. But, good sir, Whither will you have me Why do you weep It may be, You think me an impostor: no, good faith I am the daughter to King Pericles, If good King Pericles be."
+        },
+        {
+            "speaker": "pericles",
+            "text": "Ho, Helicanus!"
+        },
+        {
+            "speaker": "helicanus",
+            "text": "Calls my lord"
+        },
+        {
+            "speaker": "pericles",
+            "text": "Thou art a grave and noble counsellor, Most wise in general: tell me, if thou canst, What this maid is, or what is like to be, That thus hath made me weep"
+        },
+        {
+            "speaker": "helicanus",
+            "text": "I know not but Here is the regent, sir, of Mytilene Speaks nobly of her."
+        },
+        {
+            "speaker": "lysimachus",
+            "text": "She would never tell Her parentage being demanded that, She would sit still and weep."
+        },
+        {
+            "speaker": "pericles",
+            "text": "O Helicanus, strike me, honourd sir Give me a gash, put me to present pain Lest this great sea of joys rushing upon me Oerbear the shores of my mortality, And drown me with their sweetness. O, come hither, Thou that begetst him that did thee beget Thou that wast born at sea, buried at Tarsus, And found at sea again! O Helicanus, Down on thy knees, thank the holy gods as loud As thunder threatens us: this is Marina. What was thy mothers name tell me but that, For truth can never be confirmd enough, Though doubts did ever sleep."
+        },
+        {
+            "speaker": "marina",
+            "text": "First, sir, I pray, What is your title"
+        },
+        {
+            "speaker": "pericles",
+            "text": "I am Pericles of Tyre: but tell me now My drownd queens name, as in the rest you said Thou hast been godlike perfect, The heir of kingdoms and another like To Pericles thy father."
+        },
+        {
+            "speaker": "marina",
+            "text": "Is it no more to be your daughter than To say my mothers name was Thaisa Thaisa was my mother, who did end The minute I began."
+        },
+        {
+            "speaker": "pericles",
+            "text": "Now, blessing on thee! rise thou art my child. Give me fresh garments. Mine own, Helicanus She is not dead at Tarsus, as she should have been, By savage Cleon: she shall tell thee all When thou shalt kneel, and justify in knowledge She is thy very princess. Who is this"
+        },
+        {
+            "speaker": "helicanus",
+            "text": "Sir, tis the governor of Mytilene, Who, hearing of your melancholy state, Did come to see you."
+        },
+        {
+            "speaker": "pericles",
+            "text": "I embrace you. Give me my robes. I am wild in my beholding. O heavens bless my girl! But, hark, what music Tell Helicanus, my Marina, tell him Oer, point by point, for yet he seems to doubt, How sure you are my daughter. But, what music"
+        },
+        {
+            "speaker": "helicanus",
+            "text": "My lord, I hear none."
+        },
+        {
+            "speaker": "pericles",
+            "text": "None! The music of the spheres! List, my Marina."
+        },
+        {
+            "speaker": "lysimachus",
+            "text": "It is not good to cross him give him way."
+        },
+        {
+            "speaker": "pericles",
+            "text": "Rarest sounds! Do ye not hear"
+        },
+        {
+            "speaker": "lysimachus",
+            "text": "My lord, I hear."
+        },
+        {
+            "text": "Music"
+        },
+        {
+            "speaker": "pericles",
+            "text": "Most heavenly music! It nips me unto listening, and thick slumber Hangs upon mine eyes: let me rest."
+        },
+        {
+            "text": "Sleeps"
+        },
+        {
+            "speaker": "lysimachus",
+            "text": "A pillow for his head: So, leave him all. Well, my companion friends, If this but answer to my just belief, Ill well remember you."
+        },
+        {
+            "text": "Exeunt all but PERICLES"
+        },
+        {
+            "text": "DIANA appears to PERICLES as in a vision"
+        },
+        {
+            "speaker": "diana",
+            "text": "My temple stands in Ephesus: hie thee thither, And do upon mine altar sacrifice. There, when my maiden priests are met together, Before the people all, Reveal how thou at sea didst lose thy wife: To mourn thy crosses, with thy daughters, call And give them repetition to the life. Or perform my bidding, or thou livest in woe Do it, and happy by my silver bow! Awake, and tell thy dream."
+        },
+        {
+            "text": "Disappears"
+        },
+        {
+            "speaker": "pericles",
+            "text": "Celestial Dian, goddess argentine, I will obey thee. Helicanus!"
+        },
+        {
+            "text": "Reenter HELICANUS, LYSIMACHUS, and MARINA"
+        },
+        {
+            "speaker": "helicanus",
+            "text": "Sir"
+        },
+        {
+            "speaker": "pericles",
+            "text": "My purpose was for Tarsus, there to strike The inhospitable Cleon but I am For other service first: toward Ephesus Turn our blown sails eftsoons Ill tell thee why. Shall we refresh us, sir, upon your shore, And give you gold for such provision As our intents will need"
+        },
+        {
+            "text": "To LYSIMACHUS"
+        },
+        {
+            "speaker": "lysimachus",
+            "text": "Sir, With all my heart and, when you come ashore, I have another suit."
+        },
+        {
+            "speaker": "pericles",
+            "text": "You shall prevail, Were it to woo my daughter for it seems You have been noble towards her."
+        },
+        {
+            "speaker": "lysimachus",
+            "text": "Sir, lend me your arm."
+        },
+        {
+            "speaker": "pericles",
+            "text": "Come, my Marina."
+        },
+        {
+            "text": "Exeunt"
+        }
+    ]
+}

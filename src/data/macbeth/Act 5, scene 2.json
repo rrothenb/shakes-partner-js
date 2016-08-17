@@ -1,0 +1,53 @@
+{
+    "sceneName": "Act 5, scene 2",
+    "playName": "macbeth",
+    "location": "The country near Dunsinane.",
+    "lines": [
+        {
+            "text": "Drum and colours. Enter MENTEITH, CAITHNESS, ANGUS, LENNOX, and Soldiers"
+        },
+        {
+            "speaker": "menteith",
+            "text": "The English power is near, led on by Malcolm, His uncle Siward and the good Macduff: Revenges burn in them for their dear causes Would to the bleeding and the grim alarm Excite the mortified man."
+        },
+        {
+            "speaker": "angus",
+            "text": "Near Birnam wood Shall we well meet them that way are they coming."
+        },
+        {
+            "speaker": "caithness",
+            "text": "Who knows if Donalbain be with his brother"
+        },
+        {
+            "speaker": "lennox",
+            "text": "For certain, sir, he is not: I have a file Of all the gentry: there is Siwards son, And many unrough youths that even now Protest their first of manhood."
+        },
+        {
+            "speaker": "menteith",
+            "text": "What does the tyrant"
+        },
+        {
+            "speaker": "caithness",
+            "text": "Great Dunsinane he strongly fortifies: Some say hes mad others that lesser hate him Do call it valiant fury: but, for certain, He cannot buckle his distemperd cause Within the belt of rule."
+        },
+        {
+            "speaker": "angus",
+            "text": "Now does he feel His secret murders sticking on his hands Now minutely revolts upbraid his faithbreach Those he commands move only in command, Nothing in love: now does he feel his title Hang loose about him, like a giants robe Upon a dwarfish thief."
+        },
+        {
+            "speaker": "menteith",
+            "text": "Who then shall blame His pesterd senses to recoil and start, When all that is within him does condemn Itself for being there"
+        },
+        {
+            "speaker": "caithness",
+            "text": "Well, march we on, To give obedience where tis truly owed: Meet we the medicine of the sickly weal, And with him pour we in our countrys purge Each drop of us."
+        },
+        {
+            "speaker": "lennox",
+            "text": "Or so much as it needs, To dew the sovereign flower and drown the weeds. Make we our march towards Birnam."
+        },
+        {
+            "text": "Exeunt, marching"
+        }
+    ]
+}

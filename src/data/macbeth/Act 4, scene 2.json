@@ -1,0 +1,195 @@
+{
+    "sceneName": "Act 4, scene 2",
+    "playName": "macbeth",
+    "location": "Fife. Macduffs castle.",
+    "lines": [
+        {
+            "text": "Enter LADY MACDUFF, her Son, and ROSS"
+        },
+        {
+            "speaker": "lady macduff",
+            "text": "What had he done, to make him fly the land"
+        },
+        {
+            "speaker": "ross",
+            "text": "You must have patience, madam."
+        },
+        {
+            "speaker": "lady macduff",
+            "text": "He had none: His flight was madness: when our actions do not, Our fears do make us traitors."
+        },
+        {
+            "speaker": "ross",
+            "text": "You know not Whether it was his wisdom or his fear."
+        },
+        {
+            "speaker": "lady macduff",
+            "text": "Wisdom! to leave his wife, to leave his babes, His mansion and his titles in a place From whence himself does fly He loves us not He wants the natural touch: for the poor wren, The most diminutive of birds, will fight, Her young ones in her nest, against the owl. All is the fear and nothing is the love As little is the wisdom, where the flight So runs against all reason."
+        },
+        {
+            "speaker": "ross",
+            "text": "My dearest coz, I pray you, school yourself: but for your husband, He is noble, wise, judicious, and best knows The fits o the season. I dare not speak much further But cruel are the times, when we are traitors And do not know ourselves, when we hold rumour From what we fear, yet know not what we fear, But float upon a wild and violent sea Each way and move. I take my leave of you: Shall not be long but Ill be here again: Things at the worst will cease, or else climb upward To what they were before. My pretty cousin, Blessing upon you!"
+        },
+        {
+            "speaker": "lady macduff",
+            "text": "Fatherd he is, and yet hes fatherless."
+        },
+        {
+            "speaker": "ross",
+            "text": "I am so much a fool, should I stay longer, It would be my disgrace and your discomfort: I take my leave at once."
+        },
+        {
+            "text": "Exit"
+        },
+        {
+            "speaker": "lady macduff",
+            "text": "Sirrah, your fathers dead And what will you do now How will you live"
+        },
+        {
+            "speaker": "son",
+            "text": "As birds do, mother."
+        },
+        {
+            "speaker": "lady macduff",
+            "text": "What, with worms and flies"
+        },
+        {
+            "speaker": "son",
+            "text": "With what I get, I mean and so do they."
+        },
+        {
+            "speaker": "lady macduff",
+            "text": "Poor bird! thouldst never fear the net nor lime, The pitfall nor the gin."
+        },
+        {
+            "speaker": "son",
+            "text": "Why should I, mother Poor birds they are not set for. My father is not dead, for all your saying."
+        },
+        {
+            "speaker": "lady macduff",
+            "text": "Yes, he is dead how wilt thou do for a father"
+        },
+        {
+            "speaker": "son",
+            "text": "Nay, how will you do for a husband"
+        },
+        {
+            "speaker": "lady macduff",
+            "text": "Why, I can buy me twenty at any market."
+        },
+        {
+            "speaker": "son",
+            "text": "Then youll buy em to sell again."
+        },
+        {
+            "speaker": "lady macduff",
+            "text": "Thou speakst with all thy wit: and yet, i faith, With wit enough for thee."
+        },
+        {
+            "speaker": "son",
+            "text": "Was my father a traitor, mother"
+        },
+        {
+            "speaker": "lady macduff",
+            "text": "Ay, that he was."
+        },
+        {
+            "speaker": "son",
+            "text": "What is a traitor"
+        },
+        {
+            "speaker": "lady macduff",
+            "text": "Why, one that swears and lies."
+        },
+        {
+            "speaker": "son",
+            "text": "And be all traitors that do so"
+        },
+        {
+            "speaker": "lady macduff",
+            "text": "Every one that does so is a traitor, and must be hanged."
+        },
+        {
+            "speaker": "son",
+            "text": "And must they all be hanged that swear and lie"
+        },
+        {
+            "speaker": "lady macduff",
+            "text": "Every one."
+        },
+        {
+            "speaker": "son",
+            "text": "Who must hang them"
+        },
+        {
+            "speaker": "lady macduff",
+            "text": "Why,  the honest men."
+        },
+        {
+            "speaker": "son",
+            "text": "Then the liars and swearers are fools, for there are liars and swearers enow to beat the honest men and hang up them."
+        },
+        {
+            "speaker": "lady macduff",
+            "text": "Now, God help thee, poor monkey! But how wilt thou do for a father"
+        },
+        {
+            "speaker": "son",
+            "text": "If he were dead, yould weep for him: if you would not, it were a good sign that I should quickly have a new father."
+        },
+        {
+            "speaker": "lady macduff",
+            "text": "Poor prattler, how thou talkst!"
+        },
+        {
+            "text": "Enter a Messenger"
+        },
+        {
+            "speaker": "messenger",
+            "text": "Bless you, fair dame! I am not to you known, Though in your state of honour I am perfect. I doubt some danger does approach you nearly: If you will take a homely mans advice, Be not found here hence, with your little ones. To fright you thus, methinks, I am too savage To do worse to you were fell cruelty, Which is too nigh your person. Heaven preserve you! I dare abide no longer."
+        },
+        {
+            "text": "Exit"
+        },
+        {
+            "speaker": "lady macduff",
+            "text": "Whither should I fly I have done no harm. But I remember now I am in this earthly world where to do harm Is often laudable, to do good sometime Accounted dangerous folly: why then, alas, Do I put up that womanly defence, To say I have done no harm What are these faces"
+        },
+        {
+            "text": "Enter Murderers"
+        },
+        {
+            "speaker": "first murderer",
+            "text": "Where is your husband"
+        },
+        {
+            "speaker": "lady macduff",
+            "text": "I hope, in no place so unsanctified Where such as thou mayst find him."
+        },
+        {
+            "speaker": "first murderer",
+            "text": "Hes a traitor."
+        },
+        {
+            "speaker": "son",
+            "text": "Thou liest, thou shaghaird villain!"
+        },
+        {
+            "speaker": "first murderer",
+            "text": "What, you egg! Young fry of treachery!"
+        },
+        {
+            "text": "Stabbing him"
+        },
+        {
+            "speaker": "son",
+            "text": "He has killd me, mother: Run away, I pray you!"
+        },
+        {
+            "text": "Dies"
+        },
+        {
+            "text": "Exit LADY MACDUFF, crying Murder! Exeunt Murderers, following her"
+        }
+    ]
+}

@@ -1,0 +1,355 @@
+{
+    "sceneName": "Act 1, scene 2",
+    "playName": "measure for measure",
+    "location": "A Street.",
+    "lines": [
+        {
+            "text": "Enter LUCIO and two Gentlemen"
+        },
+        {
+            "speaker": "lucio",
+            "text": "If the duke with the other dukes come not to composition with the King of Hungary, why then all the dukes fall upon the king."
+        },
+        {
+            "speaker": "first gentleman",
+            "text": "Heaven grant us its peace, but not the King of Hungarys!"
+        },
+        {
+            "speaker": "second gentleman",
+            "text": "Amen."
+        },
+        {
+            "speaker": "lucio",
+            "text": "Thou concludest like the sanctimonious pirate, that went to sea with the Ten Commandments, but scraped one out of the table."
+        },
+        {
+            "speaker": "second gentleman",
+            "text": "Thou shalt not steal"
+        },
+        {
+            "speaker": "lucio",
+            "text": "Ay, that he razed."
+        },
+        {
+            "speaker": "first gentleman",
+            "text": "Why, twas a commandment to command the captain and all the rest from their functions: they put forth to steal. Theres not a soldier of us all, that, in the thanksgiving before meat, do relish the petition well that prays for peace."
+        },
+        {
+            "speaker": "second gentleman",
+            "text": "I never heard any soldier dislike it."
+        },
+        {
+            "speaker": "lucio",
+            "text": "I believe thee for I think thou never wast where grace was said."
+        },
+        {
+            "speaker": "second gentleman",
+            "text": "No a dozen times at least."
+        },
+        {
+            "speaker": "first gentleman",
+            "text": "What, in metre"
+        },
+        {
+            "speaker": "lucio",
+            "text": "In any proportion or in any language."
+        },
+        {
+            "speaker": "first gentleman",
+            "text": "I think, or in any religion."
+        },
+        {
+            "speaker": "lucio",
+            "text": "Ay, why not Grace is grace, despite of all controversy: as, for example, thou thyself art a wicked villain, despite of all grace."
+        },
+        {
+            "speaker": "first gentleman",
+            "text": "Well, there went but a pair of shears between us."
+        },
+        {
+            "speaker": "lucio",
+            "text": "I grant as there may between the lists and the velvet. Thou art the list."
+        },
+        {
+            "speaker": "first gentleman",
+            "text": "And thou the velvet: thou art good velvet thourt a threepiled piece, I warrant thee: I had as lief be a list of an English kersey as be piled, as thou art piled, for a French velvet. Do I speak feelingly now"
+        },
+        {
+            "speaker": "lucio",
+            "text": "I think thou dost and, indeed, with most painful feeling of thy speech: I will, out of thine own confession, learn to begin thy health but, whilst I live, forget to drink after thee."
+        },
+        {
+            "speaker": "first gentleman",
+            "text": "I think I have done myself wrong, have I not"
+        },
+        {
+            "speaker": "second gentleman",
+            "text": "Yes, that thou hast, whether thou art tainted or free."
+        },
+        {
+            "speaker": "lucio",
+            "text": "Behold, behold. where Madam Mitigation comes! I have purchased as many diseases under her roof as come to"
+        },
+        {
+            "speaker": "second gentleman",
+            "text": "To what, I pray"
+        },
+        {
+            "speaker": "lucio",
+            "text": "Judge."
+        },
+        {
+            "speaker": "second gentleman",
+            "text": "To three thousand dolours a year."
+        },
+        {
+            "speaker": "first gentleman",
+            "text": "Ay, and more."
+        },
+        {
+            "speaker": "lucio",
+            "text": "A French crown more."
+        },
+        {
+            "speaker": "first gentleman",
+            "text": "Thou art always figuring diseases in me but thou art full of error I am sound."
+        },
+        {
+            "speaker": "lucio",
+            "text": "Nay, not as one would say, healthy but so sound as things that are hollow: thy bones are hollow impiety has made a feast of thee."
+        },
+        {
+            "text": "Enter MISTRESS OVERDONE"
+        },
+        {
+            "speaker": "first gentleman",
+            "text": "How now! which of your hips has the most profound sciatica"
+        },
+        {
+            "speaker": "mistress overdone",
+            "text": "Well, well theres one yonder arrested and carried to prison was worth five thousand of you all."
+        },
+        {
+            "speaker": "second gentleman",
+            "text": "Whos that, I pray thee"
+        },
+        {
+            "speaker": "mistress overdone",
+            "text": "Marry, sir, thats Claudio, Signior Claudio."
+        },
+        {
+            "speaker": "first gentleman",
+            "text": "Claudio to prison tis not so."
+        },
+        {
+            "speaker": "mistress overdone",
+            "text": "Nay, but I know tis so: I saw him arrested, saw him carried away and, which is more, within these three days his head to be chopped off."
+        },
+        {
+            "speaker": "lucio",
+            "text": "But, after all this fooling, I would not have it so. Art thou sure of this"
+        },
+        {
+            "speaker": "mistress overdone",
+            "text": "I am too sure of it: and it is for getting Madam Julietta with child."
+        },
+        {
+            "speaker": "lucio",
+            "text": "Believe me, this may be: he promised to meet me two hours since, and he was ever precise in promisekeeping."
+        },
+        {
+            "speaker": "second gentleman",
+            "text": "Besides, you know, it draws something near to the speech we had to such a purpose."
+        },
+        {
+            "speaker": "first gentleman",
+            "text": "But, most of all, agreeing with the proclamation."
+        },
+        {
+            "speaker": "lucio",
+            "text": "Away! lets go learn the truth of it."
+        },
+        {
+            "text": "Exeunt LUCIO and Gentlemen"
+        },
+        {
+            "speaker": "mistress overdone",
+            "text": "Thus, what with the war, what with the sweat, what with the gallows and what with poverty, I am customshrunk. How now! whats the news with you"
+        },
+        {
+            "text": "Enter POMPEY"
+        },
+        {
+            "speaker": "pompey",
+            "text": "Yonder man is carried to prison."
+        },
+        {
+            "speaker": "mistress overdone",
+            "text": "Well what has he done"
+        },
+        {
+            "speaker": "pompey",
+            "text": "A woman."
+        },
+        {
+            "speaker": "mistress overdone",
+            "text": "But whats his offence"
+        },
+        {
+            "speaker": "pompey",
+            "text": "Groping for trouts in a peculiar river."
+        },
+        {
+            "speaker": "mistress overdone",
+            "text": "What, is there a maid with child by him"
+        },
+        {
+            "speaker": "pompey",
+            "text": "No, but theres a woman with maid by him. You have not heard of the proclamation, have you"
+        },
+        {
+            "speaker": "mistress overdone",
+            "text": "What proclamation, man"
+        },
+        {
+            "speaker": "pompey",
+            "text": "All houses in the suburbs of Vienna must be plucked down."
+        },
+        {
+            "speaker": "mistress overdone",
+            "text": "And what shall become of those in the city"
+        },
+        {
+            "speaker": "pompey",
+            "text": "They shall stand for seed: they had gone down too, but that a wise burgher put in for them."
+        },
+        {
+            "speaker": "mistress overdone",
+            "text": "But shall all our houses of resort in the suburbs be pulled down"
+        },
+        {
+            "speaker": "pompey",
+            "text": "To the ground, mistress."
+        },
+        {
+            "speaker": "mistress overdone",
+            "text": "Why, heres a change indeed in the commonwealth! What shall become of me"
+        },
+        {
+            "speaker": "pompey",
+            "text": "Come fear you not: good counsellors lack no clients: though you change your place, you need not change your trade Ill be your tapster still. Courage! there will be pity taken on you: you that have worn your eyes almost out in the service, you will be considered."
+        },
+        {
+            "speaker": "mistress overdone",
+            "text": "Whats to do here, Thomas tapster lets withdraw."
+        },
+        {
+            "speaker": "pompey",
+            "text": "Here comes Signior Claudio, led by the provost to prison and theres Madam Juliet."
+        },
+        {
+            "text": "Exeunt"
+        },
+        {
+            "text": "Enter Provost, CLAUDIO, JULIET, and Officers"
+        },
+        {
+            "speaker": "claudio",
+            "text": "Fellow, why dost thou show me thus to the world Bear me to prison, where I am committed."
+        },
+        {
+            "speaker": "provost",
+            "text": "I do it not in evil disposition, But from Lord Angelo by special charge."
+        },
+        {
+            "speaker": "claudio",
+            "text": "Thus can the demigod Authority Make us pay down for our offence by weight The words of heaven on whom it will, it will On whom it will not, so yet still tis just."
+        },
+        {
+            "text": "Reenter LUCIO and two Gentlemen"
+        },
+        {
+            "speaker": "lucio",
+            "text": "Why, how now, Claudio! whence comes this restraint"
+        },
+        {
+            "speaker": "claudio",
+            "text": "From too much liberty, my Lucio, liberty: As surfeit is the father of much fast, So every scope by the immoderate use Turns to restraint. Our natures do pursue, Like rats that ravin down their proper bane, A thirsty evil and when we drink we die."
+        },
+        {
+            "speaker": "lucio",
+            "text": "If could speak so wisely under an arrest, I would send for certain of my creditors: and yet, to say the truth, I had as lief have the foppery of freedom as the morality of imprisonment. Whats thy offence, Claudio"
+        },
+        {
+            "speaker": "claudio",
+            "text": "What but to speak of would offend again."
+        },
+        {
+            "speaker": "lucio",
+            "text": "What, ist murder"
+        },
+        {
+            "speaker": "claudio",
+            "text": "No."
+        },
+        {
+            "speaker": "lucio",
+            "text": "Lechery"
+        },
+        {
+            "speaker": "claudio",
+            "text": "Call it so."
+        },
+        {
+            "speaker": "provost",
+            "text": "Away, sir! you must go."
+        },
+        {
+            "speaker": "claudio",
+            "text": "One word, good friend. Lucio, a word with you."
+        },
+        {
+            "speaker": "lucio",
+            "text": "A hundred, if theyll do you any good. Is lechery so lookd after"
+        },
+        {
+            "speaker": "claudio",
+            "text": "Thus stands it with me: upon a true contract I got possession of Juliettas bed: You know the lady she is fast my wife, Save that we do the denunciation lack Of outward order: this we came not to, Only for propagation of a dower Remaining in the coffer of her friends, From whom we thought it meet to hide our love Till time had made them for us. But it chances The stealth of our most mutual entertainment With character too gross is writ on Juliet."
+        },
+        {
+            "speaker": "lucio",
+            "text": "With child, perhaps"
+        },
+        {
+            "speaker": "claudio",
+            "text": "Unhappily, even so. And the new deputy now for the duke Whether it be the fault and glimpse of newness, Or whether that the body public be A horse whereon the governor doth ride, Who, newly in the seat, that it may know He can command, lets it straight feel the spur Whether the tyranny be in his place, Or in his emmence that fills it up, I stagger in:but this new governor Awakes me all the enrolled penalties Which have, like unscourd armour, hung by the wall So long that nineteen zodiacs have gone round And none of them been worn and, for a name, Now puts the drowsy and neglected act Freshly on me: tis surely for a name."
+        },
+        {
+            "speaker": "lucio",
+            "text": "I warrant it is: and thy head stands so tickle on thy shoulders that a milkmaid, if she be in love, may sigh it off. Send after the duke and appeal to him."
+        },
+        {
+            "speaker": "claudio",
+            "text": "I have done so, but hes not to be found. I prithee, Lucio, do me this kind service: This day my sister should the cloister enter And there receive her approbation: Acquaint her with the danger of my state: Implore her, in my voice, that she make friends To the strict deputy bid herself assay him: I have great hope in that for in her youth There is a prone and speechless dialect, Such as move men beside, she hath prosperous art When she will play with reason and discourse, And well she can persuade."
+        },
+        {
+            "speaker": "lucio",
+            "text": "I pray she may as well for the encouragement of the like, which else would stand under grievous imposition, as for the enjoying of thy life, who I would be sorry should be thus foolishly lost at a game of ticktack. Ill to her."
+        },
+        {
+            "speaker": "claudio",
+            "text": "I thank you, good friend Lucio."
+        },
+        {
+            "speaker": "lucio",
+            "text": "Within two hours."
+        },
+        {
+            "speaker": "claudio",
+            "text": "Come, officer, away!"
+        },
+        {
+            "text": "Exeunt"
+        }
+    ]
+}

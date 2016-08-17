@@ -1,0 +1,162 @@
+{
+    "sceneName": "Act 3, scene 1",
+    "playName": "macbeth",
+    "location": "Forres. The palace.",
+    "lines": [
+        {
+            "text": "Enter BANQUO"
+        },
+        {
+            "speaker": "banquo",
+            "text": "Thou hast it now: king, Cawdor, Glamis, all, As the weird women promised, and, I fear, Thou playdst most foully fort: yet it was said It should not stand in thy posterity, But that myself should be the root and father Of many kings. If there come truth from them As upon thee, Macbeth, their speeches shine Why, by the verities on thee made good, May they not be my oracles as well, And set me up in hope But hush! no more."
+        },
+        {
+            "text": "Sennet sounded. Enter MACBETH, as king, LADY  MACBETH, as queen, LENNOX, ROSS, Lords, Ladies, and Attendants"
+        },
+        {
+            "speaker": "macbeth",
+            "text": "Heres our chief guest."
+        },
+        {
+            "speaker": "lady macbeth",
+            "text": "If he had been forgotten, It had been as a gap in our great feast, And allthing unbecoming."
+        },
+        {
+            "speaker": "macbeth",
+            "text": "Tonight we hold a solemn supper sir, And Ill request your presence."
+        },
+        {
+            "speaker": "banquo",
+            "text": "Let your highness Command upon me to the which my duties Are with a most indissoluble tie For ever knit."
+        },
+        {
+            "speaker": "macbeth",
+            "text": "Ride you this afternoon"
+        },
+        {
+            "speaker": "banquo",
+            "text": "Ay, my good lord."
+        },
+        {
+            "speaker": "macbeth",
+            "text": "We should have else desired your good advice, Which still hath been both grave and prosperous, In this days council but well take tomorrow. Ist far you ride"
+        },
+        {
+            "speaker": "banquo",
+            "text": "As far, my lord, as will fill up the time Twixt this and supper: go not my horse the better, I must become a borrower of the night For a dark hour or twain."
+        },
+        {
+            "speaker": "macbeth",
+            "text": "Fail not our feast."
+        },
+        {
+            "speaker": "banquo",
+            "text": "My lord, I will not."
+        },
+        {
+            "speaker": "macbeth",
+            "text": "We hear, our bloody cousins are bestowd In England and in Ireland, not confessing Their cruel parricide, filling their hearers With strange invention: but of that tomorrow, When therewithal we shall have cause of state Craving us jointly. Hie you to horse: adieu, Till you return at night. Goes Fleance with you"
+        },
+        {
+            "speaker": "banquo",
+            "text": "Ay, my good lord: our time does call upon s."
+        },
+        {
+            "speaker": "macbeth",
+            "text": "I wish your horses swift and sure of foot And so I do commend you to their backs. Farewell. Let every man be master of his time Till seven at night: to make society The sweeter welcome, we will keep ourself Till suppertime alone: while then, God be with you! Sirrah, a word with you: attend those men Our pleasure"
+        },
+        {
+            "text": "Exit BANQUO"
+        },
+        {
+            "text": "Exeunt all but MACBETH, and an attendant"
+        },
+        {
+            "speaker": "attendant",
+            "text": "They are, my lord, without the palace gate."
+        },
+        {
+            "speaker": "macbeth",
+            "text": "Bring them before us. To be thus is nothing But to be safely thus.Our fears in Banquo Stick deep and in his royalty of nature Reigns that which would be feard: tis much he dares And, to that dauntless temper of his mind, He hath a wisdom that doth guide his valour To act in safety. There is none but he Whose being I do fear: and, under him, My Genius is rebuked as, it is said, Mark Antonys was by Caesar. He chid the sisters When first they put the name of king upon me, And bade them speak to him: then prophetlike They haild him father to a line of kings: Upon my head they placed a fruitless crown, And put a barren sceptre in my gripe, Thence to be wrenchd with an unlineal hand, No son of mine succeeding. If t be so, For Banquos issue have I filed my mind For them the gracious Duncan have I murderd Put rancours in the vessel of my peace Only for them and mine eternal jewel Given to the common enemy of man, To make them kings, the seed of Banquo kings! Rather than so, come fate into the list. And champion me to the utterance! Whos there! Now go to the door, and stay there till we call. Was it not yesterday we spoke together"
+        },
+        {
+            "text": "Exit Attendant"
+        },
+        {
+            "text": "Reenter Attendant, with two Murderers"
+        },
+        {
+            "text": "Exit Attendant"
+        },
+        {
+            "speaker": "first murderer",
+            "text": "It was, so please your highness."
+        },
+        {
+            "speaker": "macbeth",
+            "text": "Well then, now Have you considerd of my speeches Know That it was he in the times past which held you So under fortune, which you thought had been Our innocent self: this I made good to you In our last conference, passd in probation with you, How you were borne in hand, how crossd, the instruments, Who wrought with them, and all things else that might To half a soul and to a notion crazed Say Thus did Banquo."
+        },
+        {
+            "speaker": "first murderer",
+            "text": "You made it known to us."
+        },
+        {
+            "speaker": "macbeth",
+            "text": "I did so, and went further, which is now Our point of second meeting. Do you find Your patience so predominant in your nature That you can let this go Are you so gospelld To pray for this good man and for his issue, Whose heavy hand hath bowd you to the grave And beggard yours for ever"
+        },
+        {
+            "speaker": "first murderer",
+            "text": "We are men, my liege."
+        },
+        {
+            "speaker": "macbeth",
+            "text": "Ay, in the catalogue ye go for men As hounds and greyhounds, mongrels, spaniels, curs, Shoughs, waterrugs and demiwolves, are clept All by the name of dogs: the valued file Distinguishes the swift, the slow, the subtle, The housekeeper, the hunter, every one According to the gift which bounteous nature Hath in him closed whereby he does receive Particular addition. from the bill That writes them all alike: and so of men. Now, if you have a station in the file, Not i the worst rank of manhood, say t And I will put that business in your bosoms, Whose execution takes your enemy off, Grapples you to the heart and love of us, Who wear our health but sickly in his life, Which in his death were perfect."
+        },
+        {
+            "speaker": "second murderer",
+            "text": "I am one, my liege, Whom the vile blows and buffets of the world Have so incensed that I am reckless what I do to spite the world."
+        },
+        {
+            "speaker": "first murderer",
+            "text": "And I another So weary with disasters, tuggd with fortune, That I would set my lie on any chance, To mend it, or be rid ont."
+        },
+        {
+            "speaker": "macbeth",
+            "text": "Both of you Know Banquo was your enemy."
+        },
+        {
+            "speaker": "both murderers",
+            "text": "True, my lord."
+        },
+        {
+            "speaker": "macbeth",
+            "text": "So is he mine and in such bloody distance, That every minute of his being thrusts Against my nearst of life: and though I could With barefaced power sweep him from my sight And bid my will avouch it, yet I must not, For certain friends that are both his and mine, Whose loves I may not drop, but wail his fall Who I myself struck down and thence it is, That I to your assistance do make love, Masking the business from the common eye For sundry weighty reasons."
+        },
+        {
+            "speaker": "second murderer",
+            "text": "We shall, my lord, Perform what you command us."
+        },
+        {
+            "speaker": "first murderer",
+            "text": "Though our lives"
+        },
+        {
+            "speaker": "macbeth",
+            "text": "Your spirits shine through you. Within this hour at most I will advise you where to plant yourselves Acquaint you with the perfect spy o the time, The moment ont fort must be done tonight, And something from the palace always thought That I require a clearness: and with him To leave no rubs nor botches in the work Fleance his son, that keeps him company, Whose absence is no less material to me Than is his fathers, must embrace the fate Of that dark hour. Resolve yourselves apart: Ill come to you anon."
+        },
+        {
+            "speaker": "both murderers",
+            "text": "We are resolved, my lord."
+        },
+        {
+            "speaker": "macbeth",
+            "text": "Ill call upon you straight: abide within. It is concluded. Banquo, thy souls flight, If it find heaven, must find it out tonight."
+        },
+        {
+            "text": "Exeunt Murderers"
+        },
+        {
+            "text": "Exit"
+        }
+    ]
+}

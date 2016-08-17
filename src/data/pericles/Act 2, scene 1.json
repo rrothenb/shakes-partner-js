@@ -1,0 +1,238 @@
+{
+    "sceneName": "Act 2, scene 1",
+    "playName": "pericles",
+    "location": "Pentapolis. An open place by the seaside.",
+    "lines": [
+        {
+            "text": "Enter PERICLES, wet"
+        },
+        {
+            "speaker": "pericles",
+            "text": "Yet cease your ire, you angry stars of heaven! Wind, rain, and thunder, remember, earthly man Is but a substance that must yield to you And I, as fits my nature, do obey you: Alas, the sea hath cast me on the rocks, Washd me from shore to shore, and left me breath Nothing to think on but ensuing death: Let it suffice the greatness of your powers To have bereft a prince of all his fortunes And having thrown him from your watery grave, Here to have death in peace is all hell crave."
+        },
+        {
+            "text": "Enter three FISHERMEN"
+        },
+        {
+            "speaker": "first fisherman",
+            "text": "What, ho, Pilch!"
+        },
+        {
+            "speaker": "second fisherman",
+            "text": "Ha, come and bring away the nets!"
+        },
+        {
+            "speaker": "first fisherman",
+            "text": "What, Patchbreech, I say!"
+        },
+        {
+            "speaker": "third fisherman",
+            "text": "What say you, master"
+        },
+        {
+            "speaker": "first fisherman",
+            "text": "Look how thou stirrest now! come away, or Ill fetch thee with a wanion."
+        },
+        {
+            "speaker": "third fisherman",
+            "text": "Faith, master, I am thinking of the poor men that were cast away before us even now."
+        },
+        {
+            "speaker": "first fisherman",
+            "text": "Alas, poor souls, it grieved my heart to hear what pitiful cries they made to us to help them, when, welladay, we could scarce help ourselves."
+        },
+        {
+            "speaker": "third fisherman",
+            "text": "Nay, master, said not I as much when I saw the porpus how he bounced and tumbled they say theyre half fish, half flesh: a plague on them, they neer come but I look to be washed. Master, I marvel how the fishes live in the sea."
+        },
+        {
+            "speaker": "first fisherman",
+            "text": "Why, as men do aland the great ones eat up the little ones: I can compare our rich misers to nothing so fitly as to a whale a plays and tumbles, driving the poor fry before him, and at last devours them all at a mouthful: such whales have I heard on o the land, who never leave gaping till theyve swallowed the whole parish, church, steeple, bells, and all."
+        },
+        {
+            "speaker": "pericles",
+            "text": "[Aside]  A pretty moral."
+        },
+        {
+            "speaker": "third fisherman",
+            "text": "But, master, if I had been the sexton, I would have been that day in the belfry."
+        },
+        {
+            "speaker": "second fisherman",
+            "text": "Why, man"
+        },
+        {
+            "speaker": "third fisherman",
+            "text": "Because he should have swallowed me too: and when I had been in his belly, I would have kept such a jangling of the bells, that he should never have left, till he cast bells, steeple, church, and parish up again. But if the good King Simonides were of my mind,"
+        },
+        {
+            "speaker": "pericles",
+            "text": "[Aside]  Simonides!"
+        },
+        {
+            "speaker": "third fisherman",
+            "text": "We would purge the land of these drones, that rob the bee of her honey."
+        },
+        {
+            "speaker": "pericles",
+            "text": "[Aside]  How from the finny subject of the sea These fishers tell the infirmities of men And from their watery empire recollect All that may men approve or men detect! Peace be at your labour, honest fishermen."
+        },
+        {
+            "speaker": "second fisherman",
+            "text": "Honest! good fellow, whats that If it be a day fits you, search out of the calendar, and nobody look after it."
+        },
+        {
+            "speaker": "pericles",
+            "text": "May see the sea hath cast upon your coast."
+        },
+        {
+            "speaker": "second fisherman",
+            "text": "What a drunken knave was the sea to cast thee in our way!"
+        },
+        {
+            "speaker": "pericles",
+            "text": "A man whom both the waters and the wind, In that vast tenniscourt, have made the ball For them to play upon, entreats you pity him: He asks of you, that never used to beg."
+        },
+        {
+            "speaker": "first fisherman",
+            "text": "No, friend, cannot you beg Heres them in our country Greece gets more with begging than we can do with working."
+        },
+        {
+            "speaker": "second fisherman",
+            "text": "Canst thou catch any fishes, then"
+        },
+        {
+            "speaker": "pericles",
+            "text": "I never practised it."
+        },
+        {
+            "speaker": "second fisherman",
+            "text": "Nay, then thou wilt starve, sure for heres nothing to be got nowadays, unless thou canst fish fort."
+        },
+        {
+            "speaker": "pericles",
+            "text": "What I have been I have forgot to know But what I am, want teaches me to think on: A man throngd up with cold: my veins are chill, And have no more of life than may suffice To give my tongue that heat to ask your help Which if you shall refuse, when I am dead, For that I am a man, pray see me buried."
+        },
+        {
+            "speaker": "first fisherman",
+            "text": "Die quotha Now gods forbid! I have a gown here come, put it on keep thee warm. Now, afore me, a handsome fellow! Come, thou shalt go home, and well have flesh for holidays, fish for fastingdays, and moreoer puddings and flapjacks, and thou shalt be welcome."
+        },
+        {
+            "speaker": "pericles",
+            "text": "I thank you, sir."
+        },
+        {
+            "speaker": "second fisherman",
+            "text": "Hark you, my friend you said you could not beg."
+        },
+        {
+            "speaker": "pericles",
+            "text": "I did but crave."
+        },
+        {
+            "speaker": "second fisherman",
+            "text": "But crave! Then Ill turn craver too, and so I shall scape whipping."
+        },
+        {
+            "speaker": "pericles",
+            "text": "Why, are all your beggars whipped, then"
+        },
+        {
+            "speaker": "second fisherman",
+            "text": "O, not all, my friend, not all for if all your beggars were whipped, I would wish no better office than to be beadle. But, master, Ill go draw up the net."
+        },
+        {
+            "text": "Exit with Third Fisherman"
+        },
+        {
+            "speaker": "pericles",
+            "text": "[Aside]  How well this honest mirth becomes their labour!"
+        },
+        {
+            "speaker": "first fisherman",
+            "text": "Hark you, sir, do you know where ye are"
+        },
+        {
+            "speaker": "pericles",
+            "text": "Not well."
+        },
+        {
+            "speaker": "first fisherman",
+            "text": "Why, Ill tell you: this is called Pentapolis, and our king the good Simonides."
+        },
+        {
+            "speaker": "pericles",
+            "text": "The good King Simonides, do you call him."
+        },
+        {
+            "speaker": "first fisherman",
+            "text": "Ay, sir and he deserves so to be called for his peaceable reign and good government."
+        },
+        {
+            "speaker": "pericles",
+            "text": "He is a happy king, since he gains from his subjects the name of good by his government. How far is his court distant from this shore"
+        },
+        {
+            "speaker": "first fisherman",
+            "text": "Marry, sir, half a days journey: and Ill tell you, he hath a fair daughter, and tomorrow is her birthday and there are princes and knights come from all parts of the world to just and tourney for her love."
+        },
+        {
+            "speaker": "pericles",
+            "text": "Were my fortunes equal to my desires, I could wish to make one there."
+        },
+        {
+            "speaker": "first fisherman",
+            "text": "O, sir, things must be as they may and what a man cannot get, he may lawfully deal forhis wifes soul."
+        },
+        {
+            "text": "Reenter Second and Third Fishermen, drawing up a net"
+        },
+        {
+            "speaker": "second fisherman",
+            "text": "Help, master, help! heres a fish hangs in the net, like a poor mans right in the law twill hardly come out. Ha! bots ont, tis come at last, and tis turned to a rusty armour."
+        },
+        {
+            "speaker": "pericles",
+            "text": "An armour, friends! I pray you, let me see it. Thanks, fortune, yet, that, after all my crosses, Thou givest me somewhat to repair myself And though it was mine own, part of my heritage, Which my dead father did bequeath to me. With this strict charge, even as he left his life, Keep it, my Pericles it hath been a shield Twixt me and deathand pointed to this brace For that it saved me, keep it in like necessity The which the gods protect thee from!may defend thee. It kept where I kept, I so dearly loved it Till the rough seas, that spare not any man, Took it in rage, though calmd have givent again: I thank thee fort: my shipwreck nows no ill, Since I have here my fathers gift ins will."
+        },
+        {
+            "speaker": "first fisherman",
+            "text": "What mean you, sir"
+        },
+        {
+            "speaker": "pericles",
+            "text": "To beg of you, kind friends, this coat of worth, For it was sometime target to a king I know it by this mark. He loved me dearly, And for his sake I wish the having of it And that yould guide me to your sovereigns court, Where with it I may appear a gentleman And if that ever my low fortunes better, Ill pay your bounties till then rest your debtor."
+        },
+        {
+            "speaker": "first fisherman",
+            "text": "Why, wilt thou tourney for the lady"
+        },
+        {
+            "speaker": "pericles",
+            "text": "Ill show the virtue I have borne in arms."
+        },
+        {
+            "speaker": "first fisherman",
+            "text": "Why, do e take it, and the gods give thee good ont!"
+        },
+        {
+            "speaker": "second fisherman",
+            "text": "Ay, but hark you, my friend twas we that made up this garment through the rough seams of the waters: there are certain condolements, certain vails. I hope, sir, if you thrive, youll remember from whence you had it."
+        },
+        {
+            "speaker": "pericles",
+            "text": "Believe t, I will. By your furtherance I am clothed in steel And, spite of all the rapture of the sea, This jewel holds his building on my arm: Unto thy value I will mount myself Upon a courser, whose delightful steps Shall make the gazer joy to see him tread. Only, my friend, I yet am unprovided Of a pair of bases."
+        },
+        {
+            "speaker": "second fisherman",
+            "text": "Well sure provide: thou shalt have my best gown to make thee a pair and Ill bring thee to the court myself."
+        },
+        {
+            "speaker": "pericles",
+            "text": "Then honour be but a goal to my will, This day Ill rise, or else add ill to ill. lists. A pavilion by the side of it for the reception of King, Princess, Lords,  and c."
+        },
+        {
+            "text": "Exeunt"
+        }
+    ]
+}

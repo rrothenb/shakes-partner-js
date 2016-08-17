@@ -1,0 +1,701 @@
+{
+    "sceneName": "Act 3, scene 3",
+    "playName": "othello",
+    "location": "The garden of the castle.",
+    "lines": [
+        {
+            "text": "Enter DESDEMONA, CASSIO, and EMILIA"
+        },
+        {
+            "speaker": "desdemona",
+            "text": "Be thou assured, good Cassio, I will do All my abilities in thy behalf."
+        },
+        {
+            "speaker": "emilia",
+            "text": "Good madam, do: I warrant it grieves my husband, As if the case were his."
+        },
+        {
+            "speaker": "desdemona",
+            "text": "O, thats an honest fellow. Do not doubt, Cassio, But I will have my lord and you again As friendly as you were."
+        },
+        {
+            "speaker": "cassio",
+            "text": "Bounteous madam, Whatever shall become of Michael Cassio, Hes never any thing but your true servant."
+        },
+        {
+            "speaker": "desdemona",
+            "text": "I knowt I thank you. You do love my lord: You have known him long and be you well assured He shall in strangeness stand no further off Than in a polite distance."
+        },
+        {
+            "speaker": "cassio",
+            "text": "Ay, but, lady, That policy may either last so long, Or feed upon such nice and waterish diet, Or breed itself so out of circumstance, That, I being absent and my place supplied, My general will forget my love and service."
+        },
+        {
+            "speaker": "desdemona",
+            "text": "Do not doubt that before Emilia here I give thee warrant of thy place: assure thee, If I do vow a friendship, Ill perform it To the last article: my lord shall never rest Ill watch him tame and talk him out of patience His bed shall seem a school, his board a shrift Ill intermingle every thing he does With Cassios suit: therefore be merry, Cassio For thy solicitor shall rather die Than give thy cause away."
+        },
+        {
+            "speaker": "emilia",
+            "text": "Madam, here comes my lord."
+        },
+        {
+            "speaker": "cassio",
+            "text": "Madam, Ill take my leave."
+        },
+        {
+            "speaker": "desdemona",
+            "text": "Why, stay, and hear me speak."
+        },
+        {
+            "speaker": "cassio",
+            "text": "Madam, not now: I am very ill at ease, Unfit for mine own purposes."
+        },
+        {
+            "speaker": "desdemona",
+            "text": "Well, do your discretion."
+        },
+        {
+            "text": "Exit CASSIO"
+        },
+        {
+            "text": "Enter OTHELLO and IAGO"
+        },
+        {
+            "speaker": "iago",
+            "text": "Ha! I like not that."
+        },
+        {
+            "speaker": "othello",
+            "text": "What dost thou say"
+        },
+        {
+            "speaker": "iago",
+            "text": "Nothing, my lord: or ifI know not what."
+        },
+        {
+            "speaker": "othello",
+            "text": "Was not that Cassio parted from my wife"
+        },
+        {
+            "speaker": "iago",
+            "text": "Cassio, my lord! No, sure, I cannot think it, That he would steal away so guiltylike, Seeing you coming."
+        },
+        {
+            "speaker": "othello",
+            "text": "I do believe twas he."
+        },
+        {
+            "speaker": "desdemona",
+            "text": "How now, my lord! I have been talking with a suitor here, A man that languishes in your displeasure."
+        },
+        {
+            "speaker": "othello",
+            "text": "Who ist you mean"
+        },
+        {
+            "speaker": "desdemona",
+            "text": "Why, your lieutenant, Cassio. Good my lord, If I have any grace or power to move you, His present reconciliation take For if he be not one that truly loves you, That errs in ignorance and not in cunning, I have no judgment in an honest face: I prithee, call him back."
+        },
+        {
+            "speaker": "othello",
+            "text": "Went he hence now"
+        },
+        {
+            "speaker": "desdemona",
+            "text": "Ay, sooth so humbled That he hath left part of his grief with me, To suffer with him. Good love, call him back."
+        },
+        {
+            "speaker": "othello",
+            "text": "Not now, sweet Desdemona some other time."
+        },
+        {
+            "speaker": "desdemona",
+            "text": "But shallt be shortly"
+        },
+        {
+            "speaker": "othello",
+            "text": "The sooner, sweet, for you."
+        },
+        {
+            "speaker": "desdemona",
+            "text": "Shallt be tonight at supper"
+        },
+        {
+            "speaker": "othello",
+            "text": "No, not tonight."
+        },
+        {
+            "speaker": "desdemona",
+            "text": "Tomorrow dinner, then"
+        },
+        {
+            "speaker": "othello",
+            "text": "I shall not dine at home I meet the captains at the citadel."
+        },
+        {
+            "speaker": "desdemona",
+            "text": "Why, then, tomorrow night or Tuesday morn On Tuesday noon, or night on Wednesday morn: I prithee, name the time, but let it not Exceed three days: in faith, hes penitent And yet his trespass, in our common reason Save that, they say, the wars must make examples Out of their bestis not almost a fault To incur a private cheque. When shall he come Tell me, Othello: I wonder in my soul, What you would ask me, that I should deny, Or stand so mammering on. What! Michael Cassio, That came awooing with you, and so many a time, When I have spoke of you dispraisingly, Hath taen your part to have so much to do To bring him in! Trust me, I could do much,"
+        },
+        {
+            "speaker": "othello",
+            "text": "Prithee, no more: let him come when he will I will deny thee nothing."
+        },
+        {
+            "speaker": "desdemona",
+            "text": "Why, this is not a boon Tis as I should entreat you wear your gloves, Or feed on nourishing dishes, or keep you warm, Or sue to you to do a peculiar profit To your own person: nay, when I have a suit Wherein I mean to touch your love indeed, It shall be full of poise and difficult weight And fearful to be granted."
+        },
+        {
+            "speaker": "othello",
+            "text": "I will deny thee nothing: Whereon, I do beseech thee, grant me this, To leave me but a little to myself."
+        },
+        {
+            "speaker": "desdemona",
+            "text": "Shall I deny you no: farewell, my lord."
+        },
+        {
+            "speaker": "othello",
+            "text": "Farewell, my Desdemona: Ill come to thee straight."
+        },
+        {
+            "speaker": "desdemona",
+            "text": "Emilia, come. Be as your fancies teach you Whateer you be, I am obedient."
+        },
+        {
+            "text": "Exeunt DESDEMONA and EMILIA"
+        },
+        {
+            "speaker": "othello",
+            "text": "Excellent wretch! Perdition catch my soul, But I do love thee! and when I love thee not, Chaos is come again."
+        },
+        {
+            "speaker": "iago",
+            "text": "My noble lord"
+        },
+        {
+            "speaker": "othello",
+            "text": "What dost thou say, Iago"
+        },
+        {
+            "speaker": "iago",
+            "text": "Did Michael Cassio, when you wood my lady, Know of your love"
+        },
+        {
+            "speaker": "othello",
+            "text": "He did, from first to last: why dost thou ask"
+        },
+        {
+            "speaker": "iago",
+            "text": "But for a satisfaction of my thought No further harm."
+        },
+        {
+            "speaker": "othello",
+            "text": "Why of thy thought, Iago"
+        },
+        {
+            "speaker": "iago",
+            "text": "I did not think he had been acquainted with her."
+        },
+        {
+            "speaker": "othello",
+            "text": "O, yes and went between us very oft."
+        },
+        {
+            "speaker": "iago",
+            "text": "Indeed!"
+        },
+        {
+            "speaker": "othello",
+            "text": "Indeed! ay, indeed: discernst thou aught in that Is he not honest"
+        },
+        {
+            "speaker": "iago",
+            "text": "Honest, my lord!"
+        },
+        {
+            "speaker": "othello",
+            "text": "Honest! ay, honest."
+        },
+        {
+            "speaker": "iago",
+            "text": "My lord, for aught I know."
+        },
+        {
+            "speaker": "othello",
+            "text": "What dost thou think"
+        },
+        {
+            "speaker": "iago",
+            "text": "Think, my lord!"
+        },
+        {
+            "speaker": "othello",
+            "text": "Think, my lord! By heaven, he echoes me, As if there were some monster in his thought Too hideous to be shown. Thou dost mean something: I heard thee say even now, thou likedst not that, When Cassio left my wife: what didst not like And when I told thee he was of my counsel In my whole course of wooing, thou criedst Indeed! And didst contract and purse thy brow together, As if thou then hadst shut up in thy brain Some horrible conceit: if thou dost love me, Show me thy thought."
+        },
+        {
+            "speaker": "iago",
+            "text": "My lord, you know I love you."
+        },
+        {
+            "speaker": "othello",
+            "text": "I think thou dost And, for I know thourt full of love and honesty, And weighst thy words before thou givest them breath, Therefore these stops of thine fright me the more: For such things in a false disloyal knave Are tricks of custom, but in a man thats just They are close delations, working from the heart That passion cannot rule."
+        },
+        {
+            "speaker": "iago",
+            "text": "For Michael Cassio, I dare be sworn I think that he is honest."
+        },
+        {
+            "speaker": "othello",
+            "text": "I think so too."
+        },
+        {
+            "speaker": "iago",
+            "text": "Men should be what they seem Or those that be not, would they might seem none!"
+        },
+        {
+            "speaker": "othello",
+            "text": "Certain, men should be what they seem."
+        },
+        {
+            "speaker": "iago",
+            "text": "Why, then, I think Cassios an honest man."
+        },
+        {
+            "speaker": "othello",
+            "text": "Nay, yet theres more in this: I prithee, speak to me as to thy thinkings, As thou dost ruminate, and give thy worst of thoughts The worst of words."
+        },
+        {
+            "speaker": "iago",
+            "text": "Good my lord, pardon me: Though I am bound to every act of duty, I am not bound to that all slaves are free to. Utter my thoughts Why, say they are vile and false As wheres that palace whereinto foul things Sometimes intrude not who has a breast so pure, But some uncleanly apprehensions Keep leets and lawdays and in session sit With meditations lawful"
+        },
+        {
+            "speaker": "othello",
+            "text": "Thou dost conspire against thy friend, Iago, If thou but thinkst him wrongd and makest his ear A stranger to thy thoughts."
+        },
+        {
+            "speaker": "iago",
+            "text": "I do beseech you Though I perchance am vicious in my guess, As, I confess, it is my natures plague To spy into abuses, and oft my jealousy Shapes faults that are notthat your wisdom yet, From one that so imperfectly conceits, Would take no notice, nor build yourself a trouble Out of his scattering and unsure observance. It were not for your quiet nor your good, Nor for my manhood, honesty, or wisdom, To let you know my thoughts."
+        },
+        {
+            "speaker": "othello",
+            "text": "What dost thou mean"
+        },
+        {
+            "speaker": "iago",
+            "text": "Good name in man and woman, dear my lord, Is the immediate jewel of their souls: Who steals my purse steals trash tis something, nothing Twas mine, tis his, and has been slave to thousands: But he that filches from me my good name Robs me of that which not enriches him And makes me poor indeed."
+        },
+        {
+            "speaker": "othello",
+            "text": "By heaven, Ill know thy thoughts."
+        },
+        {
+            "speaker": "iago",
+            "text": "You cannot, if my heart were in your hand Nor shall not, whilst tis in my custody."
+        },
+        {
+            "speaker": "othello",
+            "text": "Ha!"
+        },
+        {
+            "speaker": "iago",
+            "text": "O, beware, my lord, of jealousy It is the greeneyed monster which doth mock The meat it feeds on that cuckold lives in bliss Who, certain of his fate, loves not his wronger But, O, what damned minutes tells he oer Who dotes, yet doubts, suspects, yet strongly loves!"
+        },
+        {
+            "speaker": "othello",
+            "text": "O misery!"
+        },
+        {
+            "speaker": "iago",
+            "text": "Poor and content is rich and rich enough, But riches fineless is as poor as winter To him that ever fears he shall be poor. Good heaven, the souls of all my tribe defend From jealousy!"
+        },
+        {
+            "speaker": "othello",
+            "text": "Why, why is this Thinkst thou Ild make a lie of jealousy, To follow still the changes of the moon With fresh suspicions No to be once in doubt Is once to be resolved: exchange me for a goat, When I shall turn the business of my soul To such exsufflicate and blown surmises, Matching thy inference. Tis not to make me jealous To say my wife is fair, feeds well, loves company, Is free of speech, sings, plays and dances well Where virtue is, these are more virtuous: Nor from mine own weak merits will I draw The smallest fear or doubt of her revolt For she had eyes, and chose me. No, Iago Ill see before I doubt when I doubt, prove And on the proof, there is no more but this, Away at once with love or jealousy!"
+        },
+        {
+            "speaker": "iago",
+            "text": "I am glad of it for now I shall have reason To show the love and duty that I bear you With franker spirit: therefore, as I am bound, Receive it from me. I speak not yet of proof. Look to your wife observe her well with Cassio Wear your eye thus, not jealous nor secure: I would not have your free and noble nature, Out of selfbounty, be abused look tot: I know our country disposition well In Venice they do let heaven see the pranks They dare not show their husbands their best conscience Is not to leavet undone, but keept unknown."
+        },
+        {
+            "speaker": "othello",
+            "text": "Dost thou say so"
+        },
+        {
+            "speaker": "iago",
+            "text": "She did deceive her father, marrying you And when she seemd to shake and fear your looks, She loved them most."
+        },
+        {
+            "speaker": "othello",
+            "text": "And so she did."
+        },
+        {
+            "speaker": "iago",
+            "text": "Why, go to then She that, so young, could give out such a seeming, To seal her fathers eyes up close as oak He thought twas witchcraftbut I am much to blame I humbly do beseech you of your pardon For too much loving you."
+        },
+        {
+            "speaker": "othello",
+            "text": "I am bound to thee for ever."
+        },
+        {
+            "speaker": "iago",
+            "text": "I see this hath a little dashd your spirits."
+        },
+        {
+            "speaker": "othello",
+            "text": "Not a jot, not a jot."
+        },
+        {
+            "speaker": "iago",
+            "text": "I faith, I fear it has. I hope you will consider what is spoke Comes from my love. But I do see youre moved: I am to pray you not to strain my speech To grosser issues nor to larger reach Than to suspicion."
+        },
+        {
+            "speaker": "othello",
+            "text": "I will not."
+        },
+        {
+            "speaker": "iago",
+            "text": "Should you do so, my lord, My speech should fall into such vile success As my thoughts aim not at. Cassios my worthy friend My lord, I see youre moved."
+        },
+        {
+            "speaker": "othello",
+            "text": "No, not much moved: I do not think but Desdemonas honest."
+        },
+        {
+            "speaker": "iago",
+            "text": "Long live she so! and long live you to think so!"
+        },
+        {
+            "speaker": "othello",
+            "text": "And yet, how nature erring from itself,"
+        },
+        {
+            "speaker": "iago",
+            "text": "Ay, theres the point: asto be bold with you Not to affect many proposed matches Of her own clime, complexion, and degree, Whereto we see in all things nature tends Foh! one may smell in such a will most rank, Foul disproportion thoughts unnatural. But pardon me I do not in position Distinctly speak of her though I may fear Her will, recoiling to her better judgment, May fall to match you with her country forms And happily repent."
+        },
+        {
+            "speaker": "othello",
+            "text": "Farewell, farewell: If more thou dost perceive, let me know more Set on thy wife to observe: leave me, Iago:"
+        },
+        {
+            "speaker": "iago",
+            "text": "[Going]  My lord, I take my leave."
+        },
+        {
+            "speaker": "othello",
+            "text": "Why did I marry This honest creature doubtless Sees and knows more, much more, than he unfolds."
+        },
+        {
+            "speaker": "iago",
+            "text": "[Returning]  My lord, I would I might entreat your honour To scan this thing no further leave it to time: Though it be fit that Cassio have his place, For sure, he fills it up with great ability, Yet, if you please to hold him off awhile, You shall by that perceive him and his means: Note, if your lady strain his entertainment With any strong or vehement importunity Much will be seen in that. In the mean time, Let me be thought too busy in my fears As worthy cause I have to fear I am And hold her free, I do beseech your honour."
+        },
+        {
+            "speaker": "othello",
+            "text": "Fear not my government."
+        },
+        {
+            "speaker": "iago",
+            "text": "I once more take my leave."
+        },
+        {
+            "text": "Exit"
+        },
+        {
+            "speaker": "othello",
+            "text": "This fellows of exceeding honesty, And knows all qualities, with a learned spirit, Of human dealings. If I do prove her haggard, Though that her jesses were my dear heartstrings, Ild whistle her off and let her down the wind, To pray at fortune. Haply, for I am black And have not those soft parts of conversation That chamberers have, or for I am declined Into the vale of years,yet thats not much Shes gone. I am abused and my relief Must be to loathe her. O curse of marriage, That we can call these delicate creatures ours, And not their appetites! I had rather be a toad, And live upon the vapour of a dungeon, Than keep a corner in the thing I love For others uses. Yet, tis the plague of great ones Prerogatived are they less than the base Tis destiny unshunnable, like death: Even then this forked plague is fated to us When we do quicken. Desdemona comes: If she be false, O, then heaven mocks itself! Ill not believet."
+        },
+        {
+            "text": "Reenter DESDEMONA and EMILIA"
+        },
+        {
+            "speaker": "desdemona",
+            "text": "How now, my dear Othello! Your dinner, and the generous islanders By you invited, do attend your presence."
+        },
+        {
+            "speaker": "othello",
+            "text": "I am to blame."
+        },
+        {
+            "speaker": "desdemona",
+            "text": "Why do you speak so faintly Are you not well"
+        },
+        {
+            "speaker": "othello",
+            "text": "I have a pain upon my forehead here."
+        },
+        {
+            "speaker": "desdemona",
+            "text": "Faith, thats with watching twill away again: Let me but bind it hard, within this hour It will be well."
+        },
+        {
+            "speaker": "othello",
+            "text": "Your napkin is too little: He puts the handkerchief from him and it drops Let it alone. Come, Ill go in with you."
+        },
+        {
+            "speaker": "desdemona",
+            "text": "I am very sorry that you are not well."
+        },
+        {
+            "text": "Exeunt OTHELLO and DESDEMONA"
+        },
+        {
+            "speaker": "emilia",
+            "text": "I am glad I have found this napkin: This was her first remembrance from the Moor: My wayward husband hath a hundred times Wood me to steal it but she so loves the token, For he conjured her she should ever keep it, That she reserves it evermore about her To kiss and talk to. Ill have the work taen out, And givet Iago: what he will do with it Heaven knows, not I I nothing but to please his fantasy."
+        },
+        {
+            "text": "Reenter Iago"
+        },
+        {
+            "speaker": "iago",
+            "text": "How now! what do you here alone"
+        },
+        {
+            "speaker": "emilia",
+            "text": "Do not you chide I have a thing for you."
+        },
+        {
+            "speaker": "iago",
+            "text": "A thing for me it is a common thing"
+        },
+        {
+            "speaker": "emilia",
+            "text": "Ha!"
+        },
+        {
+            "speaker": "iago",
+            "text": "To have a foolish wife."
+        },
+        {
+            "speaker": "emilia",
+            "text": "O, is that all What will you give me now For the same handkerchief"
+        },
+        {
+            "speaker": "iago",
+            "text": "What handkerchief"
+        },
+        {
+            "speaker": "emilia",
+            "text": "What handkerchief Why, that the Moor first gave to Desdemona That which so often you did bid me steal."
+        },
+        {
+            "speaker": "iago",
+            "text": "Hast stoln it from her"
+        },
+        {
+            "speaker": "emilia",
+            "text": "No, faith she let it drop by negligence. And, to the advantage, I, being here, tookt up. Look, here it is."
+        },
+        {
+            "speaker": "iago",
+            "text": "A good wench give it me."
+        },
+        {
+            "speaker": "emilia",
+            "text": "What will you do with t, that you have been so earnest To have me filch it"
+        },
+        {
+            "speaker": "iago",
+            "text": "[Snatching it]  Why, whats that to you"
+        },
+        {
+            "speaker": "emilia",
+            "text": "If it be not for some purpose of import, Givet me again: poor lady, shell run mad When she shall lack it."
+        },
+        {
+            "speaker": "iago",
+            "text": "Be not acknown on t I have use for it. Go, leave me. I will in Cassios lodging lose this napkin, And let him find it. Trifles light as air Are to the jealous confirmations strong As proofs of holy writ: this may do something. The Moor already changes with my poison: Dangerous conceits are, in their natures, poisons. Which at the first are scarce found to distaste, But with a little act upon the blood. Burn like the mines of Sulphur. I did say so: Look, where he comes! Not poppy, nor mandragora, Nor all the drowsy syrups of the world, Shall ever medicine thee to that sweet sleep Which thou owedst yesterday."
+        },
+        {
+            "text": "Exit EMILIA"
+        },
+        {
+            "text": "Reenter OTHELLO"
+        },
+        {
+            "speaker": "othello",
+            "text": "Ha! ha! false to me"
+        },
+        {
+            "speaker": "iago",
+            "text": "Why, how now, general! no more of that."
+        },
+        {
+            "speaker": "othello",
+            "text": "Avaunt! be gone! thou hast set me on the rack: I swear tis better to be much abused Than but to knowt a little."
+        },
+        {
+            "speaker": "iago",
+            "text": "How now, my lord!"
+        },
+        {
+            "speaker": "othello",
+            "text": "What sense had I of her stoln hours of lust I sawt not, thought it not, it harmd not me: I slept the next night well, was free and merry I found not Cassios kisses on her lips: He that is robbd, not wanting what is stoln, Let him not knowt, and hes not robbd at all."
+        },
+        {
+            "speaker": "iago",
+            "text": "I am sorry to hear this."
+        },
+        {
+            "speaker": "othello",
+            "text": "I had been happy, if the general camp, Pioners and all, had tasted her sweet body, So I had nothing known. O, now, for ever Farewell the tranquil mind! farewell content! Farewell the plumed troop, and the big wars, That make ambition virtue! O, farewell! Farewell the neighing steed, and the shrill trump, The spiritstirring drum, the earpiercing fife, The royal banner, and all quality, Pride, pomp and circumstance of glorious war! And, O you mortal engines, whose rude throats The immortal Joves dead clamours counterfeit, Farewell! Othellos occupations gone!"
+        },
+        {
+            "speaker": "iago",
+            "text": "Ist possible, my lord"
+        },
+        {
+            "speaker": "othello",
+            "text": "Villain, be sure thou prove my love a whore, Be sure of it give me the ocular proof: Or by the worth of mans eternal soul, Thou hadst been better have been born a dog Than answer my waked wrath!"
+        },
+        {
+            "speaker": "iago",
+            "text": "Ist come to this"
+        },
+        {
+            "speaker": "othello",
+            "text": "Make me to seet or, at the least, so prove it, That the probation bear no hinge nor loop To hang a doubt on or woe upon thy life!"
+        },
+        {
+            "speaker": "iago",
+            "text": "My noble lord,"
+        },
+        {
+            "speaker": "othello",
+            "text": "If thou dost slander her and torture me, Never pray more abandon all remorse On horrors head horrors accumulate Do deeds to make heaven weep, all earth amazed For nothing canst thou to damnation add Greater than that."
+        },
+        {
+            "speaker": "iago",
+            "text": "O grace! O heaven forgive me! Are you a man have you a soul or sense God be wi you take mine office. O wretched fool. That livest to make thine honesty a vice! O monstrous world! Take note, take note, O world, To be direct and honest is not safe. I thank you for this profit and from hence Ill love no friend, sith love breeds such offence."
+        },
+        {
+            "speaker": "othello",
+            "text": "Nay, stay: thou shouldst be honest."
+        },
+        {
+            "speaker": "iago",
+            "text": "I should be wise, for honestys a fool And loses that it works for."
+        },
+        {
+            "speaker": "othello",
+            "text": "By the world, I think my wife be honest and think she is not I think that thou art just and think thou art not. Ill have some proof. Her name, that was as fresh As Dians visage, is now begrimed and black As mine own face. If there be cords, or knives, Poison, or fire, or suffocating streams, Ill not endure it. Would I were satisfied!"
+        },
+        {
+            "speaker": "iago",
+            "text": "I see, sir, you are eaten up with passion: I do repent me that I put it to you. You would be satisfied"
+        },
+        {
+            "speaker": "othello",
+            "text": "Would! nay, I will."
+        },
+        {
+            "speaker": "iago",
+            "text": "And may: but, how how satisfied, my lord Would you, the supervisor, grossly gape on Behold her toppd"
+        },
+        {
+            "speaker": "othello",
+            "text": "Death and damnation! O!"
+        },
+        {
+            "speaker": "iago",
+            "text": "It were a tedious difficulty, I think, To bring them to that prospect: damn them then, If ever mortal eyes do see them bolster More than their own! What then how then What shall I say Wheres satisfaction It is impossible you should see this, Were they as prime as goats, as hot as monkeys, As salt as wolves in pride, and fools as gross As ignorance made drunk. But yet, I say, If imputation and strong circumstances, Which lead directly to the door of truth, Will give you satisfaction, you may havet."
+        },
+        {
+            "speaker": "othello",
+            "text": "Give me a living reason shes disloyal."
+        },
+        {
+            "speaker": "iago",
+            "text": "I do not like the office: But, sith I am enterd in this cause so far, Prickd tot by foolish honesty and love, I will go on. I lay with Cassio lately And, being troubled with a raging tooth, I could not sleep. There are a kind of men so loose of soul, That in their sleeps will mutter their affairs: One of this kind is Cassio: In sleep I heard him say Sweet Desdemona, Let us be wary, let us hide our loves And then, sir, would he gripe and wring my hand, Cry O sweet creature! and then kiss me hard, As if he pluckd up kisses by the roots That grew upon my lips: then laid his leg Over my thigh, and sighd, and kissd and then Cried Cursed fate that gave thee to the Moor!"
+        },
+        {
+            "speaker": "othello",
+            "text": "O monstrous! monstrous!"
+        },
+        {
+            "speaker": "iago",
+            "text": "Nay, this was but his dream."
+        },
+        {
+            "speaker": "othello",
+            "text": "But this denoted a foregone conclusion: Tis a shrewd doubt, though it be but a dream."
+        },
+        {
+            "speaker": "iago",
+            "text": "And this may help to thicken other proofs That do demonstrate thinly."
+        },
+        {
+            "speaker": "othello",
+            "text": "Ill tear her all to pieces."
+        },
+        {
+            "speaker": "iago",
+            "text": "Nay, but be wise: yet we see nothing done She may be honest yet. Tell me but this, Have you not sometimes seen a handkerchief Spotted with strawberries in your wifes hand"
+        },
+        {
+            "speaker": "othello",
+            "text": "I gave her such a one twas my first gift."
+        },
+        {
+            "speaker": "iago",
+            "text": "I know not that but such a handkerchief I am sure it was your wifesdid I today See Cassio wipe his beard with."
+        },
+        {
+            "speaker": "othello",
+            "text": "If it be that"
+        },
+        {
+            "speaker": "iago",
+            "text": "If it be that, or any that was hers, It speaks against her with the other proofs."
+        },
+        {
+            "speaker": "othello",
+            "text": "O, that the slave had forty thousand lives! One is too poor, too weak for my revenge. Now do I see tis true. Look here, Iago All my fond love thus do I blow to heaven. Tis gone. Arise, black vengeance, from thy hollow cell! Yield up, O love, thy crown and hearted throne To tyrannous hate! Swell, bosom, with thy fraught, For tis of aspics tongues!"
+        },
+        {
+            "speaker": "iago",
+            "text": "Yet be content."
+        },
+        {
+            "speaker": "othello",
+            "text": "O, blood, blood, blood!"
+        },
+        {
+            "speaker": "iago",
+            "text": "Patience, I say your mind perhaps may change."
+        },
+        {
+            "speaker": "othello",
+            "text": "Never, Iago: Like to the Pontic sea, Whose icy current and compulsive course Neer feels retiring ebb, but keeps due on To the Propontic and the Hellespont, Even so my bloody thoughts, with violent pace, Shall neer look back, neer ebb to humble love, Till that a capable and wide revenge Swallow them up. Now, by yond marble heaven, In the due reverence of a sacred vow I here engage my words."
+        },
+        {
+            "text": "Kneels"
+        },
+        {
+            "speaker": "iago",
+            "text": "Do not rise yet. Witness, you everburning lights above, You elements that clip us round about, Witness that here Iago doth give up The execution of his wit, hands, heart, To wrongd Othellos service! Let him command, And to obey shall be in me remorse, What bloody business ever."
+        },
+        {
+            "text": "Kneels"
+        },
+        {
+            "text": "They rise"
+        },
+        {
+            "speaker": "othello",
+            "text": "I greet thy love, Not with vain thanks, but with acceptance bounteous, And will upon the instant put thee tot: Within these three days let me hear thee say That Cassios not alive."
+        },
+        {
+            "speaker": "iago",
+            "text": "My friend is dead tis done at your request: But let her live."
+        },
+        {
+            "speaker": "othello",
+            "text": "Damn her, lewd minx! O, damn her! Come, go with me apart I will withdraw, To furnish me with some swift means of death For the fair devil. Now art thou my lieutenant."
+        },
+        {
+            "speaker": "iago",
+            "text": "I am your own for ever."
+        },
+        {
+            "text": "Exeunt"
+        }
+    ]
+}

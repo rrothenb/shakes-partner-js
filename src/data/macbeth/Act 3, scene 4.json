@@ -1,0 +1,249 @@
+{
+    "sceneName": "Act 3, scene 4",
+    "playName": "macbeth",
+    "location": "The same. Hall in the palace.",
+    "lines": [
+        {
+            "text": "A banquet prepared. Enter MACBETH, LADY MACBETH, ROSS, LENNOX, Lords, and Attendants"
+        },
+        {
+            "speaker": "macbeth",
+            "text": "You know your own degrees sit down: at first And last the hearty welcome."
+        },
+        {
+            "speaker": "lords",
+            "text": "Thanks to your majesty."
+        },
+        {
+            "speaker": "macbeth",
+            "text": "Ourself will mingle with society, And play the humble host. Our hostess keeps her state, but in best time We will require her welcome."
+        },
+        {
+            "speaker": "lady macbeth",
+            "text": "Pronounce it for me, sir, to all our friends For my heart speaks they are welcome."
+        },
+        {
+            "text": "First Murderer appears at the door"
+        },
+        {
+            "speaker": "macbeth",
+            "text": "See, they encounter thee with their hearts thanks. Both sides are even: here Ill sit i the midst: Be large in mirth anon well drink a measure The table round. Theres blood on thy face."
+        },
+        {
+            "text": "Approaching the door"
+        },
+        {
+            "speaker": "first murderer",
+            "text": "Tis Banquos then."
+        },
+        {
+            "speaker": "macbeth",
+            "text": "Tis better thee without than he within. Is he dispatchd"
+        },
+        {
+            "speaker": "first murderer",
+            "text": "My lord, his throat is cut that I did for him."
+        },
+        {
+            "speaker": "macbeth",
+            "text": "Thou art the best o the cutthroats: yet hes good That did the like for Fleance: if thou didst it, Thou art the nonpareil."
+        },
+        {
+            "speaker": "first murderer",
+            "text": "Most royal sir, Fleance is scaped."
+        },
+        {
+            "speaker": "macbeth",
+            "text": "Then comes my fit again: I had else been perfect, Whole as the marble, founded as the rock, As broad and general as the casing air: But now I am cabind, cribbd, confined, bound in To saucy doubts and fears. But Banquos safe"
+        },
+        {
+            "speaker": "first murderer",
+            "text": "Ay, my good lord: safe in a ditch he bides, With twenty trenched gashes on his head The least a death to nature."
+        },
+        {
+            "speaker": "macbeth",
+            "text": "Thanks for that: There the grown serpent lies the worm thats fled Hath nature that in time will venom breed, No teeth for the present. Get thee gone: tomorrow Well hear, ourselves, again."
+        },
+        {
+            "text": "Exit Murderer"
+        },
+        {
+            "speaker": "lady macbeth",
+            "text": "My royal lord, You do not give the cheer: the feast is sold That is not often vouchd, while tis amaking, Tis given with welcome: to feed were best at home From thence the sauce to meat is ceremony Meeting were bare without it."
+        },
+        {
+            "speaker": "macbeth",
+            "text": "Sweet remembrancer! Now, good digestion wait on appetite, And health on both!"
+        },
+        {
+            "speaker": "lennox",
+            "text": "Mayt please your highness sit."
+        },
+        {
+            "text": "The GHOST OF BANQUO enters, and sits in MACBETHs place"
+        },
+        {
+            "speaker": "macbeth",
+            "text": "Here had we now our countrys honour roofd, Were the graced person of our Banquo present Who may I rather challenge for unkindness Than pity for mischance!"
+        },
+        {
+            "speaker": "ross",
+            "text": "His absence, sir, Lays blame upon his promise. Pleaset your highness To grace us with your royal company."
+        },
+        {
+            "speaker": "macbeth",
+            "text": "The tables full."
+        },
+        {
+            "speaker": "lennox",
+            "text": "Here is a place reserved, sir."
+        },
+        {
+            "speaker": "macbeth",
+            "text": "Where"
+        },
+        {
+            "speaker": "lennox",
+            "text": "Here, my good lord. What ist that moves your highness"
+        },
+        {
+            "speaker": "macbeth",
+            "text": "Which of you have done this"
+        },
+        {
+            "speaker": "lords",
+            "text": "What, my good lord"
+        },
+        {
+            "speaker": "macbeth",
+            "text": "Thou canst not say I did it: never shake Thy gory locks at me."
+        },
+        {
+            "speaker": "ross",
+            "text": "Gentlemen, rise: his highness is not well."
+        },
+        {
+            "speaker": "lady macbeth",
+            "text": "Sit, worthy friends: my lord is often thus, And hath been from his youth: pray you, keep seat The fit is momentary upon a thought He will again be well: if much you note him, You shall offend him and extend his passion: Feed, and regard him not. Are you a man"
+        },
+        {
+            "speaker": "macbeth",
+            "text": "Ay, and a bold one, that dare look on that Which might appal the devil."
+        },
+        {
+            "speaker": "lady macbeth",
+            "text": "O proper stuff! This is the very painting of your fear: This is the airdrawn dagger which, you said, Led you to Duncan. O, these flaws and starts, Impostors to true fear, would well become A womans story at a winters fire, Authorized by her grandam. Shame itself! Why do you make such faces When alls done, You look but on a stool."
+        },
+        {
+            "speaker": "macbeth",
+            "text": "Prithee, see there! behold! look! lo! how say you Why, what care I If thou canst nod, speak too. If charnelhouses and our graves must send Those that we bury back, our monuments Shall be the maws of kites."
+        },
+        {
+            "text": "GHOST OF BANQUO vanishes"
+        },
+        {
+            "speaker": "lady macbeth",
+            "text": "What, quite unmannd in folly"
+        },
+        {
+            "speaker": "macbeth",
+            "text": "If I stand here, I saw him."
+        },
+        {
+            "speaker": "lady macbeth",
+            "text": "Fie, for shame!"
+        },
+        {
+            "speaker": "macbeth",
+            "text": "Blood hath been shed ere now, i the olden time, Ere human statute purged the gentle weal Ay, and since too, murders have been performd Too terrible for the ear: the times have been, That, when the brains were out, the man would die, And there an end but now they rise again, With twenty mortal murders on their crowns, And push us from our stools: this is more strange Than such a murder is."
+        },
+        {
+            "speaker": "lady macbeth",
+            "text": "My worthy lord, Your noble friends do lack you."
+        },
+        {
+            "speaker": "macbeth",
+            "text": "I do forget. Do not muse at me, my most worthy friends, I have a strange infirmity, which is nothing To those that know me. Come, love and health to all Then Ill sit down. Give me some wine fill full. I drink to the general joy o the whole table, And to our dear friend Banquo, whom we miss Would he were here! to all, and him, we thirst, And all to all."
+        },
+        {
+            "speaker": "lords",
+            "text": "Our duties, and the pledge."
+        },
+        {
+            "text": "Reenter GHOST OF BANQUO"
+        },
+        {
+            "speaker": "macbeth",
+            "text": "Avaunt! and quit my sight! let the earth hide thee! Thy bones are marrowless, thy blood is cold Thou hast no speculation in those eyes Which thou dost glare with!"
+        },
+        {
+            "speaker": "lady macbeth",
+            "text": "Think of this, good peers, But as a thing of custom: tis no other Only it spoils the pleasure of the time."
+        },
+        {
+            "speaker": "macbeth",
+            "text": "What man dare, I dare: Approach thou like the rugged Russian bear, The armd rhinoceros, or the Hyrcan tiger Take any shape but that, and my firm nerves Shall never tremble: or be alive again, And dare me to the desert with thy sword If trembling I inhabit then, protest me The baby of a girl. Hence, horrible shadow! Unreal mockery, hence! Why, so: being gone, I am a man again. Pray you, sit still."
+        },
+        {
+            "text": "GHOST OF BANQUO vanishes"
+        },
+        {
+            "speaker": "lady macbeth",
+            "text": "You have displaced the mirth, broke the good meeting, With most admired disorder."
+        },
+        {
+            "speaker": "macbeth",
+            "text": "Can such things be, And overcome us like a summers cloud, Without our special wonder You make me strange Even to the disposition that I owe, When now I think you can behold such sights, And keep the natural ruby of your cheeks, When mine is blanched with fear."
+        },
+        {
+            "speaker": "ross",
+            "text": "What sights, my lord"
+        },
+        {
+            "speaker": "lady macbeth",
+            "text": "I pray you, speak not he grows worse and worse Question enrages him. At once, good night: Stand not upon the order of your going, But go at once."
+        },
+        {
+            "speaker": "lennox",
+            "text": "Good night and better health Attend his majesty!"
+        },
+        {
+            "speaker": "lady macbeth",
+            "text": "A kind good night to all!"
+        },
+        {
+            "text": "Exeunt all but MACBETH and LADY MACBETH"
+        },
+        {
+            "speaker": "macbeth",
+            "text": "It will have blood they say, blood will have blood: Stones have been known to move and trees to speak Augurs and understood relations have By magotpies and choughs and rooks brought forth The secretst man of blood. What is the night"
+        },
+        {
+            "speaker": "lady macbeth",
+            "text": "Almost at odds with morning, which is which."
+        },
+        {
+            "speaker": "macbeth",
+            "text": "How sayst thou, that Macduff denies his person At our great bidding"
+        },
+        {
+            "speaker": "lady macbeth",
+            "text": "Did you send to him, sir"
+        },
+        {
+            "speaker": "macbeth",
+            "text": "I hear it by the way but I will send: Theres not a one of them but in his house I keep a servant feed. I will tomorrow, And betimes I will, to the weird sisters: More shall they speak for now I am bent to know, By the worst means, the worst. For mine own good, All causes shall give way: I am in blood Steppd in so far that, should I wade no more, Returning were as tedious as go oer: Strange things I have in head, that will to hand Which must be acted ere they may be scannd."
+        },
+        {
+            "speaker": "lady macbeth",
+            "text": "You lack the season of all natures, sleep."
+        },
+        {
+            "speaker": "macbeth",
+            "text": "Come, well to sleep. My strange and selfabuse Is the initiate fear that wants hard use: We are yet but young in deed."
+        },
+        {
+            "text": "Exeunt"
+        }
+    ]
+}

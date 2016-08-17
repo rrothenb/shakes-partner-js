@@ -1,0 +1,216 @@
+{
+    "chorus": [
+        "Act 1, scene 2",
+        "Act 2, scene 4",
+        "Act 3, scene 7",
+        "Act 4, scene 8",
+        "Act 5, scene 2"
+    ],
+    "canterbury": [
+        "Act 1, scene 1",
+        "Act 1, scene 2"
+    ],
+    "ely": [
+        "Act 1, scene 1",
+        "Act 1, scene 2"
+    ],
+    "king henry the fifth": [
+        "Act 1, scene 2",
+        "Act 2, scene 2",
+        "Act 3, scene 1",
+        "Act 3, scene 3",
+        "Act 3, scene 6",
+        "Act 4, scene 1",
+        "Act 4, scene 3",
+        "Act 4, scene 6",
+        "Act 4, scene 7",
+        "Act 4, scene 8",
+        "Act 5, scene 2"
+    ],
+    "exeter": [
+        "Act 1, scene 2",
+        "Act 2, scene 2",
+        "Act 2, scene 4",
+        "Act 4, scene 3",
+        "Act 4, scene 6",
+        "Act 4, scene 7",
+        "Act 4, scene 8",
+        "Act 5, scene 2"
+    ],
+    "westmoreland": [
+        "Act 1, scene 2",
+        "Act 2, scene 2",
+        "Act 4, scene 3",
+        "Act 5, scene 2"
+    ],
+    "first ambassador": [
+        "Act 1, scene 2"
+    ],
+    "bardolph": [
+        "Act 2, scene 1",
+        "Act 2, scene 3",
+        "Act 3, scene 2"
+    ],
+    "nym": [
+        "Act 2, scene 1",
+        "Act 2, scene 3",
+        "Act 3, scene 2"
+    ],
+    "pistol": [
+        "Act 2, scene 1",
+        "Act 2, scene 3",
+        "Act 3, scene 2",
+        "Act 3, scene 6",
+        "Act 4, scene 1",
+        "Act 4, scene 4",
+        "Act 5, scene 1"
+    ],
+    "hostess": [
+        "Act 2, scene 1",
+        "Act 2, scene 3"
+    ],
+    "boy": [
+        "Act 2, scene 1",
+        "Act 2, scene 3",
+        "Act 3, scene 2",
+        "Act 4, scene 4"
+    ],
+    "bedford": [
+        "Act 2, scene 2",
+        "Act 4, scene 3"
+    ],
+    "scroop": [
+        "Act 2, scene 2"
+    ],
+    "cambridge": [
+        "Act 2, scene 2"
+    ],
+    "grey": [
+        "Act 2, scene 2"
+    ],
+    "king of france": [
+        "Act 2, scene 4",
+        "Act 3, scene 5",
+        "Act 5, scene 2"
+    ],
+    "dauphin": [
+        "Act 2, scene 4",
+        "Act 3, scene 5",
+        "Act 3, scene 7",
+        "Act 4, scene 2",
+        "Act 4, scene 5"
+    ],
+    "constable": [
+        "Act 2, scene 4",
+        "Act 3, scene 5",
+        "Act 3, scene 7",
+        "Act 4, scene 2",
+        "Act 4, scene 5"
+    ],
+    "messenger": [
+        "Act 2, scene 4",
+        "Act 3, scene 7",
+        "Act 4, scene 2"
+    ],
+    "fluellen": [
+        "Act 3, scene 2",
+        "Act 3, scene 6",
+        "Act 4, scene 1",
+        "Act 4, scene 7",
+        "Act 4, scene 8",
+        "Act 5, scene 1"
+    ],
+    "gower": [
+        "Act 3, scene 2",
+        "Act 3, scene 6",
+        "Act 4, scene 1",
+        "Act 4, scene 7",
+        "Act 4, scene 8",
+        "Act 5, scene 1"
+    ],
+    "jamy": [
+        "Act 3, scene 2"
+    ],
+    "macmorris": [
+        "Act 3, scene 2"
+    ],
+    "governor": [
+        "Act 3, scene 3"
+    ],
+    "katharine": [
+        "Act 3, scene 4",
+        "Act 5, scene 2"
+    ],
+    "alice": [
+        "Act 3, scene 4",
+        "Act 5, scene 2"
+    ],
+    "bourbon": [
+        "Act 3, scene 5",
+        "Act 4, scene 5"
+    ],
+    "montjoy": [
+        "Act 3, scene 6",
+        "Act 4, scene 3",
+        "Act 4, scene 7"
+    ],
+    "gloucester": [
+        "Act 3, scene 6",
+        "Act 4, scene 1",
+        "Act 4, scene 3",
+        "Act 4, scene 7"
+    ],
+    "orleans": [
+        "Act 3, scene 7",
+        "Act 4, scene 2",
+        "Act 4, scene 5"
+    ],
+    "rambures": [
+        "Act 3, scene 7",
+        "Act 4, scene 2"
+    ],
+    "erpingham": [
+        "Act 4, scene 1"
+    ],
+    "court": [
+        "Act 4, scene 1"
+    ],
+    "bates": [
+        "Act 4, scene 1"
+    ],
+    "williams": [
+        "Act 4, scene 1",
+        "Act 4, scene 7",
+        "Act 4, scene 8"
+    ],
+    "grandpre": [
+        "Act 4, scene 2"
+    ],
+    "salisbury": [
+        "Act 4, scene 3"
+    ],
+    "york": [
+        "Act 4, scene 3"
+    ],
+    "french soldier": [
+        "Act 4, scene 4"
+    ],
+    "warwick": [
+        "Act 4, scene 8"
+    ],
+    "herald": [
+        "Act 4, scene 8"
+    ],
+    "queen isabel": [
+        "Act 5, scene 2"
+    ],
+    "burgundy": [
+        "Act 5, scene 2"
+    ],
+    "french king": [
+        "Act 5, scene 2"
+    ],
+    "all": [
+        "Act 5, scene 2"
+    ]
+}

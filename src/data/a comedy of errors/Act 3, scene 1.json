@@ -1,0 +1,260 @@
+{
+    "sceneName": "Act 3, scene 1",
+    "playName": "a comedy of errors",
+    "location": "Before the house of ANTIPHOLUS of Ephesus.",
+    "lines": [
+        {
+            "text": "Enter ANTIPHOLUS of Ephesus, DROMIO of Ephesus, ANGELO, and BALTHAZAR"
+        },
+        {
+            "speaker": "of ephesus",
+            "text": "Good Signior Angelo, you must excuse us all My wife is shrewish when I keep not hours: Say that I lingerd with you at your shop To see the making of her carcanet, And that tomorrow you will bring it home. But heres a villain that would face me down He met me on the mart, and that I beat him, And charged him with a thousand marks in gold, And that I did deny my wife and house. Thou drunkard, thou, what didst thou mean by this"
+        },
+        {
+            "speaker": "dromio of ephesus",
+            "text": "Say what you will, sir, but I know what I know That you beat me at the mart, I have your hand to show: If the skin were parchment, and the blows you gave were ink, Your own handwriting would tell you what I think. ANTIPHOLUS"
+        },
+        {
+            "speaker": "of ephesus",
+            "text": "I think thou art an ass."
+        },
+        {
+            "speaker": "dromio of ephesus",
+            "text": "Marry, so it doth appear By the wrongs I suffer and the blows I bear. I should kick, being kickd and, being at that pass, You would keep from my heels and beware of an ass. ANTIPHOLUS"
+        },
+        {
+            "speaker": "of ephesus",
+            "text": "Youre sad, Signior Balthazar: pray God our cheer May answer my good will and your good welcome here."
+        },
+        {
+            "speaker": "balthazar",
+            "text": "I hold your dainties cheap, sir, and your welcome dear. ANTIPHOLUS"
+        },
+        {
+            "speaker": "of ephesus",
+            "text": "O, Signior Balthazar, either at flesh or fish, A table full of welcome make scarce one dainty dish."
+        },
+        {
+            "speaker": "balthazar",
+            "text": "Good meat, sir, is common that every churl affords. ANTIPHOLUS"
+        },
+        {
+            "speaker": "of ephesus",
+            "text": "And welcome more common for thats nothing but words."
+        },
+        {
+            "speaker": "balthazar",
+            "text": "Small cheer and great welcome makes a merry feast. ANTIPHOLUS"
+        },
+        {
+            "speaker": "of ephesus",
+            "text": "Ay, to a niggardly host, and more sparing guest: But though my cates be mean, take them in good part Better cheer may you have, but not with better heart. But, soft! my door is lockd. Go bid them let us in."
+        },
+        {
+            "speaker": "dromio of ephesus",
+            "text": "Maud, Bridget, Marian, Cicel, Gillian, Ginn!"
+        },
+        {
+            "speaker": "dromio of syracuse",
+            "text": "[Within]  Mome, malthorse, capon, coxcomb, idiot, patch! Either get thee from the door, or sit down at the hatch. Dost thou conjure for wenches, that thou callst for such store, When one is one too many Go, get thee from the door."
+        },
+        {
+            "speaker": "dromio of ephesus",
+            "text": "What patch is made our porter My master stays in the street."
+        },
+        {
+            "speaker": "dromio of syracuse",
+            "text": "[Within]  Let him walk from whence he came, lest he catch cold ons feet. ANTIPHOLUS"
+        },
+        {
+            "speaker": "of ephesus",
+            "text": "Who talks within there ho, open the door!"
+        },
+        {
+            "speaker": "dromio of syracuse",
+            "text": "[Within]  Right, sir Ill tell you when, an you tell me wherefore. ANTIPHOLUS"
+        },
+        {
+            "speaker": "of ephesus",
+            "text": "Wherefore for my dinner: I have not dined today."
+        },
+        {
+            "speaker": "dromio of syracuse",
+            "text": "[Within]  Nor today here you must not come again when you may. ANTIPHOLUS"
+        },
+        {
+            "speaker": "of ephesus",
+            "text": "What art thou that keepest me out from the house I owe"
+        },
+        {
+            "speaker": "dromio of syracuse",
+            "text": "[Within]  The porter for this time, sir, and my name is Dromio."
+        },
+        {
+            "speaker": "dromio of ephesus",
+            "text": "O villain! thou hast stolen both mine office and my name. The one neer got me credit, the other mickle blame. If thou hadst been Dromio today in my place, Thou wouldst have changed thy face for a name or thy name for an ass."
+        },
+        {
+            "speaker": "luce",
+            "text": "[Within]  What a coil is there, Dromio who are those at the gate"
+        },
+        {
+            "speaker": "dromio of ephesus",
+            "text": "Let my master in, Luce."
+        },
+        {
+            "speaker": "luce",
+            "text": "[Within]  Faith, no he comes too late And so tell your master."
+        },
+        {
+            "speaker": "dromio of ephesus",
+            "text": "O Lord, I must laugh! Have at you with a proverbShall I set in my staff"
+        },
+        {
+            "speaker": "luce",
+            "text": "[Within]  Have at you with another thatsWhen can you tell"
+        },
+        {
+            "speaker": "dromio of syracuse",
+            "text": "[Within]  If thy name be calld LuceLuce, thou hast answered him well."
+        },
+        {
+            "speaker": "antipholus",
+            "text": "Do you hear, you minion youll let us in, I hope OF EPHESUS"
+        },
+        {
+            "speaker": "luce",
+            "text": "[Within]  I thought to have asked you."
+        },
+        {
+            "speaker": "dromio of syracuse",
+            "text": "[Within]  And you said no."
+        },
+        {
+            "speaker": "dromio of ephesus",
+            "text": "So, come, help: well struck! there was blow for blow. ANTIPHOLUS"
+        },
+        {
+            "speaker": "of ephesus",
+            "text": "Thou baggage, let me in."
+        },
+        {
+            "speaker": "luce",
+            "text": "[Within]  Can you tell for whose sake"
+        },
+        {
+            "speaker": "dromio of ephesus",
+            "text": "Master, knock the door hard."
+        },
+        {
+            "speaker": "luce",
+            "text": "[Within]  Let him knock till it ache. ANTIPHOLUS"
+        },
+        {
+            "speaker": "of ephesus",
+            "text": "Youll cry for this, minion, if I beat the door down."
+        },
+        {
+            "speaker": "luce",
+            "text": "[Within]  What needs all that, and a pair of stocks in the town"
+        },
+        {
+            "speaker": "adriana",
+            "text": "[Within]  Who is that at the door that keeps all this noise"
+        },
+        {
+            "speaker": "dromio of syracuse",
+            "text": "[Within]  By my troth, your town is troubled with unruly boys. ANTIPHOLUS"
+        },
+        {
+            "speaker": "of ephesus",
+            "text": "Are you there, wife you might have come before."
+        },
+        {
+            "speaker": "adriana",
+            "text": "[Within]  Your wife, sir knave! go get you from the door."
+        },
+        {
+            "speaker": "dromio of ephesus",
+            "text": "If you went in pain, master, this knave would go sore."
+        },
+        {
+            "speaker": "angelo",
+            "text": "Here is neither cheer, sir, nor welcome: we would fain have either."
+        },
+        {
+            "speaker": "balthazar",
+            "text": "In debating which was best, we shall part with neither."
+        },
+        {
+            "speaker": "dromio of ephesus",
+            "text": "They stand at the door, master bid them welcome hither. ANTIPHOLUS"
+        },
+        {
+            "speaker": "of ephesus",
+            "text": "There is something in the wind, that we cannot get in."
+        },
+        {
+            "speaker": "dromio of ephesus",
+            "text": "You would say so, master, if your garments were thin. Your cake there is warm within you stand here in the cold: It would make a man mad as a buck, to be so bought and sold. ANTIPHOLUS"
+        },
+        {
+            "speaker": "of ephesus",
+            "text": "Go fetch me something: Ill break ope the gate."
+        },
+        {
+            "speaker": "dromio of syracuse",
+            "text": "[Within]  Break any breaking here, and Ill break your knaves pate."
+        },
+        {
+            "speaker": "dromio of ephesus",
+            "text": "A man may break a word with you, sir, and words are but wind, Ay, and break it in your face, so he break it not behind."
+        },
+        {
+            "speaker": "dromio of syracuse",
+            "text": "[Within]  It seems thou wantst breaking: out upon thee, hind!"
+        },
+        {
+            "speaker": "dromio of ephesus",
+            "text": "Heres too much out upon thee! I pray thee, let me in."
+        },
+        {
+            "speaker": "dromio of syracuse",
+            "text": "[Within]  Ay, when fowls have no feathers and fish have no fin. ANTIPHOLUS"
+        },
+        {
+            "speaker": "of ephesus",
+            "text": "Well, Ill break in: go borrow me a crow."
+        },
+        {
+            "speaker": "dromio of ephesus",
+            "text": "A crow without feather Master, mean you so For a fish without a fin, theres a fowl without a feather If a crow help us in, sirrah, well pluck a crow together. ANTIPHOLUS"
+        },
+        {
+            "speaker": "of ephesus",
+            "text": "Go get thee gone fetch me an iron crow."
+        },
+        {
+            "speaker": "balthazar",
+            "text": "Have patience, sir O, let it not be so! Herein you war against your reputation And draw within the compass of suspect The unviolated honour of your wife. Once this,your long experience of her wisdom, Her sober virtue, years and modesty, Plead on her part some cause to you unknown: And doubt not, sir, but she will well excuse Why at this time the doors are made against you. Be ruled by me: depart in patience, And let us to the Tiger all to dinner, And about evening come yourself alone To know the reason of this strange restraint. If by strong hand you offer to break in Now in the stirring passage of the day, A vulgar comment will be made of it, And that supposed by the common rout Against your yet ungalled estimation That may with foul intrusion enter in And dwell upon your grave when you are dead For slander lives upon succession, For ever housed where it gets possession. ANTIPHOLUS"
+        },
+        {
+            "speaker": "of ephesus",
+            "text": "You have prevailed: I will depart in quiet, And, in despite of mirth, mean to be merry. I know a wench of excellent discourse, Pretty and witty wild, and yet, too, gentle: There will we dine. This woman that I mean, My wifebut, I protest, without desert Hath oftentimes upbraided me withal: To her will we to dinner. Get you home And fetch the chain by this I know tis made: Bring it, I pray you, to the Porpentine For theres the house: that chain will I bestow Be it for nothing but to spite my wife Upon mine hostess there: good sir, make haste. Since mine own doors refuse to entertain me, Ill knock elsewhere, to see if theyll disdain me."
+        },
+        {
+            "text": "To Angelo"
+        },
+        {
+            "speaker": "angelo",
+            "text": "Ill meet you at that place some hour hence. ANTIPHOLUS"
+        },
+        {
+            "speaker": "of ephesus",
+            "text": "Do so. This jest shall cost me some expense."
+        },
+        {
+            "text": "Exeunt"
+        }
+    ]
+}

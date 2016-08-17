@@ -1,0 +1,146 @@
+{
+    "leonato": [
+        "Act 1, scene 1",
+        "Act 1, scene 2",
+        "Act 2, scene 1",
+        "Act 2, scene 3",
+        "Act 3, scene 2",
+        "Act 3, scene 5",
+        "Act 4, scene 1",
+        "Act 5, scene 1",
+        "Act 5, scene 4"
+    ],
+    "messenger": [
+        "Act 1, scene 1",
+        "Act 3, scene 5",
+        "Act 5, scene 4"
+    ],
+    "beatrice": [
+        "Act 1, scene 1",
+        "Act 2, scene 1",
+        "Act 2, scene 3",
+        "Act 3, scene 1",
+        "Act 3, scene 4",
+        "Act 4, scene 1",
+        "Act 5, scene 2",
+        "Act 5, scene 4"
+    ],
+    "hero": [
+        "Act 1, scene 1",
+        "Act 2, scene 1",
+        "Act 3, scene 1",
+        "Act 3, scene 4",
+        "Act 4, scene 1",
+        "Act 5, scene 4"
+    ],
+    "don pedro": [
+        "Act 1, scene 1",
+        "Act 2, scene 1",
+        "Act 2, scene 3",
+        "Act 3, scene 2",
+        "Act 4, scene 1",
+        "Act 5, scene 1",
+        "Act 5, scene 3",
+        "Act 5, scene 4"
+    ],
+    "benedick": [
+        "Act 1, scene 1",
+        "Act 2, scene 1",
+        "Act 2, scene 3",
+        "Act 3, scene 2",
+        "Act 4, scene 1",
+        "Act 5, scene 1",
+        "Act 5, scene 2",
+        "Act 5, scene 4"
+    ],
+    "don john": [
+        "Act 1, scene 1",
+        "Act 1, scene 3",
+        "Act 2, scene 1",
+        "Act 2, scene 2",
+        "Act 3, scene 2",
+        "Act 4, scene 1"
+    ],
+    "claudio": [
+        "Act 1, scene 1",
+        "Act 2, scene 1",
+        "Act 2, scene 3",
+        "Act 3, scene 2",
+        "Act 4, scene 1",
+        "Act 5, scene 1",
+        "Act 5, scene 3",
+        "Act 5, scene 4"
+    ],
+    "antonio": [
+        "Act 1, scene 2",
+        "Act 2, scene 1",
+        "Act 5, scene 1",
+        "Act 5, scene 4"
+    ],
+    "conrade": [
+        "Act 1, scene 3",
+        "Act 3, scene 3",
+        "Act 4, scene 2"
+    ],
+    "borachio": [
+        "Act 1, scene 3",
+        "Act 2, scene 1",
+        "Act 2, scene 2",
+        "Act 3, scene 3",
+        "Act 4, scene 2",
+        "Act 5, scene 1"
+    ],
+    "balthasar": [
+        "Act 2, scene 1",
+        "Act 2, scene 3"
+    ],
+    "margaret": [
+        "Act 2, scene 1",
+        "Act 3, scene 1",
+        "Act 3, scene 4",
+        "Act 5, scene 2"
+    ],
+    "ursula": [
+        "Act 2, scene 1",
+        "Act 3, scene 1",
+        "Act 3, scene 4",
+        "Act 5, scene 2"
+    ],
+    "boy": [
+        "Act 2, scene 3"
+    ],
+    "dogberry": [
+        "Act 3, scene 3",
+        "Act 3, scene 5",
+        "Act 4, scene 2",
+        "Act 5, scene 1"
+    ],
+    "verges": [
+        "Act 3, scene 3",
+        "Act 3, scene 5",
+        "Act 4, scene 2",
+        "Act 5, scene 1"
+    ],
+    "first watchman": [
+        "Act 3, scene 3",
+        "Act 4, scene 2"
+    ],
+    "second watchman": [
+        "Act 3, scene 3",
+        "Act 4, scene 2"
+    ],
+    "watchman": [
+        "Act 3, scene 3",
+        "Act 4, scene 2"
+    ],
+    "friar francis": [
+        "Act 4, scene 1",
+        "Act 5, scene 4"
+    ],
+    "sexton": [
+        "Act 4, scene 2"
+    ],
+    "lord": [
+        "Act 5, scene 3"
+    ]
+}

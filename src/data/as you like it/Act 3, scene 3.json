@@ -1,0 +1,143 @@
+{
+    "sceneName": "Act 3, scene 3",
+    "playName": "as you like it",
+    "location": "The forest.",
+    "lines": [
+        {
+            "text": "Enter TOUCHSTONE and AUDREY JAQUES behind"
+        },
+        {
+            "speaker": "touchstone",
+            "text": "Come apace, good Audrey: I will fetch up your goats, Audrey. And how, Audrey am I the man yet doth my simple feature content you"
+        },
+        {
+            "speaker": "audrey",
+            "text": "Your features! Lord warrant us! what features!"
+        },
+        {
+            "speaker": "touchstone",
+            "text": "I am here with thee and thy goats, as the most capricious poet, honest Ovid, was among the Goths."
+        },
+        {
+            "speaker": "jaques",
+            "text": "[Aside]  O knowledge illinhabited, worse than Jove in a thatched house!"
+        },
+        {
+            "speaker": "touchstone",
+            "text": "When a mans verses cannot be understood, nor a mans good wit seconded with the forward child Understanding, it strikes a man more dead than a great reckoning in a little room. Truly, I would the gods had made thee poetical."
+        },
+        {
+            "speaker": "audrey",
+            "text": "I do not know what poetical is: is it honest in deed and word is it a true thing"
+        },
+        {
+            "speaker": "touchstone",
+            "text": "No, truly for the truest poetry is the most feigning and lovers are given to poetry, and what they swear in poetry may be said as lovers they do feign."
+        },
+        {
+            "speaker": "audrey",
+            "text": "Do you wish then that the gods had made me poetical"
+        },
+        {
+            "speaker": "touchstone",
+            "text": "I do, truly for thou swearest to me thou art honest: now, if thou wert a poet, I might have some hope thou didst feign."
+        },
+        {
+            "speaker": "audrey",
+            "text": "Would you not have me honest"
+        },
+        {
+            "speaker": "touchstone",
+            "text": "No, truly, unless thou wert hardfavoured for honesty coupled to beauty is to have honey a sauce to sugar."
+        },
+        {
+            "speaker": "jaques",
+            "text": "[Aside]  A material fool!"
+        },
+        {
+            "speaker": "audrey",
+            "text": "Well, I am not fair and therefore I pray the gods make me honest."
+        },
+        {
+            "speaker": "touchstone",
+            "text": "Truly, and to cast away honesty upon a foul slut were to put good meat into an unclean dish."
+        },
+        {
+            "speaker": "audrey",
+            "text": "I am not a slut, though I thank the gods I am foul."
+        },
+        {
+            "speaker": "touchstone",
+            "text": "Well, praised be the gods for thy foulness! sluttishness may come hereafter. But be it as it may be, I will marry thee, and to that end I have been with Sir Oliver Martext, the vicar of the next village, who hath promised to meet me in this place of the forest and to couple us."
+        },
+        {
+            "speaker": "jaques",
+            "text": "[Aside]  I would fain see this meeting."
+        },
+        {
+            "speaker": "audrey",
+            "text": "Well, the gods give us joy!"
+        },
+        {
+            "speaker": "touchstone",
+            "text": "Amen. A man may, if he were of a fearful heart, stagger in this attempt for here we have no temple but the wood, no assembly but hornbeasts. But what though C ourage! As horns are odious, they are necessary. It is said, many a man knows no end of his goods: right many a man has good horns, and knows no end of them. Well, that is the dowry of his wife tis none of his own getting. Horns Even so. Poor men alone No, no the noblest deer hath them as huge as the rascal. Is the single man therefore blessed No: as a walled town is more worthier than a village, so is the forehead of a married man more honourable than the bare brow of a bachelor and by how much defence is better than no skill, by so much is a horn more precious than to want. Here comes Sir Oliver. Sir Oliver Martext, you are well met: will you dispatch us here under this tree, or shall we go with you to your chapel"
+        },
+        {
+            "text": "Enter SIR OLIVER MARTEXT"
+        },
+        {
+            "speaker": "sir oliver martext",
+            "text": "Is there none here to give the woman"
+        },
+        {
+            "speaker": "touchstone",
+            "text": "I will not take her on gift of any man."
+        },
+        {
+            "speaker": "sir oliver martext",
+            "text": "Truly, she must be given, or the marriage is not lawful."
+        },
+        {
+            "speaker": "jaques",
+            "text": "[Advancing] Proceed, proceedIll give her."
+        },
+        {
+            "speaker": "touchstone",
+            "text": "Good even, good Master Whatyecallt: how do you, sir You are very well met: God ild you for your last company: I am very glad to see you: even a toy in hand here, sir: nay, pray be covered."
+        },
+        {
+            "speaker": "jaques",
+            "text": "Will you be married, motley"
+        },
+        {
+            "speaker": "touchstone",
+            "text": "As the ox hath his bow, sir, the horse his curb and the falcon her bells, so man hath his desires and as pigeons bill, so wedlock would be nibbling."
+        },
+        {
+            "speaker": "jaques",
+            "text": "And will you, being a man of your breeding, be married under a bush like a beggar Get you to church, and have a good priest that can tell you what marriage is: this fellow will but join you together as they join wainscot then one of you will prove a shrunk panel and, like green timber, warp, warp."
+        },
+        {
+            "speaker": "touchstone",
+            "text": "[Aside]  I am not in the mind but I were better to be married of him than of another: for he is not like to marry me well and not being well married, it will be a good excuse for me hereafter to leave my wife."
+        },
+        {
+            "speaker": "jaques",
+            "text": "Go thou with me, and let me counsel thee."
+        },
+        {
+            "speaker": "touchstone",
+            "text": "Come, sweet Audrey: We must be married, or we must live in bawdry. Farewell, good Master Oliver: not, O sweet Oliver, O brave Oliver, Leave me not behind thee: but, Wind away, Begone, I say, I will not to wedding with thee."
+        },
+        {
+            "text": "Exeunt JAQUES, TOUCHSTONE and AUDREY"
+        },
+        {
+            "speaker": "sir oliver martext",
+            "text": "Tis no matter: neer a fantastical knave of them all shall flout me out of my calling."
+        },
+        {
+            "text": "Exit"
+        }
+    ]
+}

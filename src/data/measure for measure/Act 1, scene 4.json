@@ -1,0 +1,151 @@
+{
+    "sceneName": "Act 1, scene 4",
+    "playName": "measure for measure",
+    "location": "A nunnery.",
+    "lines": [
+        {
+            "text": "Enter ISABELLA and FRANCISCA"
+        },
+        {
+            "speaker": "isabella",
+            "text": "And have you nuns no farther privileges"
+        },
+        {
+            "speaker": "francisca",
+            "text": "Are not these large enough"
+        },
+        {
+            "speaker": "isabella",
+            "text": "Yes, truly I speak not as desiring more But rather wishing a more strict restraint Upon the sisterhood, the votarists of Saint Clare."
+        },
+        {
+            "speaker": "lucio",
+            "text": "[Within]  Ho! Peace be in this place!"
+        },
+        {
+            "speaker": "isabella",
+            "text": "Whos that which calls"
+        },
+        {
+            "speaker": "francisca",
+            "text": "It is a mans voice. Gentle Isabella, Turn you the key, and know his business of him You may, I may not you are yet unsworn. When you have vowd, you must not speak with men But in the presence of the prioress: Then, if you speak, you must not show your face, Or, if you show your face, you must not speak. He calls again I pray you, answer him."
+        },
+        {
+            "text": "Exit"
+        },
+        {
+            "speaker": "isabella",
+            "text": "Peace and prosperity! Who ist that calls"
+        },
+        {
+            "text": "Enter LUCIO"
+        },
+        {
+            "speaker": "lucio",
+            "text": "Hail, virgin, if you be, as those cheekroses Proclaim you are no less! Can you so stead me As bring me to the sight of Isabella, A novice of this place and the fair sister To her unhappy brother Claudio"
+        },
+        {
+            "speaker": "isabella",
+            "text": "Why her unhappy brother let me ask, The rather for I now must make you know I am that Isabella and his sister."
+        },
+        {
+            "speaker": "lucio",
+            "text": "Gentle and fair, your brother kindly greets you: Not to be weary with you, hes in prison."
+        },
+        {
+            "speaker": "isabella",
+            "text": "Woe me! for what"
+        },
+        {
+            "speaker": "lucio",
+            "text": "For that which, if myself might be his judge, He should receive his punishment in thanks: He hath got his friend with child."
+        },
+        {
+            "speaker": "isabella",
+            "text": "Sir, make me not your story."
+        },
+        {
+            "speaker": "lucio",
+            "text": "It is true. I would notthough tis my familiar sin With maids to seem the lapwing and to jest, Tongue far from heartplay with all virgins so: I hold you as a thing enskyd and sainted. By your renouncement an immortal spirit, And to be talkd with in sincerity, As with a saint."
+        },
+        {
+            "speaker": "isabella",
+            "text": "You do blaspheme the good in mocking me."
+        },
+        {
+            "speaker": "lucio",
+            "text": "Do not believe it. Fewness and truth, tis thus: Your brother and his lover have embraced: As those that feed grow full, as blossoming time That from the seedness the bare fallow brings To teeming foison, even so her plenteous womb Expresseth his full tilth and husbandry."
+        },
+        {
+            "speaker": "isabella",
+            "text": "Some one with child by him My cousin Juliet"
+        },
+        {
+            "speaker": "lucio",
+            "text": "Is she your cousin"
+        },
+        {
+            "speaker": "isabella",
+            "text": "Adoptedly as schoolmaids change their names By vain though apt affection."
+        },
+        {
+            "speaker": "lucio",
+            "text": "She it is."
+        },
+        {
+            "speaker": "isabella",
+            "text": "O, let him marry her."
+        },
+        {
+            "speaker": "lucio",
+            "text": "This is the point. The duke is very strangely gone from hence Bore many gentlemen, myself being one, In hand and hope of action: but we do learn By those that know the very nerves of state, His givingsout were of an infinite distance From his truemeant design. Upon his place, And with full line of his authority, Governs Lord Angelo a man whose blood Is very snowbroth one who never feels The wanton stings and motions of the sense, But doth rebate and blunt his natural edge With profits of the mind, study and fast. Heto give fear to use and liberty, Which have for long run by the hideous law, As mice by lionshath pickd out an act, Under whose heavy sense your brothers life Falls into forfeit: he arrests him on it And follows close the rigour of the statute, To make him an example. All hope is gone, Unless you have the grace by your fair prayer To soften Angelo: and thats my pith of business Twixt you and your poor brother."
+        },
+        {
+            "speaker": "isabella",
+            "text": "Doth he so seek his life"
+        },
+        {
+            "speaker": "lucio",
+            "text": "Has censured him Already and, as I hear, the provost hath A warrant for his execution."
+        },
+        {
+            "speaker": "isabella",
+            "text": "Alas! what poor abilitys in me To do him good"
+        },
+        {
+            "speaker": "lucio",
+            "text": "Assay the power you have."
+        },
+        {
+            "speaker": "isabella",
+            "text": "My power Alas, I doubt"
+        },
+        {
+            "speaker": "lucio",
+            "text": "Our doubts are traitors And make us lose the good we oft might win By fearing to attempt. Go to Lord Angelo, And let him learn to know, when maidens sue, Men give like gods but when they weep and kneel, All their petitions are as freely theirs As they themselves would owe them."
+        },
+        {
+            "speaker": "isabella",
+            "text": "Ill see what I can do."
+        },
+        {
+            "speaker": "lucio",
+            "text": "But speedily."
+        },
+        {
+            "speaker": "isabella",
+            "text": "I will about it straight No longer staying but to give the mother Notice of my affair. I humbly thank you: Commend me to my brother: soon at night Ill send him certain word of my success."
+        },
+        {
+            "speaker": "lucio",
+            "text": "I take my leave of you."
+        },
+        {
+            "speaker": "isabella",
+            "text": "Good sir, adieu."
+        },
+        {
+            "text": "Exeunt"
+        }
+    ]
+}

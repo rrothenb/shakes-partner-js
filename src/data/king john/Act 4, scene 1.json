@@ -1,0 +1,194 @@
+{
+    "sceneName": "Act 4, scene 1",
+    "playName": "king john",
+    "location": "A room in a castle.",
+    "lines": [
+        {
+            "text": "Enter HUBERT and Executioners"
+        },
+        {
+            "speaker": "hubert",
+            "text": "Heat me these irons hot and look thou stand Within the arras: when I strike my foot Upon the bosom of the ground, rush forth, And bind the boy which you shall find with me Fast to the chair: be heedful: hence, and watch."
+        },
+        {
+            "speaker": "first executioner",
+            "text": "I hope your warrant will bear out the deed."
+        },
+        {
+            "speaker": "hubert",
+            "text": "Uncleanly scruples! fear not you: look tot. Young lad, come forth I have to say with you."
+        },
+        {
+            "text": "Exeunt Executioners"
+        },
+        {
+            "text": "Enter ARTHUR"
+        },
+        {
+            "speaker": "arthur",
+            "text": "Good morrow, Hubert."
+        },
+        {
+            "speaker": "hubert",
+            "text": "Good morrow, little prince."
+        },
+        {
+            "speaker": "arthur",
+            "text": "As little prince, having so great a title To be more prince, as may be. You are sad."
+        },
+        {
+            "speaker": "hubert",
+            "text": "Indeed, I have been merrier."
+        },
+        {
+            "speaker": "arthur",
+            "text": "Mercy on me! Methinks no body should be sad but I: Yet, I remember, when I was in France, Young gentlemen would be as sad as night, Only for wantonness. By my christendom, So I were out of prison and kept sheep, I should be as merry as the day is long And so I would be here, but that I doubt My uncle practises more harm to me: He is afraid of me and I of him: Is it my fault that I was Geffreys son No, indeed, ist not and I would to heaven I were your son, so you would love me, Hubert."
+        },
+        {
+            "speaker": "hubert",
+            "text": "[Aside]  If I talk to him, with his innocent prate He will awake my mercy which lies dead: Therefore I will be sudden and dispatch."
+        },
+        {
+            "speaker": "arthur",
+            "text": "Are you sick, Hubert you look pale today: In sooth, I would you were a little sick, That I might sit all night and watch with you: I warrant I love you more than you do me."
+        },
+        {
+            "speaker": "hubert",
+            "text": "[Aside]  His words do take possession of my bosom. Read here, young Arthur. How now, foolish rheum! Turning dispiteous torture out of door! I must be brief, lest resolution drop Out at mine eyes in tender womanish tears. Can you not read it Is it not fair writ"
+        },
+        {
+            "text": "Showing a paper"
+        },
+        {
+            "text": "Aside"
+        },
+        {
+            "speaker": "arthur",
+            "text": "Too fairly, Hubert, for so foul effect: Must you with hot irons burn out both mine eyes"
+        },
+        {
+            "speaker": "hubert",
+            "text": "Young boy, I must."
+        },
+        {
+            "speaker": "arthur",
+            "text": "And will you"
+        },
+        {
+            "speaker": "hubert",
+            "text": "And I will."
+        },
+        {
+            "speaker": "arthur",
+            "text": "Have you the heart When your head did but ache, I knit my handercher about your brows, The best I had, a princess wrought it me, And I did never ask it you again And with my hand at midnight held your head, And like the watchful minutes to the hour, Still and anon cheerd up the heavy time, Saying, What lack you and Where lies your grief Or What good love may I perform for you Many a poor mans son would have lien still And neer have spoke a loving word to you But you at your sick service had a prince. Nay, you may think my love was crafty love And call it cunning: do, an if you will: If heaven be pleased that you must use me ill, Why then you must. Will you put out mine eyes These eyes that never did nor never shall So much as frown on you."
+        },
+        {
+            "speaker": "hubert",
+            "text": "I have sworn to do it And with hot irons must I burn them out."
+        },
+        {
+            "speaker": "arthur",
+            "text": "Ah, none but in this iron age would do it! The iron of itself, though heat redhot, Approaching near these eyes, would drink my tears And quench his fiery indignation Even in the matter of mine innocence Nay, after that, consume away in rust But for containing fire to harm mine eye. Are you more stubbornhard than hammerd iron An if an angel should have come to me And told me Hubert should put out mine eyes, I would not have believed him,no tongue but Huberts."
+        },
+        {
+            "speaker": "hubert",
+            "text": "Come forth. Do as I bid you do."
+        },
+        {
+            "text": "Stamps"
+        },
+        {
+            "text": "Reenter Executioners, with a cord, irons,  and c"
+        },
+        {
+            "speaker": "arthur",
+            "text": "O, save me, Hubert, save me! my eyes are out Even with the fierce looks of these bloody men."
+        },
+        {
+            "speaker": "hubert",
+            "text": "Give me the iron, I say, and bind him here."
+        },
+        {
+            "speaker": "arthur",
+            "text": "Alas, what need you be so boisterousrough I will not struggle, I will stand stonestill. For heaven sake, Hubert, let me not be bound! Nay, hear me, Hubert, drive these men away, And I will sit as quiet as a lamb I will not stir, nor wince, nor speak a word, Nor look upon the iron angerly: Thrust but these men away, and Ill forgive you, Whatever torment you do put me to."
+        },
+        {
+            "speaker": "hubert",
+            "text": "Go, stand within let me alone with him."
+        },
+        {
+            "speaker": "first executioner",
+            "text": "I am best pleased to be from such a deed."
+        },
+        {
+            "text": "Exeunt Executioners"
+        },
+        {
+            "speaker": "arthur",
+            "text": "Alas, I then have chid away my friend! He hath a stern look, but a gentle heart: Let him come back, that his compassion may Give life to yours."
+        },
+        {
+            "speaker": "hubert",
+            "text": "Come, boy, prepare yourself."
+        },
+        {
+            "speaker": "arthur",
+            "text": "Is there no remedy"
+        },
+        {
+            "speaker": "hubert",
+            "text": "None, but to lose your eyes."
+        },
+        {
+            "speaker": "arthur",
+            "text": "O heaven, that there were but a mote in yours, A grain, a dust, a gnat, a wandering hair, Any annoyance in that precious sense! Then feeling what small things are boisterous there, Your vile intent must needs seem horrible."
+        },
+        {
+            "speaker": "hubert",
+            "text": "Is this your promise go to, hold your tongue."
+        },
+        {
+            "speaker": "arthur",
+            "text": "Hubert, the utterance of a brace of tongues Must needs want pleading for a pair of eyes: Let me not hold my tongue, let me not, Hubert Or, Hubert, if you will, cut out my tongue, So I may keep mine eyes: O, spare mine eyes. Though to no use but still to look on you! Lo, by my truth, the instrument is cold And would not harm me."
+        },
+        {
+            "speaker": "hubert",
+            "text": "I can heat it, boy."
+        },
+        {
+            "speaker": "arthur",
+            "text": "No, in good sooth: the fire is dead with grief, Being create for comfort, to be used In undeserved extremes: see else yourself There is no malice in this burning coal The breath of heaven has blown his spirit out And strewd repentent ashes on his head."
+        },
+        {
+            "speaker": "hubert",
+            "text": "But with my breath I can revive it, boy."
+        },
+        {
+            "speaker": "arthur",
+            "text": "An if you do, you will but make it blush And glow with shame of your proceedings, Hubert: Nay, it perchance will sparkle in your eyes And like a dog that is compelld to fight, Snatch at his master that doth tarre him on. All things that you should use to do me wrong Deny their office: only you do lack That mercy which fierce fire and iron extends, Creatures of note for mercylacking uses."
+        },
+        {
+            "speaker": "hubert",
+            "text": "Well, see to live I will not touch thine eye For all the treasure that thine uncle owes: Yet am I sworn and I did purpose, boy, With this same very iron to burn them out."
+        },
+        {
+            "speaker": "arthur",
+            "text": "O, now you look like Hubert! all this while You were disguised."
+        },
+        {
+            "speaker": "hubert",
+            "text": "Peace no more. Adieu. Your uncle must not know but you are dead Ill fill these dogged spies with false reports: And, pretty child, sleep doubtless and secure, That Hubert, for the wealth of all the world, Will not offend thee."
+        },
+        {
+            "speaker": "arthur",
+            "text": "O heaven! I thank you, Hubert."
+        },
+        {
+            "speaker": "hubert",
+            "text": "Silence no more: go closely in with me: Much danger do I undergo for thee."
+        },
+        {
+            "text": "Exeunt"
+        }
+    ]
+}

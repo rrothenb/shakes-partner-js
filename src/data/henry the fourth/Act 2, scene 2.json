@@ -1,0 +1,217 @@
+{
+    "sceneName": "Act 2, scene 2",
+    "playName": "henry the fourth",
+    "location": "The highway, near Gadshill.",
+    "lines": [
+        {
+            "text": "Enter PRINCE HENRY and POINS"
+        },
+        {
+            "speaker": "poins",
+            "text": "Come, shelter, shelter: I have removed Falstaffs horse, and he frets like a gummed velvet."
+        },
+        {
+            "speaker": "prince henry",
+            "text": "Stand close."
+        },
+        {
+            "text": "Enter FALSTAFF"
+        },
+        {
+            "speaker": "falstaff",
+            "text": "Poins! Poins, and be hanged! Poins!"
+        },
+        {
+            "speaker": "prince henry",
+            "text": "Peace, ye fatkidneyed rascal! what a brawling dost thou keep!"
+        },
+        {
+            "speaker": "falstaff",
+            "text": "Wheres Poins, Hal"
+        },
+        {
+            "speaker": "prince henry",
+            "text": "He is walked up to the top of the hill: Ill go seek him."
+        },
+        {
+            "speaker": "falstaff",
+            "text": "I am accursed to rob in that thiefs company: the rascal hath removed my horse, and tied him I know not where. If I travel but four foot by the squier further afoot, I shall break my wind. Well, I doubt not but to die a fair death for all this, if I scape hanging for killing that rogue. I have forsworn his company hourly any time this two and twenty years, and yet I am bewitched with the rogues company. If the rascal hath not given me medicines to make me love him, Ill be hanged it could not be else: I have drunk medicines. Poins! Hal! a plague upon you both! Bardolph! Peto! Ill starve ere Ill rob a foot further. An twere not as good a deed as drink, to turn true man and to leave these rogues, I am the veriest varlet that ever chewed with a tooth. Eight yards of uneven ground is threescore and ten miles afoot with me and the stonyhearted villains know it well enough: a plague upon it when thieves cannot be true one to another! Whew! A plague upon you all! Give me my horse, you rogues give me my horse, and be hanged!"
+        },
+        {
+            "text": "They whistle"
+        },
+        {
+            "speaker": "prince henry",
+            "text": "Peace, ye fatguts! lie down lay thine ear close to the ground and list if thou canst hear the tread of travellers."
+        },
+        {
+            "speaker": "falstaff",
+            "text": "Have you any levers to lift me up again, being down Sblood, Ill not bear mine own flesh so far afoot again for all the coin in thy fathers exchequer. What a plague mean ye to colt me thus"
+        },
+        {
+            "speaker": "prince henry",
+            "text": "Thou liest thou art not colted, thou art uncolted."
+        },
+        {
+            "speaker": "falstaff",
+            "text": "I prithee, good Prince Hal, help me to my horse, good kings son."
+        },
+        {
+            "speaker": "prince henry",
+            "text": "Out, ye rogue! shall I be your ostler"
+        },
+        {
+            "speaker": "falstaff",
+            "text": "Go, hang thyself in thine own heirapparent garters! If I be taen, Ill peach for this. An I have not ballads made on you all and sung to filthy tunes, let a cup of sack be my poison: when a jest is so forward, and afoot too! I hate it."
+        },
+        {
+            "text": "Enter GADSHILL, BARDOLPH and PETO"
+        },
+        {
+            "speaker": "gadshill",
+            "text": "Stand."
+        },
+        {
+            "speaker": "falstaff",
+            "text": "So I do, against my will."
+        },
+        {
+            "speaker": "poins",
+            "text": "O, tis our setter: I know his voice. Bardolph, what news"
+        },
+        {
+            "speaker": "bardolph",
+            "text": "Case ye, case ye on with your vizards: there s money of the kings coming down the hill tis going to the kings exchequer."
+        },
+        {
+            "speaker": "falstaff",
+            "text": "You lie, ye rogue tis going to the kings tavern."
+        },
+        {
+            "speaker": "gadshill",
+            "text": "Theres enough to make us all."
+        },
+        {
+            "speaker": "falstaff",
+            "text": "To be hanged."
+        },
+        {
+            "speaker": "prince henry",
+            "text": "Sirs, you four shall front them in the narrow lane Ned Poins and I will walk lower: if they scape from your encounter, then they light on us."
+        },
+        {
+            "speaker": "peto",
+            "text": "How many be there of them"
+        },
+        {
+            "speaker": "gadshill",
+            "text": "Some eight or ten."
+        },
+        {
+            "speaker": "falstaff",
+            "text": "Zounds, will they not rob us"
+        },
+        {
+            "speaker": "prince henry",
+            "text": "What, a coward, Sir John Paunch"
+        },
+        {
+            "speaker": "falstaff",
+            "text": "Indeed, I am not John of Gaunt, your grandfather but yet no coward, Hal."
+        },
+        {
+            "speaker": "prince henry",
+            "text": "Well, we leave that to the proof."
+        },
+        {
+            "speaker": "poins",
+            "text": "Sirrah Jack, thy horse stands behind the hedge: when thou needest him, there thou shalt find him. Farewell, and stand fast."
+        },
+        {
+            "speaker": "falstaff",
+            "text": "Now cannot I strike him, if I should be hanged."
+        },
+        {
+            "speaker": "prince henry",
+            "text": "Ned, where are our disguises"
+        },
+        {
+            "speaker": "poins",
+            "text": "Here, hard by: stand close."
+        },
+        {
+            "text": "Exeunt PRINCE HENRY and POINS"
+        },
+        {
+            "speaker": "falstaff",
+            "text": "Now, my masters, happy man be his dole, say I: every man to his business."
+        },
+        {
+            "text": "Enter the Travellers"
+        },
+        {
+            "speaker": "first traveller",
+            "text": "Come, neighbour: the boy shall lead our horses down the hill well walk afoot awhile, and ease our legs."
+        },
+        {
+            "speaker": "thieves",
+            "text": "Stand!"
+        },
+        {
+            "speaker": "travellers",
+            "text": "Jesus bless us!"
+        },
+        {
+            "speaker": "falstaff",
+            "text": "Strike down with them cut the villains throats: ah! whoreson caterpillars! baconfed knaves! they hate us youth: down with them: fleece them."
+        },
+        {
+            "speaker": "travellers",
+            "text": "O, we are undone, both we and ours for ever!"
+        },
+        {
+            "speaker": "falstaff",
+            "text": "Hang ye, gorbellied knaves, are ye undone No, ye fat chuffs: I would your store were here! On, bacons, on! What, ye knaves! young men must live. You are Grandjurors, are ye well jure ye, faith."
+        },
+        {
+            "text": "Here they rob them and bind them. Exeunt"
+        },
+        {
+            "text": "Reenter PRINCE HENRY and POINS"
+        },
+        {
+            "speaker": "prince henry",
+            "text": "The thieves have bound the true men. Now could thou and I rob the thieves and go merrily to London, it would be argument for a week, laughter for a month and a good jest for ever."
+        },
+        {
+            "speaker": "poins",
+            "text": "Stand close I hear them coming."
+        },
+        {
+            "text": "Enter the Thieves again"
+        },
+        {
+            "speaker": "falstaff",
+            "text": "Come, my masters, let us share, and then to  horse before day. An the Prince and Poins be not two arrant cowards, theres no equity stirring: theres no more valour in that Poins than in a wildduck."
+        },
+        {
+            "speaker": "prince henry",
+            "text": "Your money!"
+        },
+        {
+            "speaker": "poins",
+            "text": "Villains! As they are sharing, the Prince and Poins set upon  them they all run away and Falstaff, after a blow or two, runs away too, leaving the booty behind them"
+        },
+        {
+            "speaker": "prince henry",
+            "text": "Got with much ease. Now merrily to horse: The thieves are all scatterd and possessd with fear So strongly that they dare not meet each other Each takes his fellow for an officer. Away, good Ned. Falstaff sweats to death, And lards the lean earth as he walks along: Were t not for laughing, I should pity him."
+        },
+        {
+            "speaker": "poins",
+            "text": "How the rogue roard!"
+        },
+        {
+            "text": "Exeunt"
+        }
+    ]
+}

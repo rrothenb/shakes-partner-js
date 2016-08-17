@@ -1,0 +1,96 @@
+{
+    "sceneName": "Act 2, scene 9",
+    "playName": "merchant of venice",
+    "location": "Belmont. A room in PORTIAS house.",
+    "lines": [
+        {
+            "text": "Enter NERISSA with a Servitor"
+        },
+        {
+            "speaker": "nerissa",
+            "text": "Quick, quick, I pray thee draw the curtain straight: The Prince of Arragon hath taen his oath, And comes to his election presently."
+        },
+        {
+            "text": "Flourish of cornets. Enter the PRINCE OF ARRAGON, PORTIA, and their trains"
+        },
+        {
+            "speaker": "portia",
+            "text": "Behold, there stand the caskets, noble prince: If you choose that wherein I am containd, Straight shall our nuptial rites be solemnized: But if you fail, without more speech, my lord, You must be gone from hence immediately."
+        },
+        {
+            "speaker": "arragon",
+            "text": "I am enjoind by oath to observe three things: First, never to unfold to any one Which casket twas I chose next, if I fail Of the right casket, never in my life To woo a maid in way of marriage: Lastly, If I do fail in fortune of my choice, Immediately to leave you and be gone."
+        },
+        {
+            "speaker": "portia",
+            "text": "To these injunctions every one doth swear That comes to hazard for my worthless self."
+        },
+        {
+            "speaker": "arragon",
+            "text": "And so have I addressd me. Fortune now To my hearts hope! Gold silver and base lead. Who chooseth me must give and hazard all he hath. You shall look fairer, ere I give or hazard. What says the golden chest ha! let me see: Who chooseth me shall gain what many men desire. What many men desire! that many may be meant By the fool multitude, that choose by show, Not learning more than the fond eye doth teach Which pries not to the interior, but, like the martlet, Builds in the weather on the outward wall, Even in the force and road of casualty. I will not choose what many men desire, Because I will not jump with common spirits And rank me with the barbarous multitudes. Why, then to thee, thou silver treasurehouse Tell me once more what title thou dost bear: Who chooseth me shall get as much as he deserves: And well said too for who shall go about To cozen fortune and be honourable Without the stamp of merit Let none presume To wear an undeserved dignity. O, that estates, degrees and offices Were not derived corruptly, and that clear honour Were purchased by the merit of the wearer! How many then should cover that stand bare! How many be commanded that command! How much low peasantry would then be gleand From the true seed of honour! and how much honour Pickd from the chaff and ruin of the times To be newvarnishd! Well, but to my choice: Who chooseth me shall get as much as he deserves. I will assume desert. Give me a key for this, And instantly unlock my fortunes here."
+        },
+        {
+            "text": "He opens the silver casket"
+        },
+        {
+            "speaker": "portia",
+            "text": "Too long a pause for that which you find there."
+        },
+        {
+            "speaker": "arragon",
+            "text": "Whats here the portrait of a blinking idiot, Presenting me a schedule! I will read it. How much unlike art thou to Portia! How much unlike my hopes and my deservings! Who chooseth me shall have as much as he deserves. Did I deserve no more than a fools head Is that my prize are my deserts no better"
+        },
+        {
+            "speaker": "portia",
+            "text": "To offend, and judge, are distinct offices And of opposed natures."
+        },
+        {
+            "speaker": "arragon",
+            "text": "What is here The fire seven times tried this: Seven times tried that judgment is, That did never choose amiss. Some there be that shadows kiss Such have but a shadows bliss: There be fools alive, I wis, Silverd oer and so was this. Take what wife you will to bed, I will ever be your head: So be gone: you are sped. Still more fool I shall appear By the time I linger here With one fools head I came to woo, But I go away with two. Sweet, adieu. Ill keep my oath, Patiently to bear my wroth."
+        },
+        {
+            "text": "Reads"
+        },
+        {
+            "text": "Exeunt Arragon and train"
+        },
+        {
+            "speaker": "portia",
+            "text": "Thus hath the candle singed the moth. O, these deliberate fools! when they do choose, They have the wisdom by their wit to lose."
+        },
+        {
+            "speaker": "nerissa",
+            "text": "The ancient saying is no heresy, Hanging and wiving goes by destiny."
+        },
+        {
+            "speaker": "portia",
+            "text": "Come, draw the curtain, Nerissa."
+        },
+        {
+            "text": "Enter a Servant"
+        },
+        {
+            "speaker": "servant",
+            "text": "Where is my lady"
+        },
+        {
+            "speaker": "portia",
+            "text": "Here: what would my lord"
+        },
+        {
+            "speaker": "servant",
+            "text": "Madam, there is alighted at your gate A young Venetian, one that comes before To signify the approaching of his lord From whom he bringeth sensible regreets, To wit, besides commends and courteous breath, Gifts of rich value. Yet I have not seen So likely an ambassador of love: A day in April never came so sweet, To show how costly summer was at hand, As this forespurrer comes before his lord."
+        },
+        {
+            "speaker": "portia",
+            "text": "No more, I pray thee: I am half afeard Thou wilt say anon he is some kin to thee, Thou spendst such highday wit in praising him. Come, come, Nerissa for I long to see Quick Cupids post that comes so mannerly."
+        },
+        {
+            "speaker": "nerissa",
+            "text": "Bassanio, lord Love, if thy will it be!"
+        },
+        {
+            "text": "Exeunt"
+        }
+    ]
+}

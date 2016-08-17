@@ -1,0 +1,668 @@
+{
+    "sceneName": "Act 5, scene 2",
+    "playName": "hamlet",
+    "location": "A hall in the castle.",
+    "lines": [
+        {
+            "text": "Enter HAMLET and HORATIO"
+        },
+        {
+            "speaker": "hamlet",
+            "text": "So much for this, sir: now shall you see the other You do remember all the circumstance"
+        },
+        {
+            "speaker": "horatio",
+            "text": "Remember it, my lord"
+        },
+        {
+            "speaker": "hamlet",
+            "text": "Sir, in my heart there was a kind of fighting, That would not let me sleep: methought I lay Worse than the mutines in the bilboes. Rashly, And praised be rashness for it, let us know, Our indiscretion sometimes serves us well, When our deep plots do pall: and that should teach us Theres a divinity that shapes our ends, Roughhew them how we will,"
+        },
+        {
+            "speaker": "horatio",
+            "text": "That is most certain."
+        },
+        {
+            "speaker": "hamlet",
+            "text": "Up from my cabin, My seagown scarfd about me, in the dark Groped I to find out them had my desire. Fingerd their packet, and in fine withdrew To mine own room again making so bold, My fears forgetting manners, to unseal Their grand commission where I found, Horatio, O royal knavery!an exact command, Larded with many several sorts of reasons Importing Denmarks health and Englands too, With, ho! such bugs and goblins in my life, That, on the supervise, no leisure bated, No, not to stay the grinding of the axe, My head should be struck off."
+        },
+        {
+            "speaker": "horatio",
+            "text": "Ist possible"
+        },
+        {
+            "speaker": "hamlet",
+            "text": "Heres the commission: read it at more leisure. But wilt thou hear me how I did proceed"
+        },
+        {
+            "speaker": "horatio",
+            "text": "I beseech you."
+        },
+        {
+            "speaker": "hamlet",
+            "text": "Being thus benetted round with villanies, Ere I could make a prologue to my brains, They had begun the playI sat me down, Devised a new commission, wrote it fair: I once did hold it, as our statists do, A baseness to write fair and labourd much How to forget that learning, but, sir, now It did me yeomans service: wilt thou know The effect of what I wrote"
+        },
+        {
+            "speaker": "horatio",
+            "text": "Ay, good my lord."
+        },
+        {
+            "speaker": "hamlet",
+            "text": "An earnest conjuration from the king, As England was his faithful tributary, As love between them like the palm might flourish, As peace should stiff her wheaten garland wear And stand a comma tween their amities, And many suchlike Ases of great charge, That, on the view and knowing of these contents, Without debatement further, more or less, He should the bearers put to sudden death, Not shrivingtime allowd."
+        },
+        {
+            "speaker": "horatio",
+            "text": "How was this seald"
+        },
+        {
+            "speaker": "hamlet",
+            "text": "Why, even in that was heaven ordinant. I had my fathers signet in my purse, Which was the model of that Danish seal Folded the writ up in form of the other, Subscribed it, gavet the impression, placed it safely, The changeling never known. Now, the next day Was our seafight and what to this was sequent Thou knowst already."
+        },
+        {
+            "speaker": "horatio",
+            "text": "So Guildenstern and Rosencrantz go tot."
+        },
+        {
+            "speaker": "hamlet",
+            "text": "Why, man, they did make love to this employment They are not near my conscience their defeat Does by their own insinuation grow: Tis dangerous when the baser nature comes Between the pass and fell incensed points Of mighty opposites."
+        },
+        {
+            "speaker": "horatio",
+            "text": "Why, what a king is this!"
+        },
+        {
+            "speaker": "hamlet",
+            "text": "Does it not, thinkst thee, stand me now upon He that hath killd my king and whored my mother, Poppd in between the election and my hopes, Thrown out his angle for my proper life, And with such cozenageist not perfect conscience, To quit him with this arm and ist not to be damnd, To let this canker of our nature come In further evil"
+        },
+        {
+            "speaker": "horatio",
+            "text": "It must be shortly known to him from England What is the issue of the business there."
+        },
+        {
+            "speaker": "hamlet",
+            "text": "It will be short: the interim is mine And a mans lifes no more than to say One. But I am very sorry, good Horatio, That to Laertes I forgot myself For, by the image of my cause, I see The portraiture of his: Ill court his favours. But, sure, the bravery of his grief did put me Into a towering passion."
+        },
+        {
+            "speaker": "horatio",
+            "text": "Peace! who comes here"
+        },
+        {
+            "text": "Enter OSRIC"
+        },
+        {
+            "speaker": "osric",
+            "text": "Your lordship is right welcome back to Denmark."
+        },
+        {
+            "speaker": "hamlet",
+            "text": "I humbly thank you, sir. Dost know this waterfly"
+        },
+        {
+            "speaker": "horatio",
+            "text": "No, my good lord."
+        },
+        {
+            "speaker": "hamlet",
+            "text": "Thy state is the more gracious for tis a vice to know him. He hath much land, and fertile: let a beast be lord of beasts, and his crib shall stand at the kings mess: tis a chough but, as I say, spacious in the possession of dirt."
+        },
+        {
+            "speaker": "osric",
+            "text": "Sweet lord, if your lordship were at leisure, I should impart a thing to you from his majesty."
+        },
+        {
+            "speaker": "hamlet",
+            "text": "I will receive it, sir, with all diligence of spirit. Put your bonnet to his right use tis for the head."
+        },
+        {
+            "speaker": "osric",
+            "text": "I thank your lordship, it is very hot."
+        },
+        {
+            "speaker": "hamlet",
+            "text": "No, believe me, tis very cold the wind is northerly."
+        },
+        {
+            "speaker": "osric",
+            "text": "It is indifferent cold, my lord, indeed."
+        },
+        {
+            "speaker": "hamlet",
+            "text": "But yet methinks it is very sultry and hot for my complexion."
+        },
+        {
+            "speaker": "osric",
+            "text": "Exceedingly, my lord it is very sultry,as twere,I cannot tell how. But, my lord, his majesty bade me signify to you that he has laid a great wager on your head: sir, this is the matter,"
+        },
+        {
+            "speaker": "hamlet",
+            "text": "I beseech you, remember"
+        },
+        {
+            "text": "HAMLET moves him to put on his hat"
+        },
+        {
+            "speaker": "osric",
+            "text": "Nay, good my lord for mine ease, in good faith. Sir, here is newly come to court Laertes believe me, an absolute gentleman, full of most excellent differences, of very soft society and great showing: indeed, to speak feelingly of him, he is the card or calendar of gentry, for you shall find in him the continent of what part a gentleman would see."
+        },
+        {
+            "speaker": "hamlet",
+            "text": "Sir, his definement suffers no perdition in you though, I know, to divide him inventorially would dizzy the arithmetic of memory, and yet but yaw neither, in respect of his quick sail. But, in the verity of extolment, I take him to be a soul of great article and his infusion of such dearth and rareness, as, to make true diction of him, his semblable is his mirror and who else would trace him, his umbrage, nothing more."
+        },
+        {
+            "speaker": "osric",
+            "text": "Your lordship speaks most infallibly of him."
+        },
+        {
+            "speaker": "hamlet",
+            "text": "The concernancy, sir why do we wrap the gentleman in our more rawer breath"
+        },
+        {
+            "speaker": "osric",
+            "text": "Sir"
+        },
+        {
+            "speaker": "horatio",
+            "text": "Ist not possible to understand in another tongue You will dot, sir, really."
+        },
+        {
+            "speaker": "hamlet",
+            "text": "What imports the nomination of this gentleman"
+        },
+        {
+            "speaker": "osric",
+            "text": "Of Laertes"
+        },
+        {
+            "speaker": "horatio",
+            "text": "His purse is empty already alls golden words are spent."
+        },
+        {
+            "speaker": "hamlet",
+            "text": "Of him, sir."
+        },
+        {
+            "speaker": "osric",
+            "text": "I know you are not ignorant"
+        },
+        {
+            "speaker": "hamlet",
+            "text": "I would you did, sir yet, in faith, if you did, it would not much approve me. Well, sir"
+        },
+        {
+            "speaker": "osric",
+            "text": "You are not ignorant of what excellence Laertes is"
+        },
+        {
+            "speaker": "hamlet",
+            "text": "I dare not confess that, lest I should compare with him in excellence but, to know a man well, were to know himself."
+        },
+        {
+            "speaker": "osric",
+            "text": "I mean, sir, for his weapon but in the imputation laid on him by them, in his meed hes unfellowed."
+        },
+        {
+            "speaker": "hamlet",
+            "text": "Whats his weapon"
+        },
+        {
+            "speaker": "osric",
+            "text": "Rapier and dagger."
+        },
+        {
+            "speaker": "hamlet",
+            "text": "Thats two of his weapons: but, well."
+        },
+        {
+            "speaker": "osric",
+            "text": "The king, sir, hath wagered with him six Barbary horses: against the which he has imponed, as I take it, six French rapiers and poniards, with their assigns, as girdle, hangers, and so: three of the carriages, in faith, are very dear to fancy, very responsive to the hilts, most delicate carriages, and of very liberal conceit."
+        },
+        {
+            "speaker": "hamlet",
+            "text": "What call you the carriages"
+        },
+        {
+            "speaker": "horatio",
+            "text": "I knew you must be edified by the margent ere you had done."
+        },
+        {
+            "speaker": "osric",
+            "text": "The carriages, sir, are the hangers."
+        },
+        {
+            "speaker": "hamlet",
+            "text": "The phrase would be more german to the matter, if we could carry cannon by our sides: I would it might be hangers till then. But, on: six Barbary horses against six French swords, their assigns, and three liberalconceited carriages thats the French bet against the Danish. Why is this imponed, as you call it"
+        },
+        {
+            "speaker": "osric",
+            "text": "The king, sir, hath laid, that in a dozen passes between yourself and him, he shall not exceed you three hits: he hath laid on twelve for nine and it would come to immediate trial, if your lordship would vouchsafe the answer."
+        },
+        {
+            "speaker": "hamlet",
+            "text": "How if I answer no"
+        },
+        {
+            "speaker": "osric",
+            "text": "I mean, my lord, the opposition of your person in trial."
+        },
+        {
+            "speaker": "hamlet",
+            "text": "Sir, I will walk here in the hall: if it please his majesty, tis the breathing time of day with me let the foils be brought, the gentleman willing, and the king hold his purpose, I will win for him an I can if not, I will gain nothing but my shame and the odd hits."
+        },
+        {
+            "speaker": "osric",
+            "text": "Shall I redeliver you een so"
+        },
+        {
+            "speaker": "hamlet",
+            "text": "To this effect, sir after what flourish your nature will."
+        },
+        {
+            "speaker": "osric",
+            "text": "I commend my duty to your lordship."
+        },
+        {
+            "speaker": "hamlet",
+            "text": "Yours, yours. He does well to commend it himself there are no tongues else fors turn."
+        },
+        {
+            "text": "Exit OSRIC"
+        },
+        {
+            "speaker": "horatio",
+            "text": "This lapwing runs away with the shell on his head."
+        },
+        {
+            "speaker": "hamlet",
+            "text": "He did comply with his dug, before he sucked it. Thus has heand many more of the same bevy that I know the dressy age dotes ononly got the tune of the time and outward habit of encounter a kind of yesty collection, which carries them through and through the most fond and winnowed opinions and do but blow them to their trial, the bubbles are out."
+        },
+        {
+            "text": "Enter a Lord"
+        },
+        {
+            "speaker": "lord",
+            "text": "My lord, his majesty commended him to you by young Osric, who brings back to him that you attend him in the hall: he sends to know if your pleasure hold to play with Laertes, or that you will take longer time."
+        },
+        {
+            "speaker": "hamlet",
+            "text": "I am constant to my purpose they follow the kings pleasure: if his fitness speaks, mine is ready now or whensoever, provided I be so able as now."
+        },
+        {
+            "speaker": "lord",
+            "text": "The king and queen and all are coming down."
+        },
+        {
+            "speaker": "hamlet",
+            "text": "In happy time."
+        },
+        {
+            "speaker": "lord",
+            "text": "The queen desires you to use some gentle entertainment to Laertes before you fall to play."
+        },
+        {
+            "speaker": "hamlet",
+            "text": "She well instructs me."
+        },
+        {
+            "text": "Exit Lord"
+        },
+        {
+            "speaker": "horatio",
+            "text": "You will lose this wager, my lord."
+        },
+        {
+            "speaker": "hamlet",
+            "text": "I do not think so: since he went into France, I have been in continual practise: I shall win at the odds. But thou wouldst not think how ill alls here about my heart: but it is no matter."
+        },
+        {
+            "speaker": "horatio",
+            "text": "Nay, good my lord,"
+        },
+        {
+            "speaker": "hamlet",
+            "text": "It is but foolery but it is such a kind of gaingiving, as would perhaps trouble a woman."
+        },
+        {
+            "speaker": "horatio",
+            "text": "If your mind dislike any thing, obey it: I will forestall their repair hither, and say you are not fit."
+        },
+        {
+            "speaker": "hamlet",
+            "text": "Not a whit, we defy augury: theres a special providence in the fall of a sparrow. If it be now, tis not to come if it be not to come, it will be now if it be not now, yet it will come: the readiness is all: since no man has aught of what he leaves, what ist to leave betimes Enter KING CLAUDIUS, QUEEN GERTRUDE, LAERTES, Lords, OSRIC, and Attendants with foils,  and c"
+        },
+        {
+            "speaker": "king claudius",
+            "text": "Come, Hamlet, come, and take this hand from me."
+        },
+        {
+            "text": "KING CLAUDIUS puts LAERTES hand into HAMLETs"
+        },
+        {
+            "speaker": "hamlet",
+            "text": "Give me your pardon, sir: Ive done you wrong But pardont, as you are a gentleman. This presence knows, And you must needs have heard, how I am punishd With sore distraction. What I have done, That might your nature, honour and exception Roughly awake, I here proclaim was madness. Wast Hamlet wrongd Laertes Never Hamlet: If Hamlet from himself be taen away, And when hes not himself does wrong Laertes, Then Hamlet does it not, Hamlet denies it. Who does it, then His madness: ift be so, Hamlet is of the faction that is wrongd His madness is poor Hamlets enemy. Sir, in this audience, Let my disclaiming from a purposed evil Free me so far in your most generous thoughts, That I have shot mine arrow oer the house, And hurt my brother."
+        },
+        {
+            "speaker": "laertes",
+            "text": "I am satisfied in nature, Whose motive, in this case, should stir me most To my revenge: but in my terms of honour I stand aloof and will no reconcilement, Till by some elder masters, of known honour, I have a voice and precedent of peace, To keep my name ungored. But till that time, I do receive your offerd love like love, And will not wrong it."
+        },
+        {
+            "speaker": "hamlet",
+            "text": "I embrace it freely And will this brothers wager frankly play. Give us the foils. Come on."
+        },
+        {
+            "speaker": "laertes",
+            "text": "Come, one for me."
+        },
+        {
+            "speaker": "hamlet",
+            "text": "Ill be your foil, Laertes: in mine ignorance Your skill shall, like a star i the darkest night, Stick fiery off indeed."
+        },
+        {
+            "speaker": "laertes",
+            "text": "You mock me, sir."
+        },
+        {
+            "speaker": "hamlet",
+            "text": "No, by this hand."
+        },
+        {
+            "speaker": "king claudius",
+            "text": "Give them the foils, young Osric. Cousin Hamlet, You know the wager"
+        },
+        {
+            "speaker": "hamlet",
+            "text": "Very well, my lord Your grace hath laid the odds o the weaker side."
+        },
+        {
+            "speaker": "king claudius",
+            "text": "I do not fear it I have seen you both: But since he is betterd, we have therefore odds."
+        },
+        {
+            "speaker": "laertes",
+            "text": "This is too heavy, let me see another."
+        },
+        {
+            "speaker": "hamlet",
+            "text": "This likes me well. These foils have all a length"
+        },
+        {
+            "text": "They prepare to play"
+        },
+        {
+            "speaker": "osric",
+            "text": "Ay, my good lord."
+        },
+        {
+            "speaker": "king claudius",
+            "text": "Set me the stoops of wine upon that table. If Hamlet give the first or second hit, Or quit in answer of the third exchange, Let all the battlements their ordnance fire: The king shall drink to Hamlets better breath And in the cup an union shall he throw, Richer than that which four successive kings In Denmarks crown have worn. Give me the cups And let the kettle to the trumpet speak, The trumpet to the cannoneer without, The cannons to the heavens, the heavens to earth, Now the king dunks to Hamlet. Come, begin: And you, the judges, bear a wary eye."
+        },
+        {
+            "speaker": "hamlet",
+            "text": "Come on, sir."
+        },
+        {
+            "speaker": "laertes",
+            "text": "Come, my lord."
+        },
+        {
+            "text": "They play"
+        },
+        {
+            "speaker": "hamlet",
+            "text": "One."
+        },
+        {
+            "speaker": "laertes",
+            "text": "No."
+        },
+        {
+            "speaker": "hamlet",
+            "text": "Judgment."
+        },
+        {
+            "speaker": "osric",
+            "text": "A hit, a very palpable hit."
+        },
+        {
+            "speaker": "laertes",
+            "text": "Well again."
+        },
+        {
+            "speaker": "king claudius",
+            "text": "Stay give me drink. Hamlet, this pearl is thine Heres to thy health. Give him the cup."
+        },
+        {
+            "text": "Trumpets sound, and cannon shot off within"
+        },
+        {
+            "speaker": "hamlet",
+            "text": "Ill play this bout first set it by awhile. Come. Another hit what say you"
+        },
+        {
+            "text": "They play"
+        },
+        {
+            "speaker": "laertes",
+            "text": "A touch, a touch, I do confess."
+        },
+        {
+            "speaker": "king claudius",
+            "text": "Our son shall win."
+        },
+        {
+            "speaker": "queen gertrude",
+            "text": "Hes fat, and scant of breath. Here, Hamlet, take my napkin, rub thy brows The queen carouses to thy fortune, Hamlet."
+        },
+        {
+            "speaker": "hamlet",
+            "text": "Good madam!"
+        },
+        {
+            "speaker": "king claudius",
+            "text": "Gertrude, do not drink."
+        },
+        {
+            "speaker": "queen gertrude",
+            "text": "I will, my lord I pray you, pardon me."
+        },
+        {
+            "speaker": "king claudius",
+            "text": "[Aside]  It is the poisond cup: it is too late."
+        },
+        {
+            "speaker": "hamlet",
+            "text": "I dare not drink yet, madam by and by."
+        },
+        {
+            "speaker": "queen gertrude",
+            "text": "Come, let me wipe thy face."
+        },
+        {
+            "speaker": "laertes",
+            "text": "My lord, Ill hit him now."
+        },
+        {
+            "speaker": "king claudius",
+            "text": "I do not thinkt."
+        },
+        {
+            "speaker": "laertes",
+            "text": "[Aside]  And yet tis almost gainst my conscience."
+        },
+        {
+            "speaker": "hamlet",
+            "text": "Come, for the third, Laertes: you but dally I pray you, pass with your best violence I am afeard you make a wanton of me."
+        },
+        {
+            "speaker": "laertes",
+            "text": "Say you so come on."
+        },
+        {
+            "text": "They play"
+        },
+        {
+            "speaker": "osric",
+            "text": "Nothing, neither way."
+        },
+        {
+            "speaker": "laertes",
+            "text": "Have at you now! LAERTES wounds HAMLET then in scuffling, they change rapiers, and HAMLET wounds LAERTES"
+        },
+        {
+            "speaker": "king claudius",
+            "text": "Part them they are incensed."
+        },
+        {
+            "speaker": "hamlet",
+            "text": "Nay, come, again."
+        },
+        {
+            "text": "QUEEN GERTRUDE falls"
+        },
+        {
+            "speaker": "osric",
+            "text": "Look to the queen there, ho!"
+        },
+        {
+            "speaker": "horatio",
+            "text": "They bleed on both sides. How is it, my lord"
+        },
+        {
+            "speaker": "osric",
+            "text": "How ist, Laertes"
+        },
+        {
+            "speaker": "laertes",
+            "text": "Why, as a woodcock to mine own springe, Osric I am justly killd with mine own treachery."
+        },
+        {
+            "speaker": "hamlet",
+            "text": "How does the queen"
+        },
+        {
+            "speaker": "king claudius",
+            "text": "She swounds to see them bleed."
+        },
+        {
+            "speaker": "queen gertrude",
+            "text": "No, no, the drink, the drink,O my dear Hamlet, The drink, the drink! I am poisond."
+        },
+        {
+            "text": "Dies"
+        },
+        {
+            "speaker": "hamlet",
+            "text": "O villany! Ho! let the door be lockd: Treachery! Seek it out."
+        },
+        {
+            "speaker": "laertes",
+            "text": "It is here, Hamlet: Hamlet, thou art slain No medicine in the world can do thee good In thee there is not half an hour of life The treacherous instrument is in thy hand, Unbated and envenomd: the foul practise Hath turnd itself on me lo, here I lie, Never to rise again: thy mothers poisond: I can no more: the king, the kings to blame."
+        },
+        {
+            "speaker": "hamlet",
+            "text": "The point!envenomd too! Then, venom, to thy work."
+        },
+        {
+            "text": "Stabs KING CLAUDIUS"
+        },
+        {
+            "speaker": "all",
+            "text": "Treason! treason!"
+        },
+        {
+            "speaker": "king claudius",
+            "text": "O, yet defend me, friends I am but hurt."
+        },
+        {
+            "speaker": "hamlet",
+            "text": "Here, thou incestuous, murderous, damned Dane, Drink off this potion. Is thy union here Follow my mother."
+        },
+        {
+            "text": "KING CLAUDIUS dies"
+        },
+        {
+            "speaker": "laertes",
+            "text": "He is justly served It is a poison temperd by himself. Exchange forgiveness with me, noble Hamlet: Mine and my fathers death come not upon thee, Nor thine on me."
+        },
+        {
+            "text": "Dies"
+        },
+        {
+            "speaker": "hamlet",
+            "text": "Heaven make thee free of it! I follow thee. I am dead, Horatio. Wretched queen, adieu! You that look pale and tremble at this chance, That are but mutes or audience to this act, Had I but timeas this fell sergeant, death, Is strict in his arrestO, I could tell you But let it be. Horatio, I am dead Thou livest report me and my cause aright To the unsatisfied."
+        },
+        {
+            "speaker": "horatio",
+            "text": "Never believe it: I am more an antique Roman than a Dane: Heres yet some liquor left."
+        },
+        {
+            "speaker": "hamlet",
+            "text": "As thourt a man, Give me the cup: let go by heaven, Ill havet. O good Horatio, what a wounded name, Things standing thus unknown, shall live behind me! If thou didst ever hold me in thy heart Absent thee from felicity awhile, And in this harsh world draw thy breath in pain, To tell my story. What warlike noise is this"
+        },
+        {
+            "text": "March afar off, and shot within"
+        },
+        {
+            "speaker": "osric",
+            "text": "Young Fortinbras, with conquest come from Poland, To the ambassadors of England gives This warlike volley."
+        },
+        {
+            "speaker": "hamlet",
+            "text": "O, I die, Horatio The potent poison quite oercrows my spirit: I cannot live to hear the news from England But I do prophesy the election lights On Fortinbras: he has my dying voice So tell him, with the occurrents, more and less, Which have solicited. The rest is silence."
+        },
+        {
+            "text": "Dies"
+        },
+        {
+            "speaker": "horatio",
+            "text": "Now cracks a noble heart. Good night sweet prince: And flights of angels sing thee to thy rest! Why does the drum come hither"
+        },
+        {
+            "text": "March within"
+        },
+        {
+            "text": "Enter FORTINBRAS, the English Ambassadors, and others"
+        },
+        {
+            "speaker": "prince fortinbras",
+            "text": "Where is this sight"
+        },
+        {
+            "speaker": "horatio",
+            "text": "What is it ye would see If aught of woe or wonder, cease your search."
+        },
+        {
+            "speaker": "prince fortinbras",
+            "text": "This quarry cries on havoc. O proud death, What feast is toward in thine eternal cell, That thou so many princes at a shot So bloodily hast struck"
+        },
+        {
+            "speaker": "first ambassador",
+            "text": "The sight is dismal And our affairs from England come too late: The ears are senseless that should give us hearing, To tell him his commandment is fulfilld, That Rosencrantz and Guildenstern are dead: Where should we have our thanks"
+        },
+        {
+            "speaker": "horatio",
+            "text": "Not from his mouth, Had it the ability of life to thank you: He never gave commandment for their death. But since, so jump upon this bloody question, You from the Polack wars, and you from England, Are here arrived give order that these bodies High on a stage be placed to the view And let me speak to the yet unknowing world How these things came about: so shall you hear Of carnal, bloody, and unnatural acts, Of accidental judgments, casual slaughters, Of deaths put on by cunning and forced cause, And, in this upshot, purposes mistook Falln on the inventors reads: all this can I Truly deliver."
+        },
+        {
+            "speaker": "prince fortinbras",
+            "text": "Let us haste to hear it, And call the noblest to the audience. For me, with sorrow I embrace my fortune: I have some rights of memory in this kingdom, Which now to claim my vantage doth invite me."
+        },
+        {
+            "speaker": "horatio",
+            "text": "Of that I shall have also cause to speak, And from his mouth whose voice will draw on more But let this same be presently performd, Even while mens minds are wild lest more mischance On plots and errors, happen."
+        },
+        {
+            "speaker": "prince fortinbras",
+            "text": "Let four captains Bear Hamlet, like a soldier, to the stage For he was likely, had he been put on, To have proved most royally: and, for his passage, The soldiers music and the rites of war Speak loudly for him. Take up the bodies: such a sight as this Becomes the field, but here shows much amiss. Go, bid the soldiers shoot. A dead march. Exeunt, bearing off the dead bodies after which a peal of ordnance is shot off PROLOGUE"
+        },
+        {
+            "text": "Enter Chorus"
+        },
+        {
+            "speaker": "chorus",
+            "text": "O for a Muse of fire, that would ascend The brightest heaven of invention, A kingdom for a stage, princes to act And monarchs to behold the swelling scene! Then should the warlike Harry, like himself, Assume the port of Mars and at his heels, Leashd in like hounds, should famine, sword and fire Crouch for employment. But pardon, and gentles all, The flat unraised spirits that have dared On this unworthy scaffold to bring forth So great an object: can this cockpit hold The vasty fields of France or may we cram Within this wooden O the very casques That did affright the air at Agincourt O, pardon! since a crooked figure may Attest in little place a million And let us, ciphers to this great accompt, On your imaginary forces work. Suppose within the girdle of these walls Are now confined two mighty monarchies, Whose high upreared and abutting fronts The perilous narrow ocean parts asunder: Piece out our imperfections with your thoughts Into a thousand parts divide on man, And make imaginary puissance Think when we talk of horses, that you see them Printing their proud hoofs i the receiving earth For tis your thoughts that now must deck our kings, Carry them here and there jumping oer times, Turning the accomplishment of many years Into an hourglass: for the which supply, Admit me Chorus to this history Who prologuelike your humble patience pray, Gently to hear, kindly to judge, our play."
+        },
+        {
+            "text": "Exit"
+        }
+    ]
+}

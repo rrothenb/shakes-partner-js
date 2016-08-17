@@ -1,0 +1,68 @@
+{
+    "sceneName": "Act 2, scene 1",
+    "playName": "antony and cleopatra",
+    "location": "Messina. POMPEYs house.",
+    "lines": [
+        {
+            "text": "Enter POMPEY, MENECRATES, and MENAS, in warlike manner"
+        },
+        {
+            "speaker": "pompey",
+            "text": "If the great gods be just, they shall assist The deeds of justest men."
+        },
+        {
+            "speaker": "menecrates",
+            "text": "Know, worthy Pompey, That what they do delay, they not deny."
+        },
+        {
+            "speaker": "pompey",
+            "text": "Whiles we are suitors to their throne, decays The thing we sue for."
+        },
+        {
+            "speaker": "menecrates",
+            "text": "We, ignorant of ourselves, Beg often our own harms, which the wise powers Deny us for our good so find we profit By losing of our prayers."
+        },
+        {
+            "speaker": "pompey",
+            "text": "I shall do well: The people love me, and the sea is mine My powers are crescent, and my auguring hope Says it will come to the full. Mark Antony In Egypt sits at dinner, and will make No wars without doors: Caesar gets money where He loses hearts: Lepidus flatters both, Of both is flatterd but he neither loves, Nor either cares for him."
+        },
+        {
+            "speaker": "menas",
+            "text": "Caesar and Lepidus Are in the field: a mighty strength they carry."
+        },
+        {
+            "speaker": "pompey",
+            "text": "Where have you this tis false."
+        },
+        {
+            "speaker": "menas",
+            "text": "From Silvius, sir."
+        },
+        {
+            "speaker": "pompey",
+            "text": "He dreams: I know they are in Rome together, Looking for Antony. But all the charms of love, Salt Cleopatra, soften thy waned lip! Let witchcraft join with beauty, lust with both! Tie up the libertine in a field of feasts, Keep his brain fuming Epicurean cooks Sharpen with cloyless sauce his appetite That sleep and feeding may prorogue his honour Even till a Lethed dulness! How now, Varrius!"
+        },
+        {
+            "text": "Enter VARRIUS"
+        },
+        {
+            "speaker": "varrius",
+            "text": "This is most certain that I shall deliver: Mark Antony is every hour in Rome Expected: since he went from Egypt tis A space for further travel."
+        },
+        {
+            "speaker": "pompey",
+            "text": "I could have given less matter A better ear. Menas, I did not think This amorous surfeiter would have donnd his helm For such a petty war: his soldiership Is twice the other twain: but let us rear The higher our opinion, that our stirring Can from the lap of Egypts widow pluck The neerlustwearied Antony."
+        },
+        {
+            "speaker": "menas",
+            "text": "I cannot hope Caesar and Antony shall well greet together: His wife thats dead did trespasses to Caesar His brother warrd upon him although, I think, Not moved by Antony."
+        },
+        {
+            "speaker": "pompey",
+            "text": "I know not, Menas, How lesser enmities may give way to greater. Weret not that we stand up against them all, Twere pregnant they should square between themselves For they have entertained cause enough To draw their swords: but how the fear of us May cement their divisions and bind up The petty difference, we yet not know. Bet as our gods will havet! It only stands Our lives upon to use our strongest hands. Come, Menas."
+        },
+        {
+            "text": "Exeunt"
+        }
+    ]
+}

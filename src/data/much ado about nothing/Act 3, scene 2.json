@@ -1,0 +1,259 @@
+{
+    "sceneName": "Act 3, scene 2",
+    "playName": "much ado about nothing",
+    "location": "A room in LEONATOS house",
+    "lines": [
+        {
+            "text": "Enter DON PEDRO, CLAUDIO, BENEDICK, and LEONATO"
+        },
+        {
+            "speaker": "don pedro",
+            "text": "I do but stay till your marriage be consummate, and then go I toward Arragon."
+        },
+        {
+            "speaker": "claudio",
+            "text": "Ill bring you thither, my lord, if youll vouchsafe me."
+        },
+        {
+            "speaker": "don pedro",
+            "text": "Nay, that would be as great a soil in the new gloss of your marriage as to show a child his new coat and forbid him to wear it. I will only be bold with Benedick for his company for, from the crown of his head to the sole of his foot, he is all mirth: he hath twice or thrice cut Cupids bowstring and the little hangman dare not shoot at him he hath a heart as sound as a bell and his tongue is the clapper, for what his heart thinks his tongue speaks."
+        },
+        {
+            "speaker": "benedick",
+            "text": "Gallants, I am not as I have been."
+        },
+        {
+            "speaker": "leonato",
+            "text": "So say Imethinks you are sadder."
+        },
+        {
+            "speaker": "claudio",
+            "text": "I hope he be in love."
+        },
+        {
+            "speaker": "don pedro",
+            "text": "Hang him, truant! theres no true drop of blood in him, to be truly touched with love: if he be sad, he wants money."
+        },
+        {
+            "speaker": "benedick",
+            "text": "I have the toothache."
+        },
+        {
+            "speaker": "don pedro",
+            "text": "Draw it."
+        },
+        {
+            "speaker": "benedick",
+            "text": "Hang it!"
+        },
+        {
+            "speaker": "claudio",
+            "text": "You must hang it first, and draw it afterwards."
+        },
+        {
+            "speaker": "don pedro",
+            "text": "What! sigh for the toothache"
+        },
+        {
+            "speaker": "leonato",
+            "text": "Where is but a humour or a worm."
+        },
+        {
+            "speaker": "benedick",
+            "text": "Well, every one can master a grief but he that has it."
+        },
+        {
+            "speaker": "claudio",
+            "text": "Yet say I, he is in love."
+        },
+        {
+            "speaker": "don pedro",
+            "text": "There is no appearance of fancy in him, unless it be a fancy that he hath to strange disguises as, to be a Dutchman today, a Frenchman tomorrow, or in the shape of two countries at once, as, a German from the waist downward, all slops, and a Spaniard from the hip upward, no doublet. Unless he have a fancy to this foolery, as it appears he hath, he is no fool for fancy, as you would have it appear he is."
+        },
+        {
+            "speaker": "claudio",
+            "text": "If he be not in love with some woman, there is no believing old signs: a brushes his hat o mornings what should that bode"
+        },
+        {
+            "speaker": "don pedro",
+            "text": "Hath any man seen him at the barbers"
+        },
+        {
+            "speaker": "claudio",
+            "text": "No, but the barbers man hath been seen with him, and the old ornament of his cheek hath already stuffed tennisballs."
+        },
+        {
+            "speaker": "leonato",
+            "text": "Indeed, he looks younger than he did, by the loss of a beard."
+        },
+        {
+            "speaker": "don pedro",
+            "text": "Nay, a rubs himself with civet: can you smell him out by that"
+        },
+        {
+            "speaker": "claudio",
+            "text": "Thats as much as to say, the sweet youths in love."
+        },
+        {
+            "speaker": "don pedro",
+            "text": "The greatest note of it is his melancholy."
+        },
+        {
+            "speaker": "claudio",
+            "text": "And when was he wont to wash his face"
+        },
+        {
+            "speaker": "don pedro",
+            "text": "Yea, or to paint himself for the which, I hear what they say of him."
+        },
+        {
+            "speaker": "claudio",
+            "text": "Nay, but his jesting spirit which is now crept into a lutestring and now governed by stops."
+        },
+        {
+            "speaker": "don pedro",
+            "text": "Indeed, that tells a heavy tale for him: conclude, conclude he is in love."
+        },
+        {
+            "speaker": "claudio",
+            "text": "Nay, but I know who loves him."
+        },
+        {
+            "speaker": "don pedro",
+            "text": "That would I know too: I warrant, one that knows him not."
+        },
+        {
+            "speaker": "claudio",
+            "text": "Yes, and his ill conditions and, in despite of all, dies for him."
+        },
+        {
+            "speaker": "don pedro",
+            "text": "She shall be buried with her face upwards."
+        },
+        {
+            "speaker": "benedick",
+            "text": "Yet is this no charm for the toothache. Old signior, walk aside with me: I have studied eight or nine wise words to speak to you, which these hobbyhorses must not hear."
+        },
+        {
+            "text": "Exeunt BENEDICK and LEONATO"
+        },
+        {
+            "speaker": "don pedro",
+            "text": "For my life, to break with him about Beatrice."
+        },
+        {
+            "speaker": "claudio",
+            "text": "Tis even so. Hero and Margaret have by this played their parts with Beatrice and then the two bears will not bite one another when they meet."
+        },
+        {
+            "text": "Enter DON JOHN"
+        },
+        {
+            "speaker": "don john",
+            "text": "My lord and brother, God save you!"
+        },
+        {
+            "speaker": "don pedro",
+            "text": "Good den, brother."
+        },
+        {
+            "speaker": "don john",
+            "text": "If your leisure served, I would speak with you."
+        },
+        {
+            "speaker": "don pedro",
+            "text": "In private"
+        },
+        {
+            "speaker": "don john",
+            "text": "If it please you: yet Count Claudio may hear for what I would speak of concerns him."
+        },
+        {
+            "speaker": "don pedro",
+            "text": "Whats the matter"
+        },
+        {
+            "speaker": "don john",
+            "text": "[To CLAUDIO]  Means your lordship to be married tomorrow"
+        },
+        {
+            "speaker": "don pedro",
+            "text": "You know he does."
+        },
+        {
+            "speaker": "don john",
+            "text": "I know not that, when he knows what I know."
+        },
+        {
+            "speaker": "claudio",
+            "text": "If there be any impediment, I pray you discover it."
+        },
+        {
+            "speaker": "don john",
+            "text": "You may think I love you not: let that appear hereafter, and aim better at me by that I now will manifest. For my brother, I think he holds you well, and in dearness of heart hath holp to effect your ensuing marriagesurely suit ill spent and labour ill bestowed."
+        },
+        {
+            "speaker": "don pedro",
+            "text": "Why, whats the matter"
+        },
+        {
+            "speaker": "don john",
+            "text": "I came hither to tell you and, circumstances shortened, for she has been too long a talking of, the lady is disloyal."
+        },
+        {
+            "speaker": "claudio",
+            "text": "Who, Hero"
+        },
+        {
+            "speaker": "don pedro",
+            "text": "Even she Leonatos Hero, your Hero, every mans Hero:"
+        },
+        {
+            "speaker": "claudio",
+            "text": "Disloyal"
+        },
+        {
+            "speaker": "don john",
+            "text": "The word is too good to paint out her wickedness I could say she were worse: think you of a worse title, and I will fit her to it. Wonder not till further warrant: go but with me tonight, you shall see her chamberwindow entered, even the night before her weddingday: if you love her then, tomorrow wed her but it would better fit your honour to change your mind."
+        },
+        {
+            "speaker": "claudio",
+            "text": "May this be so"
+        },
+        {
+            "speaker": "don pedro",
+            "text": "I will not think it."
+        },
+        {
+            "speaker": "don john",
+            "text": "If you dare not trust that you see, confess not that you know: if you will follow me, I will show you enough and when you have seen more and heard more, proceed accordingly."
+        },
+        {
+            "speaker": "claudio",
+            "text": "If I see any thing tonight why I should not marry her tomorrow in the congregation, where I should wed, there will I shame her."
+        },
+        {
+            "speaker": "don pedro",
+            "text": "And, as I wooed for thee to obtain her, I will join with thee to disgrace her."
+        },
+        {
+            "speaker": "don john",
+            "text": "I will disparage her no farther till you are my witnesses: bear it coldly but till midnight, and let the issue show itself."
+        },
+        {
+            "speaker": "don pedro",
+            "text": "O day untowardly turned!"
+        },
+        {
+            "speaker": "claudio",
+            "text": "O mischief strangely thwarting!"
+        },
+        {
+            "speaker": "don john",
+            "text": "O plague right well prevented! so will you say when you have seen the sequel."
+        },
+        {
+            "text": "Exeunt"
+        }
+    ]
+}

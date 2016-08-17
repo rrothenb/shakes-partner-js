@@ -1,0 +1,484 @@
+{
+    "sceneName": "Act 2, scene 1",
+    "playName": "loves labours lost",
+    "location": "The same.",
+    "lines": [
+        {
+            "text": "Enter the PRINCESS of France, ROSALINE, MARIA, KATHARINE, BOYET, Lords, and other Attendants"
+        },
+        {
+            "speaker": "boyet",
+            "text": "Now, madam, summon up your dearest spirits: Consider who the king your father sends, To whom he sends, and whats his embassy: Yourself, held precious in the worlds esteem, To parley with the sole inheritor Of all perfections that a man may owe, Matchless Navarre the plea of no less weight Than Aquitaine, a dowry for a queen. Be now as prodigal of all dear grace As Nature was in making graces dear When she did starve the general world beside And prodigally gave them all to you."
+        },
+        {
+            "speaker": "princess",
+            "text": "Good Lord Boyet, my beauty, though but mean, Needs not the painted flourish of your praise: Beauty is bought by judgement of the eye, Not utterd by base sale of chapmens tongues: I am less proud to hear you tell my worth Than you much willing to be counted wise In spending your wit in the praise of mine. But now to task the tasker: good Boyet, You are not ignorant, alltelling fame Doth noise abroad, Navarre hath made a vow, Till painful study shall outwear three years, No woman may approach his silent court: Therefore tos seemeth it a needful course, Before we enter his forbidden gates, To know his pleasure and in that behalf, Bold of your worthiness, we single you As our bestmoving fair solicitor. Tell him, the daughter of the King of France, On serious business, craving quick dispatch, Importunes personal conference with his grace: Haste, signify so much while we attend, Like humblevisaged suitors, his high will."
+        },
+        {
+            "speaker": "boyet",
+            "text": "Proud of employment, willingly I go."
+        },
+        {
+            "speaker": "princess",
+            "text": "All pride is willing pride, and yours is so. Who are the votaries, my loving lords, That are vowfellows with this virtuous duke"
+        },
+        {
+            "text": "Exit BOYET"
+        },
+        {
+            "speaker": "first lord",
+            "text": "Lord Longaville is one."
+        },
+        {
+            "speaker": "princess",
+            "text": "Know you the man"
+        },
+        {
+            "speaker": "maria",
+            "text": "I know him, madam: at a marriagefeast, Between Lord Perigort and the beauteous heir Of Jaques Falconbridge, solemnized In Normandy, saw I this Longaville: A man of sovereign parts he is esteemd Well fitted in arts, glorious in arms: Nothing becomes him ill that he would well. The only soil of his fair virtues gloss, If virtues gloss will stain with any soil, Is a sharp wit matched with too blunt a will Whose edge hath power to cut, whose will still wills It should none spare that come within his power."
+        },
+        {
+            "speaker": "princess",
+            "text": "Some merry mocking lord, belike ist so"
+        },
+        {
+            "speaker": "maria",
+            "text": "They say so most that most his humours know."
+        },
+        {
+            "speaker": "princess",
+            "text": "Such shortlived wits do wither as they grow. Who are the rest"
+        },
+        {
+            "speaker": "katharine",
+            "text": "The young Dumain, a wellaccomplished youth, Of all that virtue love for virtue loved: Most power to do most harm, least knowing ill For he hath wit to make an ill shape good, And shape to win grace though he had no wit. I saw him at the Duke Alencons once And much too little of that good I saw Is my report to his great worthiness."
+        },
+        {
+            "speaker": "rosaline",
+            "text": "Another of these students at that time Was there with him, if I have heard a truth. Biron they call him but a merrier man, Within the limit of becoming mirth, I never spent an hours talk withal: His eye begets occasion for his wit For every object that the one doth catch The other turns to a mirthmoving jest, Which his fair tongue, conceits expositor, Delivers in such apt and gracious words That aged ears play truant at his tales And younger hearings are quite ravished So sweet and voluble is his discourse."
+        },
+        {
+            "speaker": "princess",
+            "text": "God bless my ladies! are they all in love, That every one her own hath garnished With such bedecking ornaments of praise"
+        },
+        {
+            "speaker": "first lord",
+            "text": "Here comes Boyet."
+        },
+        {
+            "text": "Reenter BOYET"
+        },
+        {
+            "speaker": "princess",
+            "text": "Now, what admittance, lord"
+        },
+        {
+            "speaker": "boyet",
+            "text": "Navarre had notice of your fair approach And he and his competitors in oath Were all addressd to meet you, gentle lady, Before I came. Marry, thus much I have learnt: He rather means to lodge you in the field, Like one that comes here to besiege his court, Than seek a dispensation for his oath, To let you enter his unpeopled house. Here comes Navarre."
+        },
+        {
+            "text": "Enter FERDINAND, LONGAVILLE, DUMAIN, BIRON, and Attendants"
+        },
+        {
+            "speaker": "ferdinand",
+            "text": "Fair princess, welcome to the court of Navarre."
+        },
+        {
+            "speaker": "princess",
+            "text": "Fair I give you back again and welcome I have not yet: the roof of this court is too high to be yours and welcome to the wide fields too base to be mine."
+        },
+        {
+            "speaker": "ferdinand",
+            "text": "You shall be welcome, madam, to my court."
+        },
+        {
+            "speaker": "princess",
+            "text": "I will be welcome, then: conduct me thither."
+        },
+        {
+            "speaker": "ferdinand",
+            "text": "Hear me, dear lady I have sworn an oath."
+        },
+        {
+            "speaker": "princess",
+            "text": "Our Lady help my lord! hell be forsworn."
+        },
+        {
+            "speaker": "ferdinand",
+            "text": "Not for the world, fair madam, by my will."
+        },
+        {
+            "speaker": "princess",
+            "text": "Why, will shall break it will and nothing else."
+        },
+        {
+            "speaker": "ferdinand",
+            "text": "Your ladyship is ignorant what it is."
+        },
+        {
+            "speaker": "princess",
+            "text": "Were my lord so, his ignorance were wise, Where now his knowledge must prove ignorance. I hear your grace hath sworn out housekeeping: Tis deadly sin to keep that oath, my lord, And sin to break it. But pardon me. I am too suddenbold: To teach a teacher ill beseemeth me. Vouchsafe to read the purpose of my coming, And suddenly resolve me in my suit."
+        },
+        {
+            "speaker": "ferdinand",
+            "text": "Madam, I will, if suddenly I may."
+        },
+        {
+            "speaker": "princess",
+            "text": "You will the sooner, that I were away For youll prove perjured if you make me stay."
+        },
+        {
+            "speaker": "biron",
+            "text": "Did not I dance with you in Brabant once"
+        },
+        {
+            "speaker": "rosaline",
+            "text": "Did not I dance with you in Brabant once"
+        },
+        {
+            "speaker": "biron",
+            "text": "I know you did."
+        },
+        {
+            "speaker": "rosaline",
+            "text": "How needless was it then to ask the question!"
+        },
+        {
+            "speaker": "biron",
+            "text": "You must not be so quick."
+        },
+        {
+            "speaker": "rosaline",
+            "text": "Tis long of you that spur me with such questions."
+        },
+        {
+            "speaker": "biron",
+            "text": "Your wits too hot, it speeds too fast, twill tire."
+        },
+        {
+            "speaker": "rosaline",
+            "text": "Not till it leave the rider in the mire."
+        },
+        {
+            "speaker": "biron",
+            "text": "What time o day"
+        },
+        {
+            "speaker": "rosaline",
+            "text": "The hour that fools should ask."
+        },
+        {
+            "speaker": "biron",
+            "text": "Now fair befall your mask!"
+        },
+        {
+            "speaker": "rosaline",
+            "text": "Fair fall the face it covers!"
+        },
+        {
+            "speaker": "biron",
+            "text": "And send you many lovers!"
+        },
+        {
+            "speaker": "rosaline",
+            "text": "Amen, so you be none."
+        },
+        {
+            "speaker": "biron",
+            "text": "Nay, then will I be gone."
+        },
+        {
+            "speaker": "ferdinand",
+            "text": "Madam, your father here doth intimate The payment of a hundred thousand crowns Being but the one half of an entire sum Disbursed by my father in his wars. But say that he or we, as neither have, Received that sum, yet there remains unpaid A hundred thousand more in surety of the which, One part of Aquitaine is bound to us, Although not valued to the moneys worth. If then the king your father will restore But that one half which is unsatisfied, We will give up our right in Aquitaine, And hold fair friendship with his majesty. But that, it seems, he little purposeth, For here he doth demand to have repaid A hundred thousand crowns and not demands, On payment of a hundred thousand crowns, To have his title live in Aquitaine Which we much rather had depart withal And have the money by our father lent Than Aquitaine so gelded as it is. Dear Princess, were not his requests so far From reasons yielding, your fair self should make A yielding gainst some reason in my breast And go well satisfied to France again."
+        },
+        {
+            "speaker": "princess",
+            "text": "You do the king my father too much wrong And wrong the reputation of your name, In so unseeming to confess receipt Of that which hath so faithfully been paid."
+        },
+        {
+            "speaker": "ferdinand",
+            "text": "I do protest I never heard of it And if you prove it, Ill repay it back Or yield up Aquitaine."
+        },
+        {
+            "speaker": "princess",
+            "text": "We arrest your word. Boyet, you can produce acquittances For such a sum from special officers Of Charles his father."
+        },
+        {
+            "speaker": "ferdinand",
+            "text": "Satisfy me so."
+        },
+        {
+            "speaker": "boyet",
+            "text": "So please your grace, the packet is not come Where that and other specialties are bound: Tomorrow you shall have a sight of them."
+        },
+        {
+            "speaker": "ferdinand",
+            "text": "It shall suffice me: at which interview All liberal reason I will yield unto. Meantime receive such welcome at my hand As honour without breach of honour may Make tender of to thy true worthiness: You may not come, fair princess, in my gates But here without you shall be so received As you shall deem yourself lodged in my heart, Though so denied fair harbour in my house. Your own good thoughts excuse me, and farewell: Tomorrow shall we visit you again."
+        },
+        {
+            "speaker": "princess",
+            "text": "Sweet health and fair desires consort your grace!"
+        },
+        {
+            "speaker": "ferdinand",
+            "text": "Thy own wish wish I thee in every place!"
+        },
+        {
+            "text": "Exit"
+        },
+        {
+            "speaker": "biron",
+            "text": "Lady, I will commend you to mine own heart."
+        },
+        {
+            "speaker": "rosaline",
+            "text": "Pray you, do my commendations I would be glad to see it."
+        },
+        {
+            "speaker": "biron",
+            "text": "I would you heard it groan."
+        },
+        {
+            "speaker": "rosaline",
+            "text": "Is the fool sick"
+        },
+        {
+            "speaker": "biron",
+            "text": "Sick at the heart."
+        },
+        {
+            "speaker": "rosaline",
+            "text": "Alack, let it blood."
+        },
+        {
+            "speaker": "biron",
+            "text": "Would that do it good"
+        },
+        {
+            "speaker": "rosaline",
+            "text": "My physic says ay."
+        },
+        {
+            "speaker": "biron",
+            "text": "Will you prickt with your eye"
+        },
+        {
+            "speaker": "rosaline",
+            "text": "No point, with my knife."
+        },
+        {
+            "speaker": "biron",
+            "text": "Now, God save thy life!"
+        },
+        {
+            "speaker": "rosaline",
+            "text": "And yours from long living!"
+        },
+        {
+            "speaker": "biron",
+            "text": "I cannot stay thanksgiving."
+        },
+        {
+            "text": "Retiring"
+        },
+        {
+            "speaker": "dumain",
+            "text": "Sir, I pray you, a word: what lady is that same"
+        },
+        {
+            "speaker": "boyet",
+            "text": "The heir of Alencon, Katharine her name."
+        },
+        {
+            "speaker": "dumain",
+            "text": "A gallant lady. Monsieur, fare you well."
+        },
+        {
+            "text": "Exit"
+        },
+        {
+            "speaker": "longaville",
+            "text": "I beseech you a word: what is she in the white"
+        },
+        {
+            "speaker": "boyet",
+            "text": "A woman sometimes, an you saw her in the light."
+        },
+        {
+            "speaker": "longaville",
+            "text": "Perchance light in the light. I desire her name."
+        },
+        {
+            "speaker": "boyet",
+            "text": "She hath but one for herself to desire that were a shame."
+        },
+        {
+            "speaker": "longaville",
+            "text": "Pray you, sir, whose daughter"
+        },
+        {
+            "speaker": "boyet",
+            "text": "Her mothers, I have heard."
+        },
+        {
+            "speaker": "longaville",
+            "text": "Gods blessing on your beard!"
+        },
+        {
+            "speaker": "boyet",
+            "text": "Good sir, be not offended. She is an heir of Falconbridge."
+        },
+        {
+            "speaker": "longaville",
+            "text": "Nay, my choler is ended. She is a most sweet lady."
+        },
+        {
+            "speaker": "boyet",
+            "text": "Not unlike, sir, that may be."
+        },
+        {
+            "text": "Exit LONGAVILLE"
+        },
+        {
+            "speaker": "biron",
+            "text": "Whats her name in the cap"
+        },
+        {
+            "speaker": "boyet",
+            "text": "Rosaline, by good hap."
+        },
+        {
+            "speaker": "biron",
+            "text": "Is she wedded or no"
+        },
+        {
+            "speaker": "boyet",
+            "text": "To her will, sir, or so."
+        },
+        {
+            "speaker": "biron",
+            "text": "You are welcome, sir: adieu."
+        },
+        {
+            "speaker": "boyet",
+            "text": "Farewell to me, sir, and welcome to you."
+        },
+        {
+            "text": "Exit BIRON"
+        },
+        {
+            "speaker": "maria",
+            "text": "That last is Biron, the merry madcap lord: Not a word with him but a jest."
+        },
+        {
+            "speaker": "boyet",
+            "text": "And every jest but a word."
+        },
+        {
+            "speaker": "princess",
+            "text": "It was well done of you to take him at his word."
+        },
+        {
+            "speaker": "boyet",
+            "text": "I was as willing to grapple as he was to board."
+        },
+        {
+            "speaker": "maria",
+            "text": "Two hot sheeps, marry."
+        },
+        {
+            "speaker": "boyet",
+            "text": "And wherefore not ships No sheep, sweet lamb, unless we feed on your lips."
+        },
+        {
+            "speaker": "maria",
+            "text": "You sheep, and I pasture: shall that finish the jest"
+        },
+        {
+            "speaker": "boyet",
+            "text": "So you grant pasture for me."
+        },
+        {
+            "text": "Offering to kiss her"
+        },
+        {
+            "speaker": "maria",
+            "text": "Not so, gentle beast: My lips are no common, though several they be."
+        },
+        {
+            "speaker": "boyet",
+            "text": "Belonging to whom"
+        },
+        {
+            "speaker": "maria",
+            "text": "To my fortunes and me."
+        },
+        {
+            "speaker": "princess",
+            "text": "Good wits will be jangling but, gentles, agree: This civil war of wits were much better used On Navarre and his bookmen for here tis abused."
+        },
+        {
+            "speaker": "boyet",
+            "text": "If my observation, which very seldom lies, By the hearts still rhetoric disclosed with eyes, Deceive me not now, Navarre is infected."
+        },
+        {
+            "speaker": "princess",
+            "text": "With what"
+        },
+        {
+            "speaker": "boyet",
+            "text": "With that which we lovers entitle affected."
+        },
+        {
+            "speaker": "princess",
+            "text": "Your reason"
+        },
+        {
+            "speaker": "boyet",
+            "text": "Why, all his behaviors did make their retire To the court of his eye, peeping thorough desire: His heart, like an agate, with your print impressd, Proud with his form, in his eye pride expressd: His tongue, all impatient to speak and not see, Did stumble with haste in his eyesight to be All senses to that sense did make their repair, To feel only looking on fairest of fair: Methought all his senses were lockd in his eye, As jewels in crystal for some prince to buy Who, tendering their own worth from where they were glassd, Did point you to buy them, along as you passd: His faces own margent did quote such amazes That all eyes saw his eyes enchanted with gazes. Ill give you Aquitaine and all that is his, An you give him for my sake but one loving kiss."
+        },
+        {
+            "speaker": "princess",
+            "text": "Come to our pavilion: Boyet is disposed."
+        },
+        {
+            "speaker": "boyet",
+            "text": "But to speak that in words which his eye hath disclosed. I only have made a mouth of his eye, By adding a tongue which I know will not lie."
+        },
+        {
+            "speaker": "rosaline",
+            "text": "Thou art an old lovemonger and speakest skilfully."
+        },
+        {
+            "speaker": "maria",
+            "text": "He is Cupids grandfather and learns news of him."
+        },
+        {
+            "speaker": "rosaline",
+            "text": "Then was Venus like her mother, for her father is but grim."
+        },
+        {
+            "speaker": "boyet",
+            "text": "Do you hear, my mad wenches"
+        },
+        {
+            "speaker": "maria",
+            "text": "No."
+        },
+        {
+            "speaker": "boyet",
+            "text": "What then, do you see"
+        },
+        {
+            "speaker": "rosaline",
+            "text": "Ay, our way to be gone."
+        },
+        {
+            "speaker": "boyet",
+            "text": "You are too hard for me. LOVES LABOURS LOST DON"
+        },
+        {
+            "text": "Exeunt"
+        }
+    ]
+}

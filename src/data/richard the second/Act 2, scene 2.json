@@ -1,0 +1,176 @@
+{
+    "sceneName": "Act 2, scene 2",
+    "playName": "richard the second",
+    "location": "The palace.",
+    "lines": [
+        {
+            "text": "Enter QUEEN, BUSHY, and BAGOT"
+        },
+        {
+            "speaker": "bushy",
+            "text": "Madam, your majesty is too much sad: You promised, when you parted with the king, To lay aside lifeharming heaviness And entertain a cheerful disposition."
+        },
+        {
+            "speaker": "queen",
+            "text": "To please the king I did to please myself I cannot do it yet I know no cause Why I should welcome such a guest as grief, Save bidding farewell to so sweet a guest As my sweet Richard: yet again, methinks, Some unborn sorrow, ripe in fortunes womb, Is coming towards me, and my inward soul With nothing trembles: at some thing it grieves, More than with parting from my lord the king."
+        },
+        {
+            "speaker": "bushy",
+            "text": "Each substance of a grief hath twenty shadows, Which shows like grief itself, but is not so For sorrows eye, glazed with blinding tears, Divides one thing entire to many objects Like perspectives, which rightly gazed upon Show nothing but confusion, eyed awry Distinguish form: so your sweet majesty, Looking awry upon your lords departure, Find shapes of grief, more than himself, to wail Which, lookd on as it is, is nought but shadows Of what it is not. Then, thricegracious queen, More than your lords departure weep not: mores not seen Or if it be, tis with false sorrows eye, Which for things true weeps things imaginary."
+        },
+        {
+            "speaker": "queen",
+            "text": "It may be so but yet my inward soul Persuades me it is otherwise: howeer it be, I cannot but be sad so heavy sad As, though on thinking on no thought I think, Makes me with heavy nothing faint and shrink."
+        },
+        {
+            "speaker": "bushy",
+            "text": "Tis nothing but conceit, my gracious lady."
+        },
+        {
+            "speaker": "queen",
+            "text": "Tis nothing less: conceit is still derived From some forefather grief mine is not so, For nothing had begot my something grief Or something hath the nothing that I grieve: Tis in reversion that I do possess But what it is, that is not yet known what I cannot name tis nameless woe, I wot."
+        },
+        {
+            "text": "Enter GREEN"
+        },
+        {
+            "speaker": "green",
+            "text": "God save your majesty! and well met, gentlemen: I hope the king is not yet shippd for Ireland."
+        },
+        {
+            "speaker": "queen",
+            "text": "Why hopest thou so tis better hope he is For his designs crave haste, his haste good hope: Then wherefore dost thou hope he is not shippd"
+        },
+        {
+            "speaker": "green",
+            "text": "That he, our hope, might have retired his power, And driven into despair an enemys hope, Who strongly hath set footing in this land: The banishd Bolingbroke repeals himself, And with uplifted arms is safe arrived At Ravenspurgh."
+        },
+        {
+            "speaker": "queen",
+            "text": "Now God in heaven forbid!"
+        },
+        {
+            "speaker": "green",
+            "text": "Ah, madam, tis too true: and that is worse, The Lord Northumberland, his son young Henry Percy, The Lords of Ross, Beaumond, and Willoughby, With all their powerful friends, are fled to him."
+        },
+        {
+            "speaker": "bushy",
+            "text": "Why have you not proclaimd Northumberland And all the rest revolted faction traitors"
+        },
+        {
+            "speaker": "green",
+            "text": "We have: whereupon the Earl of Worcester Hath broke his staff, resignd his stewardship, And all the household servants fled with him To Bolingbroke."
+        },
+        {
+            "speaker": "queen",
+            "text": "So, Green, thou art the midwife to my woe, And Bolingbroke my sorrows dismal heir: Now hath my soul brought forth her prodigy, And I, a gasping newdeliverd mother, Have woe to woe, sorrow to sorrow joind."
+        },
+        {
+            "speaker": "bushy",
+            "text": "Despair not, madam."
+        },
+        {
+            "speaker": "queen",
+            "text": "Who shall hinder me I will despair, and be at enmity With cozening hope: he is a flatterer, A parasite, a keeper back of death, Who gently would dissolve the bands of life, Which false hope lingers in extremity."
+        },
+        {
+            "text": "Enter DUKE OF YORK"
+        },
+        {
+            "speaker": "green",
+            "text": "Here comes the Duke of York."
+        },
+        {
+            "speaker": "queen",
+            "text": "With signs of war about his aged neck: O, full of careful business are his looks! Uncle, for Gods sake, speak comfortable words."
+        },
+        {
+            "speaker": "duke of york",
+            "text": "Should I do so, I should belie my thoughts: Comforts in heaven and we are on the earth, Where nothing lives but crosses, cares and grief. Your husband, he is gone to save far off, Whilst others come to make him lose at home: Here am I left to underprop his land, Who, weak with age, cannot support myself: Now comes the sick hour that his surfeit made Now shall he try his friends that flatterd him."
+        },
+        {
+            "text": "Enter a Servant"
+        },
+        {
+            "speaker": "servant",
+            "text": "My lord, your son was gone before I came."
+        },
+        {
+            "speaker": "duke of york",
+            "text": "He was Why, so! go all which way it will! The nobles they are fled, the commons they are cold, And will, I fear, revolt on Herefords side. Sirrah, get thee to Plashy, to my sister Gloucester Bid her send me presently a thousand pound: Hold, take my ring."
+        },
+        {
+            "speaker": "servant",
+            "text": "My lord, I had forgot to tell your lordship, Today, as I came by, I called there But I shall grieve you to report the rest."
+        },
+        {
+            "speaker": "duke of york",
+            "text": "What ist, knave"
+        },
+        {
+            "speaker": "servant",
+            "text": "An hour before I came, the duchess died."
+        },
+        {
+            "speaker": "duke of york",
+            "text": "God for his mercy! what a tide of woes Comes rushing on this woeful land at once! I know not what to do: I would to God, So my untruth had not provoked him to it, The king had cut off my head with my brothers. What, are there no posts dispatchd for Ireland How shall we do for money for these wars Come, sister,cousin, I would saypray, pardon me. Go, fellow, get thee home, provide some carts And bring away the armour that is there. Gentlemen, will you go muster men If I know how or which way to order these affairs Thus thrust disorderly into my hands, Never believe me. Both are my kinsmen: The one is my sovereign, whom both my oath And duty bids defend the other again Is my kinsman, whom the king hath wrongd, Whom conscience and my kindred bids to right. Well, somewhat we must do. Come, cousin, Ill Dispose of you. Gentlemen, go, muster up your men, And meet me presently at Berkeley. I should to Plashy too But time will not permit: all is uneven, And every thing is left at six and seven."
+        },
+        {
+            "text": "Exit Servant"
+        },
+        {
+            "text": "Exeunt DUKE OF YORK and QUEEN"
+        },
+        {
+            "speaker": "bushy",
+            "text": "The wind sits fair for news to go to Ireland, But none returns. For us to levy power Proportionable to the enemy Is all unpossible."
+        },
+        {
+            "speaker": "green",
+            "text": "Besides, our nearness to the king in love Is near the hate of those love not the king."
+        },
+        {
+            "speaker": "bagot",
+            "text": "And thats the wavering commons: for their love Lies in their purses, and whoso empties them By so much fills their hearts with deadly hate."
+        },
+        {
+            "speaker": "bushy",
+            "text": "Wherein the king stands generally condemnd."
+        },
+        {
+            "speaker": "bagot",
+            "text": "If judgement lie in them, then so do we, Because we ever have been near the king."
+        },
+        {
+            "speaker": "green",
+            "text": "Well, I will for refuge straight to Bristol castle: The Earl of Wiltshire is already there."
+        },
+        {
+            "speaker": "bushy",
+            "text": "Thither will I with you for little office The hateful commons will perform for us, Except like curs to tear us all to pieces. Will you go along with us"
+        },
+        {
+            "speaker": "bagot",
+            "text": "No I will to Ireland to his majesty. Farewell: if hearts presages be not vain, We three here art that neer shall meet again."
+        },
+        {
+            "speaker": "bushy",
+            "text": "Thats as York thrives to beat back Bolingbroke."
+        },
+        {
+            "speaker": "green",
+            "text": "Alas, poor duke! the task he undertakes Is numbering sands and drinking oceans dry: Where one on his side fights, thousands will fly. Farewell at once, for once, for all, and ever."
+        },
+        {
+            "speaker": "bushy",
+            "text": "Well, we may meet again."
+        },
+        {
+            "speaker": "bagot",
+            "text": "I fear me, never."
+        },
+        {
+            "text": "Exeunt"
+        }
+    ]
+}

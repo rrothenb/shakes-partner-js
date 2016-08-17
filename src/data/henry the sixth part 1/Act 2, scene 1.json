@@ -1,0 +1,153 @@
+{
+    "sceneName": "Act 2, scene 1",
+    "playName": "henry the sixth part 1",
+    "location": "Before Orleans.",
+    "lines": [
+        {
+            "text": "Enter a Sergeant of a band with two Sentinels"
+        },
+        {
+            "speaker": "sergeant",
+            "text": "Sirs, take your places and be vigilant: If any noise or soldier you perceive Near to the walls, by some apparent sign Let us have knowledge at the court of guard."
+        },
+        {
+            "speaker": "first sentinel",
+            "text": "Sergeant, you shall. Thus are poor servitors, When others sleep upon their quiet beds, Constraind to watch in darkness, rain and cold."
+        },
+        {
+            "text": "Exit Sergeant"
+        },
+        {
+            "text": "Enter TALBOT, BEDFORD, BURGUNDY, and Forces, with scalingladders, their drums beating a dead march"
+        },
+        {
+            "speaker": "talbot",
+            "text": "Lord Regent, and redoubted Burgundy, By whose approach the regions of Artois, Wallon and Picardy are friends to us, This happy night the Frenchmen are secure, Having all day caroused and banqueted: Embrace we then this opportunity As fitting best to quittance their deceit Contrived by art and baleful sorcery."
+        },
+        {
+            "speaker": "bedford",
+            "text": "Coward of France! how much he wrongs his fame, Despairing of his own arms fortitude, To join with witches and the help of hell!"
+        },
+        {
+            "speaker": "burgundy",
+            "text": "Traitors have never other company. But whats that Pucelle whom they term so pure"
+        },
+        {
+            "speaker": "talbot",
+            "text": "A maid, they say."
+        },
+        {
+            "speaker": "bedford",
+            "text": "A maid! and be so martial!"
+        },
+        {
+            "speaker": "burgundy",
+            "text": "Pray God she prove not masculine ere long, If underneath the standard of the French She carry armour as she hath begun."
+        },
+        {
+            "speaker": "talbot",
+            "text": "Well, let them practise and converse with spirits: God is our fortress, in whose conquering name Let us resolve to scale their flinty bulwarks."
+        },
+        {
+            "speaker": "bedford",
+            "text": "Ascend, brave Talbot we will follow thee."
+        },
+        {
+            "speaker": "talbot",
+            "text": "Not all together: better far, I guess, That we do make our entrance several ways That, if it chance the one of us do fail, The other yet may rise against their force."
+        },
+        {
+            "speaker": "bedford",
+            "text": "Agreed: Ill to yond corner."
+        },
+        {
+            "speaker": "burgundy",
+            "text": "And I to this."
+        },
+        {
+            "speaker": "talbot",
+            "text": "And here will Talbot mount, or make his grave. Now, Salisbury, for thee, and for the right Of English Henry, shall this night appear How much in duty I am bound to both."
+        },
+        {
+            "speaker": "sentinels",
+            "text": "Arm! arm! the enemy doth make assault! Cry: St. George, A Talbot."
+        },
+        {
+            "text": "The French leap over the walls in their shirts.  Enter, several ways, the BASTARD OF ORLEANS, ALENCON, and REIGNIER, half ready, and half unready"
+        },
+        {
+            "speaker": "alencon",
+            "text": "How now, my lords! what, all unready so"
+        },
+        {
+            "speaker": "bastard of orleans",
+            "text": "Unready! ay, and glad we scaped so well."
+        },
+        {
+            "speaker": "reignier",
+            "text": "Twas time, I trow, to wake and leave our beds, Hearing alarums at our chamberdoors."
+        },
+        {
+            "speaker": "alencon",
+            "text": "Of all exploits since first I followd arms, Neer heard I of a warlike enterprise More venturous or desperate than this."
+        },
+        {
+            "speaker": "bastard of orleans",
+            "text": "I think this Talbot be a fiend of hell."
+        },
+        {
+            "speaker": "reignier",
+            "text": "If not of hell, the heavens, sure, favour him."
+        },
+        {
+            "speaker": "alencon",
+            "text": "Here cometh Charles: I marvel how he sped."
+        },
+        {
+            "speaker": "bastard of orleans",
+            "text": "Tut, holy Joan was his defensive guard."
+        },
+        {
+            "text": "Enter CHARLES and JOAN LA PUCELLE"
+        },
+        {
+            "speaker": "charles",
+            "text": "Is this thy cunning, thou deceitful dame Didst thou at first, to flatter us withal, Make us partakers of a little gain, That now our loss might be ten times so much"
+        },
+        {
+            "speaker": "joan la pucelle",
+            "text": "Wherefore is Charles impatient with his friend! At all times will you have my power alike Sleeping or waking must I still prevail, Or will you blame and lay the fault on me Improvident soldiers! had your watch been good, This sudden mischief never could have falln."
+        },
+        {
+            "speaker": "charles",
+            "text": "Duke of Alencon, this was your default, That, being captain of the watch tonight, Did look no better to that weighty charge."
+        },
+        {
+            "speaker": "alencon",
+            "text": "Had all your quarters been as safely kept As that whereof I had the government, We had not been thus shamefully surprised."
+        },
+        {
+            "speaker": "bastard of orleans",
+            "text": "Mine was secure."
+        },
+        {
+            "speaker": "reignier",
+            "text": "And so was mine, my lord."
+        },
+        {
+            "speaker": "charles",
+            "text": "And, for myself, most part of all this night, Within her quarter and mine own precinct I was employd in passing to and fro, About relieving of the sentinels: Then how or which way should they first break in"
+        },
+        {
+            "speaker": "joan la pucelle",
+            "text": "Question, my lords, no further of the case, How or which way: tis sure they found some place But weakly guarded, where the breach was made. And now there rests no other shift but this To gather our soldiers, scatterd and dispersed, And lay new platforms to endamage them. Alarum. Enter an English Soldier, crying A  Talbot! a Talbot! They fly, leaving their clothes behind"
+        },
+        {
+            "speaker": "soldier",
+            "text": "Ill be so bold to take what they have left. The cry of Talbot serves me for a sword For I have loaden me with many spoils, Using no other weapon but his name."
+        },
+        {
+            "text": "Exit"
+        }
+    ]
+}

@@ -1,0 +1,98 @@
+{
+    "sceneName": "Act 4, scene 7",
+    "playName": "henry the sixth part 1",
+    "location": "Another part of the field.",
+    "lines": [
+        {
+            "text": "Alarum: excursions. Enter TALBOT led by a Servant"
+        },
+        {
+            "speaker": "servant",
+            "text": "O, my dear lord, lo, where your son is borne!"
+        },
+        {
+            "text": "Enter Soldiers, with the body of JOHN TALBOT"
+        },
+        {
+            "speaker": "talbot",
+            "text": "Thou antic death, which laughst us here to scorn, Anon, from thy insulting tyranny, Coupled in bonds of perpetuity, Two Talbots, winged through the lither sky, In thy despite shall scape mortality. O, thou, whose wounds become hardfavourd death, Speak to thy father ere thou yield thy breath! Brave death by speaking, whether he will or no Imagine him a Frenchman and thy foe. Poor boy! he smiles, methinks, as who should say, Had death been French, then death had died today. Come, come and lay him in his fathers arms: My spirit can no longer bear these harms. Soldiers, adieu! I have what I would have, Now my old arms are young John Talbots grave."
+        },
+        {
+            "text": "Dies"
+        },
+        {
+            "text": "Enter CHARLES, ALENCON, BURGUNDY, BASTARD OF ORLEANS, JOAN LA PUCELLE, and forces"
+        },
+        {
+            "speaker": "charles",
+            "text": "Had York and Somerset brought rescue in, We should have found a bloody day of this."
+        },
+        {
+            "speaker": "bastard of orleans",
+            "text": "How the young whelp of Talbots, ragingwood, Did flesh his puny sword in Frenchmens blood!"
+        },
+        {
+            "speaker": "joan la pucelle",
+            "text": "Once I encounterd him, and thus I said: Thou maiden youth, be vanquishd by a maid: But, with a proud majestical high scorn, He answerd thus: Young Talbot was not born To be the pillage of a giglot wench: So, rushing in the bowels of the French, He left me proudly, as unworthy fight."
+        },
+        {
+            "speaker": "burgundy",
+            "text": "Doubtless he would have made a noble knight See, where he lies inhearsed in the arms Of the most bloody nurser of his harms!"
+        },
+        {
+            "speaker": "bastard of orleans",
+            "text": "Hew them to pieces, hack their bones asunder Whose life was Englands glory, Gallias wonder."
+        },
+        {
+            "speaker": "charles",
+            "text": "O, no, forbear! for that which we have fled During the life, let us not wrong it dead. Enter Sir William LUCY, attended Herald of the French preceding"
+        },
+        {
+            "speaker": "lucy",
+            "text": "Herald, conduct me to the Dauphins tent, To know who hath obtained the glory of the day."
+        },
+        {
+            "speaker": "charles",
+            "text": "On what submissive message art thou sent"
+        },
+        {
+            "speaker": "lucy",
+            "text": "Submission, Dauphin! tis a mere French word We English warriors wot not what it means. I come to know what prisoners thou hast taen And to survey the bodies of the dead."
+        },
+        {
+            "speaker": "charles",
+            "text": "For prisoners askst thou hell our prison is. But tell me whom thou seekst."
+        },
+        {
+            "speaker": "lucy",
+            "text": "But wheres the great Alcides of the field, Valiant Lord Talbot, Earl of Shrewsbury, Created, for his rare success in arms, Great Earl of Washford, Waterford and Valence Lord Talbot of Goodrig and Urchinfield, Lord Strange of Blackmere, Lord Verdun of Alton, Lord Cromwell of Wingfield, Lord Furnival of Sheffield, The thricevictorious Lord of Falconbridge Knight of the noble order of Saint George, Worthy Saint Michael and the Golden Fleece Great marshal to Henry the Sixth Of all his wars within the realm of France"
+        },
+        {
+            "speaker": "joan la pucelle",
+            "text": "Here is a silly stately style indeed! The Turk, that two and fifty kingdoms hath, Writes not so tedious a style as this. Him that thou magnifiest with all these titles Stinking and flyblown lies here at our feet."
+        },
+        {
+            "speaker": "lucy",
+            "text": "Is Talbot slain, the Frenchmens only scourge, Your kingdoms terror and black Nemesis O, were mine eyeballs into bullets turnd, That I in rage might shoot them at your faces! O, that I could but call these dead to life! It were enough to fright the realm of France: Were but his picture left amongst you here, It would amaze the proudest of you all. Give me their bodies, that I may bear them hence And give them burial as beseems their worth."
+        },
+        {
+            "speaker": "joan la pucelle",
+            "text": "I think this upstart is old Talbots ghost, He speaks with such a proud commanding spirit. For Gods sake let him have em to keep them here, They would but stink, and putrefy the air."
+        },
+        {
+            "speaker": "charles",
+            "text": "Go, take their bodies hence."
+        },
+        {
+            "speaker": "lucy",
+            "text": "Ill bear them hence but from their ashes shall be reard A phoenix that shall make all France afeard."
+        },
+        {
+            "speaker": "charles",
+            "text": "So we be rid of them, do with em what thou wilt. And now to Paris, in this conquering vein: All will be ours, now bloody Talbots slain."
+        },
+        {
+            "text": "Exeunt"
+        }
+    ]
+}

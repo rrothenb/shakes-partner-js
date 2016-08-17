@@ -1,0 +1,45 @@
+{
+    "sceneName": "Act 3, scene 4",
+    "playName": "romeo and juliet",
+    "location": "A room in Capulets house.",
+    "lines": [
+        {
+            "text": "Enter CAPULET, LADY CAPULET, and PARIS"
+        },
+        {
+            "speaker": "capulet",
+            "text": "Things have falln out, sir, so unluckily, That we have had no time to move our daughter: Look you, she loved her kinsman Tybalt dearly, And so did I:Well, we were born to die. Tis very late, shell not come down tonight: I promise you, but for your company, I would have been abed an hour ago."
+        },
+        {
+            "speaker": "paris",
+            "text": "These times of woe afford no time to woo. Madam, good night: commend me to your daughter."
+        },
+        {
+            "speaker": "lady capulet",
+            "text": "I will, and know her mind early tomorrow Tonight she is mewd up to her heaviness."
+        },
+        {
+            "speaker": "capulet",
+            "text": "Sir Paris, I will make a desperate tender Of my childs love: I think she will be ruled In all respects by me nay, more, I doubt it not. Wife, go you to her ere you go to bed Acquaint her here of my son Paris love And bid her, mark you me, on Wednesday next But, soft! what day is this"
+        },
+        {
+            "speaker": "paris",
+            "text": "Monday, my lord,"
+        },
+        {
+            "speaker": "capulet",
+            "text": "Monday! ha, ha! Well, Wednesday is too soon, O Thursday let it be: o Thursday, tell her, She shall be married to this noble earl. Will you be ready do you like this haste Well keep no great ado,a friend or two For, hark you, Tybalt being slain so late, It may be thought we held him carelessly, Being our kinsman, if we revel much: Therefore well have some half a dozen friends, And there an end. But what say you to Thursday"
+        },
+        {
+            "speaker": "paris",
+            "text": "My lord, I would that Thursday were tomorrow."
+        },
+        {
+            "speaker": "capulet",
+            "text": "Well get you gone: o Thursday be it, then. Go you to Juliet ere you go to bed, Prepare her, wife, against this weddingday. Farewell, my lord. Light to my chamber, ho! Afore me! it is so very very late, That we may call it early by and by. Good night."
+        },
+        {
+            "text": "Exeunt"
+        }
+    ]
+}

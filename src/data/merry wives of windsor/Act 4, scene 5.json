@@ -1,0 +1,224 @@
+{
+    "sceneName": "Act 4, scene 5",
+    "playName": "merry wives of windsor",
+    "location": "A room in the Garter Inn.",
+    "lines": [
+        {
+            "text": "Enter Host and SIMPLE"
+        },
+        {
+            "speaker": "host",
+            "text": "What wouldst thou have, boor what: thickskin speak, breathe, discuss brief, short, quick, snap."
+        },
+        {
+            "speaker": "simple",
+            "text": "Marry, sir, I come to speak with Sir John Falstaff from Master Slender."
+        },
+        {
+            "speaker": "host",
+            "text": "Theres his chamber, his house, his castle, his standingbed and trucklebed tis painted about with the story of the Prodigal, fresh and new. Go knock and call hell speak like an Anthropophaginian unto thee: knock, I say."
+        },
+        {
+            "speaker": "simple",
+            "text": "Theres an old woman, a fat woman, gone up into his chamber: Ill be so bold as stay, sir, till she come down I come to speak with her, indeed."
+        },
+        {
+            "speaker": "host",
+            "text": "Ha! a fat woman! the knight may be robbed: Ill call. Bully knight! bully Sir John! speak from thy lungs military: art thou there it is thine host, thine Ephesian, calls."
+        },
+        {
+            "speaker": "falstaff",
+            "text": "[Above]  How now, mine host!"
+        },
+        {
+            "speaker": "host",
+            "text": "Heres a BohemianTartar tarries the coming down of thy fat woman. Let her descend, bully, let her descend my chambers are honourable: fie! privacy fie!"
+        },
+        {
+            "text": "Enter FALSTAFF"
+        },
+        {
+            "speaker": "falstaff",
+            "text": "There was, mine host, an old fat woman even now with me  but shes gone."
+        },
+        {
+            "speaker": "simple",
+            "text": "Pray you, sir, wast not the wise woman of Brentford"
+        },
+        {
+            "speaker": "falstaff",
+            "text": "Ay, marry, was it, musselshell: what would you with her"
+        },
+        {
+            "speaker": "simple",
+            "text": "My master, sir, Master Slender, sent to her, seeing her go through the streets, to know, sir, whether one Nym, sir, that beguiled him of a chain, had the chain or no."
+        },
+        {
+            "speaker": "falstaff",
+            "text": "I spake with the old woman about it."
+        },
+        {
+            "speaker": "simple",
+            "text": "And what says she, I pray, sir"
+        },
+        {
+            "speaker": "falstaff",
+            "text": "Marry, she says that the very same man that beguiled Master Slender of his chain cozened him of it."
+        },
+        {
+            "speaker": "simple",
+            "text": "I would I could have spoken with the woman herself I had other things to have spoken with her too from him."
+        },
+        {
+            "speaker": "falstaff",
+            "text": "What are they let us know."
+        },
+        {
+            "speaker": "host",
+            "text": "Ay, come quick."
+        },
+        {
+            "speaker": "simple",
+            "text": "I may not conceal them, sir."
+        },
+        {
+            "speaker": "host",
+            "text": "Conceal them, or thou diest."
+        },
+        {
+            "speaker": "simple",
+            "text": "Why, sir, they were nothing but about Mistress Anne Page to know if it were my masters fortune to have her or no."
+        },
+        {
+            "speaker": "falstaff",
+            "text": "Tis, tis his fortune."
+        },
+        {
+            "speaker": "simple",
+            "text": "What, sir"
+        },
+        {
+            "speaker": "falstaff",
+            "text": "To have her, or no. Go say the woman told me so."
+        },
+        {
+            "speaker": "simple",
+            "text": "May I be bold to say so, sir"
+        },
+        {
+            "speaker": "falstaff",
+            "text": "Ay, sir like who more bold."
+        },
+        {
+            "speaker": "simple",
+            "text": "I thank your worship: I shall make my master glad with these tidings."
+        },
+        {
+            "text": "Exit"
+        },
+        {
+            "speaker": "host",
+            "text": "Thou art clerkly, thou art clerkly, Sir John. Was there a wise woman with thee"
+        },
+        {
+            "speaker": "falstaff",
+            "text": "Ay, that there was, mine host one that hath taught me more wit than ever I learned before in my life and I paid nothing for it neither, but was paid for my learning."
+        },
+        {
+            "text": "Enter BARDOLPH"
+        },
+        {
+            "speaker": "bardolph",
+            "text": "Out, alas, sir! cozenage, mere cozenage!"
+        },
+        {
+            "speaker": "host",
+            "text": "Where be my horses speak well of them, varletto."
+        },
+        {
+            "speaker": "bardolph",
+            "text": "Run away with the cozeners for so soon as I came beyond Eton, they threw me off from behind one of them, in a slough of mire and set spurs and away, like three German devils, three Doctor Faustuses."
+        },
+        {
+            "speaker": "host",
+            "text": "They are gone but to meet the duke, villain: do not say they be fled Germans are honest men."
+        },
+        {
+            "text": "Enter SIR HUGH EVANS"
+        },
+        {
+            "speaker": "sir hugh evans",
+            "text": "Where is mine host"
+        },
+        {
+            "speaker": "host",
+            "text": "What is the matter, sir"
+        },
+        {
+            "speaker": "sir hugh evans",
+            "text": "Have a care of your entertainments: there is a friend of mine come to town tells me there is three cozengermans that has cozened all the hosts of Readins, of Maidenhead, of Colebrook, of horses and money. I tell you for good will, look you: you are wise and full of gibes and vloutingstocks, and tis not convenient you should be cozened. Fare you well."
+        },
+        {
+            "text": "Exit"
+        },
+        {
+            "text": "Enter DOCTOR CAIUS"
+        },
+        {
+            "speaker": "doctor caius",
+            "text": "Vere is mine host de Jarteer"
+        },
+        {
+            "speaker": "host",
+            "text": "Here, master doctor, in perplexity and doubtful dilemma."
+        },
+        {
+            "speaker": "doctor caius",
+            "text": "I cannot tell vat is dat: but it is tella me dat you make grand preparation for a duke de Jamany: by my trot, dere is no duke dat the court is know to come. I tell you for good vill: adieu."
+        },
+        {
+            "text": "Exit"
+        },
+        {
+            "speaker": "host",
+            "text": "Hue and cry, villain, go! Assist me, knight. I am undone! Fly, run, hue and cry, villain! I am undone!"
+        },
+        {
+            "text": "Exeunt Host and BARDOLPH"
+        },
+        {
+            "speaker": "falstaff",
+            "text": "I would all the world might be cozened for I have been cozened and beaten too. If it should come to the ear of the court, how I have been transformed and how my transformation hath been washed and cudgelled, they would melt me out of my fat drop by drop and liquor fishermens boots with me I warrant they would whip me with their fine wits till I were as crestfallen as a dried pear. I never prospered since I forswore myself at primero. Well, if my wind were but long enough to say my prayers, I would repent. Now, whence come you"
+        },
+        {
+            "text": "Enter MISTRESS QUICKLY"
+        },
+        {
+            "speaker": "mistress quickly",
+            "text": "From the two parties, forsooth."
+        },
+        {
+            "speaker": "falstaff",
+            "text": "The devil take one party and his dam the other! and so they shall be both bestowed. I have suffered more for their sakes, more than the villanous inconstancy of mans disposition is able to bear."
+        },
+        {
+            "speaker": "mistress quickly",
+            "text": "And have not they suffered Yes, I warrant speciously one of them Mistress Ford, good heart, is beaten black and blue, that you cannot see a white spot about her."
+        },
+        {
+            "speaker": "falstaff",
+            "text": "What tellest thou me of black and blue I was beaten myself into all the colours of the rainbow and I was like to be apprehended for the witch of Brentford: but that my admirable dexterity of wit, my counterfeiting the action of an old woman, delivered me, the knave constable had set me i the stocks, i the common stocks, for a witch."
+        },
+        {
+            "speaker": "mistress quickly",
+            "text": "Sir, let me speak with you in your chamber: you shall hear how things go and, I warrant, to your content. Here is a letter will say somewhat. Good hearts, what ado here is to bring you together! Sure, one of you does not serve heaven well, that you are so crossed."
+        },
+        {
+            "speaker": "falstaff",
+            "text": "Come up into my chamber."
+        },
+        {
+            "text": "Exeunt"
+        }
+    ]
+}

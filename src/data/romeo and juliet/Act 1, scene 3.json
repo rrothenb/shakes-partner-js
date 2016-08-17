@@ -1,0 +1,138 @@
+{
+    "sceneName": "Act 1, scene 3",
+    "playName": "romeo and juliet",
+    "location": "A room in Capulets house.",
+    "lines": [
+        {
+            "text": "Enter LADY CAPULET and Nurse"
+        },
+        {
+            "speaker": "lady capulet",
+            "text": "Nurse, wheres my daughter call her forth to me."
+        },
+        {
+            "speaker": "nurse",
+            "text": "Now, by my maidenhead, at twelve year old, I bade her come. What, lamb! what, ladybird! God forbid! Wheres this girl What, Juliet!"
+        },
+        {
+            "text": "Enter JULIET"
+        },
+        {
+            "speaker": "juliet",
+            "text": "How now! who calls"
+        },
+        {
+            "speaker": "nurse",
+            "text": "Your mother."
+        },
+        {
+            "speaker": "juliet",
+            "text": "Madam, I am here. What is your will"
+        },
+        {
+            "speaker": "lady capulet",
+            "text": "This is the matter:Nurse, give leave awhile, We must talk in secret:nurse, come back again I have rememberd me, thous hear our counsel. Thou knowst my daughters of a pretty age."
+        },
+        {
+            "speaker": "nurse",
+            "text": "Faith, I can tell her age unto an hour."
+        },
+        {
+            "speaker": "lady capulet",
+            "text": "Shes not fourteen."
+        },
+        {
+            "speaker": "nurse",
+            "text": "Ill lay fourteen of my teeth, And yet, to my teeth be it spoken, I have but four She is not fourteen. How long is it now To Lammastide"
+        },
+        {
+            "speaker": "lady capulet",
+            "text": "A fortnight and odd days."
+        },
+        {
+            "speaker": "nurse",
+            "text": "Even or odd, of all days in the year, Come Lammaseve at night shall she be fourteen. Susan and sheGod rest all Christian souls! Were of an age: well, Susan is with God She was too good for me: but, as I said, On Lammaseve at night shall she be fourteen That shall she, marry I remember it well. Tis since the earthquake now eleven years And she was weand,I never shall forget it, Of all the days of the year, upon that day: For I had then laid wormwood to my dug, Sitting in the sun under the dovehouse wall My lord and you were then at Mantua: Nay, I do bear a brain:but, as I said, When it did taste the wormwood on the nipple Of my dug and felt it bitter, pretty fool, To see it tetchy and fall out with the dug! Shake quoth the dovehouse: twas no need, I trow, To bid me trudge: And since that time it is eleven years For then she could stand alone nay, by the rood, She could have run and waddled all about For even the day before, she broke her brow: And then my husbandGod be with his soul! A was a merry mantook up the child: Yea, quoth he, dost thou fall upon thy face Thou wilt fall backward when thou hast more wit Wilt thou not, Jule and, by my holidame, The pretty wretch left crying and said Ay. To see, now, how a jest shall come about! I warrant, an I should live a thousand years, I never should forget it: Wilt thou not, Jule quoth he And, pretty fool, it stinted and said Ay."
+        },
+        {
+            "speaker": "lady capulet",
+            "text": "Enough of this I pray thee, hold thy peace."
+        },
+        {
+            "speaker": "nurse",
+            "text": "Yes, madam: yet I cannot choose but laugh, To think it should leave crying and say Ay. And yet, I warrant, it had upon its brow A bump as big as a young cockerels stone A parlous knock and it cried bitterly: Yea, quoth my husband,fallst upon thy face Thou wilt fall backward when thou comest to age Wilt thou not, Jule it stinted and said Ay."
+        },
+        {
+            "speaker": "juliet",
+            "text": "And stint thou too, I pray thee, nurse, say I."
+        },
+        {
+            "speaker": "nurse",
+            "text": "Peace, I have done. God mark thee to his grace! Thou wast the prettiest babe that eer I nursed: An I might live to see thee married once, I have my wish."
+        },
+        {
+            "speaker": "lady capulet",
+            "text": "Marry, that marry is the very theme I came to talk of. Tell me, daughter Juliet, How stands your disposition to be married"
+        },
+        {
+            "speaker": "juliet",
+            "text": "It is an honour that I dream not of."
+        },
+        {
+            "speaker": "nurse",
+            "text": "An honour! were not I thine only nurse, I would say thou hadst suckd wisdom from thy teat."
+        },
+        {
+            "speaker": "lady capulet",
+            "text": "Well, think of marriage now younger than you, Here in Verona, ladies of esteem, Are made already mothers: by my count, I was your mother much upon these years That you are now a maid. Thus then in brief: The valiant Paris seeks you for his love."
+        },
+        {
+            "speaker": "nurse",
+            "text": "A man, young lady! lady, such a man As all the worldwhy, hes a man of wax."
+        },
+        {
+            "speaker": "lady capulet",
+            "text": "Veronas summer hath not such a flower."
+        },
+        {
+            "speaker": "nurse",
+            "text": "Nay, hes a flower in faith, a very flower."
+        },
+        {
+            "speaker": "lady capulet",
+            "text": "What say you can you love the gentleman This night you shall behold him at our feast Read oer the volume of young Paris face, And find delight writ there with beautys pen Examine every married lineament, And see how one another lends content And what obscured in this fair volume lies Find written in the margent of his eyes. This precious book of love, this unbound lover, To beautify him, only lacks a cover: The fish lives in the sea, and tis much pride For fair without the fair within to hide: That book in manys eyes doth share the glory, That in gold clasps locks in the golden story So shall you share all that he doth possess, By having him, making yourself no less."
+        },
+        {
+            "speaker": "nurse",
+            "text": "No less! nay, bigger women grow by men."
+        },
+        {
+            "speaker": "lady capulet",
+            "text": "Speak briefly, can you like of Paris love"
+        },
+        {
+            "speaker": "juliet",
+            "text": "Ill look to like, if looking liking move: But no more deep will I endart mine eye Than your consent gives strength to make it fly."
+        },
+        {
+            "text": "Enter a Servant"
+        },
+        {
+            "speaker": "servant",
+            "text": "Madam, the guests are come, supper served up, you called, my young lady asked for, the nurse cursed in the pantry, and every thing in extremity. I must hence to wait I beseech you, follow straight."
+        },
+        {
+            "speaker": "lady capulet",
+            "text": "We follow thee. Juliet, the county stays."
+        },
+        {
+            "text": "Exit Servant"
+        },
+        {
+            "speaker": "nurse",
+            "text": "Go, girl, seek happy nights to happy days."
+        },
+        {
+            "text": "Exeunt"
+        }
+    ]
+}

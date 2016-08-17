@@ -1,0 +1,152 @@
+{
+    "sceneName": "Act 1, scene 3",
+    "playName": "henry the sixth part 1",
+    "location": "London. Before the Tower.",
+    "lines": [
+        {
+            "text": "Enter GLOUCESTER, with his Servingmen in blue coats"
+        },
+        {
+            "speaker": "gloucester",
+            "text": "I am come to survey the Tower this day: Since Henrys death, I fear, there is conveyance. Where be these warders, that they wait not here Open the gates tis Gloucester that calls."
+        },
+        {
+            "speaker": "first warder",
+            "text": "[Within]  Whos there that knocks so imperiously First ServingMan It is the noble Duke of Gloucester."
+        },
+        {
+            "speaker": "second warder",
+            "text": "[Within]  Whoeer he be, you may not be let in. First ServingManVillains, answer you so the lord protector"
+        },
+        {
+            "speaker": "first warder",
+            "text": "[Within]  The Lord protect him! so we answer him: We do no otherwise than we are willd."
+        },
+        {
+            "speaker": "gloucester",
+            "text": "Who willed you or whose will stands but mine Theres none protector of the realm but I. Break up the gates, Ill be your warrantize. Shall I be flouted thus by dunghill grooms"
+        },
+        {
+            "text": "Gloucesters men rush at the Tower Gates, and WOODVILE the Lieutenant speaks within"
+        },
+        {
+            "speaker": "woodvile",
+            "text": "What noise is this what traitors have we here"
+        },
+        {
+            "speaker": "gloucester",
+            "text": "Lieutenant, is it you whose voice I hear Open the gates heres Gloucester that would enter."
+        },
+        {
+            "speaker": "woodvile",
+            "text": "Have patience, noble duke I may not open The Cardinal of Winchester forbids: From him I have express commandment That thou nor none of thine shall be let in."
+        },
+        {
+            "speaker": "gloucester",
+            "text": "Fainthearted Woodvile, prizest him fore me Arrogant Winchester, that haughty prelate, Whom Henry, our late sovereign, neer could brook Thou art no friend to God or to the king: Open the gates, or Ill shut thee out shortly. ServingMenOpen the gates unto the lord protector, Or well burst them open, if that you come not quickly. BISHOP"
+        },
+        {
+            "text": "Enter to the Protector at the Tower Gates BISHOP OF WINCHESTER and his men in tawny coats"
+        },
+        {
+            "speaker": "of winchester",
+            "text": "How now, ambitious Humphry! what means this"
+        },
+        {
+            "speaker": "gloucester",
+            "text": "Peeld priest, dost thou command me to be shut out BISHOP"
+        },
+        {
+            "speaker": "of winchester",
+            "text": "I do, thou most usurping proditor, And not protector, of the king or realm."
+        },
+        {
+            "speaker": "gloucester",
+            "text": "Stand back, thou manifest conspirator, Thou that contrivedst to murder our dead lord Thou that givest whores indulgences to sin: Ill canvass thee in thy broad cardinals hat, If thou proceed in this thy insolence. BISHOP"
+        },
+        {
+            "speaker": "of winchester",
+            "text": "Nay, stand thou back, I will not budge a foot: This be Damascus, be thou cursed Cain, To slay thy brother Abel, if thou wilt."
+        },
+        {
+            "speaker": "gloucester",
+            "text": "I will not slay thee, but Ill drive thee back: Thy scarlet robes as a childs bearingcloth Ill use to carry thee out of this place. BISHOP"
+        },
+        {
+            "speaker": "of winchester",
+            "text": "Do what thou darest I beard thee to thy face."
+        },
+        {
+            "speaker": "gloucester",
+            "text": "What! am I dared and bearded to my face Draw, men, for all this privileged place Blue coats to tawny coats. Priest, beware your beard, I mean to tug it and to cuff you soundly: Under my feet I stamp thy cardinals hat: In spite of pope or dignities of church, Here by the cheeks Ill drag thee up and down. BISHOP"
+        },
+        {
+            "speaker": "of winchester",
+            "text": "Gloucester, thou wilt answer this before the pope."
+        },
+        {
+            "speaker": "gloucester",
+            "text": "Winchester goose, I cry, a rope! a rope! Now beat them hence why do you let them stay Thee Ill chase hence, thou wolf in sheeps array. Out, tawny coats! out, scarlet hypocrite!"
+        },
+        {
+            "text": "Here GLOUCESTERs men beat out BISHOP OF  WINCHESTERs men, and enter in the hurly burly the Mayor of London and his Officers"
+        },
+        {
+            "speaker": "mayor",
+            "text": "Fie, lords! that you, being supreme magistrates, Thus contumeliously should break the peace!"
+        },
+        {
+            "speaker": "gloucester",
+            "text": "Peace, mayor! thou knowst little of my wrongs: Heres Beaufort, that regards nor God nor king, Hath here distraind the Tower to his use. BISHOP"
+        },
+        {
+            "speaker": "of winchester",
+            "text": "Heres Gloucester, a foe to citizens, One that still motions war and never peace, Oercharging your free purses with large fines, That seeks to overthrow religion, Because he is protector of the realm, And would have armour here out of the Tower, To crown himself king and suppress the prince."
+        },
+        {
+            "speaker": "gloucester",
+            "text": "I will not answer thee with words, but blows."
+        },
+        {
+            "text": "Here they skirmish again"
+        },
+        {
+            "speaker": "mayor",
+            "text": "Naught rests for me in this tumultuous strife But to make open proclamation: Come, officer as loud as eer thou canst, Cry."
+        },
+        {
+            "speaker": "officer",
+            "text": "All manner of men assembled here in arms this day against Gods peace and the kings, we charge and command you, in his highness name, to repair to your several dwellingplaces and not to wear, handle, or use any sword, weapon, or dagger, henceforward, upon pain of death."
+        },
+        {
+            "speaker": "gloucester",
+            "text": "Cardinal, Ill be no breaker of the law: But we shall meet, and break our minds at large. BISHOP"
+        },
+        {
+            "speaker": "of winchester",
+            "text": "Gloucester, we will meet to thy cost, be sure: Thy heartblood I will have for this days work."
+        },
+        {
+            "speaker": "mayor",
+            "text": "Ill call for clubs, if you will not away. This cardinals more haughty than the devil."
+        },
+        {
+            "speaker": "gloucester",
+            "text": "Mayor, farewell: thou dost but what thou mayst. BISHOP"
+        },
+        {
+            "speaker": "of winchester",
+            "text": "Abominable Gloucester, guard thy head For I intend to have it ere long."
+        },
+        {
+            "text": "Exeunt, severally, GLOUCESTER and BISHOP OF WINCHESTER with their Servingmen"
+        },
+        {
+            "speaker": "mayor",
+            "text": "See the coast cleard, and then we will depart. Good God, these nobles should such stomachs bear! I myself fight not once in forty year. MasterGunnerSirrah, thou knowst how Orleans is besieged, And how the English have the suburbs won."
+        },
+        {
+            "text": "Exeunt"
+        }
+    ]
+}

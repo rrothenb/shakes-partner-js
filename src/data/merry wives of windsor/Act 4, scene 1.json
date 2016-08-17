@@ -1,0 +1,207 @@
+{
+    "sceneName": "Act 4, scene 1",
+    "playName": "merry wives of windsor",
+    "location": "A street.",
+    "lines": [
+        {
+            "text": "Enter MISTRESS PAGE, MISTRESS QUICKLY, and WILLIAM PAGE"
+        },
+        {
+            "speaker": "mistress page",
+            "text": "Is he at Master Fords already, thinkst thou"
+        },
+        {
+            "speaker": "mistress quickly",
+            "text": "Sure he is by this, or will be presently: but, truly, he is very courageous mad about his throwing into the water. Mistress Ford desires you to come suddenly."
+        },
+        {
+            "speaker": "mistress page",
+            "text": "Ill be with her by and by Ill but bring my young man here to school. Look, where his master comes tis a playingday, I see. How now, Sir Hugh! no school today"
+        },
+        {
+            "text": "Enter SIR HUGH EVANS"
+        },
+        {
+            "speaker": "sir hugh evans",
+            "text": "No Master Slender is let the boys leave to play."
+        },
+        {
+            "speaker": "mistress quickly",
+            "text": "Blessing of his heart!"
+        },
+        {
+            "speaker": "mistress page",
+            "text": "Sir Hugh, my husband says my son profits nothing in the world at his book. I pray you, ask him some questions in his accidence."
+        },
+        {
+            "speaker": "sir hugh evans",
+            "text": "Come hither, William hold up your head come."
+        },
+        {
+            "speaker": "mistress page",
+            "text": "Come on, sirrah hold up your head answer your master, be not afraid."
+        },
+        {
+            "speaker": "sir hugh evans",
+            "text": "William, how many numbers is in nouns"
+        },
+        {
+            "speaker": "william page",
+            "text": "Two."
+        },
+        {
+            "speaker": "mistress quickly",
+            "text": "Truly, I thought there had been one number more, because they say, Ods nouns."
+        },
+        {
+            "speaker": "sir hugh evans",
+            "text": "Peace your tattlings! What is fair, William"
+        },
+        {
+            "speaker": "william page",
+            "text": "Pulcher."
+        },
+        {
+            "speaker": "mistress quickly",
+            "text": "Polecats! there are fairer things than polecats, sure."
+        },
+        {
+            "speaker": "sir hugh evans",
+            "text": "You are a very simplicity oman: I pray you peace. What is lapis, William"
+        },
+        {
+            "speaker": "william page",
+            "text": "A stone."
+        },
+        {
+            "speaker": "sir hugh evans",
+            "text": "And what is a stone, William"
+        },
+        {
+            "speaker": "william page",
+            "text": "A pebble."
+        },
+        {
+            "speaker": "sir hugh evans",
+            "text": "No, it is lapis: I pray you, remember in your prain."
+        },
+        {
+            "speaker": "william page",
+            "text": "Lapis."
+        },
+        {
+            "speaker": "sir hugh evans",
+            "text": "That is a good William. What is he, William, that does lend articles"
+        },
+        {
+            "speaker": "william page",
+            "text": "Articles are borrowed of the pronoun, and be thus declined, Singulariter, nominativo, hic, haec, hoc."
+        },
+        {
+            "speaker": "sir hugh evans",
+            "text": "Nominativo, hig, hag, hog pray you, mark: genitivo, hujus. Well, what is your accusative case"
+        },
+        {
+            "speaker": "william page",
+            "text": "Accusativo, hinc."
+        },
+        {
+            "speaker": "sir hugh evans",
+            "text": "I pray you, have your remembrance, child, accusative, hung, hang, hog."
+        },
+        {
+            "speaker": "mistress quickly",
+            "text": "Hanghog is Latin for bacon, I warrant you."
+        },
+        {
+            "speaker": "sir hugh evans",
+            "text": "Leave your prabbles, oman. What is the focative case, William"
+        },
+        {
+            "speaker": "william page",
+            "text": "O,vocativo, O."
+        },
+        {
+            "speaker": "sir hugh evans",
+            "text": "Remember, William focative is caret."
+        },
+        {
+            "speaker": "mistress quickly",
+            "text": "And thats a good root."
+        },
+        {
+            "speaker": "sir hugh evans",
+            "text": "Oman, forbear."
+        },
+        {
+            "speaker": "mistress page",
+            "text": "Peace!"
+        },
+        {
+            "speaker": "sir hugh evans",
+            "text": "What is your genitive case plural, William"
+        },
+        {
+            "speaker": "william page",
+            "text": "Genitive case!"
+        },
+        {
+            "speaker": "sir hugh evans",
+            "text": "Ay."
+        },
+        {
+            "speaker": "william page",
+            "text": "Genitive,horum, harum, horum."
+        },
+        {
+            "speaker": "mistress quickly",
+            "text": "Vengeance of Jennys case! fie on her! never name her, child, if she be a whore."
+        },
+        {
+            "speaker": "sir hugh evans",
+            "text": "For shame, oman."
+        },
+        {
+            "speaker": "mistress quickly",
+            "text": "You do ill to teach the child such words: he teaches him to hick and to hack, which theyll do fast enough of themselves, and to call horum: fie upon you!"
+        },
+        {
+            "speaker": "sir hugh evans",
+            "text": "Oman, art thou lunatics hast thou no understandings for thy cases and the numbers of the genders Thou art as foolish Christian creatures as I would desires."
+        },
+        {
+            "speaker": "mistress page",
+            "text": "Prithee, hold thy peace."
+        },
+        {
+            "speaker": "sir hugh evans",
+            "text": "Show me now, William, some declensions of your pronouns."
+        },
+        {
+            "speaker": "william page",
+            "text": "Forsooth, I have forgot."
+        },
+        {
+            "speaker": "sir hugh evans",
+            "text": "It is qui, quae, quod: if you forget your quies, your quaes, and your quods, you must be preeches. Go your ways, and play go."
+        },
+        {
+            "speaker": "mistress page",
+            "text": "He is a better scholar than I thought he was."
+        },
+        {
+            "speaker": "sir hugh evans",
+            "text": "He is a good sprag memory. Farewell, Mistress Page."
+        },
+        {
+            "speaker": "mistress page",
+            "text": "Adieu, good Sir Hugh. Get you home, boy. Come, we stay too long."
+        },
+        {
+            "text": "Exit SIR HUGH EVANS"
+        },
+        {
+            "text": "Exeunt"
+        }
+    ]
+}

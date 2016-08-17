@@ -1,0 +1,391 @@
+{
+    "sceneName": "Act 2, scene 1",
+    "playName": "two gentlemen of verona",
+    "location": "Milan. The DUKEs palace.",
+    "lines": [
+        {
+            "text": "Enter VALENTINE and SPEED"
+        },
+        {
+            "speaker": "speed",
+            "text": "Sir, your glove."
+        },
+        {
+            "speaker": "valentine",
+            "text": "Not mine my gloves are on."
+        },
+        {
+            "speaker": "speed",
+            "text": "Why, then, this may be yours, for this is but one."
+        },
+        {
+            "speaker": "valentine",
+            "text": "Ha! let me see: ay, give it me, its mine: Sweet ornament that decks a thing divine! Ah, Silvia, Silvia!"
+        },
+        {
+            "speaker": "speed",
+            "text": "Madam Silvia! Madam Silvia!"
+        },
+        {
+            "speaker": "valentine",
+            "text": "How now, sirrah"
+        },
+        {
+            "speaker": "speed",
+            "text": "She is not within hearing, sir."
+        },
+        {
+            "speaker": "valentine",
+            "text": "Why, sir, who bade you call her"
+        },
+        {
+            "speaker": "speed",
+            "text": "Your worship, sir or else I mistook."
+        },
+        {
+            "speaker": "valentine",
+            "text": "Well, youll still be too forward."
+        },
+        {
+            "speaker": "speed",
+            "text": "And yet I was last chidden for being too slow."
+        },
+        {
+            "speaker": "valentine",
+            "text": "Go to, sir: tell me, do you know Madam Silvia"
+        },
+        {
+            "speaker": "speed",
+            "text": "She that your worship loves"
+        },
+        {
+            "speaker": "valentine",
+            "text": "Why, how know you that I am in love"
+        },
+        {
+            "speaker": "speed",
+            "text": "Marry, by these special marks: first, you have learned, like Sir Proteus, to wreathe your arms, like a malecontent to relish a lovesong, like a robinredbreast to walk alone, like one that had the pestilence to sigh, like a schoolboy that had lost his A B C to weep, like a young wench that had buried her grandam to fast, like one that takes diet to watch like one that fears robbing to speak puling, like a beggar at Hallowmas. You were wont, when you laughed, to crow like a cock when you walked, to walk like one of the lions when you fasted, it was presently after dinner when you looked sadly, it was for want of money: and now you are metamorphosed with a mistress, that, when I look on you, I can hardly think you my master."
+        },
+        {
+            "speaker": "valentine",
+            "text": "Are all these things perceived in me"
+        },
+        {
+            "speaker": "speed",
+            "text": "They are all perceived without ye."
+        },
+        {
+            "speaker": "valentine",
+            "text": "Without me they cannot."
+        },
+        {
+            "speaker": "speed",
+            "text": "Without you nay, thats certain, for, without you were so simple, none else would: but you are so without these follies, that these follies are within you and shine through you like the water in an urinal, that not an eye that sees you but is a physician to comment on your malady."
+        },
+        {
+            "speaker": "valentine",
+            "text": "But tell me, dost thou know my lady Silvia"
+        },
+        {
+            "speaker": "speed",
+            "text": "She that you gaze on so as she sits at supper"
+        },
+        {
+            "speaker": "valentine",
+            "text": "Hast thou observed that even she, I mean."
+        },
+        {
+            "speaker": "speed",
+            "text": "Why, sir, I know her not."
+        },
+        {
+            "speaker": "valentine",
+            "text": "Dost thou know her by my gazing on her, and yet knowest her not"
+        },
+        {
+            "speaker": "speed",
+            "text": "Is she not hardfavoured, sir"
+        },
+        {
+            "speaker": "valentine",
+            "text": "Not so fair, boy, as wellfavoured."
+        },
+        {
+            "speaker": "speed",
+            "text": "Sir, I know that well enough."
+        },
+        {
+            "speaker": "valentine",
+            "text": "What dost thou know"
+        },
+        {
+            "speaker": "speed",
+            "text": "That she is not so fair as, of you, wellfavoured."
+        },
+        {
+            "speaker": "valentine",
+            "text": "I mean that her beauty is exquisite, but her favour infinite."
+        },
+        {
+            "speaker": "speed",
+            "text": "Thats because the one is painted and the other out of all count."
+        },
+        {
+            "speaker": "valentine",
+            "text": "How painted and how out of count"
+        },
+        {
+            "speaker": "speed",
+            "text": "Marry, sir, so painted, to make her fair, that no man counts of her beauty."
+        },
+        {
+            "speaker": "valentine",
+            "text": "How esteemest thou me I account of her beauty."
+        },
+        {
+            "speaker": "speed",
+            "text": "You never saw her since she was deformed."
+        },
+        {
+            "speaker": "valentine",
+            "text": "How long hath she been deformed"
+        },
+        {
+            "speaker": "speed",
+            "text": "Ever since you loved her."
+        },
+        {
+            "speaker": "valentine",
+            "text": "I have loved her ever since I saw her and still I see her beautiful."
+        },
+        {
+            "speaker": "speed",
+            "text": "If you love her, you cannot see her."
+        },
+        {
+            "speaker": "valentine",
+            "text": "Why"
+        },
+        {
+            "speaker": "speed",
+            "text": "Because Love is blind. O, that you had mine eyes or your own eyes had the lights they were wont to have when you chid at Sir Proteus for going ungartered!"
+        },
+        {
+            "speaker": "valentine",
+            "text": "What should I see then"
+        },
+        {
+            "speaker": "speed",
+            "text": "Your own present folly and her passing deformity: for he, being in love, could not see to garter his hose, and you, being in love, cannot see to put on your hose."
+        },
+        {
+            "speaker": "valentine",
+            "text": "Belike, boy, then, you are in love for last morning you could not see to wipe my shoes."
+        },
+        {
+            "speaker": "speed",
+            "text": "True, sir I was in love with my bed: I thank you, you swinged me for my love, which makes me the bolder to chide you for yours."
+        },
+        {
+            "speaker": "valentine",
+            "text": "In conclusion, I stand affected to her."
+        },
+        {
+            "speaker": "speed",
+            "text": "I would you were set, so your affection would cease."
+        },
+        {
+            "speaker": "valentine",
+            "text": "Last night she enjoined me to write some lines to one she loves."
+        },
+        {
+            "speaker": "speed",
+            "text": "And have you"
+        },
+        {
+            "speaker": "valentine",
+            "text": "I have."
+        },
+        {
+            "speaker": "speed",
+            "text": "Are they not lamely writ"
+        },
+        {
+            "speaker": "valentine",
+            "text": "No, boy, but as well as I can do them. Peace! here she comes."
+        },
+        {
+            "speaker": "speed",
+            "text": "[Aside]  O excellent motion! O exceeding puppet! Now will he interpret to her."
+        },
+        {
+            "text": "Enter SILVIA"
+        },
+        {
+            "speaker": "valentine",
+            "text": "Madam and mistress, a thousand goodmorrows."
+        },
+        {
+            "speaker": "speed",
+            "text": "[Aside]  O, give ye good even! heres a million of manners."
+        },
+        {
+            "speaker": "silvia",
+            "text": "Sir Valentine and servant, to you two thousand."
+        },
+        {
+            "speaker": "speed",
+            "text": "[Aside]  He should give her interest and she gives it him."
+        },
+        {
+            "speaker": "valentine",
+            "text": "As you enjoind me, I have writ your letter Unto the secret nameless friend of yours Which I was much unwilling to proceed in But for my duty to your ladyship."
+        },
+        {
+            "speaker": "silvia",
+            "text": "I thank you gentle servant: tis very clerkly done."
+        },
+        {
+            "speaker": "valentine",
+            "text": "Now trust me, madam, it came hardly off For being ignorant to whom it goes I writ at random, very doubtfully."
+        },
+        {
+            "speaker": "silvia",
+            "text": "Perchance you think too much of so much pains"
+        },
+        {
+            "speaker": "valentine",
+            "text": "No, madam so it stead you, I will write Please you command, a thousand times as much And yet"
+        },
+        {
+            "speaker": "silvia",
+            "text": "A pretty period! Well, I guess the sequel And yet I will not name it and yet I care not And yet take this again and yet I thank you, Meaning henceforth to trouble you no more."
+        },
+        {
+            "speaker": "speed",
+            "text": "[Aside]  And yet you will and yet another yet."
+        },
+        {
+            "speaker": "valentine",
+            "text": "What means your ladyship do you not like it"
+        },
+        {
+            "speaker": "silvia",
+            "text": "Yes, yes the lines are very quaintly writ But since unwillingly, take them again. Nay, take them."
+        },
+        {
+            "speaker": "valentine",
+            "text": "Madam, they are for you."
+        },
+        {
+            "speaker": "silvia",
+            "text": "Ay, ay: you writ them, sir, at my request But I will none of them they are for you I would have had them writ more movingly."
+        },
+        {
+            "speaker": "valentine",
+            "text": "Please you, Ill write your ladyship another."
+        },
+        {
+            "speaker": "silvia",
+            "text": "And when its writ, for my sake read it over, And if it please you, so if not, why, so."
+        },
+        {
+            "speaker": "valentine",
+            "text": "If it please me, madam, what then"
+        },
+        {
+            "speaker": "silvia",
+            "text": "Why, if it please you, take it for your labour: And so, good morrow, servant."
+        },
+        {
+            "text": "Exit"
+        },
+        {
+            "speaker": "speed",
+            "text": "O jest unseen, inscrutable, invisible, As a nose on a mans face, or a weathercock on a steeple! My master sues to her, and she hath taught her suitor, He being her pupil, to become her tutor. O excellent device! was there ever heard a better, That my master, being scribe, to himself should write the letter"
+        },
+        {
+            "speaker": "valentine",
+            "text": "How now, sir what are you reasoning with yourself"
+        },
+        {
+            "speaker": "speed",
+            "text": "Nay, I was rhyming: tis you that have the reason."
+        },
+        {
+            "speaker": "valentine",
+            "text": "To do what"
+        },
+        {
+            "speaker": "speed",
+            "text": "To be a spokesman for Madam Silvia."
+        },
+        {
+            "speaker": "valentine",
+            "text": "To whom"
+        },
+        {
+            "speaker": "speed",
+            "text": "To yourself: why, she wooes you by a figure."
+        },
+        {
+            "speaker": "valentine",
+            "text": "What figure"
+        },
+        {
+            "speaker": "speed",
+            "text": "By a letter, I should say."
+        },
+        {
+            "speaker": "valentine",
+            "text": "Why, she hath not writ to me"
+        },
+        {
+            "speaker": "speed",
+            "text": "What need she, when she hath made you write to yourself Why, do you not perceive the jest"
+        },
+        {
+            "speaker": "valentine",
+            "text": "No, believe me."
+        },
+        {
+            "speaker": "speed",
+            "text": "No believing you, indeed, sir. But did you perceive her earnest"
+        },
+        {
+            "speaker": "valentine",
+            "text": "She gave me none, except an angry word."
+        },
+        {
+            "speaker": "speed",
+            "text": "Why, she hath given you a letter."
+        },
+        {
+            "speaker": "valentine",
+            "text": "Thats the letter I writ to her friend."
+        },
+        {
+            "speaker": "speed",
+            "text": "And that letter hath she delivered, and there an end."
+        },
+        {
+            "speaker": "valentine",
+            "text": "I would it were no worse."
+        },
+        {
+            "speaker": "speed",
+            "text": "Ill warrant you, tis as well: For often have you writ to her, and she, in modesty, Or else for want of idle time, could not again reply Or fearing else some messenger that might her mind discover, Herself hath taught her love himself to write unto her lover. All this I speak in print, for in print I found it. Why muse you, sir tis dinnertime."
+        },
+        {
+            "speaker": "valentine",
+            "text": "I have dined."
+        },
+        {
+            "speaker": "speed",
+            "text": "Ay, but hearken, sir though the chameleon Love can feed on the air, I am one that am nourished by my victuals, and would fain have meat. O, be not like your mistress be moved, be moved."
+        },
+        {
+            "text": "Exeunt"
+        }
+    ]
+}

@@ -1,0 +1,214 @@
+{
+    "sceneName": "Act 3, scene 4",
+    "playName": "merry wives of windsor",
+    "location": "A room in PAGES house.",
+    "lines": [
+        {
+            "text": "Enter FENTON and ANNE PAGE"
+        },
+        {
+            "speaker": "fenton",
+            "text": "I see I cannot get thy fathers love Therefore no more turn me to him, sweet Nan."
+        },
+        {
+            "speaker": "anne page",
+            "text": "Alas, how then"
+        },
+        {
+            "speaker": "fenton",
+            "text": "Why, thou must be thyself. He doth object I am too great of birth, And that, my state being galld with my expense, I seek to heal it only by his wealth: Besides these, other bars he lays before me, My riots past, my wild societies And tells me tis a thing impossible I should love thee but as a property."
+        },
+        {
+            "speaker": "anne page",
+            "text": "May be he tells you true."
+        },
+        {
+            "speaker": "fenton",
+            "text": "No, heaven so speed me in my time to come! Albeit I will confess thy fathers wealth Was the first motive that I wood thee, Anne: Yet, wooing thee, I found thee of more value Than stamps in gold or sums in sealed bags And tis the very riches of thyself That now I aim at."
+        },
+        {
+            "speaker": "anne page",
+            "text": "Gentle Master Fenton, Yet seek my fathers love still seek it, sir: If opportunity and humblest suit Cannot attain it, why, then,hark you hither!"
+        },
+        {
+            "text": "They converse apart"
+        },
+        {
+            "text": "Enter SHALLOW, SLENDER, and MISTRESS QUICKLY"
+        },
+        {
+            "speaker": "shallow",
+            "text": "Break their talk, Mistress Quickly: my kinsman shall speak for himself."
+        },
+        {
+            "speaker": "slender",
+            "text": "Ill make a shaft or a bolt ont: slid, tis but venturing."
+        },
+        {
+            "speaker": "shallow",
+            "text": "Be not dismayed."
+        },
+        {
+            "speaker": "slender",
+            "text": "No, she shall not dismay me: I care not for that, but that I am afeard."
+        },
+        {
+            "speaker": "mistress quickly",
+            "text": "Hark ye Master Slender would speak a word with you."
+        },
+        {
+            "speaker": "anne page",
+            "text": "I come to him. This is my fathers choice. O, what a world of vile illfavord faults Looks handsome in three hundred pounds ayear!"
+        },
+        {
+            "text": "Aside"
+        },
+        {
+            "speaker": "mistress quickly",
+            "text": "And how does good Master Fenton Pray you, a word with you."
+        },
+        {
+            "speaker": "shallow",
+            "text": "Shes coming to her, coz. O boy, thou hadst a father!"
+        },
+        {
+            "speaker": "slender",
+            "text": "I had a father, Mistress Anne my uncle can tell you good jests of him. Pray you, uncle, tell Mistress Anne the jest, how my father stole two geese out of a pen, good uncle."
+        },
+        {
+            "speaker": "shallow",
+            "text": "Mistress Anne, my cousin loves you."
+        },
+        {
+            "speaker": "slender",
+            "text": "Ay, that I do as well as I love any woman in Gloucestershire."
+        },
+        {
+            "speaker": "shallow",
+            "text": "He will maintain you like a gentlewoman."
+        },
+        {
+            "speaker": "slender",
+            "text": "Ay, that I will, come cut and longtail, under the degree of a squire."
+        },
+        {
+            "speaker": "shallow",
+            "text": "He will make you a hundred and fifty pounds jointure."
+        },
+        {
+            "speaker": "anne page",
+            "text": "Good Master Shallow, let him woo for himself."
+        },
+        {
+            "speaker": "shallow",
+            "text": "Marry, I thank you for it I thank you for that good comfort. She calls you, coz: Ill leave you."
+        },
+        {
+            "speaker": "anne page",
+            "text": "Now, Master Slender,"
+        },
+        {
+            "speaker": "slender",
+            "text": "Now, good Mistress Anne,"
+        },
+        {
+            "speaker": "anne page",
+            "text": "What is your will"
+        },
+        {
+            "speaker": "slender",
+            "text": "My will! ods heartlings, thats a pretty jest indeed! I neer made my will yet, I thank heaven I am not such a sickly creature, I give heaven praise."
+        },
+        {
+            "speaker": "anne page",
+            "text": "I mean, Master Slender, what would you with me"
+        },
+        {
+            "speaker": "slender",
+            "text": "Truly, for mine own part, I would little or nothing with you. Your father and my uncle hath made motions: if it be my luck, so if not, happy man be his dole! They can tell you how things go better than I can: you may ask your father here he comes."
+        },
+        {
+            "text": "Enter PAGE and MISTRESS PAGE"
+        },
+        {
+            "speaker": "page",
+            "text": "Now, Master Slender: love him, daughter Anne. Why, how now! what does Master Fenton here You wrong me, sir, thus still to haunt my house: I told you, sir, my daughter is disposed of."
+        },
+        {
+            "speaker": "fenton",
+            "text": "Nay, Master Page, be not impatient."
+        },
+        {
+            "speaker": "mistress page",
+            "text": "Good Master Fenton, come not to my child."
+        },
+        {
+            "speaker": "page",
+            "text": "She is no match for you."
+        },
+        {
+            "speaker": "fenton",
+            "text": "Sir, will you hear me"
+        },
+        {
+            "speaker": "page",
+            "text": "No, good Master Fenton. Come, Master Shallow come, son Slender, in. Knowing my mind, you wrong me, Master Fenton."
+        },
+        {
+            "text": "Exeunt PAGE, SHALLOW, and SLENDER"
+        },
+        {
+            "speaker": "mistress quickly",
+            "text": "Speak to Mistress Page."
+        },
+        {
+            "speaker": "fenton",
+            "text": "Good Mistress Page, for that I love your daughter In such a righteous fashion as I do, Perforce, against all cheques, rebukes and manners, I must advance the colours of my love And not retire: let me have your good will."
+        },
+        {
+            "speaker": "anne page",
+            "text": "Good mother, do not marry me to yond fool."
+        },
+        {
+            "speaker": "mistress page",
+            "text": "I mean it not I seek you a better husband."
+        },
+        {
+            "speaker": "mistress quickly",
+            "text": "Thats my master, master doctor."
+        },
+        {
+            "speaker": "anne page",
+            "text": "Alas, I had rather be set quick i the earth And bowld to death with turnips!"
+        },
+        {
+            "speaker": "mistress page",
+            "text": "Come, trouble not yourself. Good Master Fenton, I will not be your friend nor enemy: My daughter will I question how she loves you, And as I find her, so am I affected. Till then farewell, sir: she must needs go in Her father will be angry."
+        },
+        {
+            "speaker": "fenton",
+            "text": "Farewell, gentle mistress: farewell, Nan."
+        },
+        {
+            "text": "Exeunt MISTRESS PAGE and ANNE PAGE"
+        },
+        {
+            "speaker": "mistress quickly",
+            "text": "This is my doing, now: Nay, said I, will you cast away your child on a fool, and a physician Look on Master Fenton: this is my doing."
+        },
+        {
+            "speaker": "fenton",
+            "text": "I thank thee and I pray thee, once tonight Give my sweet Nan this ring: theres for thy pains."
+        },
+        {
+            "speaker": "mistress quickly",
+            "text": "Now heaven send thee good fortune! A kind heart he hath: a woman would run through fire and water for such a kind heart. But yet I would my master had Mistress Anne or I would Master Slender had her or, in sooth, I would Master Fenton had her I will do what I can for them all three for so I have promised, and Ill be as good as my word but speciously for Master Fenton. Well, I must of another errand to Sir John Falstaff from my two mistresses: what a beast am I to slack it!"
+        },
+        {
+            "text": "Exit FENTON"
+        },
+        {
+            "text": "Exit"
+        }
+    ]
+}
