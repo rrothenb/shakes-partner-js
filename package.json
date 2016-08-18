@@ -12,5 +12,9 @@
     "chai": "^3.5.0",
     "chai-as-promised": "^5.3.0",
     "mocha": "^3.0.2"
+  },
+  "dependencies": {
+    "double-metaphone": "^0.1.4",
+    "fast-levenshtein": "^1.1.4"
   }
 }

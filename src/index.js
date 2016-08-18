@@ -165,6 +165,87 @@ ShakesPartnerSkill.prototype.eventHandlers.onIntent = function (intentRequest, s
         }
 
     }
+    var lines = require("./data/" + playName + "/" + sceneName + ".json").lines;
+    console.log("lineNumber: " + lineNumber);
+    var doubleMetaphone = require('double-metaphone');
+    var yourLine = lines[lineNumber].text.replace(/\\[[^\\]]*\\]/,"");
+    console.log("Expected:" + yourLine);
+    var yourLineDM = doubleMetaphone(yourLine).join("");
+    console.log(yourLineDM);
+    var words = getStringValue(intentRequest);
+    if (intentName == "ContinueIntent") {
+        session.attributes.lineNumber = lineNumber+1;
+        var nextLines = [];
+        if (collectLines(session, nextLines)) {
+            return newTellResponse(
+                response,
+                "You did it!  You finished the scene!  You did " + getSuperlative() + " job!");
+        }
+        else {
+            console.log(nextLines.toString());
+            return newAskResponse(
+                response,
+                String.join("  ", nextLines),
+                "Say your line");
+        }
+    }
+    else if (intentName == "ProvideLineIntent") {
+        return newAskResponse(
+            response,
+            yourLine,
+            "Say your line");
+    }
+    else if (words != null) {
+        console.log("Given: " + words);
+        var wordsDM = doubleMetaphone(words).join("");
+        console.log(wordsDM);
+        var levenshtein = require('fast-levenshtein');
+        var distance = levenshtein.get(yourLineDM, wordsDM);
+        console.log("Distance :" + distance);
+        console.log("length: " + yourLineDM.length);
+        var percentDistance = distance*100/yourLineDM.length;
+        percentDistance = percentDistance/(1.0/yourLineDM.length+1);
+        if (percentDistance < 25) {
+            session.attributes.lineNumber = lineNumber+1;
+            var nextLines = [];
+            if (collectLines(session, nextLines)) {
+                return newTellResponse(
+                    response,
+                    "You did it!  You finished the scene!  You did " + getSuperlative() + " job!");
+            }
+            else {
+                console.log(nextLines.toString());
+                return newAskResponse(
+                    response,
+                    nextLines.join(" "),
+                    "Say your line");
+            }
+        }
+        else {
+            if (percentDistance < 50) {
+                return newAskResponse(
+                    response,
+                    "Close but not quite.  Try saying your line again",
+                    "Say your line");
+            }
+            else if (percentDistance < 75) {
+                return newAskResponse(
+                    response,
+                    "Nope.  You may want to study the text a little bit more",
+                    "Say your line");
+            }
+            return newAskResponse(
+                response,
+                "Not even close.  Go back and memorize your line correctly",
+                "Say your line");
+        }
+    }
+    else {
+        return newAskResponse(
+            response,
+            "You've got to say something",
+            "Say your line");
+    }
 };
 
 ShakesPartnerSkill.prototype.eventHandlers.onSessionEnded = function (sessionEndedRequest, session) {
