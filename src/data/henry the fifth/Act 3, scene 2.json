@@ -12,11 +12,11 @@
         },
         {
             "speaker": "nym",
-            "text": "Pray thee, corporal, stay: the knocks are too hot and, for mine own part, I have not a case of lives: the humour of it is too hot, that is the very plainsong of it."
+            "text": "Pray thee, corporal, stay: the knocks are too hot; and, for mine own part, I have not a case of lives: the humour of it is too hot, that is the very plain-song of it."
         },
         {
             "speaker": "pistol",
-            "text": "The plainsong is most just: for humours do abound: Knocks go and come Gods vassals drop and die And sword and shield, In bloody field, Doth win immortal fame."
+            "text": "The plain-song is most just: for humours do abound: Knocks go and come; God's vassals drop and die; And sword and shield, In bloody field, Doth win immortal fame."
         },
         {
             "speaker": "boy",
@@ -42,7 +42,7 @@
         },
         {
             "speaker": "pistol",
-            "text": "Be merciful, great duke, to men of mould. Abate thy rage, abate thy manly rage, Abate thy rage, great duke! Good bawcock, bate thy rage use lenity, sweet chuck!"
+            "text": "Be merciful, great duke, to men of mould. Abate thy rage, abate thy manly rage, Abate thy rage, great duke! Good bawcock, bate thy rage; use lenity, sweet chuck!"
         },
         {
             "speaker": "nym",
@@ -53,29 +53,29 @@
         },
         {
             "speaker": "boy",
-            "text": "As young as I am, I have observed these three swashers. I am boy to them all three: but all they three, though they would serve me, could not be man to me for indeed three such antics do not amount to a man. For Bardolph, he is whitelivered and redfaced by the means whereof a faces it out, but fights not. For Pistol, he hath a killing tongue and a quiet sword by the means whereof a breaks words, and keeps whole weapons. For Nym, he hath heard that men of few words are the best men and therefore he scorns to say his prayers, lest a should be thought a coward: but his few bad words are matched with as few good deeds for a never broke any mans head but his own, and that was against a post when he was drunk. They will steal any thing, and call it purchase. Bardolph stole a lutecase, bore it twelve leagues, and sold it for three half pence. Nym and Bardolph are sworn brothers in filching, and in Calais they stole a fireshovel: I knew by that piece of service the men would carry coals. They would have me as familiar with mens pockets as their gloves or their handkerchers: which makes much against my manhood, if I should take from anothers pocket to put into mine for it is plain pocketing up of wrongs. I must leave them, and seek some better service: their villany goes against my weak stomach, and therefore I must cast it up."
+            "text": "As young as I am, I have observed these three swashers. I am boy to them all three: but all they three, though they would serve me, could not be man to me; for indeed three such antics do not amount to a man. For Bardolph, he is white-livered and red-faced; by the means whereof a' faces it out, but fights not. For Pistol, he hath a killing tongue and a quiet sword; by the means whereof a' breaks words, and keeps whole weapons. For Nym, he hath heard that men of few words are the best men; and therefore he scorns to say his prayers, lest a' should be thought a coward: but his few bad words are matched with as few good deeds; for a' never broke any man's head but his own, and that was against a post when he was drunk. They will steal any thing, and call it purchase. Bardolph stole a lute-case, bore it twelve leagues, and sold it for three half pence. Nym and Bardolph are sworn brothers in filching, and in Calais they stole a fire-shovel: I knew by that piece of service the men would carry coals. They would have me as familiar with men's pockets as their gloves or their handkerchers: which makes much against my manhood, if I should take from another's pocket to put into mine; for it is plain pocketing up of wrongs. I must leave them, and seek some better service: their villany goes against my weak stomach, and therefore I must cast it up."
         },
         {
             "text": "Exit"
         },
         {
-            "text": "Reenter FLUELLEN, GOWER following"
+            "text": "Re-enter FLUELLEN, GOWER following"
         },
         {
             "speaker": "gower",
-            "text": "Captain Fluellen, you must come presently to the mines the Duke of Gloucester would speak with you."
+            "text": "Captain Fluellen, you must come presently to the mines; the Duke of Gloucester would speak with you."
         },
         {
             "speaker": "fluellen",
-            "text": "To the mines! tell you the duke, it is not so good to come to the mines for, look you, the mines is not according to the disciplines of the war: the concavities of it is not sufficient for, look you, the athversary, you may discuss unto the duke, look you, is digt himself four yard under the countermines: by Cheshu, I think a will plough up all, if there is not better directions."
+            "text": "To the mines! tell you the duke, it is not so good to come to the mines; for, look you, the mines is not according to the disciplines of the war: the concavities of it is not sufficient; for, look you, the athversary, you may discuss unto the duke, look you, is digt himself four yard under the countermines: by Cheshu, I think a' will plough up all, if there is not better directions."
         },
         {
             "speaker": "gower",
-            "text": "The Duke of Gloucester, to whom the order of the siege is given, is altogether directed by an Irishman, a very valiant gentleman, i faith."
+            "text": "The Duke of Gloucester, to whom the order of the siege is given, is altogether directed by an Irishman, a very valiant gentleman, i' faith."
         },
         {
             "speaker": "fluellen",
-            "text": "It is Captain Macmorris, is it not"
+            "text": "It is Captain Macmorris, is it not?"
         },
         {
             "speaker": "gower",
@@ -83,58 +83,58 @@
         },
         {
             "speaker": "fluellen",
-            "text": "By Cheshu, he is an ass, as in the world: I will verify as much in his beard: be has no more directions in the true disciplines of the wars, look you, of the Roman disciplines, than is a puppydog."
+            "text": "By Cheshu, he is an ass, as in the world: I will verify as much in his beard: be has no more directions in the true disciplines of the wars, look you, of the Roman disciplines, than is a puppy-dog."
         },
         {
             "text": "Enter MACMORRIS and Captain JAMY"
         },
         {
             "speaker": "gower",
-            "text": "Here a comes and the Scots captain, Captain Jamy, with him."
+            "text": "Here a' comes; and the Scots captain, Captain Jamy, with him."
         },
         {
             "speaker": "fluellen",
-            "text": "Captain Jamy is a marvellous falourous gentleman, that is certain and of great expedition and knowledge in th aunchient wars, upon my particular knowledge of his directions: by Cheshu, he will maintain his argument as well as any military man in the world, in the disciplines of the pristine wars of the Romans."
+            "text": "Captain Jamy is a marvellous falourous gentleman, that is certain; and of great expedition and knowledge in th' aunchient wars, upon my particular knowledge of his directions: by Cheshu, he will maintain his argument as well as any military man in the world, in the disciplines of the pristine wars of the Romans."
         },
         {
             "speaker": "jamy",
-            "text": "I say gudday, Captain Fluellen."
+            "text": "I say gud-day, Captain Fluellen."
         },
         {
             "speaker": "fluellen",
-            "text": "Godden to your worship, good Captain James."
+            "text": "God-den to your worship, good Captain James."
         },
         {
             "speaker": "gower",
-            "text": "How now, Captain Macmorris! have you quit the mines have the pioneers given oer"
+            "text": "How now, Captain Macmorris! have you quit the mines? have the pioneers given o'er?"
         },
         {
             "speaker": "macmorris",
-            "text": "By Chrish, la! tish ill done: the work ish give over, the trompet sound the retreat. By my hand, I swear, and my fathers soul, the work ish ill done it ish give over: I would have blowed up the town, so Chrish save me, la! in an hour: O, tish ill done, tish ill done by my hand, tish ill done!"
+            "text": "By Chrish, la! tish ill done: the work ish give over, the trompet sound the retreat. By my hand, I swear, and my father's soul, the work ish ill done; it ish give over: I would have blowed up the town, so Chrish save me, la! in an hour: O, tish ill done, tish ill done; by my hand, tish ill done!"
         },
         {
             "speaker": "fluellen",
-            "text": "Captain Macmorris, I beseech you now, will you voutsafe me, look you, a few disputations with you, as partly touching or concerning the disciplines of the war, the Roman wars, in the way of argument, look you, and friendly communication partly to satisfy my opinion, and partly for the satisfaction, look you, of my mind, as touching the direction of the military discipline that is the point."
+            "text": "Captain Macmorris, I beseech you now, will you voutsafe me, look you, a few disputations with you, as partly touching or concerning the disciplines of the war, the Roman wars, in the way of argument, look you, and friendly communication; partly to satisfy my opinion, and partly for the satisfaction, look you, of my mind, as touching the direction of the military discipline; that is the point."
         },
         {
             "speaker": "jamy",
-            "text": "It sall be vary gud, gud feith, gud captains bath: and I sall quit you with gud leve, as I may pick occasion that sall I, marry."
+            "text": "It sall be vary gud, gud feith, gud captains bath: and I sall quit you with gud leve, as I may pick occasion; that sall I, marry."
         },
         {
             "speaker": "macmorris",
-            "text": "It is no time to discourse, so Chrish save me: the day is hot, and the weather, and the wars, and the king, and the dukes: it is no time to discourse. The town is beseeched, and the trumpet call us to the breach and we talk, and, be Chrish, do nothing: tis shame for us all: so God sa me, tis shame to stand still it is shame, by my hand: and there is throats to be cut, and works to be done and there ish nothing done, so Chrish sa me, la!"
+            "text": "It is no time to discourse, so Chrish save me: the day is hot, and the weather, and the wars, and the king, and the dukes: it is no time to discourse. The town is beseeched, and the trumpet call us to the breach; and we talk, and, be Chrish, do nothing: 'tis shame for us all: so God sa' me, 'tis shame to stand still; it is shame, by my hand: and there is throats to be cut, and works to be done; and there ish nothing done, so Chrish sa' me, la!"
         },
         {
             "speaker": "jamy",
-            "text": "By the mess, ere theise eyes of mine take themselves to slomber, ayll de gud service, or ayll lig i the grund for it ay, or go to death and ayll pay t as valourously as I may, that sall I suerly do, that is the breff and the long. Marry, I wad full fain hear some question tween you tway."
+            "text": "By the mess, ere theise eyes of mine take themselves to slomber, ay'll de gud service, or ay'll lig i' the grund for it; ay, or go to death; and ay'll pay 't as valourously as I may, that sall I suerly do, that is the breff and the long. Marry, I wad full fain hear some question 'tween you tway."
         },
         {
             "speaker": "fluellen",
-            "text": "Captain Macmorris, I think, look you, under your correction, there is not many of your nation"
+            "text": "Captain Macmorris, I think, look you, under your correction, there is not many of your nation--"
         },
         {
             "speaker": "macmorris",
-            "text": "Of my nation! What ish my nation Ish a villain, and a bastard, and a knave, and a rascal. What ish my nation Who talks of my nation"
+            "text": "Of my nation! What ish my nation? Ish a villain, and a bastard, and a knave, and a rascal. What ish my nation? Who talks of my nation?"
         },
         {
             "speaker": "fluellen",
@@ -150,7 +150,7 @@
         },
         {
             "speaker": "jamy",
-            "text": "A! thats a foul fault."
+            "text": "A! that's a foul fault."
         },
         {
             "text": "A parley sounded"
@@ -161,7 +161,7 @@
         },
         {
             "speaker": "fluellen",
-            "text": "Captain Macmorris, when there is more better opportunity to be required, look you, I will be so bold as to tell you I know the disciplines of war and there is an end."
+            "text": "Captain Macmorris, when there is more better opportunity to be required, look you, I will be so bold as to tell you I know the disciplines of war; and there is an end."
         },
         {
             "text": "Exeunt"

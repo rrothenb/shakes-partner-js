@@ -4,34 +4,34 @@
     "location": "A forest in the north of England.",
     "lines": [
         {
-            "text": "Enter two Keepers, with crossbows in their hands"
+            "text": "Enter two Keepers, with cross-bows in their hands"
         },
         {
             "speaker": "first keeper",
-            "text": "Under this thickgrown brake well shroud ourselves For through this laund anon the deer will come And in this covert will we make our stand, Culling the principal of all the deer."
+            "text": "Under this thick-grown brake we'll shroud ourselves; For through this laund anon the deer will come; And in this covert will we make our stand, Culling the principal of all the deer."
         },
         {
             "speaker": "second keeper",
-            "text": "Ill stay above the hill, so both may shoot."
+            "text": "I'll stay above the hill, so both may shoot."
         },
         {
             "speaker": "first keeper",
-            "text": "That cannot be the noise of thy crossbow Will scare the herd, and so my shoot is lost. Here stand we both, and aim we at the best: And, for the time shall not seem tedious, Ill tell thee what befell me on a day In this selfplace where now we mean to stand."
+            "text": "That cannot be; the noise of thy cross-bow Will scare the herd, and so my shoot is lost. Here stand we both, and aim we at the best: And, for the time shall not seem tedious, I'll tell thee what befell me on a day In this self-place where now we mean to stand."
         },
         {
             "speaker": "second keeper",
-            "text": "Here comes a man lets stay till he be past."
+            "text": "Here comes a man; let's stay till he be past."
         },
         {
             "text": "Enter KING HENRY VI, disguised, with a prayerbook"
         },
         {
             "speaker": "king henry the sixth",
-            "text": "From Scotland am I stoln, even of pure love, To greet mine own land with my wishful sight. No, Harry, Harry, tis no land of thine Thy place is filld, thy sceptre wrung from thee, Thy balm washd off wherewith thou wast anointed: No bending knee will call thee Caesar now, No humble suitors press to speak for right, No, not a man comes for redress of thee For how can I help them, and not myself"
+            "text": "From Scotland am I stol'n, even of pure love, To greet mine own land with my wishful sight. No, Harry, Harry, 'tis no land of thine; Thy place is fill'd, thy sceptre wrung from thee, Thy balm wash'd off wherewith thou wast anointed: No bending knee will call thee Caesar now, No humble suitors press to speak for right, No, not a man comes for redress of thee; For how can I help them, and not myself?"
         },
         {
             "speaker": "first keeper",
-            "text": "Ay, heres a deer whose skins a keepers fee: This is the quondam king lets seize upon him."
+            "text": "Ay, here's a deer whose skin's a keeper's fee: This is the quondam king; let's seize upon him."
         },
         {
             "speaker": "king henry the sixth",
@@ -39,55 +39,55 @@
         },
         {
             "speaker": "second keeper",
-            "text": "Why linger we let us lay hands upon him."
+            "text": "Why linger we? let us lay hands upon him."
         },
         {
             "speaker": "first keeper",
-            "text": "Forbear awhile well hear a little more."
+            "text": "Forbear awhile; we'll hear a little more."
         },
         {
             "speaker": "king henry the sixth",
-            "text": "My queen and son are gone to France for aid And, as I hear, the great commanding Warwick Is thither gone, to crave the French kings sister To wife for Edward: if this news be true, Poor queen and son, your labour is but lost For Warwick is a subtle orator, And Lewis a prince soon won with moving words. By this account then Margaret may win him For shes a woman to be pitied much: Her sighs will make a battery in his breast Her tears will pierce into a marble heart The tiger will be mild whiles she doth mourn And Nero will be tainted with remorse, To hear and see her plaints, her brinish tears. Ay, but shes come to beg, Warwick to give She, on his left side, craving aid for Henry, He, on his right, asking a wife for Edward. She weeps, and says her Henry is deposed He smiles, and says his Edward is installd That she, poor wretch, for grief can speak no more Whiles Warwick tells his title, smooths the wrong, Inferreth arguments of mighty strength, And in conclusion wins the king from her, With promise of his sister, and what else, To strengthen and support King Edwards place. O Margaret, thus twill be and thou, poor soul, Art then forsaken, as thou wentst forlorn!"
+            "text": "My queen and son are gone to France for aid; And, as I hear, the great commanding Warwick Is thither gone, to crave the French king's sister To wife for Edward: if this news be true, Poor queen and son, your labour is but lost; For Warwick is a subtle orator, And Lewis a prince soon won with moving words. By this account then Margaret may win him; For she's a woman to be pitied much: Her sighs will make a battery in his breast; Her tears will pierce into a marble heart; The tiger will be mild whiles she doth mourn; And Nero will be tainted with remorse, To hear and see her plaints, her brinish tears. Ay, but she's come to beg, Warwick to give; She, on his left side, craving aid for Henry, He, on his right, asking a wife for Edward. She weeps, and says her Henry is deposed; He smiles, and says his Edward is install'd; That she, poor wretch, for grief can speak no more; Whiles Warwick tells his title, smooths the wrong, Inferreth arguments of mighty strength, And in conclusion wins the king from her, With promise of his sister, and what else, To strengthen and support King Edward's place. O Margaret, thus 'twill be; and thou, poor soul, Art then forsaken, as thou went'st forlorn!"
         },
         {
             "speaker": "second keeper",
-            "text": "Say, what art thou that talkst of kings and queens"
+            "text": "Say, what art thou that talk'st of kings and queens?"
         },
         {
             "speaker": "king henry the sixth",
-            "text": "More than I seem, and less than I was born to: A man at least, for less I should not be And men may talk of kings, and why not I"
+            "text": "More than I seem, and less than I was born to: A man at least, for less I should not be; And men may talk of kings, and why not I?"
         },
         {
             "speaker": "second keeper",
-            "text": "Ay, but thou talkst as if thou wert a king."
+            "text": "Ay, but thou talk'st as if thou wert a king."
         },
         {
             "speaker": "king henry the sixth",
-            "text": "Why, so I am, in mind and thats enough."
+            "text": "Why, so I am, in mind; and that's enough."
         },
         {
             "speaker": "second keeper",
-            "text": "But, if thou be a king, where is thy crown"
+            "text": "But, if thou be a king, where is thy crown?"
         },
         {
             "speaker": "king henry the sixth",
-            "text": "My crown is in my heart, not on my head Not decked with diamonds and Indian stones, Nor to be seen: my crown is called content: A crown it is that seldom kings enjoy."
+            "text": "My crown is in my heart, not on my head; Not decked with diamonds and Indian stones, Nor to be seen: my crown is called content: A crown it is that seldom kings enjoy."
         },
         {
             "speaker": "second keeper",
-            "text": "Well, if you be a king crownd with content, Your crown content and you must be contented To go along with us for as we think, You are the king King Edward hath deposed And we his subjects sworn in all allegiance Will apprehend you as his enemy."
+            "text": "Well, if you be a king crown'd with content, Your crown content and you must be contented To go along with us; for as we think, You are the king King Edward hath deposed; And we his subjects sworn in all allegiance Will apprehend you as his enemy."
         },
         {
             "speaker": "king henry the sixth",
-            "text": "But did you never swear, and break an oath"
+            "text": "But did you never swear, and break an oath?"
         },
         {
             "speaker": "second keeper",
-            "text": "No, never such an oath nor will not now."
+            "text": "No, never such an oath; nor will not now."
         },
         {
             "speaker": "king henry the sixth",
-            "text": "Where did you dwell when I was King of England"
+            "text": "Where did you dwell when I was King of England?"
         },
         {
             "speaker": "second keeper",
@@ -95,15 +95,15 @@
         },
         {
             "speaker": "king henry the sixth",
-            "text": "I was anointed king at nine months old My father and my grandfather were kings, And you were sworn true subjects unto me: And tell me, then, have you not broke your oaths"
+            "text": "I was anointed king at nine months old; My father and my grandfather were kings, And you were sworn true subjects unto me: And tell me, then, have you not broke your oaths?"
         },
         {
             "speaker": "first keeper",
-            "text": "No For we were subjects but while you were king."
+            "text": "No; For we were subjects but while you were king."
         },
         {
             "speaker": "king henry the sixth",
-            "text": "Why, am I dead do I not breathe a man Ah, simple men, you know not what you swear! Look, as I blow this feather from my face, And as the air blows it to me again, Obeying with my wind when I do blow, And yielding to another when it blows, Commanded always by the greater gust Such is the lightness of you common men. But do not break your oaths for of that sin My mild entreaty shall not make you guilty. Go where you will, the king shall be commanded And be you kings, command, and Ill obey."
+            "text": "Why, am I dead? do I not breathe a man? Ah, simple men, you know not what you swear! Look, as I blow this feather from my face, And as the air blows it to me again, Obeying with my wind when I do blow, And yielding to another when it blows, Commanded always by the greater gust; Such is the lightness of you common men. But do not break your oaths; for of that sin My mild entreaty shall not make you guilty. Go where you will, the king shall be commanded; And be you kings, command, and I'll obey."
         },
         {
             "speaker": "first keeper",
@@ -115,11 +115,11 @@
         },
         {
             "speaker": "first keeper",
-            "text": "We charge you, in Gods name, and the kings, To go with us unto the officers."
+            "text": "We charge you, in God's name, and the king's, To go with us unto the officers."
         },
         {
             "speaker": "king henry the sixth",
-            "text": "In Gods name, lead your kings name be obeyd: And what God will, that let your king perform And what he will, I humbly yield unto."
+            "text": "In God's name, lead; your king's name be obey'd: And what God will, that let your king perform; And what he will, I humbly yield unto."
         },
         {
             "text": "Exeunt"

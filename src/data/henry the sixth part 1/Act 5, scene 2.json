@@ -8,7 +8,7 @@
         },
         {
             "speaker": "charles",
-            "text": "These news, my lord, may cheer our drooping spirits: Tis said the stout Parisians do revolt And turn again unto the warlike French."
+            "text": "These news, my lord, may cheer our drooping spirits: 'Tis said the stout Parisians do revolt And turn again unto the warlike French."
         },
         {
             "speaker": "alencon",
@@ -16,7 +16,7 @@
         },
         {
             "speaker": "joan la pucelle",
-            "text": "Peace be amongst them, if they turn to us Else, ruin combat with their palaces!"
+            "text": "Peace be amongst them, if they turn to us; Else, ruin combat with their palaces!"
         },
         {
             "text": "Enter Scout"
@@ -27,7 +27,7 @@
         },
         {
             "speaker": "charles",
-            "text": "What tidings send our scouts I prithee, speak."
+            "text": "What tidings send our scouts? I prithee, speak."
         },
         {
             "speaker": "scout",
@@ -35,7 +35,7 @@
         },
         {
             "speaker": "charles",
-            "text": "Somewhat too sudden, sirs, the warning is But we will presently provide for them."
+            "text": "Somewhat too sudden, sirs, the warning is; But we will presently provide for them."
         },
         {
             "speaker": "burgundy",
@@ -47,7 +47,7 @@
         },
         {
             "speaker": "charles",
-            "text": "Then on, my lords and France be fortunate!"
+            "text": "Then on, my lords; and France be fortunate!"
         },
         {
             "text": "Exeunt"

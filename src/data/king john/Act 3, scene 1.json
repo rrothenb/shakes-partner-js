@@ -1,14 +1,14 @@
 {
     "sceneName": "Act 3, scene 1",
     "playName": "king john",
-    "location": "The French Kings pavilion.",
+    "location": "The French King's pavilion.",
     "lines": [
         {
             "text": "Enter CONSTANCE, ARTHUR, and SALISBURY"
         },
         {
             "speaker": "constance",
-            "text": "Gone to be married! gone to swear a peace! False blood to false blood joind! gone to be friends! Shall Lewis have Blanch, and Blanch those provinces It is not so thou hast misspoke, misheard: Be well advised, tell oer thy tale again: It cannot be thou dost but say tis so: I trust I may not trust thee for thy word Is but the vain breath of a common man: Believe me, I do not believe thee, man I have a kings oath to the contrary. Thou shalt be punishd for thus frighting me, For I am sick and capable of fears, Oppressd with wrongs and therefore full of fears, A widow, husbandless, subject to fears, A woman, naturally born to fears And though thou now confess thou didst but jest, With my vexd spirits I cannot take a truce, But they will quake and tremble all this day. What dost thou mean by shaking of thy head Why dost thou look so sadly on my son What means that hand upon that breast of thine Why holds thine eye that lamentable rheum, Like a proud river peering oer his bounds Be these sad signs confirmers of thy words Then speak again not all thy former tale, But this one word, whether thy tale be true."
+            "text": "Gone to be married! gone to swear a peace! False blood to false blood join'd! gone to be friends! Shall Lewis have Blanch, and Blanch those provinces? It is not so; thou hast misspoke, misheard: Be well advised, tell o'er thy tale again: It cannot be; thou dost but say 'tis so: I trust I may not trust thee; for thy word Is but the vain breath of a common man: Believe me, I do not believe thee, man; I have a king's oath to the contrary. Thou shalt be punish'd for thus frighting me, For I am sick and capable of fears, Oppress'd with wrongs and therefore full of fears, A widow, husbandless, subject to fears, A woman, naturally born to fears; And though thou now confess thou didst but jest, With my vex'd spirits I cannot take a truce, But they will quake and tremble all this day. What dost thou mean by shaking of thy head? Why dost thou look so sadly on my son? What means that hand upon that breast of thine? Why holds thine eye that lamentable rheum, Like a proud river peering o'er his bounds? Be these sad signs confirmers of thy words? Then speak again; not all thy former tale, But this one word, whether thy tale be true."
         },
         {
             "speaker": "salisbury",
@@ -16,11 +16,11 @@
         },
         {
             "speaker": "constance",
-            "text": "O, if thou teach me to believe this sorrow, Teach thou this sorrow how to make me die, And let belief and life encounter so As doth the fury of two desperate men Which in the very meeting fall and die. Lewis marry Blanch! O boy, then where art thou France friend with England, what becomes of me Fellow, be gone: I cannot brook thy sight: This news hath made thee a most ugly man."
+            "text": "O, if thou teach me to believe this sorrow, Teach thou this sorrow how to make me die, And let belief and life encounter so As doth the fury of two desperate men Which in the very meeting fall and die. Lewis marry Blanch! O boy, then where art thou? France friend with England, what becomes of me? Fellow, be gone: I cannot brook thy sight: This news hath made thee a most ugly man."
         },
         {
             "speaker": "salisbury",
-            "text": "What other harm have I, good lady, done, But spoke the harm that is by others done"
+            "text": "What other harm have I, good lady, done, But spoke the harm that is by others done?"
         },
         {
             "speaker": "constance",
@@ -32,7 +32,7 @@
         },
         {
             "speaker": "constance",
-            "text": "If thou, that bidst me be content, wert grim, Ugly and slanderous to thy mothers womb, Full of unpleasing blots and sightless stains, Lame, foolish, crooked, swart, prodigious, Patchd with foul moles and eyeoffending marks, I would not care, I then would be content, For then I should not love thee, no, nor thou Become thy great birth nor deserve a crown. But thou art fair, and at thy birth, dear boy, Nature and Fortune joind to make thee great: Of Natures gifts thou mayst with lilies boast, And with the halfblown rose. But Fortune, O, She is corrupted, changed and won from thee She adulterates hourly with thine uncle John, And with her golden hand hath pluckd on France To tread down fair respect of sovereignty, And made his majesty the bawd to theirs. France is a bawd to Fortune and King John, That strumpet Fortune, that usurping John! Tell me, thou fellow, is not France forsworn Envenom him with words, or get thee gone And leave those woes alone which I alone Am bound to underbear."
+            "text": "If thou, that bid'st me be content, wert grim, Ugly and slanderous to thy mother's womb, Full of unpleasing blots and sightless stains, Lame, foolish, crooked, swart, prodigious, Patch'd with foul moles and eye-offending marks, I would not care, I then would be content, For then I should not love thee, no, nor thou Become thy great birth nor deserve a crown. But thou art fair, and at thy birth, dear boy, Nature and Fortune join'd to make thee great: Of Nature's gifts thou mayst with lilies boast, And with the half-blown rose. But Fortune, O, She is corrupted, changed and won from thee; She adulterates hourly with thine uncle John, And with her golden hand hath pluck'd on France To tread down fair respect of sovereignty, And made his majesty the bawd to theirs. France is a bawd to Fortune and King John, That strumpet Fortune, that usurping John! Tell me, thou fellow, is not France forsworn? Envenom him with words, or get thee gone And leave those woes alone which I alone Am bound to under-bear."
         },
         {
             "speaker": "salisbury",
@@ -40,7 +40,7 @@
         },
         {
             "speaker": "constance",
-            "text": "Thou mayst, thou shalt I will not go with thee: I will instruct my sorrows to be proud For grief is proud and makes his owner stoop. To me and to the state of my great grief Let kings assemble for my griefs so great That no supporter but the huge firm earth Can hold it up: here I and sorrows sit Here is my throne, bid kings come bow to it."
+            "text": "Thou mayst, thou shalt; I will not go with thee: I will instruct my sorrows to be proud; For grief is proud and makes his owner stoop. To me and to the state of my great grief Let kings assemble; for my grief's so great That no supporter but the huge firm earth Can hold it up: here I and sorrows sit; Here is my throne, bid kings come bow to it."
         },
         {
             "text": "Seats herself on the ground"
@@ -50,22 +50,22 @@
         },
         {
             "speaker": "king philip",
-            "text": "Tis true, fair daughter and this blessed day Ever in France shall be kept festival: To solemnize this day the glorious sun Stays in his course and plays the alchemist, Turning with splendor of his precious eye The meagre cloddy earth to glittering gold: The yearly course that brings this day about Shall never see it but a holiday."
+            "text": "'Tis true, fair daughter; and this blessed day Ever in France shall be kept festival: To solemnize this day the glorious sun Stays in his course and plays the alchemist, Turning with splendor of his precious eye The meagre cloddy earth to glittering gold: The yearly course that brings this day about Shall never see it but a holiday."
         },
         {
             "speaker": "constance",
-            "text": "A wicked day, and not a holy day! What hath this day deserved what hath it done, That it in golden letters should be set Among the high tides in the calendar Nay, rather turn this day out of the week, This day of shame, oppression, perjury. Or, if it must stand still, let wives with child Pray that their burthens may not fall this day, Lest that their hopes prodigiously be crossd: But on this day let seamen fear no wreck No bargains break that are not this day made: This day, all things begun come to ill end, Yea, faith itself to hollow falsehood change!"
+            "text": "A wicked day, and not a holy day! What hath this day deserved? what hath it done, That it in golden letters should be set Among the high tides in the calendar? Nay, rather turn this day out of the week, This day of shame, oppression, perjury. Or, if it must stand still, let wives with child Pray that their burthens may not fall this day, Lest that their hopes prodigiously be cross'd: But on this day let seamen fear no wreck; No bargains break that are not this day made: This day, all things begun come to ill end, Yea, faith itself to hollow falsehood change!"
         },
         {
             "text": "Rising"
         },
         {
             "speaker": "king philip",
-            "text": "By heaven, lady, you shall have no cause To curse the fair proceedings of this day: Have I not pawnd to you my majesty"
+            "text": "By heaven, lady, you shall have no cause To curse the fair proceedings of this day: Have I not pawn'd to you my majesty?"
         },
         {
             "speaker": "constance",
-            "text": "You have beguiled me with a counterfeit Resembling majesty, which, being touchd and tried, Proves valueless: you are forsworn, forsworn You came in arms to spill mine enemies blood, But now in arms you strengthen it with yours: The grappling vigour and rough frown of war Is cold in amity and painted peace, And our oppression hath made up this league. Arm, arm, you heavens, against these perjured kings! A widow cries be husband to me, heavens! Let not the hours of this ungodly day Wear out the day in peace but, ere sunset, Set armed discord twixt these perjured kings! Hear me, O, hear me!"
+            "text": "You have beguiled me with a counterfeit Resembling majesty, which, being touch'd and tried, Proves valueless: you are forsworn, forsworn; You came in arms to spill mine enemies' blood, But now in arms you strengthen it with yours: The grappling vigour and rough frown of war Is cold in amity and painted peace, And our oppression hath made up this league. Arm, arm, you heavens, against these perjured kings! A widow cries; be husband to me, heavens! Let not the hours of this ungodly day Wear out the day in peace; but, ere sunset, Set armed discord 'twixt these perjured kings! Hear me, O, hear me!"
         },
         {
             "speaker": "austria",
@@ -73,7 +73,7 @@
         },
         {
             "speaker": "constance",
-            "text": "War! war! no peace! peace is to me a war O Lymoges! O Austria! thou dost shame That bloody spoil: thou slave, thou wretch, thou coward! Thou little valiant, great in villany! Thou ever strong upon the stronger side! Thou Fortunes champion that dost never fight But when her humorous ladyship is by To teach thee safety! thou art perjured too, And soothest up greatness. What a fool art thou, A ramping fool, to brag and stamp and swear Upon my party! Thou coldblooded slave, Hast thou not spoke like thunder on my side, Been sworn my soldier, bidding me depend Upon thy stars, thy fortune and thy strength, And dost thou now fall over to my fores Thou wear a lions hide! doff it for shame, And hang a calfsskin on those recreant limbs."
+            "text": "War! war! no peace! peace is to me a war O Lymoges! O Austria! thou dost shame That bloody spoil: thou slave, thou wretch, thou coward! Thou little valiant, great in villany! Thou ever strong upon the stronger side! Thou Fortune's champion that dost never fight But when her humorous ladyship is by To teach thee safety! thou art perjured too, And soothest up greatness. What a fool art thou, A ramping fool, to brag and stamp and swear Upon my party! Thou cold-blooded slave, Hast thou not spoke like thunder on my side, Been sworn my soldier, bidding me depend Upon thy stars, thy fortune and thy strength, And dost thou now fall over to my fores? Thou wear a lion's hide! doff it for shame, And hang a calf's-skin on those recreant limbs."
         },
         {
             "speaker": "austria",
@@ -81,7 +81,7 @@
         },
         {
             "speaker": "bastard",
-            "text": "And hang a calfsskin on those recreant limbs."
+            "text": "And hang a calf's-skin on those recreant limbs."
         },
         {
             "speaker": "austria",
@@ -89,11 +89,11 @@
         },
         {
             "speaker": "bastard",
-            "text": "And hang a calfsskin on those recreant limbs."
+            "text": "And hang a calf's-skin on those recreant limbs."
         },
         {
             "speaker": "king john",
-            "text": "We like not this thou dost forget thyself."
+            "text": "We like not this; thou dost forget thyself."
         },
         {
             "text": "Enter CARDINAL PANDULPH"
@@ -104,11 +104,11 @@
         },
         {
             "speaker": "cardinal pandulph",
-            "text": "Hail, you anointed deputies of heaven! To thee, King John, my holy errand is. I Pandulph, of fair Milan cardinal, And from Pope Innocent the legate here, Do in his name religiously demand Why thou against the church, our holy mother, So wilfully dost spurn and force perforce Keep Stephen Langton, chosen archbishop Of Canterbury, from that holy see This, in our foresaid holy fathers name, Pope Innocent, I do demand of thee."
+            "text": "Hail, you anointed deputies of heaven! To thee, King John, my holy errand is. I Pandulph, of fair Milan cardinal, And from Pope Innocent the legate here, Do in his name religiously demand Why thou against the church, our holy mother, So wilfully dost spurn; and force perforce Keep Stephen Langton, chosen archbishop Of Canterbury, from that holy see? This, in our foresaid holy father's name, Pope Innocent, I do demand of thee."
         },
         {
             "speaker": "king john",
-            "text": "What earthy name to interrogatories Can task the free breath of a sacred king Thou canst not, cardinal, devise a name So slight, unworthy and ridiculous, To charge me to an answer, as the pope. Tell him this tale and from the mouth of England Add thus much more, that no Italian priest Shall tithe or toll in our dominions But as we, under heaven, are supreme head, So under Him that great supremacy, Where we do reign, we will alone uphold, Without the assistance of a mortal hand: So tell the pope, all reverence set apart To him and his usurpd authority."
+            "text": "What earthy name to interrogatories Can task the free breath of a sacred king? Thou canst not, cardinal, devise a name So slight, unworthy and ridiculous, To charge me to an answer, as the pope. Tell him this tale; and from the mouth of England Add thus much more, that no Italian priest Shall tithe or toll in our dominions; But as we, under heaven, are supreme head, So under Him that great supremacy, Where we do reign, we will alone uphold, Without the assistance of a mortal hand: So tell the pope, all reverence set apart To him and his usurp'd authority."
         },
         {
             "speaker": "king philip",
@@ -116,35 +116,35 @@
         },
         {
             "speaker": "king john",
-            "text": "Though you and all the kings of Christendom Are led so grossly by this meddling priest, Dreading the curse that money may buy out And by the merit of vile gold, dross, dust, Purchase corrupted pardon of a man, Who in that sale sells pardon from himself, Though you and all the rest so grossly led This juggling witchcraft with revenue cherish, Yet I alone, alone do me oppose Against the pope and count his friends my foes."
+            "text": "Though you and all the kings of Christendom Are led so grossly by this meddling priest, Dreading the curse that money may buy out; And by the merit of vile gold, dross, dust, Purchase corrupted pardon of a man, Who in that sale sells pardon from himself, Though you and all the rest so grossly led This juggling witchcraft with revenue cherish, Yet I alone, alone do me oppose Against the pope and count his friends my foes."
         },
         {
             "speaker": "cardinal pandulph",
-            "text": "Then, by the lawful power that I have, Thou shalt stand cursed and excommunicate. And blessed shall he be that doth revolt From his allegiance to an heretic And meritorious shall that hand be calld, Canonized and worshipped as a saint, That takes away by any secret course Thy hateful life."
+            "text": "Then, by the lawful power that I have, Thou shalt stand cursed and excommunicate. And blessed shall he be that doth revolt From his allegiance to an heretic; And meritorious shall that hand be call'd, Canonized and worshipped as a saint, That takes away by any secret course Thy hateful life."
         },
         {
             "speaker": "constance",
-            "text": "O, lawful let it be That I have room with Rome to curse awhile! Good father cardinal, cry thou amen To my keen curses for without my wrong There is no tongue hath power to curse him right."
+            "text": "O, lawful let it be That I have room with Rome to curse awhile! Good father cardinal, cry thou amen To my keen curses; for without my wrong There is no tongue hath power to curse him right."
         },
         {
             "speaker": "cardinal pandulph",
-            "text": "Theres law and warrant, lady, for my curse."
+            "text": "There's law and warrant, lady, for my curse."
         },
         {
             "speaker": "constance",
-            "text": "And for mine too: when law can do no right, Let it be lawful that law bar no wrong: Law cannot give my child his kingdom here, For he that holds his kingdom holds the law Therefore, since law itself is perfect wrong, How can the law forbid my tongue to curse"
+            "text": "And for mine too: when law can do no right, Let it be lawful that law bar no wrong: Law cannot give my child his kingdom here, For he that holds his kingdom holds the law; Therefore, since law itself is perfect wrong, How can the law forbid my tongue to curse?"
         },
         {
             "speaker": "cardinal pandulph",
-            "text": "Philip of France, on peril of a curse, Let go the hand of that archheretic And raise the power of France upon his head, Unless he do submit himself to Rome."
+            "text": "Philip of France, on peril of a curse, Let go the hand of that arch-heretic; And raise the power of France upon his head, Unless he do submit himself to Rome."
         },
         {
             "speaker": "queen elinor",
-            "text": "Lookst thou pale, France do not let go thy hand."
+            "text": "Look'st thou pale, France? do not let go thy hand."
         },
         {
             "speaker": "constance",
-            "text": "Look to that, devil lest that France repent, And by disjoining hands, hell lose a soul."
+            "text": "Look to that, devil; lest that France repent, And by disjoining hands, hell lose a soul."
         },
         {
             "speaker": "austria",
@@ -152,11 +152,11 @@
         },
         {
             "speaker": "bastard",
-            "text": "And hang a calfsskin on his recreant limbs."
+            "text": "And hang a calf's-skin on his recreant limbs."
         },
         {
             "speaker": "austria",
-            "text": "Well, ruffian, I must pocket up these wrongs, Because"
+            "text": "Well, ruffian, I must pocket up these wrongs, Because--"
         },
         {
             "speaker": "bastard",
@@ -164,19 +164,19 @@
         },
         {
             "speaker": "king john",
-            "text": "Philip, what sayst thou to the cardinal"
+            "text": "Philip, what say'st thou to the cardinal?"
         },
         {
             "speaker": "constance",
-            "text": "What should he say, but as the cardinal"
+            "text": "What should he say, but as the cardinal?"
         },
         {
             "speaker": "lewis",
-            "text": "Bethink you, father for the difference Is purchase of a heavy curse from Rome, Or the light loss of England for a friend: Forego the easier."
+            "text": "Bethink you, father; for the difference Is purchase of a heavy curse from Rome, Or the light loss of England for a friend: Forego the easier."
         },
         {
             "speaker": "blanch",
-            "text": "Thats the curse of Rome."
+            "text": "That's the curse of Rome."
         },
         {
             "speaker": "constance",
@@ -188,7 +188,7 @@
         },
         {
             "speaker": "constance",
-            "text": "O, if thou grant my need, Which only lives but by the death of faith, That need must needs infer this principle, That faith would live again by death of need. O then, tread down my need, and faith mounts up Keep my need up, and faith is trodden down!"
+            "text": "O, if thou grant my need, Which only lives but by the death of faith, That need must needs infer this principle, That faith would live again by death of need. O then, tread down my need, and faith mounts up; Keep my need up, and faith is trodden down!"
         },
         {
             "speaker": "king john",
@@ -200,27 +200,27 @@
         },
         {
             "speaker": "austria",
-            "text": "Do so, King Philip hang no more in doubt."
+            "text": "Do so, King Philip; hang no more in doubt."
         },
         {
             "speaker": "bastard",
-            "text": "Hang nothing but a calfsskin, most sweet lout."
+            "text": "Hang nothing but a calf's-skin, most sweet lout."
         },
         {
             "speaker": "king philip",
-            "text": "I am perplexd, and know not what to say."
+            "text": "I am perplex'd, and know not what to say."
         },
         {
             "speaker": "cardinal pandulph",
-            "text": "What canst thou say but will perplex thee more, If thou stand excommunicate and cursed"
+            "text": "What canst thou say but will perplex thee more, If thou stand excommunicate and cursed?"
         },
         {
             "speaker": "king philip",
-            "text": "Good reverend father, make my person yours, And tell me how you would bestow yourself. This royal hand and mine are newly knit, And the conjunction of our inward souls Married in league, coupled and linked together With all religious strength of sacred vows The latest breath that gave the sound of words Was deepsworn faith, peace, amity, true love Between our kingdoms and our royal selves, And even before this truce, but new before, No longer than we well could wash our hands To clap this royal bargain up of peace, Heaven knows, they were besmeard and overstaind With slaughters pencil, where revenge did paint The fearful difference of incensed kings: And shall these hands, so lately purged of blood, So newly joind in love, so strong in both, Unyoke this seizure and this kind regreet Play fast and loose with faith so jest with heaven, Make such unconstant children of ourselves, As now again to snatch our palm from palm, Unswear faith sworn, and on the marriagebed Of smiling peace to march a bloody host, And make a riot on the gentle brow Of true sincerity O, holy sir, My reverend father, let it not be so! Out of your grace, devise, ordain, impose Some gentle order and then we shall be blest To do your pleasure and continue friends."
+            "text": "Good reverend father, make my person yours, And tell me how you would bestow yourself. This royal hand and mine are newly knit, And the conjunction of our inward souls Married in league, coupled and linked together With all religious strength of sacred vows; The latest breath that gave the sound of words Was deep-sworn faith, peace, amity, true love Between our kingdoms and our royal selves, And even before this truce, but new before, No longer than we well could wash our hands To clap this royal bargain up of peace, Heaven knows, they were besmear'd and over-stain'd With slaughter's pencil, where revenge did paint The fearful difference of incensed kings: And shall these hands, so lately purged of blood, So newly join'd in love, so strong in both, Unyoke this seizure and this kind regreet? Play fast and loose with faith? so jest with heaven, Make such unconstant children of ourselves, As now again to snatch our palm from palm, Unswear faith sworn, and on the marriage-bed Of smiling peace to march a bloody host, And make a riot on the gentle brow Of true sincerity? O, holy sir, My reverend father, let it not be so! Out of your grace, devise, ordain, impose Some gentle order; and then we shall be blest To do your pleasure and continue friends."
         },
         {
             "speaker": "cardinal pandulph",
-            "text": "All form is formless, order orderless, Save what is opposite to Englands love. Therefore to arms! be champion of our church, Or let the church, our mother, breathe her curse, A mothers curse, on her revolting son. France, thou mayst hold a serpent by the tongue, A chafed lion by the mortal paw, A fasting tiger safer by the tooth, Than keep in peace that hand which thou dost hold."
+            "text": "All form is formless, order orderless, Save what is opposite to England's love. Therefore to arms! be champion of our church, Or let the church, our mother, breathe her curse, A mother's curse, on her revolting son. France, thou mayst hold a serpent by the tongue, A chafed lion by the mortal paw, A fasting tiger safer by the tooth, Than keep in peace that hand which thou dost hold."
         },
         {
             "speaker": "king philip",
@@ -228,7 +228,7 @@
         },
         {
             "speaker": "cardinal pandulph",
-            "text": "So makest thou faith an enemy to faith And like a civil war setst oath to oath, Thy tongue against thy tongue. O, let thy vow First made to heaven, first be to heaven performd, That is, to be the champion of our church! What since thou sworest is sworn against thyself And may not be performed by thyself, For that which thou hast sworn to do amiss Is not amiss when it is truly done, And being not done, where doing tends to ill, The truth is then most done not doing it: The better act of purposes mistook Is to mistake again though indirect, Yet indirection thereby grows direct, And falsehood falsehood cures, as fire cools fire Within the scorched veins of one newburnd. It is religion that doth make vows kept But thou hast sworn against religion, By what thou swearst against the thing thou swearst, And makest an oath the surety for thy truth Against an oath: the truth thou art unsure To swear, swears only not to be forsworn Else what a mockery should it be to swear! But thou dost swear only to be forsworn And most forsworn, to keep what thou dost swear. Therefore thy later vows against thy first Is in thyself rebellion to thyself And better conquest never canst thou make Than arm thy constant and thy nobler parts Against these giddy loose suggestions: Upon which better part our prayers come in, If thou vouchsafe them. But if not, then know The peril of our curses light on thee So heavy as thou shalt not shake them off, But in despair die under their black weight."
+            "text": "So makest thou faith an enemy to faith; And like a civil war set'st oath to oath, Thy tongue against thy tongue. O, let thy vow First made to heaven, first be to heaven perform'd, That is, to be the champion of our church! What since thou sworest is sworn against thyself And may not be performed by thyself, For that which thou hast sworn to do amiss Is not amiss when it is truly done, And being not done, where doing tends to ill, The truth is then most done not doing it: The better act of purposes mistook Is to mistake again; though indirect, Yet indirection thereby grows direct, And falsehood falsehood cures, as fire cools fire Within the scorched veins of one new-burn'd. It is religion that doth make vows kept; But thou hast sworn against religion, By what thou swear'st against the thing thou swear'st, And makest an oath the surety for thy truth Against an oath: the truth thou art unsure To swear, swears only not to be forsworn; Else what a mockery should it be to swear! But thou dost swear only to be forsworn; And most forsworn, to keep what thou dost swear. Therefore thy later vows against thy first Is in thyself rebellion to thyself; And better conquest never canst thou make Than arm thy constant and thy nobler parts Against these giddy loose suggestions: Upon which better part our prayers come in, If thou vouchsafe them. But if not, then know The peril of our curses light on thee So heavy as thou shalt not shake them off, But in despair die under their black weight."
         },
         {
             "speaker": "austria",
@@ -236,7 +236,7 @@
         },
         {
             "speaker": "bastard",
-            "text": "Willt not be Will not a calfsskin stop that mouth of thine"
+            "text": "Will't not be? Will not a calfs-skin stop that mouth of thine?"
         },
         {
             "speaker": "lewis",
@@ -244,7 +244,7 @@
         },
         {
             "speaker": "blanch",
-            "text": "Upon thy weddingday Against the blood that thou hast married What, shall our feast be kept with slaughterd men Shall braying trumpets and loud churlish drums, Clamours of hell, be measures to our pomp O husband, hear me! ay, alack, how new Is husband in my mouth! even for that name, Which till this time my tongue did neer pronounce, Upon my knee I beg, go not to arms Against mine uncle."
+            "text": "Upon thy wedding-day? Against the blood that thou hast married? What, shall our feast be kept with slaughter'd men? Shall braying trumpets and loud churlish drums, Clamours of hell, be measures to our pomp? O husband, hear me! ay, alack, how new Is husband in my mouth! even for that name, Which till this time my tongue did ne'er pronounce, Upon my knee I beg, go not to arms Against mine uncle."
         },
         {
             "speaker": "constance",
@@ -252,7 +252,7 @@
         },
         {
             "speaker": "blanch",
-            "text": "Now shall I see thy love: what motive may Be stronger with thee than the name of wife"
+            "text": "Now shall I see thy love: what motive may Be stronger with thee than the name of wife?"
         },
         {
             "speaker": "constance",
@@ -272,7 +272,7 @@
         },
         {
             "speaker": "constance",
-            "text": "O fair return of banishd majesty!"
+            "text": "O fair return of banish'd majesty!"
         },
         {
             "speaker": "queen elinor",
@@ -284,11 +284,11 @@
         },
         {
             "speaker": "bastard",
-            "text": "Old Time the clocksetter, that bald sexton Time, Is it as he will well then, France shall rue."
+            "text": "Old Time the clock-setter, that bald sexton Time, Is it as he will? well then, France shall rue."
         },
         {
             "speaker": "blanch",
-            "text": "The suns oercast with blood: fair day, adieu! Which is the side that I must go withal I am with both: each army hath a hand And in their rage, I having hold of both, They swirl asunder and dismember me. Husband, I cannot pray that thou mayst win Uncle, I needs must pray that thou mayst lose Father, I may not wish the fortune thine Grandam, I will not wish thy fortunes thrive: Whoever wins, on that side shall I lose Assured loss before the match be playd."
+            "text": "The sun's o'ercast with blood: fair day, adieu! Which is the side that I must go withal? I am with both: each army hath a hand; And in their rage, I having hold of both, They swirl asunder and dismember me. Husband, I cannot pray that thou mayst win; Uncle, I needs must pray that thou mayst lose; Father, I may not wish the fortune thine; Grandam, I will not wish thy fortunes thrive: Whoever wins, on that side shall I lose Assured loss before the match be play'd."
         },
         {
             "speaker": "lewis",
@@ -300,7 +300,7 @@
         },
         {
             "speaker": "king john",
-            "text": "Cousin, go draw our puissance together. France, I am burnd up with inflaming wrath A rage whose heat hath this condition, That nothing can allay, nothing but blood, The blood, and dearestvalued blood, of France."
+            "text": "Cousin, go draw our puissance together. France, I am burn'd up with inflaming wrath; A rage whose heat hath this condition, That nothing can allay, nothing but blood, The blood, and dearest-valued blood, of France."
         },
         {
             "text": "Exit BASTARD"
@@ -311,7 +311,7 @@
         },
         {
             "speaker": "king john",
-            "text": "No more than he that threats. To arms lets hie!"
+            "text": "No more than he that threats. To arms let's hie!"
         },
         {
             "text": "Exeunt"

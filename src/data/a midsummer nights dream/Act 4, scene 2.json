@@ -1,14 +1,14 @@
 {
     "sceneName": "Act 4, scene 2",
     "playName": "a midsummer nights dream",
-    "location": "Athens. QUINCES house.",
+    "location": "Athens. QUINCE'S house.",
     "lines": [
         {
             "text": "Enter QUINCE, FLUTE, SNOUT, and STARVELING"
         },
         {
             "speaker": "quince",
-            "text": "Have you sent to Bottoms house  is he come home yet"
+            "text": "Have you sent to Bottom's house ? is he come home yet?"
         },
         {
             "speaker": "starveling",
@@ -16,7 +16,7 @@
         },
         {
             "speaker": "flute",
-            "text": "If he come not, then the play is marred: it goes not forward, doth it"
+            "text": "If he come not, then the play is marred: it goes not forward, doth it?"
         },
         {
             "speaker": "quince",
@@ -28,11 +28,11 @@
         },
         {
             "speaker": "quince",
-            "text": "Yea and the best person too and he is a very paramour for a sweet voice."
+            "text": "Yea and the best person too; and he is a very paramour for a sweet voice."
         },
         {
             "speaker": "flute",
-            "text": "You must say paragon: a paramour is, God bless us, a thing of naught."
+            "text": "You must say 'paragon:' a paramour is, God bless us, a thing of naught."
         },
         {
             "text": "Enter SNUG"
@@ -43,14 +43,14 @@
         },
         {
             "speaker": "flute",
-            "text": "O sweet bully Bottom! Thus hath he lost sixpence a day during his life he could not have scaped sixpence a day: an the duke had not given him sixpence a day for playing Pyramus, Ill be hanged he would have deserved it: sixpence a day in Pyramus, or nothing."
+            "text": "O sweet bully Bottom! Thus hath he lost sixpence a day during his life; he could not have 'scaped sixpence a day: an the duke had not given him sixpence a day for playing Pyramus, I'll be hanged; he would have deserved it: sixpence a day in Pyramus, or nothing."
         },
         {
             "text": "Enter BOTTOM"
         },
         {
             "speaker": "bottom",
-            "text": "Where are these lads where are these hearts"
+            "text": "Where are these lads? where are these hearts?"
         },
         {
             "speaker": "quince",
@@ -58,7 +58,7 @@
         },
         {
             "speaker": "bottom",
-            "text": "Masters, I am to discourse wonders: but ask me not what for if I tell you, I am no true Athenian. I will tell you every thing, right as it fell out."
+            "text": "Masters, I am to discourse wonders: but ask me not what; for if I tell you, I am no true Athenian. I will tell you every thing, right as it fell out."
         },
         {
             "speaker": "quince",
@@ -66,7 +66,7 @@
         },
         {
             "speaker": "bottom",
-            "text": "Not a word of me. All that I will tell you is, that the duke hath dined. Get your apparel together, good strings to your beards, new ribbons to your pumps meet presently at the palace every man look oer his part for the short and the long is, our play is preferred. In any case, let Thisby have clean linen and let not him that plays the lion pair his nails, for they shall hang out for the lions claws. And, most dear actors, eat no onions nor garlic, for we are to utter sweet breath and I do not doubt but to hear them say, it is a sweet comedy. No more words: away! go, away!"
+            "text": "Not a word of me. All that I will tell you is, that the duke hath dined. Get your apparel together, good strings to your beards, new ribbons to your pumps; meet presently at the palace; every man look o'er his part; for the short and the long is, our play is preferred. In any case, let Thisby have clean linen; and let not him that plays the lion pair his nails, for they shall hang out for the lion's claws. And, most dear actors, eat no onions nor garlic, for we are to utter sweet breath; and I do not doubt but to hear them say, it is a sweet comedy. No more words: away! go, away!"
         },
         {
             "text": "Exeunt"

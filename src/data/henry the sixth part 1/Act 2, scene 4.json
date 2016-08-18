@@ -1,26 +1,26 @@
 {
     "sceneName": "Act 2, scene 4",
     "playName": "henry the sixth part 1",
-    "location": "London. The Templegarden.",
+    "location": "London. The Temple-garden.",
     "lines": [
         {
-            "text": "Enter the Earls of SOMERSET, SUFFOLK, and WARWICK RICHARD PLANTAGENET, VERNON, and another Lawyer"
+            "text": "Enter the Earls of SOMERSET, SUFFOLK, and WARWICK; RICHARD PLANTAGENET, VERNON, and another Lawyer"
         },
         {
             "speaker": "plantagenet",
-            "text": "Great lords and gentlemen, what means this silence Dare no man answer in a case of truth"
+            "text": "Great lords and gentlemen, what means this silence? Dare no man answer in a case of truth?"
         },
         {
             "speaker": "suffolk",
-            "text": "Within the Templehall we were too loud The garden here is more convenient. RICHARD"
+            "text": "Within the Temple-hall we were too loud; The garden here is more convenient. RICHARD"
         },
         {
             "speaker": "plantagenet",
-            "text": "Then say at once if I maintaind the truth Or else was wrangling Somerset in the error"
+            "text": "Then say at once if I maintain'd the truth; Or else was wrangling Somerset in the error?"
         },
         {
             "speaker": "suffolk",
-            "text": "Faith, I have been a truant in the law, And never yet could frame my will to it And therefore frame the law unto my will."
+            "text": "Faith, I have been a truant in the law, And never yet could frame my will to it; And therefore frame the law unto my will."
         },
         {
             "speaker": "somerset",
@@ -28,7 +28,7 @@
         },
         {
             "speaker": "warwick",
-            "text": "Between two hawks, which flies the higher pitch Between two dogs, which hath the deeper mouth Between two blades, which bears the better temper: Between two horses, which doth bear him best Between two girls, which hath the merriest eye I have perhaps some shallow spirit of judgement But in these nice sharp quillets of the law, Good faith, I am no wiser than a daw. RICHARD"
+            "text": "Between two hawks, which flies the higher pitch; Between two dogs, which hath the deeper mouth; Between two blades, which bears the better temper: Between two horses, which doth bear him best; Between two girls, which hath the merriest eye; I have perhaps some shallow spirit of judgement; But in these nice sharp quillets of the law, Good faith, I am no wiser than a daw. RICHARD"
         },
         {
             "speaker": "plantagenet",
@@ -36,11 +36,11 @@
         },
         {
             "speaker": "somerset",
-            "text": "And on my side it is so well apparelld, So clear, so shining and so evident That it will glimmer through a blind mans eye. RICHARD"
+            "text": "And on my side it is so well apparell'd, So clear, so shining and so evident That it will glimmer through a blind man's eye. RICHARD"
         },
         {
             "speaker": "plantagenet",
-            "text": "Since you are tonguetied and so loath to speak, In dumb significants proclaim your thoughts: Let him that is a trueborn gentleman And stands upon the honour of his birth, If he suppose that I have pleaded truth, From off this brier pluck a white rose with me."
+            "text": "Since you are tongue-tied and so loath to speak, In dumb significants proclaim your thoughts: Let him that is a true-born gentleman And stands upon the honour of his birth, If he suppose that I have pleaded truth, From off this brier pluck a white rose with me."
         },
         {
             "speaker": "somerset",
@@ -56,7 +56,7 @@
         },
         {
             "speaker": "vernon",
-            "text": "Stay, lords and gentlemen, and pluck no more, Till you conclude that he upon whose side The fewest roses are croppd from the tree Shall yield the other in the right opinion."
+            "text": "Stay, lords and gentlemen, and pluck no more, Till you conclude that he upon whose side The fewest roses are cropp'd from the tree Shall yield the other in the right opinion."
         },
         {
             "speaker": "somerset",
@@ -80,7 +80,7 @@
         },
         {
             "speaker": "somerset",
-            "text": "Well, well, come on: who else"
+            "text": "Well, well, come on: who else?"
         },
         {
             "speaker": "lawyer",
@@ -91,7 +91,7 @@
         },
         {
             "speaker": "plantagenet",
-            "text": "Now, Somerset, where is your argument"
+            "text": "Now, Somerset, where is your argument?"
         },
         {
             "speaker": "somerset",
@@ -99,27 +99,27 @@
         },
         {
             "speaker": "plantagenet",
-            "text": "Meantime your cheeks do counterfeit our roses For pale they look with fear, as witnessing The truth on our side."
+            "text": "Meantime your cheeks do counterfeit our roses; For pale they look with fear, as witnessing The truth on our side."
         },
         {
             "speaker": "somerset",
-            "text": "No, Plantagenet, Tis not for fear but anger that thy cheeks Blush for pure shame to counterfeit our roses, And yet thy tongue will not confess thy error. RICHARD"
+            "text": "No, Plantagenet, 'Tis not for fear but anger that thy cheeks Blush for pure shame to counterfeit our roses, And yet thy tongue will not confess thy error. RICHARD"
         },
         {
             "speaker": "plantagenet",
-            "text": "Hath not thy rose a canker, Somerset"
+            "text": "Hath not thy rose a canker, Somerset?"
         },
         {
             "speaker": "somerset",
-            "text": "Hath not thy rose a thorn, Plantagenet RICHARD"
+            "text": "Hath not thy rose a thorn, Plantagenet? RICHARD"
         },
         {
             "speaker": "plantagenet",
-            "text": "Ay, sharp and piercing, to maintain his truth Whiles thy consuming canker eats his falsehood."
+            "text": "Ay, sharp and piercing, to maintain his truth; Whiles thy consuming canker eats his falsehood."
         },
         {
             "speaker": "somerset",
-            "text": "Well, Ill find friends to wear my bleeding roses, That shall maintain what I have said is true, Where false Plantagenet dare not be seen. RICHARD"
+            "text": "Well, I'll find friends to wear my bleeding roses, That shall maintain what I have said is true, Where false Plantagenet dare not be seen. RICHARD"
         },
         {
             "speaker": "plantagenet",
@@ -135,7 +135,7 @@
         },
         {
             "speaker": "suffolk",
-            "text": "Ill turn my part thereof into thy throat."
+            "text": "I'll turn my part thereof into thy throat."
         },
         {
             "speaker": "somerset",
@@ -143,27 +143,27 @@
         },
         {
             "speaker": "warwick",
-            "text": "Now, by Gods will, thou wrongst him, Somerset His grandfather was Lionel Duke of Clarence, Third son to the third Edward King of England: Spring crestless yeomen from so deep a root RICHARD"
+            "text": "Now, by God's will, thou wrong'st him, Somerset; His grandfather was Lionel Duke of Clarence, Third son to the third Edward King of England: Spring crestless yeomen from so deep a root? RICHARD"
         },
         {
             "speaker": "plantagenet",
-            "text": "He bears him on the places privilege, Or durst not, for his craven heart, say thus."
+            "text": "He bears him on the place's privilege, Or durst not, for his craven heart, say thus."
         },
         {
             "speaker": "somerset",
-            "text": "By him that made me, Ill maintain my words On any plot of ground in Christendom. Was not thy father, Richard Earl of Cambridge, For treason executed in our late kings days And, by his treason, standst not thou attainted, Corrupted, and exempt from ancient gentry His trespass yet lives guilty in thy blood And, till thou be restored, thou art a yeoman. RICHARD"
+            "text": "By him that made me, I'll maintain my words On any plot of ground in Christendom. Was not thy father, Richard Earl of Cambridge, For treason executed in our late king's days? And, by his treason, stand'st not thou attainted, Corrupted, and exempt from ancient gentry? His trespass yet lives guilty in thy blood; And, till thou be restored, thou art a yeoman. RICHARD"
         },
         {
             "speaker": "plantagenet",
-            "text": "My father was attached, not attainted, Condemnd to die for treason, but no traitor And that Ill prove on better men than Somerset, Were growing time once ripend to my will. For your partaker Pole and you yourself, Ill note you in my book of memory, To scourge you for this apprehension: Look to it well and say you are well warnd."
+            "text": "My father was attached, not attainted, Condemn'd to die for treason, but no traitor; And that I'll prove on better men than Somerset, Were growing time once ripen'd to my will. For your partaker Pole and you yourself, I'll note you in my book of memory, To scourge you for this apprehension: Look to it well and say you are well warn'd."
         },
         {
             "speaker": "somerset",
-            "text": "Ah, thou shalt find us ready for thee still And know us by these colours for thy foes, For these my friends in spite of thee shall wear. RICHARD"
+            "text": "Ah, thou shalt find us ready for thee still; And know us by these colours for thy foes, For these my friends in spite of thee shall wear. RICHARD"
         },
         {
             "speaker": "plantagenet",
-            "text": "And, by my soul, this pale and angry rose, As cognizance of my blooddrinking hate, Will I for ever and my faction wear, Until it wither with me to my grave Or flourish to the height of my degree."
+            "text": "And, by my soul, this pale and angry rose, As cognizance of my blood-drinking hate, Will I for ever and my faction wear, Until it wither with me to my grave Or flourish to the height of my degree."
         },
         {
             "speaker": "suffolk",
@@ -185,7 +185,7 @@
         },
         {
             "speaker": "warwick",
-            "text": "This blot that they object against your house Shall be wiped out in the next parliament Calld for the truce of Winchester and Gloucester And if thou be not then created York, I will not live to be accounted Warwick. Meantime, in signal of my love to thee, Against proud Somerset and William Pole, Will I upon thy party wear this rose: And here I prophesy: this brawl today, Grown to this faction in the Templegarden, Shall send between the red rose and the white A thousand souls to death and deadly night. RICHARD"
+            "text": "This blot that they object against your house Shall be wiped out in the next parliament Call'd for the truce of Winchester and Gloucester; And if thou be not then created York, I will not live to be accounted Warwick. Meantime, in signal of my love to thee, Against proud Somerset and William Pole, Will I upon thy party wear this rose: And here I prophesy: this brawl to-day, Grown to this faction in the Temple-garden, Shall send between the red rose and the white A thousand souls to death and deadly night. RICHARD"
         },
         {
             "speaker": "plantagenet",

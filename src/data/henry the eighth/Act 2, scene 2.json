@@ -1,14 +1,14 @@
 {
     "sceneName": "Act 2, scene 2",
     "playName": "henry the eighth",
-    "location": "An antechamber in the palace.",
+    "location": "An ante-chamber in the palace.",
     "lines": [
         {
             "text": "Enter Chamberlain, reading a letter"
         },
         {
             "speaker": "chamberlain",
-            "text": "My lord, the horses your lordship sent for, with all the care I had, I saw well chosen, ridden, and furnished. They were young and handsome, and of the best breed in the north. When they were ready to set out for London, a man of my lord cardinals, by commission and main power, took em from me with this reason: His master would be served before a subject, if not before the king which stopped our mouths, sir. I fear he will indeed: well, let him have them: He will have all, I think."
+            "text": "'My lord, the horses your lordship sent for, with all the care I had, I saw well chosen, ridden, and furnished. They were young and handsome, and of the best breed in the north. When they were ready to set out for London, a man of my lord cardinal's, by commission and main power, took 'em from me; with this reason: His master would be served before a subject, if not before the king; which stopped our mouths, sir.' I fear he will indeed: well, let him have them: He will have all, I think."
         },
         {
             "text": "Enter, to Chamberlain, NORFOLK and SUFFOLK"
@@ -23,7 +23,7 @@
         },
         {
             "speaker": "suffolk",
-            "text": "How is the king employd"
+            "text": "How is the king employ'd?"
         },
         {
             "speaker": "chamberlain",
@@ -31,11 +31,11 @@
         },
         {
             "speaker": "norfolk",
-            "text": "Whats the cause"
+            "text": "What's the cause?"
         },
         {
             "speaker": "chamberlain",
-            "text": "It seems the marriage with his brothers wife Has crept too near his conscience."
+            "text": "It seems the marriage with his brother's wife Has crept too near his conscience."
         },
         {
             "speaker": "suffolk",
@@ -43,19 +43,19 @@
         },
         {
             "speaker": "norfolk",
-            "text": "Tis so: This is the cardinals doing, the kingcardinal: That blind priest, like the eldest son of fortune, Turns what he list. The king will know him one day."
+            "text": "'Tis so: This is the cardinal's doing, the king-cardinal: That blind priest, like the eldest son of fortune, Turns what he list. The king will know him one day."
         },
         {
             "speaker": "suffolk",
-            "text": "Pray God he do! hell never know himself else."
+            "text": "Pray God he do! he'll never know himself else."
         },
         {
             "speaker": "norfolk",
-            "text": "How holily he works in all his business! And with what zeal! for, now he has crackd the league Between us and the emperor, the queens great nephew, He dives into the kings soul, and there scatters Dangers, doubts, wringing of the conscience, Fears, and despairs and all these for his marriage: And out of all these to restore the king, He counsels a divorce a loss of her That, like a jewel, has hung twenty years About his neck, yet never lost her lustre Of her that loves him with that excellence That angels love good men with even of her That, when the greatest stroke of fortune falls, Will bless the king: and is not this course pious"
+            "text": "How holily he works in all his business! And with what zeal! for, now he has crack'd the league Between us and the emperor, the queen's great nephew, He dives into the king's soul, and there scatters Dangers, doubts, wringing of the conscience, Fears, and despairs; and all these for his marriage: And out of all these to restore the king, He counsels a divorce; a loss of her That, like a jewel, has hung twenty years About his neck, yet never lost her lustre; Of her that loves him with that excellence That angels love good men with; even of her That, when the greatest stroke of fortune falls, Will bless the king: and is not this course pious?"
         },
         {
             "speaker": "chamberlain",
-            "text": "Heaven keep me from such counsel! Tis most true These news are every where every tongue speaks em, And every true heart weeps fort: all that dare Look into these affairs see this main end, The French kings sister. Heaven will one day open The kings eyes, that so long have slept upon This bold bad man."
+            "text": "Heaven keep me from such counsel! 'Tis most true These news are every where; every tongue speaks 'em, And every true heart weeps for't: all that dare Look into these affairs see this main end, The French king's sister. Heaven will one day open The king's eyes, that so long have slept upon This bold bad man."
         },
         {
             "speaker": "suffolk",
@@ -63,23 +63,23 @@
         },
         {
             "speaker": "norfolk",
-            "text": "We had need pray, And heartily, for our deliverance Or this imperious man will work us all From princes into pages: all mens honours Lie like one lump before him, to be fashiond Into what pitch he please."
+            "text": "We had need pray, And heartily, for our deliverance; Or this imperious man will work us all From princes into pages: all men's honours Lie like one lump before him, to be fashion'd Into what pitch he please."
         },
         {
             "speaker": "suffolk",
-            "text": "For me, my lords, I love him not, nor fear him theres my creed: As I am made without him, so Ill stand, If the king please his curses and his blessings Touch me alike, theyre breath I not believe in. I knew him, and I know him so I leave him To him that made him proud, the pope."
+            "text": "For me, my lords, I love him not, nor fear him; there's my creed: As I am made without him, so I'll stand, If the king please; his curses and his blessings Touch me alike, they're breath I not believe in. I knew him, and I know him; so I leave him To him that made him proud, the pope."
         },
         {
             "speaker": "norfolk",
-            "text": "Lets in And with some other business put the king From these sad thoughts, that work too much upon him: My lord, youll bear us company"
+            "text": "Let's in; And with some other business put the king From these sad thoughts, that work too much upon him: My lord, you'll bear us company?"
         },
         {
             "speaker": "chamberlain",
-            "text": "Excuse me The king has sent me otherwhere: besides, Youll find a most unfit time to disturb him: Health to your lordships."
+            "text": "Excuse me; The king has sent me otherwhere: besides, You'll find a most unfit time to disturb him: Health to your lordships."
         },
         {
             "speaker": "norfolk",
-            "text": "Thanks, my good lord chamberlain. Exit Chamberlain and KING HENRY VIII draws the curtain, and sits reading pensively"
+            "text": "Thanks, my good lord chamberlain. Exit Chamberlain; and KING HENRY VIII draws the curtain, and sits reading pensively"
         },
         {
             "speaker": "suffolk",
@@ -87,7 +87,7 @@
         },
         {
             "speaker": "king henry the eighth",
-            "text": "Whos there, ha"
+            "text": "Who's there, ha?"
         },
         {
             "speaker": "norfolk",
@@ -95,15 +95,15 @@
         },
         {
             "speaker": "king henry the eighth",
-            "text": "Whos there, I say How dare you thrust yourselves Into my private meditations Who am I ha"
+            "text": "Who's there, I say? How dare you thrust yourselves Into my private meditations? Who am I? ha?"
         },
         {
             "speaker": "norfolk",
-            "text": "A gracious king that pardons all offences Malice neer meant: our breach of duty this way Is business of estate in which we come To know your royal pleasure."
+            "text": "A gracious king that pardons all offences Malice ne'er meant: our breach of duty this way Is business of estate; in which we come To know your royal pleasure."
         },
         {
             "speaker": "king henry the eighth",
-            "text": "Ye are too bold: Go to Ill make ye know your times of business: Is this an hour for temporal affairs, ha Whos there my good lord cardinal O my Wolsey, The quiet of my wounded conscience Thou art a cure fit for a king. Youre welcome, Most learned reverend sir, into our kingdom: Use us and it. My good lord, have great care I be not found a talker."
+            "text": "Ye are too bold: Go to; I'll make ye know your times of business: Is this an hour for temporal affairs, ha? Who's there? my good lord cardinal? O my Wolsey, The quiet of my wounded conscience; Thou art a cure fit for a king. You're welcome, Most learned reverend sir, into our kingdom: Use us and it. My good lord, have great care I be not found a talker."
         },
         {
             "text": "Enter CARDINAL WOLSEY and CARDINAL CAMPEIUS, with a commission"
@@ -120,11 +120,11 @@
         },
         {
             "speaker": "king henry the eighth",
-            "text": "[To NORFOLK and SUFFOLK] We are busy go."
+            "text": "[To NORFOLK and SUFFOLK] We are busy; go."
         },
         {
             "speaker": "norfolk",
-            "text": "[Aside to SUFFOLK] This priest has no pride in him"
+            "text": "[Aside to SUFFOLK] This priest has no pride in him?"
         },
         {
             "speaker": "suffolk",
@@ -132,7 +132,7 @@
         },
         {
             "speaker": "norfolk",
-            "text": "[Aside to SUFFOLK]      If it do, Ill venture one haveathim."
+            "text": "[Aside to SUFFOLK]      If it do, I'll venture one have-at-him."
         },
         {
             "speaker": "suffolk",
@@ -143,37 +143,37 @@
         },
         {
             "speaker": "cardinal wolsey",
-            "text": "Your grace has given a precedent of wisdom Above all princes, in committing freely Your scruple to the voice of Christendom: Who can be angry now what envy reach you The Spaniard, tied blood and favour to her, Must now confess, if they have any goodness, The trial just and noble. All the clerks, I mean the learned ones, in Christian kingdoms Have their free voices: Rome, the nurse of judgment, Invited by your noble self, hath sent One general tongue unto us, this good man, This just and learned priest, Cardinal Campeius Whom once more I present unto your highness."
+            "text": "Your grace has given a precedent of wisdom Above all princes, in committing freely Your scruple to the voice of Christendom: Who can be angry now? what envy reach you? The Spaniard, tied blood and favour to her, Must now confess, if they have any goodness, The trial just and noble. All the clerks, I mean the learned ones, in Christian kingdoms Have their free voices: Rome, the nurse of judgment, Invited by your noble self, hath sent One general tongue unto us, this good man, This just and learned priest, Cardinal Campeius; Whom once more I present unto your highness."
         },
         {
             "speaker": "king henry the eighth",
-            "text": "And once more in mine arms I bid him welcome, And thank the holy conclave for their loves: They have sent me such a man I would have wishd for."
+            "text": "And once more in mine arms I bid him welcome, And thank the holy conclave for their loves: They have sent me such a man I would have wish'd for."
         },
         {
             "speaker": "cardinal campeius",
-            "text": "Your grace must needs deserve all strangers loves, You are so noble. To your highness hand I tender my commission by whose virtue, The court of Rome commanding, you, my lord Cardinal of York, are joind with me their servant In the unpartial judging of this business."
+            "text": "Your grace must needs deserve all strangers' loves, You are so noble. To your highness' hand I tender my commission; by whose virtue, The court of Rome commanding, you, my lord Cardinal of York, are join'd with me their servant In the unpartial judging of this business."
         },
         {
             "speaker": "king henry the eighth",
-            "text": "Two equal men. The queen shall be acquainted Forthwith for what you come. Wheres Gardiner"
+            "text": "Two equal men. The queen shall be acquainted Forthwith for what you come. Where's Gardiner?"
         },
         {
             "speaker": "cardinal wolsey",
-            "text": "I know your majesty has always loved her So dear in heart, not to deny her that A woman of less place might ask by law: Scholars allowd freely to argue for her."
+            "text": "I know your majesty has always loved her So dear in heart, not to deny her that A woman of less place might ask by law: Scholars allow'd freely to argue for her."
         },
         {
             "speaker": "king henry the eighth",
-            "text": "Ay, and the best she shall have and my favour To him that does best: God forbid else. Cardinal, Prithee, call Gardiner to me, my new secretary: I find him a fit fellow."
+            "text": "Ay, and the best she shall have; and my favour To him that does best: God forbid else. Cardinal, Prithee, call Gardiner to me, my new secretary: I find him a fit fellow."
         },
         {
             "text": "Exit CARDINAL WOLSEY"
         },
         {
-            "text": "Reenter CARDINAL WOLSEY, with GARDINER"
+            "text": "Re-enter CARDINAL WOLSEY, with GARDINER"
         },
         {
             "speaker": "cardinal wolsey",
-            "text": "[Aside to GARDINER]  Give me your hand much joy and favour to you You are the kings now."
+            "text": "[Aside to GARDINER]  Give me your hand much joy and favour to you; You are the king's now."
         },
         {
             "speaker": "gardiner",
@@ -188,7 +188,7 @@
         },
         {
             "speaker": "cardinal campeius",
-            "text": "My Lord of York, was not one Doctor Pace In this mans place before him"
+            "text": "My Lord of York, was not one Doctor Pace In this man's place before him?"
         },
         {
             "speaker": "cardinal wolsey",
@@ -196,7 +196,7 @@
         },
         {
             "speaker": "cardinal campeius",
-            "text": "Was he not held a learned man"
+            "text": "Was he not held a learned man?"
         },
         {
             "speaker": "cardinal wolsey",
@@ -204,23 +204,23 @@
         },
         {
             "speaker": "cardinal campeius",
-            "text": "Believe me, theres an ill opinion spread then Even of yourself, lord cardinal."
+            "text": "Believe me, there's an ill opinion spread then Even of yourself, lord cardinal."
         },
         {
             "speaker": "cardinal wolsey",
-            "text": "How! of me"
+            "text": "How! of me?"
         },
         {
             "speaker": "cardinal campeius",
-            "text": "They will not stick to say you envied him, And fearing he would rise, he was so virtuous, Kept him a foreign man still which so grieved him, That he ran mad and died."
+            "text": "They will not stick to say you envied him, And fearing he would rise, he was so virtuous, Kept him a foreign man still; which so grieved him, That he ran mad and died."
         },
         {
             "speaker": "cardinal wolsey",
-            "text": "Heavens peace be with him! Thats Christian care enough: for living murmurers Theres places of rebuke. He was a fool For he would needs be virtuous: that good fellow, If I command him, follows my appointment: I will have none so near else. Learn this, brother, We live not to be gripd by meaner persons."
+            "text": "Heaven's peace be with him! That's Christian care enough: for living murmurers There's places of rebuke. He was a fool; For he would needs be virtuous: that good fellow, If I command him, follows my appointment: I will have none so near else. Learn this, brother, We live not to be grip'd by meaner persons."
         },
         {
             "speaker": "king henry the eighth",
-            "text": "Deliver this with modesty to the queen. The most convenient place that I can think of For such receipt of learning is BlackFriars There ye shall meet about this weighty business. My Wolsey, see it furnishd. O, my lord, Would it not grieve an able man to leave So sweet a bedfellow But, conscience, conscience! O, tis a tender place and I must leave her."
+            "text": "Deliver this with modesty to the queen. The most convenient place that I can think of For such receipt of learning is Black-Friars; There ye shall meet about this weighty business. My Wolsey, see it furnish'd. O, my lord, Would it not grieve an able man to leave So sweet a bedfellow? But, conscience, conscience! O, 'tis a tender place; and I must leave her."
         },
         {
             "text": "Exit GARDINER"

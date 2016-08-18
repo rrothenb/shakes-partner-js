@@ -1,7 +1,7 @@
 {
     "sceneName": "Act 3, scene 4",
     "playName": "henry the fifth",
-    "location": "The FRENCH KINGs palace.",
+    "location": "The FRENCH KING's palace.",
     "lines": [
         {
             "text": "Enter KATHARINE and ALICE"
@@ -16,39 +16,39 @@
         },
         {
             "speaker": "katharine",
-            "text": "Je te prie, menseignez: il faut que japprenne a parler. Comment appelezvous la main en Anglois"
+            "text": "Je te prie, m'enseignez: il faut que j'apprenne a parler. Comment appelez-vous la main en Anglois?"
         },
         {
             "speaker": "alice",
-            "text": "La main elle est appelee de hand."
+            "text": "La main? elle est appelee de hand."
         },
         {
             "speaker": "katharine",
-            "text": "De hand. Et les doigts"
+            "text": "De hand. Et les doigts?"
         },
         {
             "speaker": "alice",
-            "text": "Les doigts ma foi, joublie les doigts mais je me souviendrai. Les doigts je pense quils sont appeles de fingres oui, de fingres."
+            "text": "Les doigts? ma foi, j'oublie les doigts; mais je me souviendrai. Les doigts? je pense qu'ils sont appeles de fingres; oui, de fingres."
         },
         {
             "speaker": "katharine",
-            "text": "La main, de hand les doigts, de fingres. Je pense que je suis le bon ecolier jai gagne deux mots dAnglois vitement. Comment appelezvous les ongles"
+            "text": "La main, de hand; les doigts, de fingres. Je pense que je suis le bon ecolier; j'ai gagne deux mots d'Anglois vitement. Comment appelez-vous les ongles?"
         },
         {
             "speaker": "alice",
-            "text": "Les ongles nous les appelons de nails."
+            "text": "Les ongles? nous les appelons de nails."
         },
         {
             "speaker": "katharine",
-            "text": "De nails. Ecoutez ditesmoi, si je parle bien: de hand, de fingres, et de nails."
+            "text": "De nails. Ecoutez; dites-moi, si je parle bien: de hand, de fingres, et de nails."
         },
         {
             "speaker": "alice",
-            "text": "Cest bien dit, madame il est fort bon Anglois."
+            "text": "C'est bien dit, madame; il est fort bon Anglois."
         },
         {
             "speaker": "katharine",
-            "text": "Ditesmoi lAnglois pour le bras."
+            "text": "Dites-moi l'Anglois pour le bras."
         },
         {
             "speaker": "alice",
@@ -56,7 +56,7 @@
         },
         {
             "speaker": "katharine",
-            "text": "Et le coude"
+            "text": "Et le coude?"
         },
         {
             "speaker": "alice",
@@ -64,7 +64,7 @@
         },
         {
             "speaker": "katharine",
-            "text": "De elbow. Je men fais la repetition de tous les mots que vous mavez appris des a present."
+            "text": "De elbow. Je m'en fais la repetition de tous les mots que vous m'avez appris des a present."
         },
         {
             "speaker": "alice",
@@ -72,7 +72,7 @@
         },
         {
             "speaker": "katharine",
-            "text": "Excusezmoi, Alice ecoutez: de hand, de fingres, de nails, de arma, de bilbow."
+            "text": "Excusez-moi, Alice; ecoutez: de hand, de fingres, de nails, de arma, de bilbow."
         },
         {
             "speaker": "alice",
@@ -80,7 +80,7 @@
         },
         {
             "speaker": "katharine",
-            "text": "O Seigneur Dieu, je men oublie! de elbow. Comment appelezvous le col"
+            "text": "O Seigneur Dieu, je m'en oublie! de elbow. Comment appelez-vous le col?"
         },
         {
             "speaker": "alice",
@@ -88,7 +88,7 @@
         },
         {
             "speaker": "katharine",
-            "text": "De nick. Et le menton"
+            "text": "De nick. Et le menton?"
         },
         {
             "speaker": "alice",
@@ -96,23 +96,23 @@
         },
         {
             "speaker": "katharine",
-            "text": "De sin. Le col, de nick de menton, de sin."
+            "text": "De sin. Le col, de nick; de menton, de sin."
         },
         {
             "speaker": "alice",
-            "text": "Oui. Sauf votre honneur, en verite, vous prononcez les mots aussi droit que les natifs dAngleterre."
+            "text": "Oui. Sauf votre honneur, en verite, vous prononcez les mots aussi droit que les natifs d'Angleterre."
         },
         {
             "speaker": "katharine",
-            "text": "Je ne doute point dapprendre, par la grace de Dieu, et en peu de temps."
+            "text": "Je ne doute point d'apprendre, par la grace de Dieu, et en peu de temps."
         },
         {
             "speaker": "alice",
-            "text": "Navez vous pas deja oublie ce que je vous ai enseigne"
+            "text": "N'avez vous pas deja oublie ce que je vous ai enseigne?"
         },
         {
             "speaker": "katharine",
-            "text": "Non, je reciterai a vous promptement: de hand, de fingres, de mails"
+            "text": "Non, je reciterai a vous promptement: de hand, de fingres, de mails--"
         },
         {
             "speaker": "alice",
@@ -128,15 +128,15 @@
         },
         {
             "speaker": "katharine",
-            "text": "Ainsi disje de elbow, de nick, et de sin. Comment appelezvous le pied et la robe"
+            "text": "Ainsi dis-je; de elbow, de nick, et de sin. Comment appelez-vous le pied et la robe?"
         },
         {
             "speaker": "alice",
-            "text": "De foot, madame et de coun."
+            "text": "De foot, madame; et de coun."
         },
         {
             "speaker": "katharine",
-            "text": "De foot et de coun! O Seigneur Dieu! ce sont mots de son mauvais, corruptible, gros, et impudique, et non pour les dames dhonneur duser: je ne voudrais prononcer ces mots devant les seigneurs de France pour tout le monde. Foh! le foot et le coun! Neanmoins, je reciterai une autre fois ma lecon ensemble: de hand, de fingres, de nails, de arm, de elbow, de nick, de sin, de foot, de coun."
+            "text": "De foot et de coun! O Seigneur Dieu! ce sont mots de son mauvais, corruptible, gros, et impudique, et non pour les dames d'honneur d'user: je ne voudrais prononcer ces mots devant les seigneurs de France pour tout le monde. Foh! le foot et le coun! Neanmoins, je reciterai une autre fois ma lecon ensemble: de hand, de fingres, de nails, de arm, de elbow, de nick, de sin, de foot, de coun."
         },
         {
             "speaker": "alice",
@@ -144,7 +144,7 @@
         },
         {
             "speaker": "katharine",
-            "text": "Cest assez pour une fois: allonsnous a diner."
+            "text": "C'est assez pour une fois: allons-nous a diner."
         },
         {
             "text": "Exeunt"

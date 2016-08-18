@@ -1,10 +1,10 @@
 {
     "sceneName": "Act 1, scene 4",
     "playName": "twelfth night",
-    "location": "DUKE ORSINOs palace.",
+    "location": "DUKE ORSINO's palace.",
     "lines": [
         {
-            "text": "Enter VALENTINE and VIOLA in mans attire"
+            "text": "Enter VALENTINE and VIOLA in man's attire"
         },
         {
             "speaker": "valentine",
@@ -12,7 +12,7 @@
         },
         {
             "speaker": "viola",
-            "text": "You either fear his humour or my negligence, that you call in question the continuance of his love: is he inconstant, sir, in his favours"
+            "text": "You either fear his humour or my negligence, that you call in question the continuance of his love: is he inconstant, sir, in his favours?"
         },
         {
             "speaker": "valentine",
@@ -27,19 +27,19 @@
         },
         {
             "speaker": "duke orsino",
-            "text": "Who saw Cesario, ho"
+            "text": "Who saw Cesario, ho?"
         },
         {
             "speaker": "viola",
-            "text": "On your attendance, my lord here."
+            "text": "On your attendance, my lord; here."
         },
         {
             "speaker": "duke orsino",
-            "text": "Stand you a while aloof, Cesario, Thou knowst no less but all I have unclaspd To thee the book even of my secret soul: Therefore, good youth, address thy gait unto her Be not denied access, stand at her doors, And tell them, there thy fixed foot shall grow Till thou have audience."
+            "text": "Stand you a while aloof, Cesario, Thou know'st no less but all; I have unclasp'd To thee the book even of my secret soul: Therefore, good youth, address thy gait unto her; Be not denied access, stand at her doors, And tell them, there thy fixed foot shall grow Till thou have audience."
         },
         {
             "speaker": "viola",
-            "text": "Sure, my noble lord, If she be so abandond to her sorrow As it is spoke, she never will admit me."
+            "text": "Sure, my noble lord, If she be so abandon'd to her sorrow As it is spoke, she never will admit me."
         },
         {
             "speaker": "duke orsino",
@@ -47,11 +47,11 @@
         },
         {
             "speaker": "viola",
-            "text": "Say I do speak with her, my lord, what then"
+            "text": "Say I do speak with her, my lord, what then?"
         },
         {
             "speaker": "duke orsino",
-            "text": "O, then unfold the passion of my love, Surprise her with discourse of my dear faith: It shall become thee well to act my woes She will attend it better in thy youth Than in a nuncios of more grave aspect."
+            "text": "O, then unfold the passion of my love, Surprise her with discourse of my dear faith: It shall become thee well to act my woes; She will attend it better in thy youth Than in a nuncio's of more grave aspect."
         },
         {
             "speaker": "viola",
@@ -59,11 +59,11 @@
         },
         {
             "speaker": "duke orsino",
-            "text": "Dear lad, believe it For they shall yet belie thy happy years, That say thou art a man: Dianas lip Is not more smooth and rubious thy small pipe Is as the maidens organ, shrill and sound, And all is semblative a womans part. I know thy constellation is right apt For this affair. Some four or five attend him All, if you will for I myself am best When least in company. Prosper well in this, And thou shalt live as freely as thy lord, To call his fortunes thine."
+            "text": "Dear lad, believe it; For they shall yet belie thy happy years, That say thou art a man: Diana's lip Is not more smooth and rubious; thy small pipe Is as the maiden's organ, shrill and sound, And all is semblative a woman's part. I know thy constellation is right apt For this affair. Some four or five attend him; All, if you will; for I myself am best When least in company. Prosper well in this, And thou shalt live as freely as thy lord, To call his fortunes thine."
         },
         {
             "speaker": "viola",
-            "text": "Ill do my best To woo your lady: yet, a barful strife! Whoeer I woo, myself would be his wife."
+            "text": "I'll do my best To woo your lady: yet, a barful strife! Whoe'er I woo, myself would be his wife."
         },
         {
             "text": "Aside"

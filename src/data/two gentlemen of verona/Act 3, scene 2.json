@@ -1,22 +1,22 @@
 {
     "sceneName": "Act 3, scene 2",
     "playName": "two gentlemen of verona",
-    "location": "The same. The DUKEs palace.",
+    "location": "The same. The DUKE's palace.",
     "lines": [
         {
             "text": "Enter DUKE and THURIO"
         },
         {
             "speaker": "duke",
-            "text": "Sir Thurio, fear not but that she will love you, Now Valentine is banishd from her sight."
+            "text": "Sir Thurio, fear not but that she will love you, Now Valentine is banish'd from her sight."
         },
         {
             "speaker": "thurio",
-            "text": "Since his exile she hath despised me most, Forsworn my company and raild at me, That I am desperate of obtaining her."
+            "text": "Since his exile she hath despised me most, Forsworn my company and rail'd at me, That I am desperate of obtaining her."
         },
         {
             "speaker": "duke",
-            "text": "This weak impress of love is as a figure Trenched in ice, which with an hours heat Dissolves to water and doth lose his form. A little time will melt her frozen thoughts And worthless Valentine shall be forgot. How now, Sir Proteus! Is your countryman According to our proclamation gone"
+            "text": "This weak impress of love is as a figure Trenched in ice, which with an hour's heat Dissolves to water and doth lose his form. A little time will melt her frozen thoughts And worthless Valentine shall be forgot. How now, Sir Proteus! Is your countryman According to our proclamation gone?"
         },
         {
             "text": "Enter PROTEUS"
@@ -35,7 +35,7 @@
         },
         {
             "speaker": "duke",
-            "text": "So I believe but Thurio thinks not so. Proteus, the good conceit I hold of thee For thou hast shown some sign of good desert Makes me the better to confer with thee."
+            "text": "So I believe; but Thurio thinks not so. Proteus, the good conceit I hold of thee-- For thou hast shown some sign of good desert-- Makes me the better to confer with thee."
         },
         {
             "speaker": "proteus",
@@ -43,7 +43,7 @@
         },
         {
             "speaker": "duke",
-            "text": "Thou knowst how willingly I would effect The match between Sir Thurio and my daughter."
+            "text": "Thou know'st how willingly I would effect The match between Sir Thurio and my daughter."
         },
         {
             "speaker": "proteus",
@@ -59,7 +59,7 @@
         },
         {
             "speaker": "duke",
-            "text": "Ay, and perversely she persevers so. What might we do to make the girl forget The love of Valentine and love Sir Thurio"
+            "text": "Ay, and perversely she persevers so. What might we do to make the girl forget The love of Valentine and love Sir Thurio?"
         },
         {
             "speaker": "proteus",
@@ -67,7 +67,7 @@
         },
         {
             "speaker": "duke",
-            "text": "Ay, but shell think that it is spoke in hate."
+            "text": "Ay, but she'll think that it is spoke in hate."
         },
         {
             "speaker": "proteus",
@@ -79,35 +79,35 @@
         },
         {
             "speaker": "proteus",
-            "text": "And that, my lord, I shall be loath to do: Tis an ill office for a gentleman, Especially against his very friend."
+            "text": "And that, my lord, I shall be loath to do: 'Tis an ill office for a gentleman, Especially against his very friend."
         },
         {
             "speaker": "duke",
-            "text": "Where your good word cannot advantage him, Your slander never can endamage him Therefore the office is indifferent, Being entreated to it by your friend."
+            "text": "Where your good word cannot advantage him, Your slander never can endamage him; Therefore the office is indifferent, Being entreated to it by your friend."
         },
         {
             "speaker": "proteus",
-            "text": "You have prevaild, my lord if I can do it By ought that I can speak in his dispraise, She shall not long continue love to him. But say this weed her love from Valentine, It follows not that she will love Sir Thurio."
+            "text": "You have prevail'd, my lord; if I can do it By ought that I can speak in his dispraise, She shall not long continue love to him. But say this weed her love from Valentine, It follows not that she will love Sir Thurio."
         },
         {
             "speaker": "thurio",
-            "text": "Therefore, as you unwind her love from him, Lest it should ravel and be good to none, You must provide to bottom it on me Which must be done by praising me as much As you in worth dispraise Sir Valentine."
+            "text": "Therefore, as you unwind her love from him, Lest it should ravel and be good to none, You must provide to bottom it on me; Which must be done by praising me as much As you in worth dispraise Sir Valentine."
         },
         {
             "speaker": "duke",
-            "text": "And, Proteus, we dare trust you in this kind, Because we know, on Valentines report, You are already Loves firm votary And cannot soon revolt and change your mind. Upon this warrant shall you have access Where you with Silvia may confer at large For she is lumpish, heavy, melancholy, And, for your friends sake, will be glad of you Where you may temper her by your persuasion To hate young Valentine and love my friend."
+            "text": "And, Proteus, we dare trust you in this kind, Because we know, on Valentine's report, You are already Love's firm votary And cannot soon revolt and change your mind. Upon this warrant shall you have access Where you with Silvia may confer at large; For she is lumpish, heavy, melancholy, And, for your friend's sake, will be glad of you; Where you may temper her by your persuasion To hate young Valentine and love my friend."
         },
         {
             "speaker": "proteus",
-            "text": "As much as I can do, I will effect: But you, Sir Thurio, are not sharp enough You must lay lime to tangle her desires By wailful sonnets, whose composed rhymes Should be fullfraught with serviceable vows."
+            "text": "As much as I can do, I will effect: But you, Sir Thurio, are not sharp enough; You must lay lime to tangle her desires By wailful sonnets, whose composed rhymes Should be full-fraught with serviceable vows."
         },
         {
             "speaker": "duke",
-            "text": "Ay, Much is the force of heavenbred poesy."
+            "text": "Ay, Much is the force of heaven-bred poesy."
         },
         {
             "speaker": "proteus",
-            "text": "Say that upon the altar of her beauty You sacrifice your tears, your sighs, your heart: Write till your ink be dry, and with your tears Moist it again, and frame some feeling line That may discover such integrity: For Orpheus lute was strung with poets sinews, Whose golden touch could soften steel and stones, Make tigers tame and huge leviathans Forsake unsounded deeps to dance on sands. After your direlamenting elegies, Visit by night your ladys chamberwindow With some sweet concert to their instruments Tune a deploring dump: the nights dead silence Will well become such sweetcomplaining grievance. This, or else nothing, will inherit her."
+            "text": "Say that upon the altar of her beauty You sacrifice your tears, your sighs, your heart: Write till your ink be dry, and with your tears Moist it again, and frame some feeling line That may discover such integrity: For Orpheus' lute was strung with poets' sinews, Whose golden touch could soften steel and stones, Make tigers tame and huge leviathans Forsake unsounded deeps to dance on sands. After your dire-lamenting elegies, Visit by night your lady's chamber-window With some sweet concert; to their instruments Tune a deploring dump: the night's dead silence Will well become such sweet-complaining grievance. This, or else nothing, will inherit her."
         },
         {
             "speaker": "duke",
@@ -115,7 +115,7 @@
         },
         {
             "speaker": "thurio",
-            "text": "And thy advice this night Ill put in practise. Therefore, sweet Proteus, my directiongiver, Let us into the city presently To sort some gentlemen well skilld in music. I have a sonnet that will serve the turn To give the onset to thy good advice."
+            "text": "And thy advice this night I'll put in practise. Therefore, sweet Proteus, my direction-giver, Let us into the city presently To sort some gentlemen well skill'd in music. I have a sonnet that will serve the turn To give the onset to thy good advice."
         },
         {
             "speaker": "duke",
@@ -123,7 +123,7 @@
         },
         {
             "speaker": "proteus",
-            "text": "Well wait upon your grace till after supper, And afterward determine our proceedings."
+            "text": "We'll wait upon your grace till after supper, And afterward determine our proceedings."
         },
         {
             "speaker": "duke",

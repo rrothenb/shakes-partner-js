@@ -1,25 +1,25 @@
 {
     "sceneName": "Act 4, scene 2",
     "playName": "king lear",
-    "location": "Before ALBANYs palace.",
+    "location": "Before ALBANY's palace.",
     "lines": [
         {
             "text": "Enter GONERIL and EDMUND"
         },
         {
             "speaker": "goneril",
-            "text": "Welcome, my lord: I marvel our mild husband Not met us on the way. Now, wheres your master"
+            "text": "Welcome, my lord: I marvel our mild husband Not met us on the way. Now, where's your master'?"
         },
         {
             "text": "Enter OSWALD"
         },
         {
             "speaker": "oswald",
-            "text": "Madam, within but never man so changed. I told him of the army that was landed He smiled at it: I told him you were coming: His answer was The worse: of Gloucesters treachery, And of the loyal service of his son, When I informd him, then he calld me sot, And told me I had turnd the wrong side out: What most he should dislike seems pleasant to him What like, offensive."
+            "text": "Madam, within; but never man so changed. I told him of the army that was landed; He smiled at it: I told him you were coming: His answer was 'The worse:' of Gloucester's treachery, And of the loyal service of his son, When I inform'd him, then he call'd me sot, And told me I had turn'd the wrong side out: What most he should dislike seems pleasant to him; What like, offensive."
         },
         {
             "speaker": "goneril",
-            "text": "[To EDMUND]  Then shall you go no further. It is the cowish terror of his spirit, That dares not undertake: hell not feel wrongs Which tie him to an answer. Our wishes on the way May prove effects. Back, Edmund, to my brother Hasten his musters and conduct his powers: I must change arms at home, and give the distaff Into my husbands hands. This trusty servant Shall pass between us: ere long you are like to hear, If you dare venture in your own behalf, A mistresss command. Wear this spare speech Decline your head: this kiss, if it durst speak, Would stretch thy spirits up into the air: Conceive, and fare thee well."
+            "text": "[To EDMUND]  Then shall you go no further. It is the cowish terror of his spirit, That dares not undertake: he'll not feel wrongs Which tie him to an answer. Our wishes on the way May prove effects. Back, Edmund, to my brother; Hasten his musters and conduct his powers: I must change arms at home, and give the distaff Into my husband's hands. This trusty servant Shall pass between us: ere long you are like to hear, If you dare venture in your own behalf, A mistress's command. Wear this; spare speech; Decline your head: this kiss, if it durst speak, Would stretch thy spirits up into the air: Conceive, and fare thee well."
         },
         {
             "text": "Giving a favour"
@@ -30,7 +30,7 @@
         },
         {
             "speaker": "goneril",
-            "text": "My most dear Gloucester! O, the difference of man and man! To thee a womans services are due: My fool usurps my body."
+            "text": "My most dear Gloucester! O, the difference of man and man! To thee a woman's services are due: My fool usurps my body."
         },
         {
             "text": "Exit EDMUND"
@@ -51,19 +51,19 @@
         },
         {
             "speaker": "albany",
-            "text": "O Goneril! You are not worth the dust which the rude wind Blows in your face. I fear your disposition: That nature, which contemns its origin, Cannot be borderd certain in itself She that herself will sliver and disbranch From her material sap, perforce must wither And come to deadly use."
+            "text": "O Goneril! You are not worth the dust which the rude wind Blows in your face. I fear your disposition: That nature, which contemns its origin, Cannot be border'd certain in itself; She that herself will sliver and disbranch From her material sap, perforce must wither And come to deadly use."
         },
         {
             "speaker": "goneril",
-            "text": "No more the text is foolish."
+            "text": "No more; the text is foolish."
         },
         {
             "speaker": "albany",
-            "text": "Wisdom and goodness to the vile seem vile: Filths savour but themselves. What have you done Tigers, not daughters, what have you performd A father, and a gracious aged man, Whose reverence even the headluggd bear would lick, Most barbarous, most degenerate! have you madded. Could my good brother suffer you to do it A man, a prince, by him so benefited! If that the heavens do not their visible spirits Send quickly down to tame these vile offences, It will come, Humanity must perforce prey on itself, Like monsters of the deep."
+            "text": "Wisdom and goodness to the vile seem vile: Filths savour but themselves. What have you done? Tigers, not daughters, what have you perform'd? A father, and a gracious aged man, Whose reverence even the head-lugg'd bear would lick, Most barbarous, most degenerate! have you madded. Could my good brother suffer you to do it? A man, a prince, by him so benefited! If that the heavens do not their visible spirits Send quickly down to tame these vile offences, It will come, Humanity must perforce prey on itself, Like monsters of the deep."
         },
         {
             "speaker": "goneril",
-            "text": "Milkliverd man! That bearst a cheek for blows, a head for wrongs Who hast not in thy brows an eye discerning Thine honour from thy suffering that not knowst Fools do those villains pity who are punishd Ere they have done their mischief. Wheres thy drum France spreads his banners in our noiseless land With plumed helm thy slayer begins threats Whiles thou, a moral fool, sitst still, and criest Alack, why does he so"
+            "text": "Milk-liver'd man! That bear'st a cheek for blows, a head for wrongs; Who hast not in thy brows an eye discerning Thine honour from thy suffering; that not know'st Fools do those villains pity who are punish'd Ere they have done their mischief. Where's thy drum? France spreads his banners in our noiseless land; With plumed helm thy slayer begins threats; Whiles thou, a moral fool, sit'st still, and criest 'Alack, why does he so?'"
         },
         {
             "speaker": "albany",
@@ -75,49 +75,49 @@
         },
         {
             "speaker": "albany",
-            "text": "Thou changed and selfcoverd thing, for shame, Bemonster not thy feature. Weret my fitness To let these hands obey my blood, They are apt enough to dislocate and tear Thy flesh and bones: howeer thou art a fiend, A womans shape doth shield thee."
+            "text": "Thou changed and self-cover'd thing, for shame, Be-monster not thy feature. Were't my fitness To let these hands obey my blood, They are apt enough to dislocate and tear Thy flesh and bones: howe'er thou art a fiend, A woman's shape doth shield thee."
         },
         {
             "speaker": "goneril",
-            "text": "Marry, your manhood now"
+            "text": "Marry, your manhood now--"
         },
         {
             "text": "Enter a Messenger"
         },
         {
             "speaker": "albany",
-            "text": "What news"
+            "text": "What news?"
         },
         {
             "speaker": "messenger",
-            "text": "O, my good lord, the Duke of Cornwalls dead: Slain by his servant, going to put out The other eye of Gloucester."
+            "text": "O, my good lord, the Duke of Cornwall's dead: Slain by his servant, going to put out The other eye of Gloucester."
         },
         {
             "speaker": "albany",
-            "text": "Gloucesters eye!"
+            "text": "Gloucester's eye!"
         },
         {
             "speaker": "messenger",
-            "text": "A servant that he bred, thrilld with remorse, Opposed against the act, bending his sword To his great master who, thereat enraged, Flew on him, and amongst them felld him dead But not without that harmful stroke, which since Hath pluckd him after."
+            "text": "A servant that he bred, thrill'd with remorse, Opposed against the act, bending his sword To his great master; who, thereat enraged, Flew on him, and amongst them fell'd him dead; But not without that harmful stroke, which since Hath pluck'd him after."
         },
         {
             "speaker": "albany",
-            "text": "This shows you are above, You justicers, that these our nether crimes So speedily can venge! But, O poor Gloucester! Lost he his other eye"
+            "text": "This shows you are above, You justicers, that these our nether crimes So speedily can venge! But, O poor Gloucester! Lost he his other eye?"
         },
         {
             "speaker": "messenger",
-            "text": "Both, both, my lord. This letter, madam, craves a speedy answer Tis from your sister."
+            "text": "Both, both, my lord. This letter, madam, craves a speedy answer; 'Tis from your sister."
         },
         {
             "speaker": "goneril",
-            "text": "[Aside]              One way I like this well But being widow, and my Gloucester with her, May all the building in my fancy pluck Upon my hateful life: another way, The news is not so tart.Ill read, and answer."
+            "text": "[Aside]              One way I like this well; But being widow, and my Gloucester with her, May all the building in my fancy pluck Upon my hateful life: another way, The news is not so tart.--I'll read, and answer."
         },
         {
             "text": "Exit"
         },
         {
             "speaker": "albany",
-            "text": "Where was his son when they did take his eyes"
+            "text": "Where was his son when they did take his eyes?"
         },
         {
             "speaker": "messenger",
@@ -129,19 +129,19 @@
         },
         {
             "speaker": "messenger",
-            "text": "No, my good lord I met him back again."
+            "text": "No, my good lord; I met him back again."
         },
         {
             "speaker": "albany",
-            "text": "Knows he the wickedness"
+            "text": "Knows he the wickedness?"
         },
         {
             "speaker": "messenger",
-            "text": "Ay, my good lord twas he informd against him And quit the house on purpose, that their punishment Might have the freer course."
+            "text": "Ay, my good lord; 'twas he inform'd against him; And quit the house on purpose, that their punishment Might have the freer course."
         },
         {
             "speaker": "albany",
-            "text": "Gloucester, I live To thank thee for the love thou showdst the king, And to revenge thine eyes. Come hither, friend: Tell me what more thou knowst."
+            "text": "Gloucester, I live To thank thee for the love thou show'dst the king, And to revenge thine eyes. Come hither, friend: Tell me what more thou know'st."
         },
         {
             "text": "Exeunt"

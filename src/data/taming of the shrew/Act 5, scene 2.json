@@ -1,14 +1,14 @@
 {
     "sceneName": "Act 5, scene 2",
     "playName": "taming of the shrew",
-    "location": "Padua. LUCENTIOS house.",
+    "location": "Padua. LUCENTIO'S house.",
     "lines": [
         {
-            "text": "Enter BAPTISTA, VINCENTIO, GREMIO, the Pedant,  LUCENTIO, BIANCA, PETRUCHIO, KATHARINA, HORTENSIO,  and Widow, TRANIO, BIONDELLO, and GRUMIO the Servingmen with Tranio bringing in a banquet"
+            "text": "Enter BAPTISTA, VINCENTIO, GREMIO, the Pedant,  LUCENTIO, BIANCA, PETRUCHIO, KATHARINA, HORTENSIO,  and Widow, TRANIO, BIONDELLO, and GRUMIO the Serving-men with Tranio bringing in a banquet"
         },
         {
             "speaker": "lucentio",
-            "text": "At last, though long, our jarring notes agree: And time it is, when raging war is done, To smile at scapes and perils overblown. My fair Bianca, bid my father welcome, While I with selfsame kindness welcome thine. Brother Petruchio, sister Katharina, And thou, Hortensio, with thy loving widow, Feast with the best, and welcome to my house: My banquet is to close our stomachs up, After our great good cheer. Pray you, sit down For now we sit to chat as well as eat."
+            "text": "At last, though long, our jarring notes agree: And time it is, when raging war is done, To smile at scapes and perils overblown. My fair Bianca, bid my father welcome, While I with self-same kindness welcome thine. Brother Petruchio, sister Katharina, And thou, Hortensio, with thy loving widow, Feast with the best, and welcome to my house: My banquet is to close our stomachs up, After our great good cheer. Pray you, sit down; For now we sit to chat as well as eat."
         },
         {
             "speaker": "petruchio",
@@ -48,7 +48,7 @@
         },
         {
             "speaker": "katharina",
-            "text": "Mistress, how mean you that"
+            "text": "Mistress, how mean you that?"
         },
         {
             "speaker": "widow",
@@ -56,7 +56,7 @@
         },
         {
             "speaker": "petruchio",
-            "text": "Conceives by me! How likes Hortensio that"
+            "text": "Conceives by me! How likes Hortensio that?"
         },
         {
             "speaker": "hortensio",
@@ -68,11 +68,11 @@
         },
         {
             "speaker": "katharina",
-            "text": "He that is giddy thinks the world turns round: I pray you, tell me what you meant by that."
+            "text": "'He that is giddy thinks the world turns round:' I pray you, tell me what you meant by that."
         },
         {
             "speaker": "widow",
-            "text": "Your husband, being troubled with a shrew, Measures my husbands sorrow by his woe: And now you know my meaning,"
+            "text": "Your husband, being troubled with a shrew, Measures my husband's sorrow by his woe: And now you know my meaning,"
         },
         {
             "speaker": "katharina",
@@ -100,18 +100,18 @@
         },
         {
             "speaker": "hortensio",
-            "text": "Thats my office."
+            "text": "That's my office."
         },
         {
             "speaker": "petruchio",
-            "text": "Spoke like an officer ha to thee, lad!"
+            "text": "Spoke like an officer; ha' to thee, lad!"
         },
         {
             "text": "Drinks to HORTENSIO"
         },
         {
             "speaker": "baptista",
-            "text": "How likes Gremio these quickwitted folks"
+            "text": "How likes Gremio these quick-witted folks?"
         },
         {
             "speaker": "gremio",
@@ -119,15 +119,15 @@
         },
         {
             "speaker": "bianca",
-            "text": "Head, and butt! an hastywitted body Would say your head and butt were head and horn."
+            "text": "Head, and butt! an hasty-witted body Would say your head and butt were head and horn."
         },
         {
             "speaker": "vincentio",
-            "text": "Ay, mistress bride, hath that awakend you"
+            "text": "Ay, mistress bride, hath that awaken'd you?"
         },
         {
             "speaker": "bianca",
-            "text": "Ay, but not frighted me therefore Ill sleep again."
+            "text": "Ay, but not frighted me; therefore I'll sleep again."
         },
         {
             "speaker": "petruchio",
@@ -135,18 +135,18 @@
         },
         {
             "speaker": "bianca",
-            "text": "Am I your bird I mean to shift my bush And then pursue me as you draw your bow. You are welcome all."
+            "text": "Am I your bird? I mean to shift my bush; And then pursue me as you draw your bow. You are welcome all."
         },
         {
             "text": "Exeunt BIANCA, KATHARINA, and Widow"
         },
         {
             "speaker": "petruchio",
-            "text": "She hath prevented me. Here, Signior Tranio. This bird you aimd at, though you hit her not Therefore a health to all that shot and missd."
+            "text": "She hath prevented me. Here, Signior Tranio. This bird you aim'd at, though you hit her not; Therefore a health to all that shot and miss'd."
         },
         {
             "speaker": "tranio",
-            "text": "O, sir, Lucentio slippd me like his greyhound, Which runs himself and catches for his master."
+            "text": "O, sir, Lucentio slipp'd me like his greyhound, Which runs himself and catches for his master."
         },
         {
             "speaker": "petruchio",
@@ -154,7 +154,7 @@
         },
         {
             "speaker": "tranio",
-            "text": "Tis well, sir, that you hunted for yourself: Tis thought your deer does hold you at a bay."
+            "text": "'Tis well, sir, that you hunted for yourself: 'Tis thought your deer does hold you at a bay."
         },
         {
             "speaker": "baptista",
@@ -166,11 +166,11 @@
         },
         {
             "speaker": "hortensio",
-            "text": "Confess, confess, hath he not hit you here"
+            "text": "Confess, confess, hath he not hit you here?"
         },
         {
             "speaker": "petruchio",
-            "text": "A has a little galld me, I confess And, as the jest did glance away from me, Tis ten to one it maimd you two outright."
+            "text": "A' has a little gall'd me, I confess; And, as the jest did glance away from me, 'Tis ten to one it maim'd you two outright."
         },
         {
             "speaker": "baptista",
@@ -178,11 +178,11 @@
         },
         {
             "speaker": "petruchio",
-            "text": "Well, I say no: and therefore for assurance Lets each one send unto his wife And he whose wife is most obedient To come at first when he doth send for her, Shall win the wager which we will propose."
+            "text": "Well, I say no: and therefore for assurance Let's each one send unto his wife; And he whose wife is most obedient To come at first when he doth send for her, Shall win the wager which we will propose."
         },
         {
             "speaker": "hortensio",
-            "text": "Content. What is the wager"
+            "text": "Content. What is the wager?"
         },
         {
             "speaker": "lucentio",
@@ -190,7 +190,7 @@
         },
         {
             "speaker": "petruchio",
-            "text": "Twenty crowns! Ill venture so much of my hawk or hound, But twenty times so much upon my wife."
+            "text": "Twenty crowns! I'll venture so much of my hawk or hound, But twenty times so much upon my wife."
         },
         {
             "speaker": "lucentio",
@@ -202,11 +202,11 @@
         },
         {
             "speaker": "petruchio",
-            "text": "A match! tis done."
+            "text": "A match! 'tis done."
         },
         {
             "speaker": "hortensio",
-            "text": "Who shall begin"
+            "text": "Who shall begin?"
         },
         {
             "speaker": "lucentio",
@@ -221,14 +221,14 @@
         },
         {
             "speaker": "baptista",
-            "text": "Son, Ill be your half, Bianca comes."
+            "text": "Son, I'll be your half, Bianca comes."
         },
         {
             "speaker": "lucentio",
-            "text": "Ill have no halves Ill bear it all myself. How now! what news"
+            "text": "I'll have no halves; I'll bear it all myself. How now! what news?"
         },
         {
-            "text": "Reenter BIONDELLO"
+            "text": "Re-enter BIONDELLO"
         },
         {
             "speaker": "biondello",
@@ -236,7 +236,7 @@
         },
         {
             "speaker": "petruchio",
-            "text": "How! she is busy and she cannot come! Is that an answer"
+            "text": "How! she is busy and she cannot come! Is that an answer?"
         },
         {
             "speaker": "gremio",
@@ -259,10 +259,10 @@
         },
         {
             "speaker": "hortensio",
-            "text": "I am afraid, sir, Do what you can, yours will not be entreated. Now, wheres my wife"
+            "text": "I am afraid, sir, Do what you can, yours will not be entreated. Now, where's my wife?"
         },
         {
-            "text": "Reenter BIONDELLO"
+            "text": "Re-enter BIONDELLO"
         },
         {
             "speaker": "biondello",
@@ -270,7 +270,7 @@
         },
         {
             "speaker": "petruchio",
-            "text": "Worse and worse she will not come! O vile, Intolerable, not to be endured! Sirrah Grumio, go to your mistress Say, I command her to come to me."
+            "text": "Worse and worse; she will not come! O vile, Intolerable, not to be endured! Sirrah Grumio, go to your mistress; Say, I command her to come to me."
         },
         {
             "text": "Exit GRUMIO"
@@ -281,7 +281,7 @@
         },
         {
             "speaker": "petruchio",
-            "text": "What"
+            "text": "What?"
         },
         {
             "speaker": "hortensio",
@@ -296,15 +296,15 @@
             "text": "Now, by my holidame, here comes Katharina!"
         },
         {
-            "text": "Reenter KATARINA"
+            "text": "Re-enter KATARINA"
         },
         {
             "speaker": "katharina",
-            "text": "What is your will, sir, that you send for me"
+            "text": "What is your will, sir, that you send for me?"
         },
         {
             "speaker": "petruchio",
-            "text": "Where is your sister, and Hortensios wife"
+            "text": "Where is your sister, and Hortensio's wife?"
         },
         {
             "speaker": "katharina",
@@ -327,18 +327,18 @@
         },
         {
             "speaker": "petruchio",
-            "text": "Marry, peace it bodes, and love and quiet life, And awful rule and right supremacy And, to be short, what not, thats sweet and happy"
+            "text": "Marry, peace it bodes, and love and quiet life, And awful rule and right supremacy; And, to be short, what not, that's sweet and happy?"
         },
         {
             "speaker": "baptista",
-            "text": "Now, fair befal thee, good Petruchio! The wager thou hast won and I will add Unto their losses twenty thousand crowns Another dowry to another daughter, For she is changed, as she had never been."
+            "text": "Now, fair befal thee, good Petruchio! The wager thou hast won; and I will add Unto their losses twenty thousand crowns; Another dowry to another daughter, For she is changed, as she had never been."
         },
         {
             "speaker": "petruchio",
-            "text": "Nay, I will win my wager better yet And show more sign of her obedience, Her newbuilt virtue and obedience. See where she comes and brings your froward wives As prisoners to her womanly persuasion. Katharina, that cap of yours becomes you not: Off with that bauble, throw it underfoot."
+            "text": "Nay, I will win my wager better yet And show more sign of her obedience, Her new-built virtue and obedience. See where she comes and brings your froward wives As prisoners to her womanly persuasion. Katharina, that cap of yours becomes you not: Off with that bauble, throw it under-foot."
         },
         {
-            "text": "Reenter KATHARINA, with BIANCA and Widow"
+            "text": "Re-enter KATHARINA, with BIANCA and Widow"
         },
         {
             "speaker": "widow",
@@ -346,11 +346,11 @@
         },
         {
             "speaker": "bianca",
-            "text": "Fie! what a foolish duty call you this"
+            "text": "Fie! what a foolish duty call you this?"
         },
         {
             "speaker": "lucentio",
-            "text": "I would your duty were as foolish too: The wisdom of your duty, fair Bianca, Hath cost me an hundred crowns since suppertime."
+            "text": "I would your duty were as foolish too: The wisdom of your duty, fair Bianca, Hath cost me an hundred crowns since supper-time."
         },
         {
             "speaker": "bianca",
@@ -362,11 +362,11 @@
         },
         {
             "speaker": "widow",
-            "text": "Come, come, youre mocking: we will have no telling."
+            "text": "Come, come, you're mocking: we will have no telling."
         },
         {
             "speaker": "petruchio",
-            "text": "Come on, I say and first begin with her."
+            "text": "Come on, I say; and first begin with her."
         },
         {
             "speaker": "widow",
@@ -378,19 +378,19 @@
         },
         {
             "speaker": "katharina",
-            "text": "Fie, fie! unknit that threatening unkind brow, And dart not scornful glances from those eyes, To wound thy lord, thy king, thy governor: It blots thy beauty as frosts do bite the meads, Confounds thy fame as whirlwinds shake fair buds, And in no sense is meet or amiable. A woman moved is like a fountain troubled, Muddy, illseeming, thick, bereft of beauty And while it is so, none so dry or thirsty Will deign to sip or touch one drop of it. Thy husband is thy lord, thy life, thy keeper, Thy head, thy sovereign one that cares for thee, And for thy maintenance commits his body To painful labour both by sea and land, To watch the night in storms, the day in cold, Whilst thou liest warm at home, secure and safe And craves no other tribute at thy hands But love, fair looks and true obedience Too little payment for so great a debt. Such duty as the subject owes the prince Even such a woman oweth to her husband And when she is froward, peevish, sullen, sour, And not obedient to his honest will, What is she but a foul contending rebel And graceless traitor to her loving lord I am ashamed that women are so simple To offer war where they should kneel for peace Or seek for rule, supremacy and sway, When they are bound to serve, love and obey. Why are our bodies soft and weak and smooth, Unapt to toil and trouble in the world, But that our soft conditions and our hearts Should well agree with our external parts Come, come, you froward and unable worms! My mind hath been as big as one of yours, My heart as great, my reason haply more, To bandy word for word and frown for frown But now I see our lances are but straws, Our strength as weak, our weakness past compare, That seeming to be most which we indeed least are. Then vail your stomachs, for it is no boot, And place your hands below your husbands foot: In token of which duty, if he please, My hand is ready may it do him ease."
+            "text": "Fie, fie! unknit that threatening unkind brow, And dart not scornful glances from those eyes, To wound thy lord, thy king, thy governor: It blots thy beauty as frosts do bite the meads, Confounds thy fame as whirlwinds shake fair buds, And in no sense is meet or amiable. A woman moved is like a fountain troubled, Muddy, ill-seeming, thick, bereft of beauty; And while it is so, none so dry or thirsty Will deign to sip or touch one drop of it. Thy husband is thy lord, thy life, thy keeper, Thy head, thy sovereign; one that cares for thee, And for thy maintenance commits his body To painful labour both by sea and land, To watch the night in storms, the day in cold, Whilst thou liest warm at home, secure and safe; And craves no other tribute at thy hands But love, fair looks and true obedience; Too little payment for so great a debt. Such duty as the subject owes the prince Even such a woman oweth to her husband; And when she is froward, peevish, sullen, sour, And not obedient to his honest will, What is she but a foul contending rebel And graceless traitor to her loving lord? I am ashamed that women are so simple To offer war where they should kneel for peace; Or seek for rule, supremacy and sway, When they are bound to serve, love and obey. Why are our bodies soft and weak and smooth, Unapt to toil and trouble in the world, But that our soft conditions and our hearts Should well agree with our external parts? Come, come, you froward and unable worms! My mind hath been as big as one of yours, My heart as great, my reason haply more, To bandy word for word and frown for frown; But now I see our lances are but straws, Our strength as weak, our weakness past compare, That seeming to be most which we indeed least are. Then vail your stomachs, for it is no boot, And place your hands below your husband's foot: In token of which duty, if he please, My hand is ready; may it do him ease."
         },
         {
             "speaker": "petruchio",
-            "text": "Why, theres a wench! Come on, and kiss me, Kate."
+            "text": "Why, there's a wench! Come on, and kiss me, Kate."
         },
         {
             "speaker": "lucentio",
-            "text": "Well, go thy ways, old lad for thou shalt hat."
+            "text": "Well, go thy ways, old lad; for thou shalt ha't."
         },
         {
             "speaker": "vincentio",
-            "text": "Tis a good hearing when children are toward."
+            "text": "'Tis a good hearing when children are toward."
         },
         {
             "speaker": "lucentio",
@@ -398,7 +398,7 @@
         },
         {
             "speaker": "petruchio",
-            "text": "Come, Kate, well to bed. We three are married, but you two are sped. Twas I won the wager, though you hit the white And, being a winner, God give you good night!"
+            "text": "Come, Kate, we'll to bed. We three are married, but you two are sped. 'Twas I won the wager, though you hit the white; And, being a winner, God give you good night!"
         },
         {
             "text": "To LUCENTIO"
@@ -408,11 +408,11 @@
         },
         {
             "speaker": "hortensio",
-            "text": "Now, go thy ways thou hast tamed a curst shrew."
+            "text": "Now, go thy ways; thou hast tamed a curst shrew."
         },
         {
             "speaker": "lucentio",
-            "text": "Tis a wonder, by your leave, she will be tamed so. of thunder and lightning heard."
+            "text": "'Tis a wonder, by your leave, she will be tamed so. of thunder and lightning heard."
         },
         {
             "text": "Exeunt"

@@ -1,7 +1,7 @@
 {
     "sceneName": "Act 3, scene 2",
     "playName": "henry the eighth",
-    "location": "Antechamber to KING HENRY VIIIs apartment.",
+    "location": "Ante-chamber to KING HENRY VIII's apartment.",
     "lines": [
         {
             "text": "Enter NORFOLK, SUFFOLK, SURREY, and Chamberlain"
@@ -12,19 +12,19 @@
         },
         {
             "speaker": "surrey",
-            "text": "I am joyful To meet the least occasion that may give me Remembrance of my fatherinlaw, the duke, To be revenged on him."
+            "text": "I am joyful To meet the least occasion that may give me Remembrance of my father-in-law, the duke, To be revenged on him."
         },
         {
             "speaker": "suffolk",
-            "text": "Which of the peers Have uncontemnd gone by him, or at least Strangely neglected when did he regard The stamp of nobleness in any person Out of himself"
+            "text": "Which of the peers Have uncontemn'd gone by him, or at least Strangely neglected? when did he regard The stamp of nobleness in any person Out of himself?"
         },
         {
             "speaker": "chamberlain",
-            "text": "My lords, you speak your pleasures: What he deserves of you and me I know What we can do to him, though now the time Gives way to us, I much fear. If you cannot Bar his access to the king, never attempt Any thing on him for he hath a witchcraft Over the king ins tongue."
+            "text": "My lords, you speak your pleasures: What he deserves of you and me I know; What we can do to him, though now the time Gives way to us, I much fear. If you cannot Bar his access to the king, never attempt Any thing on him; for he hath a witchcraft Over the king in's tongue."
         },
         {
             "speaker": "norfolk",
-            "text": "O, fear him not His spell in that is out: the king hath found Matter against him that for ever mars The honey of his language. No, hes settled, Not to come off, in his displeasure."
+            "text": "O, fear him not; His spell in that is out: the king hath found Matter against him that for ever mars The honey of his language. No, he's settled, Not to come off, in his displeasure."
         },
         {
             "speaker": "surrey",
@@ -36,7 +36,7 @@
         },
         {
             "speaker": "surrey",
-            "text": "How came His practises to light"
+            "text": "How came His practises to light?"
         },
         {
             "speaker": "suffolk",
@@ -44,15 +44,15 @@
         },
         {
             "speaker": "surrey",
-            "text": "O, how, how"
+            "text": "O, how, how?"
         },
         {
             "speaker": "suffolk",
-            "text": "The cardinals letters to the pope miscarried, And came to the eye o the king: wherein was read, How that the cardinal did entreat his holiness To stay the judgment o the divorce for if It did take place, I do, quoth he, perceive My king is tangled in affection to A creature of the queens, Lady Anne Bullen."
+            "text": "The cardinal's letters to the pope miscarried, And came to the eye o' the king: wherein was read, How that the cardinal did entreat his holiness To stay the judgment o' the divorce; for if It did take place, 'I do,' quoth he, 'perceive My king is tangled in affection to A creature of the queen's, Lady Anne Bullen.'"
         },
         {
             "speaker": "surrey",
-            "text": "Has the king this"
+            "text": "Has the king this?"
         },
         {
             "speaker": "suffolk",
@@ -60,11 +60,11 @@
         },
         {
             "speaker": "surrey",
-            "text": "Will this work"
+            "text": "Will this work?"
         },
         {
             "speaker": "chamberlain",
-            "text": "The king in this perceives him, how he coasts And hedges his own way. But in this point All his tricks founder, and he brings his physic After his patients death: the king already Hath married the fair lady."
+            "text": "The king in this perceives him, how he coasts And hedges his own way. But in this point All his tricks founder, and he brings his physic After his patient's death: the king already Hath married the fair lady."
         },
         {
             "speaker": "surrey",
@@ -80,19 +80,19 @@
         },
         {
             "speaker": "suffolk",
-            "text": "My amen tot!"
+            "text": "My amen to't!"
         },
         {
             "speaker": "norfolk",
-            "text": "All mens!"
+            "text": "All men's!"
         },
         {
             "speaker": "suffolk",
-            "text": "Theres order given for her coronation: Marry, this is yet but young, and may be left To some ears unrecounted. But, my lords, She is a gallant creature, and complete In mind and feature: I persuade me, from her Will fall some blessing to this land, which shall In it be memorised."
+            "text": "There's order given for her coronation: Marry, this is yet but young, and may be left To some ears unrecounted. But, my lords, She is a gallant creature, and complete In mind and feature: I persuade me, from her Will fall some blessing to this land, which shall In it be memorised."
         },
         {
             "speaker": "surrey",
-            "text": "But, will the king Digest this letter of the cardinals The Lord forbid!"
+            "text": "But, will the king Digest this letter of the cardinal's? The Lord forbid!"
         },
         {
             "speaker": "norfolk",
@@ -100,7 +100,7 @@
         },
         {
             "speaker": "suffolk",
-            "text": "No, no There be moe wasps that buzz about his nose Will make this sting the sooner. Cardinal Campeius Is stoln away to Rome hath taen no leave Has left the cause o the king unhandled and Is posted, as the agent of our cardinal, To second all his plot. I do assure you The king cried Ha! at this."
+            "text": "No, no; There be moe wasps that buzz about his nose Will make this sting the sooner. Cardinal Campeius Is stol'n away to Rome; hath ta'en no leave; Has left the cause o' the king unhandled; and Is posted, as the agent of our cardinal, To second all his plot. I do assure you The king cried Ha! at this."
         },
         {
             "speaker": "chamberlain",
@@ -108,19 +108,19 @@
         },
         {
             "speaker": "norfolk",
-            "text": "But, my lord, When returns Cranmer"
+            "text": "But, my lord, When returns Cranmer?"
         },
         {
             "speaker": "suffolk",
-            "text": "He is returnd in his opinions which Have satisfied the king for his divorce, Together with all famous colleges Almost in Christendom: shortly, I believe, His second marriage shall be publishd, and Her coronation. Katharine no more Shall be calld queen, but princess dowager And widow to Prince Arthur."
+            "text": "He is return'd in his opinions; which Have satisfied the king for his divorce, Together with all famous colleges Almost in Christendom: shortly, I believe, His second marriage shall be publish'd, and Her coronation. Katharine no more Shall be call'd queen, but princess dowager And widow to Prince Arthur."
         },
         {
             "speaker": "norfolk",
-            "text": "This same Cranmers A worthy fellow, and hath taen much pain In the kings business."
+            "text": "This same Cranmer's A worthy fellow, and hath ta'en much pain In the king's business."
         },
         {
             "speaker": "suffolk",
-            "text": "He has and we shall see him For it an archbishop."
+            "text": "He has; and we shall see him For it an archbishop."
         },
         {
             "speaker": "norfolk",
@@ -128,34 +128,34 @@
         },
         {
             "speaker": "suffolk",
-            "text": "Tis so. The cardinal!"
+            "text": "'Tis so. The cardinal!"
         },
         {
             "text": "Enter CARDINAL WOLSEY and CROMWELL"
         },
         {
             "speaker": "norfolk",
-            "text": "Observe, observe, hes moody."
+            "text": "Observe, observe, he's moody."
         },
         {
             "speaker": "cardinal wolsey",
-            "text": "The packet, Cromwell. Gavet you the king"
+            "text": "The packet, Cromwell. Gave't you the king?"
         },
         {
             "speaker": "cromwell",
-            "text": "To his own hand, ins bedchamber."
+            "text": "To his own hand, in's bedchamber."
         },
         {
             "speaker": "cardinal wolsey",
-            "text": "Lookd he o the inside of the paper"
+            "text": "Look'd he o' the inside of the paper?"
         },
         {
             "speaker": "cromwell",
-            "text": "Presently He did unseal them: and the first he viewd, He did it with a serious mind a heed Was in his countenance. You he bade Attend him here this morning."
+            "text": "Presently He did unseal them: and the first he view'd, He did it with a serious mind; a heed Was in his countenance. You he bade Attend him here this morning."
         },
         {
             "speaker": "cardinal wolsey",
-            "text": "Is he ready To come abroad"
+            "text": "Is he ready To come abroad?"
         },
         {
             "speaker": "cromwell",
@@ -163,7 +163,7 @@
         },
         {
             "speaker": "cardinal wolsey",
-            "text": "Leave me awhile. It shall be to the Duchess of Alencon, The French kings sister: he shall marry her. Anne Bullen! No Ill no Anne Bullens for him: Theres more int than fair visage. Bullen! No, well no Bullens. Speedily I wish To hear from Rome. The Marchioness of Pembroke!"
+            "text": "Leave me awhile. It shall be to the Duchess of Alencon, The French king's sister: he shall marry her. Anne Bullen! No; I'll no Anne Bullens for him: There's more in't than fair visage. Bullen! No, we'll no Bullens. Speedily I wish To hear from Rome. The Marchioness of Pembroke!"
         },
         {
             "text": "Exit CROMWELL"
@@ -173,7 +173,7 @@
         },
         {
             "speaker": "norfolk",
-            "text": "Hes discontented."
+            "text": "He's discontented."
         },
         {
             "speaker": "suffolk",
@@ -185,15 +185,15 @@
         },
         {
             "speaker": "cardinal wolsey",
-            "text": "[Aside]  The late queens gentlewoman, a knights daughter, To be her mistress mistress! the queens queen! This candle burns not clear: tis I must snuff it Then out it goes. What though I know her virtuous And well deserving yet I know her for A spleeny Lutheran and not wholesome to Our cause, that she should lie i the bosom of Our hardruled king. Again, there is sprung up An heretic, an arch one, Cranmer one Hath crawld into the favour of the king, And is his oracle."
+            "text": "[Aside]  The late queen's gentlewoman, a knight's daughter, To be her mistress' mistress! the queen's queen! This candle burns not clear: 'tis I must snuff it; Then out it goes. What though I know her virtuous And well deserving? yet I know her for A spleeny Lutheran; and not wholesome to Our cause, that she should lie i' the bosom of Our hard-ruled king. Again, there is sprung up An heretic, an arch one, Cranmer; one Hath crawl'd into the favour of the king, And is his oracle."
         },
         {
             "speaker": "norfolk",
-            "text": "He is vexd at something."
+            "text": "He is vex'd at something."
         },
         {
             "speaker": "surrey",
-            "text": "I would twere something that would fret the string, The mastercord ons heart!"
+            "text": "I would 'twere something that would fret the string, The master-cord on's heart!"
         },
         {
             "text": "Enter KING HENRY VIII, reading of a schedule, and LOVELL"
@@ -204,23 +204,23 @@
         },
         {
             "speaker": "king henry the eighth",
-            "text": "What piles of wealth hath he accumulated To his own portion! and what expense by the hour Seems to flow from him! How, i the name of thrift, Does he rake this together! Now, my lords, Saw you the cardinal"
+            "text": "What piles of wealth hath he accumulated To his own portion! and what expense by the hour Seems to flow from him! How, i' the name of thrift, Does he rake this together! Now, my lords, Saw you the cardinal?"
         },
         {
             "speaker": "norfolk",
-            "text": "My lord, we have Stood here observing him: some strange commotion Is in his brain: he bites his lip, and starts Stops on a sudden, looks upon the ground, Then lays his finger on his temple, straight Springs out into fast gait then stops again, Strikes his breast hard, and anon he casts His eye against the moon: in most strange postures We have seen him set himself."
+            "text": "My lord, we have Stood here observing him: some strange commotion Is in his brain: he bites his lip, and starts; Stops on a sudden, looks upon the ground, Then lays his finger on his temple, straight Springs out into fast gait; then stops again, Strikes his breast hard, and anon he casts His eye against the moon: in most strange postures We have seen him set himself."
         },
         {
             "speaker": "king henry the eighth",
-            "text": "It may well be There is a mutiny ins mind. This morning Papers of state he sent me to peruse, As I required: and wot you what I found There,on my conscience, put unwittingly Forsooth, an inventory, thus importing The several parcels of his plate, his treasure, Rich stuffs, and ornaments of household which I find at such proud rate, that it outspeaks Possession of a subject."
+            "text": "It may well be; There is a mutiny in's mind. This morning Papers of state he sent me to peruse, As I required: and wot you what I found There,--on my conscience, put unwittingly? Forsooth, an inventory, thus importing; The several parcels of his plate, his treasure, Rich stuffs, and ornaments of household; which I find at such proud rate, that it out-speaks Possession of a subject."
         },
         {
             "speaker": "norfolk",
-            "text": "Its heavens will: Some spirit put this paper in the packet, To bless your eye withal."
+            "text": "It's heaven's will: Some spirit put this paper in the packet, To bless your eye withal."
         },
         {
             "speaker": "king henry the eighth",
-            "text": "If we did think His contemplation were above the earth, And fixd on spiritual object, he should still Dwell in his musings: but I am afraid His thinkings are below the moon, not worth His serious considering. King HENRY VIII takes his seat whispers LOVELL, who goes to CARDINAL WOLSEY"
+            "text": "If we did think His contemplation were above the earth, And fix'd on spiritual object, he should still Dwell in his musings: but I am afraid His thinkings are below the moon, not worth His serious considering. King HENRY VIII takes his seat; whispers LOVELL, who goes to CARDINAL WOLSEY"
         },
         {
             "speaker": "cardinal wolsey",
@@ -228,11 +228,11 @@
         },
         {
             "speaker": "king henry the eighth",
-            "text": "Good my lord, You are full of heavenly stuff, and bear the inventory Of your best graces in your mind the which You were now running oer: you have scarce time To steal from spiritual leisure a brief span To keep your earthly audit: sure, in that I deem you an ill husband, and am glad To have you therein my companion."
+            "text": "Good my lord, You are full of heavenly stuff, and bear the inventory Of your best graces in your mind; the which You were now running o'er: you have scarce time To steal from spiritual leisure a brief span To keep your earthly audit: sure, in that I deem you an ill husband, and am glad To have you therein my companion."
         },
         {
             "speaker": "cardinal wolsey",
-            "text": "Sir, For holy offices I have a time a time To think upon the part of business which I bear i the state and nature does require Her times of preservation, which perforce I, her frail son, amongst my brethren mortal, Must give my tendence to."
+            "text": "Sir, For holy offices I have a time; a time To think upon the part of business which I bear i' the state; and nature does require Her times of preservation, which perforce I, her frail son, amongst my brethren mortal, Must give my tendence to."
         },
         {
             "speaker": "king henry the eighth",
@@ -244,11 +244,11 @@
         },
         {
             "speaker": "king henry the eighth",
-            "text": "Tis well said again And tis a kind of good deed to say well: And yet words are no deeds. My father loved you: His said he did and with his deed did crown His word upon you. Since I had my office, I have kept you next my heart have not alone Employd you where high profits might come home, But pared my present havings, to bestow My bounties upon you."
+            "text": "'Tis well said again; And 'tis a kind of good deed to say well: And yet words are no deeds. My father loved you: His said he did; and with his deed did crown His word upon you. Since I had my office, I have kept you next my heart; have not alone Employ'd you where high profits might come home, But pared my present havings, to bestow My bounties upon you."
         },
         {
             "speaker": "cardinal wolsey",
-            "text": "[Aside]             What should this mean"
+            "text": "[Aside]             What should this mean?"
         },
         {
             "speaker": "surrey",
@@ -256,49 +256,49 @@
         },
         {
             "speaker": "king henry the eighth",
-            "text": "Have I not made you, The prime man of the state I pray you, tell me, If what I now pronounce you have found true: And, if you may confess it, say withal, If you are bound to us or no. What say you"
+            "text": "Have I not made you, The prime man of the state? I pray you, tell me, If what I now pronounce you have found true: And, if you may confess it, say withal, If you are bound to us or no. What say you?"
         },
         {
             "speaker": "cardinal wolsey",
-            "text": "My sovereign, I confess your royal graces, Showerd on me daily, have been more than could My studied purposes requite which went Beyond all mans endeavours: my endeavours Have ever come too short of my desires, Yet filed with my abilities: mine own ends Have been mine so that evermore they pointed To the good of your most sacred person and The profit of the state. For your great graces Heapd upon me, poor undeserver, I Can nothing render but allegiant thanks, My prayers to heaven for you, my loyalty, Which ever has and ever shall be growing, Till death, that winter, kill it."
+            "text": "My sovereign, I confess your royal graces, Shower'd on me daily, have been more than could My studied purposes requite; which went Beyond all man's endeavours: my endeavours Have ever come too short of my desires, Yet filed with my abilities: mine own ends Have been mine so that evermore they pointed To the good of your most sacred person and The profit of the state. For your great graces Heap'd upon me, poor undeserver, I Can nothing render but allegiant thanks, My prayers to heaven for you, my loyalty, Which ever has and ever shall be growing, Till death, that winter, kill it."
         },
         {
             "speaker": "king henry the eighth",
-            "text": "Fairly answerd A loyal and obedient subject is Therein illustrated: the honour of it Does pay the act of it as, i the contrary, The foulness is the punishment. I presume That, as my hand has opend bounty to you, My heart droppd love, my power raind honour, more On you than any so your hand and heart, Your brain, and every function of your power, Should, notwithstanding that your bond of duty, As twere in loves particular, be more To me, your friend, than any."
+            "text": "Fairly answer'd; A loyal and obedient subject is Therein illustrated: the honour of it Does pay the act of it; as, i' the contrary, The foulness is the punishment. I presume That, as my hand has open'd bounty to you, My heart dropp'd love, my power rain'd honour, more On you than any; so your hand and heart, Your brain, and every function of your power, Should, notwithstanding that your bond of duty, As 'twere in love's particular, be more To me, your friend, than any."
         },
         {
             "speaker": "cardinal wolsey",
-            "text": "I do profess That for your highness good I ever labourd More than mine own that am, have, and will be Though all the world should crack their duty to you, And throw it from their soul though perils did Abound, as thick as thought could make em, and Appear in forms more horrid,yet my duty, As doth a rock against the chiding flood, Should the approach of this wild river break, And stand unshaken yours."
+            "text": "I do profess That for your highness' good I ever labour'd More than mine own; that am, have, and will be-- Though all the world should crack their duty to you, And throw it from their soul; though perils did Abound, as thick as thought could make 'em, and Appear in forms more horrid,--yet my duty, As doth a rock against the chiding flood, Should the approach of this wild river break, And stand unshaken yours."
         },
         {
             "speaker": "king henry the eighth",
-            "text": "Tis nobly spoken: Take notice, lords, he has a loyal breast, For you have seen him opent. Read oer this And after, this: and then to breakfast with What appetite you have. Exit KING HENRY VIII, frowning upon CARDINAL WOLSEY: the Nobles throng after him, smiling and whispering"
+            "text": "'Tis nobly spoken: Take notice, lords, he has a loyal breast, For you have seen him open't. Read o'er this; And after, this: and then to breakfast with What appetite you have. Exit KING HENRY VIII, frowning upon CARDINAL WOLSEY: the Nobles throng after him, smiling and whispering"
         },
         {
             "text": "Giving him papers"
         },
         {
             "speaker": "cardinal wolsey",
-            "text": "What should this mean What sudden angers this how have I reapd it He parted frowning from me, as if ruin Leapd from his eyes: so looks the chafed lion Upon the daring huntsman that has galld him Then makes him nothing. I must read this paper I fear, the story of his anger. Tis so This paper has undone me: tis the account Of all that world of wealth I have drawn together For mine own ends indeed, to gain the popedom, And fee my friends in Rome. O negligence! Fit for a fool to fall by: what cross devil Made me put this main secret in the packet I sent the king Is there no way to cure this No new device to beat this from his brains I know twill stir him strongly yet I know A way, if it take right, in spite of fortune Will bring me off again. Whats this To the Pope! The letter, as I live, with all the business I writ tos holiness. Nay then, farewell! I have touchd the highest point of all my greatness And, from that full meridian of my glory, I haste now to my setting: I shall fall Like a bright exhalation m the evening, And no man see me more."
+            "text": "What should this mean? What sudden anger's this? how have I reap'd it? He parted frowning from me, as if ruin Leap'd from his eyes: so looks the chafed lion Upon the daring huntsman that has gall'd him; Then makes him nothing. I must read this paper; I fear, the story of his anger. 'Tis so; This paper has undone me: 'tis the account Of all that world of wealth I have drawn together For mine own ends; indeed, to gain the popedom, And fee my friends in Rome. O negligence! Fit for a fool to fall by: what cross devil Made me put this main secret in the packet I sent the king? Is there no way to cure this? No new device to beat this from his brains? I know 'twill stir him strongly; yet I know A way, if it take right, in spite of fortune Will bring me off again. What's this? 'To the Pope!' The letter, as I live, with all the business I writ to's holiness. Nay then, farewell! I have touch'd the highest point of all my greatness; And, from that full meridian of my glory, I haste now to my setting: I shall fall Like a bright exhalation m the evening, And no man see me more."
         },
         {
-            "text": "Reenter to CARDINAL WOLSEY, NORFOLK and SUFFOLK, SURREY, and the Chamberlain"
+            "text": "Re-enter to CARDINAL WOLSEY, NORFOLK and SUFFOLK, SURREY, and the Chamberlain"
         },
         {
             "speaker": "norfolk",
-            "text": "Hear the kings pleasure, cardinal: who commands you To render up the great seal presently Into our hands and to confine yourself To Asher House, my Lord of Winchesters, Till you hear further from his highness."
+            "text": "Hear the king's pleasure, cardinal: who commands you To render up the great seal presently Into our hands; and to confine yourself To Asher House, my Lord of Winchester's, Till you hear further from his highness."
         },
         {
             "speaker": "cardinal wolsey",
-            "text": "Stay: Wheres your commission, lords words cannot carry Authority so weighty."
+            "text": "Stay: Where's your commission, lords? words cannot carry Authority so weighty."
         },
         {
             "speaker": "suffolk",
-            "text": "Who dare cross em, Bearing the kings will from his mouth expressly"
+            "text": "Who dare cross 'em, Bearing the king's will from his mouth expressly?"
         },
         {
             "speaker": "cardinal wolsey",
-            "text": "Till I find more than will or words to do it, I mean your malice, know, officious lords, I dare and must deny it. Now I feel Of what coarse metal ye are moulded, envy: How eagerly ye follow my disgraces, As if it fed ye! and how sleek and wanton Ye appear in every thing may bring my ruin! Follow your envious courses, men of malice You have Christian warrant for em, and, no doubt, In time will find their fit rewards. That seal, You ask with such a violence, the king, Mine and your master, with his own hand gave me Bade me enjoy it, with the place and honours, During my life and, to confirm his goodness, Tied it by letterspatents: now, wholl take it"
+            "text": "Till I find more than will or words to do it, I mean your malice, know, officious lords, I dare and must deny it. Now I feel Of what coarse metal ye are moulded, envy: How eagerly ye follow my disgraces, As if it fed ye! and how sleek and wanton Ye appear in every thing may bring my ruin! Follow your envious courses, men of malice; You have Christian warrant for 'em, and, no doubt, In time will find their fit rewards. That seal, You ask with such a violence, the king, Mine and your master, with his own hand gave me; Bade me enjoy it, with the place and honours, During my life; and, to confirm his goodness, Tied it by letters-patents: now, who'll take it?"
         },
         {
             "speaker": "surrey",
@@ -318,7 +318,7 @@
         },
         {
             "speaker": "surrey",
-            "text": "Thy ambition, Thou scarlet sin, robbd this bewailing land Of noble Buckingham, my fatherinlaw: The heads of all thy brother cardinals, With thee and all thy best parts bound together, Weighd not a hair of his. Plague of your policy! You sent me deputy for Ireland Far from his succor, from the king, from all That might have mercy on the fault thou gavest him Whilst your great goodness, out of holy pity, Absolved him with an axe."
+            "text": "Thy ambition, Thou scarlet sin, robb'd this bewailing land Of noble Buckingham, my father-in-law: The heads of all thy brother cardinals, With thee and all thy best parts bound together, Weigh'd not a hair of his. Plague of your policy! You sent me deputy for Ireland; Far from his succor, from the king, from all That might have mercy on the fault thou gavest him; Whilst your great goodness, out of holy pity, Absolved him with an axe."
         },
         {
             "speaker": "cardinal wolsey",
@@ -326,7 +326,7 @@
         },
         {
             "speaker": "surrey",
-            "text": "By my soul, Your long coat, priest, protects you thou shouldst feel My sword i the lifeblood of thee else. My lords, Can ye endure to hear this arrogance And from this fellow if we live thus tamely, To be thus jaded by a piece of scarlet, Farewell nobility let his grace go forward, And dare us with his cap like larks."
+            "text": "By my soul, Your long coat, priest, protects you; thou shouldst feel My sword i' the life-blood of thee else. My lords, Can ye endure to hear this arrogance? And from this fellow? if we live thus tamely, To be thus jaded by a piece of scarlet, Farewell nobility; let his grace go forward, And dare us with his cap like larks."
         },
         {
             "speaker": "cardinal wolsey",
@@ -334,7 +334,7 @@
         },
         {
             "speaker": "surrey",
-            "text": "Yes, that goodness Of gleaning all the lands wealth into one, Into your own hands, cardinal, by extortion The goodness of your intercepted packets You writ to the pope against the king: your goodness, Since you provoke me, shall be most notorious. My Lord of Norfolk, as you are truly noble, As you respect the common good, the state Of our despised nobility, our issues, Who, if he live, will scarce be gentlemen, Produce the grand sum of his sins, the articles Collected from his life. Ill startle you Worse than the scaring bell, when the brown wench Lay kissing in your arms, lord cardinal."
+            "text": "Yes, that goodness Of gleaning all the land's wealth into one, Into your own hands, cardinal, by extortion; The goodness of your intercepted packets You writ to the pope against the king: your goodness, Since you provoke me, shall be most notorious. My Lord of Norfolk, as you are truly noble, As you respect the common good, the state Of our despised nobility, our issues, Who, if he live, will scarce be gentlemen, Produce the grand sum of his sins, the articles Collected from his life. I'll startle you Worse than the scaring bell, when the brown wench Lay kissing in your arms, lord cardinal."
         },
         {
             "speaker": "cardinal wolsey",
@@ -342,7 +342,7 @@
         },
         {
             "speaker": "norfolk",
-            "text": "Those articles, my lord, are in the kings hand: But, thus much, they are foul ones."
+            "text": "Those articles, my lord, are in the king's hand: But, thus much, they are foul ones."
         },
         {
             "speaker": "cardinal wolsey",
@@ -350,19 +350,19 @@
         },
         {
             "speaker": "surrey",
-            "text": "This cannot save you: I thank my memory, I yet remember Some of these articles and out they shall. Now, if you can blush and cry guilty, cardinal, Youll show a little honesty."
+            "text": "This cannot save you: I thank my memory, I yet remember Some of these articles; and out they shall. Now, if you can blush and cry 'guilty,' cardinal, You'll show a little honesty."
         },
         {
             "speaker": "cardinal wolsey",
-            "text": "Speak on, sir I dare your worst objections: if I blush, It is to see a nobleman want manners."
+            "text": "Speak on, sir; I dare your worst objections: if I blush, It is to see a nobleman want manners."
         },
         {
             "speaker": "surrey",
-            "text": "I had rather want those than my head. Have at you! First, that, without the kings assent or knowledge, You wrought to be a legate by which power You maimd the jurisdiction of all bishops."
+            "text": "I had rather want those than my head. Have at you! First, that, without the king's assent or knowledge, You wrought to be a legate; by which power You maim'd the jurisdiction of all bishops."
         },
         {
             "speaker": "norfolk",
-            "text": "Then, that in all you writ to Rome, or else To foreign princes, Ego et Rex meus Was still inscribed in which you brought the king To be your servant."
+            "text": "Then, that in all you writ to Rome, or else To foreign princes, 'Ego et Rex meus' Was still inscribed; in which you brought the king To be your servant."
         },
         {
             "speaker": "suffolk",
@@ -370,19 +370,19 @@
         },
         {
             "speaker": "surrey",
-            "text": "Item, you sent a large commission To Gregory de Cassado, to conclude, Without the kings will or the states allowance, A league between his highness and Ferrara."
+            "text": "Item, you sent a large commission To Gregory de Cassado, to conclude, Without the king's will or the state's allowance, A league between his highness and Ferrara."
         },
         {
             "speaker": "suffolk",
-            "text": "That, out of mere ambition, you have caused Your holy hat to be stampd on the kings coin."
+            "text": "That, out of mere ambition, you have caused Your holy hat to be stamp'd on the king's coin."
         },
         {
             "speaker": "surrey",
-            "text": "Then that you have sent innumerable substance By what means got, I leave to your own conscience To furnish Rome, and to prepare the ways You have for dignities to the mere undoing Of all the kingdom. Many more there are Which, since they are of you, and odious, I will not taint my mouth with."
+            "text": "Then that you have sent innumerable substance-- By what means got, I leave to your own conscience-- To furnish Rome, and to prepare the ways You have for dignities; to the mere undoing Of all the kingdom. Many more there are; Which, since they are of you, and odious, I will not taint my mouth with."
         },
         {
             "speaker": "chamberlain",
-            "text": "O my lord, Press not a falling man too far! tis virtue: His faults lie open to the laws let them, Not you, correct him. My heart weeps to see him So little of his great self."
+            "text": "O my lord, Press not a falling man too far! 'tis virtue: His faults lie open to the laws; let them, Not you, correct him. My heart weeps to see him So little of his great self."
         },
         {
             "speaker": "surrey",
@@ -390,18 +390,18 @@
         },
         {
             "speaker": "suffolk",
-            "text": "Lord cardinal, the kings further pleasure is, Because all those things you have done of late, By your power legatine, within this kingdom, Fall into the compass of a praemunire, That therefore such a writ be sued against you To forfeit all your goods, lands, tenements, Chattels, and whatsoever, and to be Out of the kings protection. This is my charge."
+            "text": "Lord cardinal, the king's further pleasure is, Because all those things you have done of late, By your power legatine, within this kingdom, Fall into the compass of a praemunire, That therefore such a writ be sued against you; To forfeit all your goods, lands, tenements, Chattels, and whatsoever, and to be Out of the king's protection. This is my charge."
         },
         {
             "speaker": "norfolk",
-            "text": "And so well leave you to your meditations How to live better. For your stubborn answer About the giving back the great seal to us, The king shall know it, and, no doubt, shall thank you. So fare you well, my little good lord cardinal."
+            "text": "And so we'll leave you to your meditations How to live better. For your stubborn answer About the giving back the great seal to us, The king shall know it, and, no doubt, shall thank you. So fare you well, my little good lord cardinal."
         },
         {
             "text": "Exeunt all but CARDINAL WOLSEY"
         },
         {
             "speaker": "cardinal wolsey",
-            "text": "So farewell to the little good you bear me. Farewell! a long farewell, to all my greatness! This is the state of man: today he puts forth The tender leaves of hopes tomorrow blossoms, And bears his blushing honours thick upon him The third day comes a frost, a killing frost, And, when he thinks, good easy man, full surely His greatness is aripening, nips his root, And then he falls, as I do. I have ventured, Like little wanton boys that swim on bladders, This many summers in a sea of glory, But far beyond my depth: my highblown pride At length broke under me and now has left me, Weary and old with service, to the mercy Of a rude stream, that must for ever hide me. Vain pomp and glory of this world, I hate ye: I feel my heart new opend. O, how wretched Is that poor man that hangs on princes favours! There is, betwixt that smile we would aspire to, That sweet aspect of princes, and their ruin, More pangs and fears than wars or women have: And when he falls, he falls like Lucifer, Never to hope again. Why, how now, Cromwell!"
+            "text": "So farewell to the little good you bear me. Farewell! a long farewell, to all my greatness! This is the state of man: to-day he puts forth The tender leaves of hopes; to-morrow blossoms, And bears his blushing honours thick upon him; The third day comes a frost, a killing frost, And, when he thinks, good easy man, full surely His greatness is a-ripening, nips his root, And then he falls, as I do. I have ventured, Like little wanton boys that swim on bladders, This many summers in a sea of glory, But far beyond my depth: my high-blown pride At length broke under me and now has left me, Weary and old with service, to the mercy Of a rude stream, that must for ever hide me. Vain pomp and glory of this world, I hate ye: I feel my heart new open'd. O, how wretched Is that poor man that hangs on princes' favours! There is, betwixt that smile we would aspire to, That sweet aspect of princes, and their ruin, More pangs and fears than wars or women have: And when he falls, he falls like Lucifer, Never to hope again. Why, how now, Cromwell!"
         },
         {
             "text": "Enter CROMWELL, and stands amazed"
@@ -412,15 +412,15 @@
         },
         {
             "speaker": "cardinal wolsey",
-            "text": "What, amazed At my misfortunes can thy spirit wonder A great man should decline Nay, an you weep, I am falln indeed."
+            "text": "What, amazed At my misfortunes? can thy spirit wonder A great man should decline? Nay, an you weep, I am fall'n indeed."
         },
         {
             "speaker": "cromwell",
-            "text": "How does your grace"
+            "text": "How does your grace?"
         },
         {
             "speaker": "cardinal wolsey",
-            "text": "Why, well Never so truly happy, my good Cromwell. I know myself now and I feel within me A peace above all earthly dignities, A still and quiet conscience. The king has cured me, I humbly thank his grace and from these shoulders, These ruind pillars, out of pity, taken A load would sink a navy, too much honour: O, tis a burthen, Cromwell, tis a burthen Too heavy for a man that hopes for heaven!"
+            "text": "Why, well; Never so truly happy, my good Cromwell. I know myself now; and I feel within me A peace above all earthly dignities, A still and quiet conscience. The king has cured me, I humbly thank his grace; and from these shoulders, These ruin'd pillars, out of pity, taken A load would sink a navy, too much honour: O, 'tis a burthen, Cromwell, 'tis a burthen Too heavy for a man that hopes for heaven!"
         },
         {
             "speaker": "cromwell",
@@ -428,7 +428,7 @@
         },
         {
             "speaker": "cardinal wolsey",
-            "text": "I hope I have: I am able now, methinks, Out of a fortitude of soul I feel, To endure more miseries and greater far Than my weakhearted enemies dare offer. What news abroad"
+            "text": "I hope I have: I am able now, methinks, Out of a fortitude of soul I feel, To endure more miseries and greater far Than my weak-hearted enemies dare offer. What news abroad?"
         },
         {
             "speaker": "cromwell",
@@ -444,31 +444,31 @@
         },
         {
             "speaker": "cardinal wolsey",
-            "text": "Thats somewhat sudden: But hes a learned man. May he continue Long in his highness favour, and do justice For truths sake and his conscience that his bones, When he has run his course and sleeps in blessings, May have a tomb of orphans tears wept on em! What more"
+            "text": "That's somewhat sudden: But he's a learned man. May he continue Long in his highness' favour, and do justice For truth's sake and his conscience; that his bones, When he has run his course and sleeps in blessings, May have a tomb of orphans' tears wept on em! What more?"
         },
         {
             "speaker": "cromwell",
-            "text": "That Cranmer is returnd with welcome, Installd lord archbishop of Canterbury."
+            "text": "That Cranmer is return'd with welcome, Install'd lord archbishop of Canterbury."
         },
         {
             "speaker": "cardinal wolsey",
-            "text": "Thats news indeed."
+            "text": "That's news indeed."
         },
         {
             "speaker": "cromwell",
-            "text": "Last, that the Lady Anne, Whom the king hath in secrecy long married, This day was viewd in open as his queen, Going to chapel and the voice is now Only about her coronation."
+            "text": "Last, that the Lady Anne, Whom the king hath in secrecy long married, This day was view'd in open as his queen, Going to chapel; and the voice is now Only about her coronation."
         },
         {
             "speaker": "cardinal wolsey",
-            "text": "There was the weight that pulld me down. O Cromwell, The king has gone beyond me: all my glories In that one woman I have lost for ever: No sun shall ever usher forth mine honours, Or gild again the noble troops that waited Upon my smiles. Go, get thee from me, Cromwell I am a poor falln man, unworthy now To be thy lord and master: seek the king That sun, I pray, may never set! I have told him What and how true thou art: he will advance thee Some little memory of me will stir him I know his noble naturenot to let Thy hopeful service perish too: good Cromwell, Neglect him not make use now, and provide For thine own future safety."
+            "text": "There was the weight that pull'd me down. O Cromwell, The king has gone beyond me: all my glories In that one woman I have lost for ever: No sun shall ever usher forth mine honours, Or gild again the noble troops that waited Upon my smiles. Go, get thee from me, Cromwell; I am a poor fall'n man, unworthy now To be thy lord and master: seek the king; That sun, I pray, may never set! I have told him What and how true thou art: he will advance thee; Some little memory of me will stir him-- I know his noble nature--not to let Thy hopeful service perish too: good Cromwell, Neglect him not; make use now, and provide For thine own future safety."
         },
         {
             "speaker": "cromwell",
-            "text": "O my lord, Must I, then, leave you must I needs forego So good, so noble and so true a master Bear witness, all that have not hearts of iron, With what a sorrow Cromwell leaves his lord. The king shall have my service: but my prayers For ever and for ever shall be yours."
+            "text": "O my lord, Must I, then, leave you? must I needs forego So good, so noble and so true a master? Bear witness, all that have not hearts of iron, With what a sorrow Cromwell leaves his lord. The king shall have my service: but my prayers For ever and for ever shall be yours."
         },
         {
             "speaker": "cardinal wolsey",
-            "text": "Cromwell, I did not think to shed a tear In all my miseries but thou hast forced me, Out of thy honest truth, to play the woman. Lets dry our eyes: and thus far hear me, Cromwell And, when I am forgotten, as I shall be, And sleep in dull cold marble, where no mention Of me more must be heard of, say, I taught thee, Say, Wolsey, that once trod the ways of glory, And sounded all the depths and shoals of honour, Found thee a way, out of his wreck, to rise in A sure and safe one, though thy master missd it. Mark but my fall, and that that ruind me. Cromwell, I charge thee, fling away ambition: By that sin fell the angels how can man, then, The image of his Maker, hope to win by it Love thyself last: cherish those hearts that hate thee Corruption wins not more than honesty. Still in thy right hand carry gentle peace, To silence envious tongues. Be just, and fear not: Let all the ends thou aimst at be thy countrys, Thy Gods, and truths then if thou fallst, O Cromwell, Thou fallst a blessed martyr! Serve the king And,prithee, lead me in: There take an inventory of all I have, To the last penny tis the kings: my robe, And my integrity to heaven, is all I dare now call mine own. O Cromwell, Cromwell! Had I but served my God with half the zeal I served my king, he would not in mine age Have left me naked to mine enemies."
+            "text": "Cromwell, I did not think to shed a tear In all my miseries; but thou hast forced me, Out of thy honest truth, to play the woman. Let's dry our eyes: and thus far hear me, Cromwell; And, when I am forgotten, as I shall be, And sleep in dull cold marble, where no mention Of me more must be heard of, say, I taught thee, Say, Wolsey, that once trod the ways of glory, And sounded all the depths and shoals of honour, Found thee a way, out of his wreck, to rise in; A sure and safe one, though thy master miss'd it. Mark but my fall, and that that ruin'd me. Cromwell, I charge thee, fling away ambition: By that sin fell the angels; how can man, then, The image of his Maker, hope to win by it? Love thyself last: cherish those hearts that hate thee; Corruption wins not more than honesty. Still in thy right hand carry gentle peace, To silence envious tongues. Be just, and fear not: Let all the ends thou aim'st at be thy country's, Thy God's, and truth's; then if thou fall'st, O Cromwell, Thou fall'st a blessed martyr! Serve the king; And,--prithee, lead me in: There take an inventory of all I have, To the last penny; 'tis the king's: my robe, And my integrity to heaven, is all I dare now call mine own. O Cromwell, Cromwell! Had I but served my God with half the zeal I served my king, he would not in mine age Have left me naked to mine enemies."
         },
         {
             "speaker": "cromwell",

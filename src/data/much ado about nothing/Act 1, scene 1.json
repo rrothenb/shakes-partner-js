@@ -1,7 +1,7 @@
 {
     "sceneName": "Act 1, scene 1",
     "playName": "much ado about nothing",
-    "location": "Before LEONATOS house.",
+    "location": "Before LEONATO'S house.",
     "lines": [
         {
             "text": "Enter LEONATO, HERO, and BEATRICE, with a Messenger"
@@ -16,7 +16,7 @@
         },
         {
             "speaker": "leonato",
-            "text": "How many gentlemen have you lost in this action"
+            "text": "How many gentlemen have you lost in this action?"
         },
         {
             "speaker": "messenger",
@@ -36,11 +36,11 @@
         },
         {
             "speaker": "messenger",
-            "text": "I have already delivered him letters, and there appears much joy in him even so much that joy could not show itself modest enough without a badge of bitterness."
+            "text": "I have already delivered him letters, and there appears much joy in him; even so much that joy could not show itself modest enough without a badge of bitterness."
         },
         {
             "speaker": "leonato",
-            "text": "Did he break out into tears"
+            "text": "Did he break out into tears?"
         },
         {
             "speaker": "messenger",
@@ -52,7 +52,7 @@
         },
         {
             "speaker": "beatrice",
-            "text": "I pray you, is Signior Mountanto returned from the wars or no"
+            "text": "I pray you, is Signior Mountanto returned from the wars or no?"
         },
         {
             "speaker": "messenger",
@@ -60,7 +60,7 @@
         },
         {
             "speaker": "leonato",
-            "text": "What is he that you ask for, niece"
+            "text": "What is he that you ask for, niece?"
         },
         {
             "speaker": "hero",
@@ -68,15 +68,15 @@
         },
         {
             "speaker": "messenger",
-            "text": "O, hes returned and as pleasant as ever he was."
+            "text": "O, he's returned; and as pleasant as ever he was."
         },
         {
             "speaker": "beatrice",
-            "text": "He set up his bills here in Messina and challenged Cupid at the flight and my uncles fool, reading the challenge, subscribed for Cupid, and challenged him at the birdbolt. I pray you, how many hath he killed and eaten in these wars But how many hath he killed for indeed I promised to eat all of his killing."
+            "text": "He set up his bills here in Messina and challenged Cupid at the flight; and my uncle's fool, reading the challenge, subscribed for Cupid, and challenged him at the bird-bolt. I pray you, how many hath he killed and eaten in these wars? But how many hath he killed? for indeed I promised to eat all of his killing."
         },
         {
             "speaker": "leonato",
-            "text": "Faith, niece, you tax Signior Benedick too much but hell be meet with you, I doubt it not."
+            "text": "Faith, niece, you tax Signior Benedick too much; but he'll be meet with you, I doubt it not."
         },
         {
             "speaker": "messenger",
@@ -84,7 +84,7 @@
         },
         {
             "speaker": "beatrice",
-            "text": "You had musty victual, and he hath holp to eat it: he is a very valiant trencherman he hath an excellent stomach."
+            "text": "You had musty victual, and he hath holp to eat it: he is a very valiant trencherman; he hath an excellent stomach."
         },
         {
             "speaker": "messenger",
@@ -92,31 +92,31 @@
         },
         {
             "speaker": "beatrice",
-            "text": "And a good soldier to a lady: but what is he to a lord"
+            "text": "And a good soldier to a lady: but what is he to a lord?"
         },
         {
             "speaker": "messenger",
-            "text": "A lord to a lord, a man to a man stuffed with all honourable virtues."
+            "text": "A lord to a lord, a man to a man; stuffed with all honourable virtues."
         },
         {
             "speaker": "beatrice",
-            "text": "It is so, indeed he is no less than a stuffed man: but for the stuffing,well, we are all mortal."
+            "text": "It is so, indeed; he is no less than a stuffed man: but for the stuffing,--well, we are all mortal."
         },
         {
             "speaker": "leonato",
-            "text": "You must not, sir, mistake my niece. There is a kind of merry war betwixt Signior Benedick and her: they never meet but theres a skirmish of wit between them."
+            "text": "You must not, sir, mistake my niece. There is a kind of merry war betwixt Signior Benedick and her: they never meet but there's a skirmish of wit between them."
         },
         {
             "speaker": "beatrice",
-            "text": "Alas! he gets nothing by that. In our last conflict four of his five wits went halting off, and now is the whole man governed with one: so that if he have wit enough to keep himself warm, let him bear it for a difference between himself and his horse for it is all the wealth that he hath left, to be known a reasonable creature. Who is his companion now He hath every month a new sworn brother."
+            "text": "Alas! he gets nothing by that. In our last conflict four of his five wits went halting off, and now is the whole man governed with one: so that if he have wit enough to keep himself warm, let him bear it for a difference between himself and his horse; for it is all the wealth that he hath left, to be known a reasonable creature. Who is his companion now? He hath every month a new sworn brother."
         },
         {
             "speaker": "messenger",
-            "text": "Ist possible"
+            "text": "Is't possible?"
         },
         {
             "speaker": "beatrice",
-            "text": "Very easily possible: he wears his faith but as the fashion of his hat it ever changes with the next block."
+            "text": "Very easily possible: he wears his faith but as the fashion of his hat; it ever changes with the next block."
         },
         {
             "speaker": "messenger",
@@ -124,7 +124,7 @@
         },
         {
             "speaker": "beatrice",
-            "text": "No an he were, I would burn my study. But, I pray you, who is his companion Is there no young squarer now that will make a voyage with him to the devil"
+            "text": "No; an he were, I would burn my study. But, I pray you, who is his companion? Is there no young squarer now that will make a voyage with him to the devil?"
         },
         {
             "speaker": "messenger",
@@ -132,7 +132,7 @@
         },
         {
             "speaker": "beatrice",
-            "text": "O Lord, he will hang upon him like a disease: he is sooner caught than the pestilence, and the taker runs presently mad. God help the noble Claudio! if he have caught the Benedick, it will cost him a thousand pound ere a be cured."
+            "text": "O Lord, he will hang upon him like a disease: he is sooner caught than the pestilence, and the taker runs presently mad. God help the noble Claudio! if he have caught the Benedick, it will cost him a thousand pound ere a' be cured."
         },
         {
             "speaker": "messenger",
@@ -163,7 +163,7 @@
         },
         {
             "speaker": "leonato",
-            "text": "Never came trouble to my house in the likeness of your grace: for trouble being gone, comfort should remain but when you depart from me, sorrow abides and happiness takes his leave."
+            "text": "Never came trouble to my house in the likeness of your grace: for trouble being gone, comfort should remain; but when you depart from me, sorrow abides and happiness takes his leave."
         },
         {
             "speaker": "don pedro",
@@ -175,15 +175,15 @@
         },
         {
             "speaker": "benedick",
-            "text": "Were you in doubt, sir, that you asked her"
+            "text": "Were you in doubt, sir, that you asked her?"
         },
         {
             "speaker": "leonato",
-            "text": "Signior Benedick, no for then were you a child."
+            "text": "Signior Benedick, no; for then were you a child."
         },
         {
             "speaker": "don pedro",
-            "text": "You have it full, Benedick: we may guess by this what you are, being a man. Truly, the lady fathers herself. Be happy, lady for you are like an honourable father."
+            "text": "You have it full, Benedick: we may guess by this what you are, being a man. Truly, the lady fathers herself. Be happy, lady; for you are like an honourable father."
         },
         {
             "speaker": "benedick",
@@ -195,15 +195,15 @@
         },
         {
             "speaker": "benedick",
-            "text": "What, my dear Lady Disdain! are you yet living"
+            "text": "What, my dear Lady Disdain! are you yet living?"
         },
         {
             "speaker": "beatrice",
-            "text": "Is it possible disdain should die while she hath such meet food to feed it as Signior Benedick Courtesy itself must convert to disdain, if you come in her presence."
+            "text": "Is it possible disdain should die while she hath such meet food to feed it as Signior Benedick? Courtesy itself must convert to disdain, if you come in her presence."
         },
         {
             "speaker": "benedick",
-            "text": "Then is courtesy a turncoat. But it is certain I am loved of all ladies, only you excepted: and I would I could find in my heart that I had not a hard heart for, truly, I love none."
+            "text": "Then is courtesy a turncoat. But it is certain I am loved of all ladies, only you excepted: and I would I could find in my heart that I had not a hard heart; for, truly, I love none."
         },
         {
             "speaker": "beatrice",
@@ -211,15 +211,15 @@
         },
         {
             "speaker": "benedick",
-            "text": "God keep your ladyship still in that mind! so some gentleman or other shall scape a predestinate scratched face."
+            "text": "God keep your ladyship still in that mind! so some gentleman or other shall 'scape a predestinate scratched face."
         },
         {
             "speaker": "beatrice",
-            "text": "Scratching could not make it worse, an twere such a face as yours were."
+            "text": "Scratching could not make it worse, an 'twere such a face as yours were."
         },
         {
             "speaker": "benedick",
-            "text": "Well, you are a rare parrotteacher."
+            "text": "Well, you are a rare parrot-teacher."
         },
         {
             "speaker": "beatrice",
@@ -227,15 +227,15 @@
         },
         {
             "speaker": "benedick",
-            "text": "I would my horse had the speed of your tongue, and so good a continuer. But keep your way, i Gods name I have done."
+            "text": "I would my horse had the speed of your tongue, and so good a continuer. But keep your way, i' God's name; I have done."
         },
         {
             "speaker": "beatrice",
-            "text": "You always end with a jades trick: I know you of old."
+            "text": "You always end with a jade's trick: I know you of old."
         },
         {
             "speaker": "don pedro",
-            "text": "That is the sum of all, Leonato. Signior Claudio and Signior Benedick, my dear friend Leonato hath invited you all. I tell him we shall stay here at the least a month and he heartily prays some occasion may detain us longer. I dare swear he is no hypocrite, but prays from his heart."
+            "text": "That is the sum of all, Leonato. Signior Claudio and Signior Benedick, my dear friend Leonato hath invited you all. I tell him we shall stay here at the least a month; and he heartily prays some occasion may detain us longer. I dare swear he is no hypocrite, but prays from his heart."
         },
         {
             "speaker": "leonato",
@@ -250,38 +250,38 @@
         },
         {
             "speaker": "leonato",
-            "text": "Please it your grace lead on"
+            "text": "Please it your grace lead on?"
         },
         {
             "speaker": "don pedro",
-            "text": "Your hand, Leonato we will go together."
+            "text": "Your hand, Leonato; we will go together."
         },
         {
             "text": "Exeunt all except BENEDICK and CLAUDIO"
         },
         {
             "speaker": "claudio",
-            "text": "Benedick, didst thou note the daughter of Signior Leonato"
+            "text": "Benedick, didst thou note the daughter of Signior Leonato?"
         },
         {
             "speaker": "benedick",
-            "text": "I noted her not but I looked on her."
+            "text": "I noted her not; but I looked on her."
         },
         {
             "speaker": "claudio",
-            "text": "Is she not a modest young lady"
+            "text": "Is she not a modest young lady?"
         },
         {
             "speaker": "benedick",
-            "text": "Do you question me, as an honest man should do, for my simple true judgment or would you have me speak after my custom, as being a professed tyrant to their sex"
+            "text": "Do you question me, as an honest man should do, for my simple true judgment; or would you have me speak after my custom, as being a professed tyrant to their sex?"
         },
         {
             "speaker": "claudio",
-            "text": "No I pray thee speak in sober judgment."
+            "text": "No; I pray thee speak in sober judgment."
         },
         {
             "speaker": "benedick",
-            "text": "Why, i faith, methinks shes too low for a high praise, too brown for a fair praise and too little for a great praise: only this commendation I can afford her, that were she other than she is, she were unhandsome and being no other but as she is, I do not like her."
+            "text": "Why, i' faith, methinks she's too low for a high praise, too brown for a fair praise and too little for a great praise: only this commendation I can afford her, that were she other than she is, she were unhandsome; and being no other but as she is, I do not like her."
         },
         {
             "speaker": "claudio",
@@ -289,15 +289,15 @@
         },
         {
             "speaker": "benedick",
-            "text": "Would you buy her, that you inquire after her"
+            "text": "Would you buy her, that you inquire after her?"
         },
         {
             "speaker": "claudio",
-            "text": "Can the world buy such a jewel"
+            "text": "Can the world buy such a jewel?"
         },
         {
             "speaker": "benedick",
-            "text": "Yea, and a case to put it into. But speak you this with a sad brow or do you play the flouting Jack, to tell us Cupid is a good harefinder and Vulcan a rare carpenter Come, in what key shall a man take you, to go in the song"
+            "text": "Yea, and a case to put it into. But speak you this with a sad brow? or do you play the flouting Jack, to tell us Cupid is a good hare-finder and Vulcan a rare carpenter? Come, in what key shall a man take you, to go in the song?"
         },
         {
             "speaker": "claudio",
@@ -305,7 +305,7 @@
         },
         {
             "speaker": "benedick",
-            "text": "I can see yet without spectacles and I see no such matter: theres her cousin, an she were not possessed with a fury, exceeds her as much in beauty as the first of May doth the last of December. But I hope you have no intent to turn husband, have you"
+            "text": "I can see yet without spectacles and I see no such matter: there's her cousin, an she were not possessed with a fury, exceeds her as much in beauty as the first of May doth the last of December. But I hope you have no intent to turn husband, have you?"
         },
         {
             "speaker": "claudio",
@@ -313,14 +313,14 @@
         },
         {
             "speaker": "benedick",
-            "text": "Ist come to this In faith, hath not the world one man but he will wear his cap with suspicion Shall I never see a bachelor of threescore again Go to, i faith an thou wilt needs thrust thy neck into a yoke, wear the print of it and sigh away Sundays. Look Don Pedro is returned to seek you."
+            "text": "Is't come to this? In faith, hath not the world one man but he will wear his cap with suspicion? Shall I never see a bachelor of three-score again? Go to, i' faith; an thou wilt needs thrust thy neck into a yoke, wear the print of it and sigh away Sundays. Look Don Pedro is returned to seek you."
         },
         {
-            "text": "Reenter DON PEDRO"
+            "text": "Re-enter DON PEDRO"
         },
         {
             "speaker": "don pedro",
-            "text": "What secret hath held you here, that you followed not to Leonatos"
+            "text": "What secret hath held you here, that you followed not to Leonato's?"
         },
         {
             "speaker": "benedick",
@@ -332,7 +332,7 @@
         },
         {
             "speaker": "benedick",
-            "text": "You hear, Count Claudio: I can be secret as a dumb man I would have you think so but, on my allegiance, mark you this, on my allegiance. He is in love. With who now that is your graces part. Mark how short his answer isWith Hero, Leonatos short daughter."
+            "text": "You hear, Count Claudio: I can be secret as a dumb man; I would have you think so; but, on my allegiance, mark you this, on my allegiance. He is in love. With who? now that is your grace's part. Mark how short his answer is;--With Hero, Leonato's short daughter."
         },
         {
             "speaker": "claudio",
@@ -340,7 +340,7 @@
         },
         {
             "speaker": "benedick",
-            "text": "Like the old tale, my lord: it is not so, nor twas not so, but, indeed, God forbid it should be so."
+            "text": "Like the old tale, my lord: 'it is not so, nor 'twas not so, but, indeed, God forbid it should be so.'"
         },
         {
             "speaker": "claudio",
@@ -348,7 +348,7 @@
         },
         {
             "speaker": "don pedro",
-            "text": "Amen, if you love her for the lady is very well worthy."
+            "text": "Amen, if you love her; for the lady is very well worthy."
         },
         {
             "speaker": "claudio",
@@ -388,7 +388,7 @@
         },
         {
             "speaker": "benedick",
-            "text": "That a woman conceived me, I thank her that she brought me up, I likewise give her most humble thanks: but that I will have a recheat winded in my forehead, or hang my bugle in an invisible baldrick, all women shall pardon me. Because I will not do them the wrong to mistrust any, I will do myself the right to trust none and the fine is, for the which I may go the finer, I will live a bachelor."
+            "text": "That a woman conceived me, I thank her; that she brought me up, I likewise give her most humble thanks: but that I will have a recheat winded in my forehead, or hang my bugle in an invisible baldrick, all women shall pardon me. Because I will not do them the wrong to mistrust any, I will do myself the right to trust none; and the fine is, for the which I may go the finer, I will live a bachelor."
         },
         {
             "speaker": "don pedro",
@@ -396,7 +396,7 @@
         },
         {
             "speaker": "benedick",
-            "text": "With anger, with sickness, or with hunger, my lord, not with love: prove that ever I lose more blood with love than I will get again with drinking, pick out mine eyes with a balladmakers pen and hang me up at the door of a brothelhouse for the sign of blind Cupid."
+            "text": "With anger, with sickness, or with hunger, my lord, not with love: prove that ever I lose more blood with love than I will get again with drinking, pick out mine eyes with a ballad-maker's pen and hang me up at the door of a brothel-house for the sign of blind Cupid."
         },
         {
             "speaker": "don pedro",
@@ -404,19 +404,19 @@
         },
         {
             "speaker": "benedick",
-            "text": "If I do, hang me in a bottle like a cat and shoot at me and he that hits me, let him be clapped on the shoulder, and called Adam."
+            "text": "If I do, hang me in a bottle like a cat and shoot at me; and he that hits me, let him be clapped on the shoulder, and called Adam."
         },
         {
             "speaker": "don pedro",
-            "text": "Well, as time shall try: In time the savage bull doth bear the yoke."
+            "text": "Well, as time shall try: 'In time the savage bull doth bear the yoke.'"
         },
         {
             "speaker": "benedick",
-            "text": "The savage bull may but if ever the sensible Benedick bear it, pluck off the bulls horns and set them in my forehead: and let me be vilely painted, and in such great letters as they write Here is good horse to hire, let them signify under my sign Here you may see Benedick the married man."
+            "text": "The savage bull may; but if ever the sensible Benedick bear it, pluck off the bull's horns and set them in my forehead: and let me be vilely painted, and in such great letters as they write 'Here is good horse to hire,' let them signify under my sign 'Here you may see Benedick the married man.'"
         },
         {
             "speaker": "claudio",
-            "text": "If this should ever happen, thou wouldst be hornmad."
+            "text": "If this should ever happen, thou wouldst be horn-mad."
         },
         {
             "speaker": "don pedro",
@@ -428,15 +428,15 @@
         },
         {
             "speaker": "don pedro",
-            "text": "Well, you temporize with the hours. In the meantime, good Signior Benedick, repair to Leonatos: commend me to him and tell him I will not fail him at supper for indeed he hath made great preparation."
+            "text": "Well, you temporize with the hours. In the meantime, good Signior Benedick, repair to Leonato's: commend me to him and tell him I will not fail him at supper; for indeed he hath made great preparation."
         },
         {
             "speaker": "benedick",
-            "text": "I have almost matter enough in me for such an embassage and so I commit you"
+            "text": "I have almost matter enough in me for such an embassage; and so I commit you--"
         },
         {
             "speaker": "claudio",
-            "text": "To the tuition of God: From my house, if I had it,"
+            "text": "To the tuition of God: From my house, if I had it,--"
         },
         {
             "speaker": "don pedro",
@@ -459,27 +459,27 @@
         },
         {
             "speaker": "claudio",
-            "text": "Hath Leonato any son, my lord"
+            "text": "Hath Leonato any son, my lord?"
         },
         {
             "speaker": "don pedro",
-            "text": "No child but Hero shes his only heir. Dost thou affect her, Claudio"
+            "text": "No child but Hero; she's his only heir. Dost thou affect her, Claudio?"
         },
         {
             "speaker": "claudio",
-            "text": "O, my lord, When you went onward on this ended action, I lookd upon her with a soldiers eye, That liked, but had a rougher task in hand Than to drive liking to the name of love: But now I am returnd and that warthoughts Have left their places vacant, in their rooms Come thronging soft and delicate desires, All prompting me how fair young Hero is, Saying, I liked her ere I went to wars."
+            "text": "O, my lord, When you went onward on this ended action, I look'd upon her with a soldier's eye, That liked, but had a rougher task in hand Than to drive liking to the name of love: But now I am return'd and that war-thoughts Have left their places vacant, in their rooms Come thronging soft and delicate desires, All prompting me how fair young Hero is, Saying, I liked her ere I went to wars."
         },
         {
             "speaker": "don pedro",
-            "text": "Thou wilt be like a lover presently And tire the hearer with a book of words. If thou dost love fair Hero, cherish it, And I will break with her and with her father, And thou shalt have her. Wast not to this end That thou beganst to twist so fine a story"
+            "text": "Thou wilt be like a lover presently And tire the hearer with a book of words. If thou dost love fair Hero, cherish it, And I will break with her and with her father, And thou shalt have her. Was't not to this end That thou began'st to twist so fine a story?"
         },
         {
             "speaker": "claudio",
-            "text": "How sweetly you do minister to love, That know loves grief by his complexion! But lest my liking might too sudden seem, I would have salved it with a longer treatise."
+            "text": "How sweetly you do minister to love, That know love's grief by his complexion! But lest my liking might too sudden seem, I would have salved it with a longer treatise."
         },
         {
             "speaker": "don pedro",
-            "text": "What need the bridge much broader than the flood The fairest grant is the necessity. Look, what will serve is fit: tis once, thou lovest, And I will fit thee with the remedy. I know we shall have revelling tonight: I will assume thy part in some disguise And tell fair Hero I am Claudio, And in her bosom Ill unclasp my heart And take her hearing prisoner with the force And strong encounter of my amorous tale: Then after to her father will I break And the conclusion is, she shall be thine. In practise let us put it presently."
+            "text": "What need the bridge much broader than the flood? The fairest grant is the necessity. Look, what will serve is fit: 'tis once, thou lovest, And I will fit thee with the remedy. I know we shall have revelling to-night: I will assume thy part in some disguise And tell fair Hero I am Claudio, And in her bosom I'll unclasp my heart And take her hearing prisoner with the force And strong encounter of my amorous tale: Then after to her father will I break; And the conclusion is, she shall be thine. In practise let us put it presently."
         },
         {
             "text": "Exeunt"

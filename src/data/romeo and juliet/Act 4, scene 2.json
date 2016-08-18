@@ -1,7 +1,7 @@
 {
     "sceneName": "Act 4, scene 2",
     "playName": "romeo and juliet",
-    "location": "Hall in Capulets house.",
+    "location": "Hall in Capulet's house.",
     "lines": [
         {
             "text": "Enter CAPULET, LADY  CAPULET, Nurse, and two Servingmen"
@@ -15,19 +15,19 @@
         },
         {
             "speaker": "second servant",
-            "text": "You shall have none ill, sir for Ill try if they can lick their fingers."
+            "text": "You shall have none ill, sir; for I'll try if they can lick their fingers."
         },
         {
             "speaker": "capulet",
-            "text": "How canst thou try them so"
+            "text": "How canst thou try them so?"
         },
         {
             "speaker": "second servant",
-            "text": "Marry, sir, tis an ill cook that cannot lick his own fingers: therefore he that cannot lick his fingers goes not with me."
+            "text": "Marry, sir, 'tis an ill cook that cannot lick his own fingers: therefore he that cannot lick his fingers goes not with me."
         },
         {
             "speaker": "capulet",
-            "text": "Go, be gone. We shall be much unfurnished for this time. What, is my daughter gone to Friar Laurence"
+            "text": "Go, be gone. We shall be much unfurnished for this time. What, is my daughter gone to Friar Laurence?"
         },
         {
             "text": "Exit Second Servant"
@@ -38,7 +38,7 @@
         },
         {
             "speaker": "capulet",
-            "text": "Well, he may chance to do some good on her: A peevish selfwilld harlotry it is."
+            "text": "Well, he may chance to do some good on her: A peevish self-will'd harlotry it is."
         },
         {
             "speaker": "nurse",
@@ -49,46 +49,46 @@
         },
         {
             "speaker": "capulet",
-            "text": "How now, my headstrong! where have you been gadding"
+            "text": "How now, my headstrong! where have you been gadding?"
         },
         {
             "speaker": "juliet",
-            "text": "Where I have learnd me to repent the sin Of disobedient opposition To you and your behests, and am enjoind By holy Laurence to fall prostrate here, And beg your pardon: pardon, I beseech you! Henceforward I am ever ruled by you."
+            "text": "Where I have learn'd me to repent the sin Of disobedient opposition To you and your behests, and am enjoin'd By holy Laurence to fall prostrate here, And beg your pardon: pardon, I beseech you! Henceforward I am ever ruled by you."
         },
         {
             "speaker": "capulet",
-            "text": "Send for the county go tell him of this: Ill have this knot knit up tomorrow morning."
+            "text": "Send for the county; go tell him of this: I'll have this knot knit up to-morrow morning."
         },
         {
             "speaker": "juliet",
-            "text": "I met the youthful lord at Laurence cell And gave him what becomed love I might, Not step oer the bounds of modesty."
+            "text": "I met the youthful lord at Laurence' cell; And gave him what becomed love I might, Not step o'er the bounds of modesty."
         },
         {
             "speaker": "capulet",
-            "text": "Why, I am glad ont this is well: stand up: This is ast should be. Let me see the county Ay, marry, go, I say, and fetch him hither. Now, afore God! this reverend holy friar, Our whole city is much bound to him."
+            "text": "Why, I am glad on't; this is well: stand up: This is as't should be. Let me see the county; Ay, marry, go, I say, and fetch him hither. Now, afore God! this reverend holy friar, Our whole city is much bound to him."
         },
         {
             "speaker": "juliet",
-            "text": "Nurse, will you go with me into my closet, To help me sort such needful ornaments As you think fit to furnish me tomorrow"
+            "text": "Nurse, will you go with me into my closet, To help me sort such needful ornaments As you think fit to furnish me to-morrow?"
         },
         {
             "speaker": "lady capulet",
-            "text": "No, not till Thursday there is time enough."
+            "text": "No, not till Thursday; there is time enough."
         },
         {
             "speaker": "capulet",
-            "text": "Go, nurse, go with her: well to church tomorrow."
+            "text": "Go, nurse, go with her: we'll to church to-morrow."
         },
         {
             "text": "Exeunt JULIET and Nurse"
         },
         {
             "speaker": "lady  capulet",
-            "text": "We shall be short in our provision: Tis now near night."
+            "text": "We shall be short in our provision: 'Tis now near night."
         },
         {
             "speaker": "capulet",
-            "text": "Tush, I will stir about, And all things shall be well, I warrant thee, wife: Go thou to Juliet, help to deck up her Ill not to bed tonight let me alone Ill play the housewife for this once. What, ho! They are all forth. Well, I will walk myself To County Paris, to prepare him up Against tomorrow: my heart is wondrous light, Since this same wayward girl is so reclaimd."
+            "text": "Tush, I will stir about, And all things shall be well, I warrant thee, wife: Go thou to Juliet, help to deck up her; I'll not to bed to-night; let me alone; I'll play the housewife for this once. What, ho! They are all forth. Well, I will walk myself To County Paris, to prepare him up Against to-morrow: my heart is wondrous light, Since this same wayward girl is so reclaim'd."
         },
         {
             "text": "Exeunt"

@@ -4,11 +4,11 @@
     "location": "London. Cannon Street.",
     "lines": [
         {
-            "text": "Enter CADE and the rest, and strikes his staff on Londonstone"
+            "text": "Enter CADE and the rest, and strikes his staff on London-stone"
         },
         {
             "speaker": "cade",
-            "text": "Now is Mortimer lord of this city. And here, sitting upon Londonstone, I charge and command that, of the citys cost, the pissingconduit run nothing but claret wine this first year of our reign. And now henceforward it shall be treason for any that calls me other than Lord Mortimer."
+            "text": "Now is Mortimer lord of this city. And here, sitting upon London-stone, I charge and command that, of the city's cost, the pissing-conduit run nothing but claret wine this first year of our reign. And now henceforward it shall be treason for any that calls me other than Lord Mortimer."
         },
         {
             "text": "Enter a Soldier, running"
@@ -26,15 +26,15 @@
         },
         {
             "speaker": "smith",
-            "text": "If this fellow be wise, hell never call ye Jack Cade more: I think he hath a very fair warning."
+            "text": "If this fellow be wise, he'll never call ye Jack Cade more: I think he hath a very fair warning."
         },
         {
             "speaker": "dick",
-            "text": "My lord, theres an army gathered together in Smithfield."
+            "text": "My lord, there's an army gathered together in Smithfield."
         },
         {
             "speaker": "cade",
-            "text": "Come, then, lets go fight with them but first, go and set London bridge on fire and, if you can, burn down the Tower too. Come, lets away. So, sirs: now go some and pull down the Savoy others to the inns of court down with them all."
+            "text": "Come, then, let's go fight with them; but first, go and set London bridge on fire; and, if you can, burn down the Tower too. Come, let's away. So, sirs: now go some and pull down the Savoy; others to the inns of court; down with them all."
         },
         {
             "text": "Exeunt"

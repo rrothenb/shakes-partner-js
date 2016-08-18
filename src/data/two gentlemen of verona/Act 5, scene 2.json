@@ -1,38 +1,38 @@
 {
     "sceneName": "Act 5, scene 2",
     "playName": "two gentlemen of verona",
-    "location": "The same. The DUKEs palace.",
+    "location": "The same. The DUKE's palace.",
     "lines": [
         {
             "text": "Enter THURIO, PROTEUS, and JULIA"
         },
         {
             "speaker": "thurio",
-            "text": "Sir Proteus, what says Silvia to my suit"
+            "text": "Sir Proteus, what says Silvia to my suit?"
         },
         {
             "speaker": "proteus",
-            "text": "O, sir, I find her milder than she was And yet she takes exceptions at your person."
+            "text": "O, sir, I find her milder than she was; And yet she takes exceptions at your person."
         },
         {
             "speaker": "thurio",
-            "text": "What, that my leg is too long"
+            "text": "What, that my leg is too long?"
         },
         {
             "speaker": "proteus",
-            "text": "No that it is too little."
+            "text": "No; that it is too little."
         },
         {
             "speaker": "thurio",
-            "text": "Ill wear a boot, to make it somewhat rounder."
+            "text": "I'll wear a boot, to make it somewhat rounder."
         },
         {
             "speaker": "julia",
-            "text": "[Aside]  But love will not be spurrd to what it loathes."
+            "text": "[Aside]  But love will not be spurr'd to what it loathes."
         },
         {
             "speaker": "thurio",
-            "text": "What says she to my face"
+            "text": "What says she to my face?"
         },
         {
             "speaker": "proteus",
@@ -40,19 +40,19 @@
         },
         {
             "speaker": "thurio",
-            "text": "Nay then, the wanton lies my face is black."
+            "text": "Nay then, the wanton lies; my face is black."
         },
         {
             "speaker": "proteus",
-            "text": "But pearls are fair and the old saying is, Black men are pearls in beauteous ladies eyes."
+            "text": "But pearls are fair; and the old saying is, Black men are pearls in beauteous ladies' eyes."
         },
         {
             "speaker": "julia",
-            "text": "[Aside]  Tis true such pearls as put out ladies eyes For I had rather wink than look on them."
+            "text": "[Aside]  'Tis true; such pearls as put out ladies' eyes; For I had rather wink than look on them."
         },
         {
             "speaker": "thurio",
-            "text": "How likes she my discourse"
+            "text": "How likes she my discourse?"
         },
         {
             "speaker": "proteus",
@@ -60,7 +60,7 @@
         },
         {
             "speaker": "thurio",
-            "text": "But well, when I discourse of love and peace"
+            "text": "But well, when I discourse of love and peace?"
         },
         {
             "speaker": "julia",
@@ -68,7 +68,7 @@
         },
         {
             "speaker": "thurio",
-            "text": "What says she to my valour"
+            "text": "What says she to my valour?"
         },
         {
             "speaker": "proteus",
@@ -80,7 +80,7 @@
         },
         {
             "speaker": "thurio",
-            "text": "What says she to my birth"
+            "text": "What says she to my birth?"
         },
         {
             "speaker": "proteus",
@@ -88,19 +88,19 @@
         },
         {
             "speaker": "julia",
-            "text": "[Aside]  True from a gentleman to a fool."
+            "text": "[Aside]  True; from a gentleman to a fool."
         },
         {
             "speaker": "thurio",
-            "text": "Considers she my possessions"
+            "text": "Considers she my possessions?"
         },
         {
             "speaker": "proteus",
-            "text": "O, ay and pities them."
+            "text": "O, ay; and pities them."
         },
         {
             "speaker": "thurio",
-            "text": "Wherefore"
+            "text": "Wherefore?"
         },
         {
             "speaker": "julia",
@@ -119,7 +119,7 @@
         },
         {
             "speaker": "duke",
-            "text": "How now, Sir Proteus! how now, Thurio! Which of you saw Sir Eglamour of late"
+            "text": "How now, Sir Proteus! how now, Thurio! Which of you saw Sir Eglamour of late?"
         },
         {
             "speaker": "thurio",
@@ -131,7 +131,7 @@
         },
         {
             "speaker": "duke",
-            "text": "Saw you my daughter"
+            "text": "Saw you my daughter?"
         },
         {
             "speaker": "proteus",
@@ -139,21 +139,21 @@
         },
         {
             "speaker": "duke",
-            "text": "Why then, Shes fled unto that peasant Valentine And Eglamour is in her company. Tis true for Friar Laurence met them both, As he in penance wanderd through the forest Him he knew well, and guessd that it was she, But, being maskd, he was not sure of it Besides, she did intend confession At Patricks cell this even and there she was not These likelihoods confirm her flight from hence. Therefore, I pray you, stand not to discourse, But mount you presently and meet with me Upon the rising of the mountainfoot That leads towards Mantua, whither they are fled: Dispatch, sweet gentlemen, and follow me."
+            "text": "Why then, She's fled unto that peasant Valentine; And Eglamour is in her company. 'Tis true; for Friar Laurence met them both, As he in penance wander'd through the forest; Him he knew well, and guess'd that it was she, But, being mask'd, he was not sure of it; Besides, she did intend confession At Patrick's cell this even; and there she was not; These likelihoods confirm her flight from hence. Therefore, I pray you, stand not to discourse, But mount you presently and meet with me Upon the rising of the mountain-foot That leads towards Mantua, whither they are fled: Dispatch, sweet gentlemen, and follow me."
         },
         {
             "text": "Exit"
         },
         {
             "speaker": "thurio",
-            "text": "Why, this it is to be a peevish girl, That flies her fortune when it follows her. Ill after, more to be revenged on Eglamour Than for the love of reckless Silvia."
+            "text": "Why, this it is to be a peevish girl, That flies her fortune when it follows her. I'll after, more to be revenged on Eglamour Than for the love of reckless Silvia."
         },
         {
             "text": "Exit"
         },
         {
             "speaker": "proteus",
-            "text": "And I will follow, more for Silvias love Than hate of Eglamour that goes with her."
+            "text": "And I will follow, more for Silvia's love Than hate of Eglamour that goes with her."
         },
         {
             "text": "Exit"

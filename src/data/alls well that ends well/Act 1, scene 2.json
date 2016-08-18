@@ -1,22 +1,22 @@
 {
     "sceneName": "Act 1, scene 2",
     "playName": "alls well that ends well",
-    "location": "Paris. The KINGs palace.",
+    "location": "Paris. The KING's palace.",
     "lines": [
         {
             "text": "Flourish of cornets. Enter the KING of France, with letters, and divers Attendants"
         },
         {
             "speaker": "king",
-            "text": "The Florentines and Senoys are by the ears Have fought with equal fortune and continue A braving war."
+            "text": "The Florentines and Senoys are by the ears; Have fought with equal fortune and continue A braving war."
         },
         {
             "speaker": "first lord",
-            "text": "So tis reported, sir."
+            "text": "So 'tis reported, sir."
         },
         {
             "speaker": "king",
-            "text": "Nay, tis most credible we here received it A certainty, vouchd from our cousin Austria, With caution that the Florentine will move us For speedy aid wherein our dearest friend Prejudicates the business and would seem To have us make denial."
+            "text": "Nay, 'tis most credible; we here received it A certainty, vouch'd from our cousin Austria, With caution that the Florentine will move us For speedy aid; wherein our dearest friend Prejudicates the business and would seem To have us make denial."
         },
         {
             "speaker": "first lord",
@@ -24,7 +24,7 @@
         },
         {
             "speaker": "king",
-            "text": "He hath armd our answer, And Florence is denied before he comes: Yet, for our gentlemen that mean to see The Tuscan service, freely have they leave To stand on either part."
+            "text": "He hath arm'd our answer, And Florence is denied before he comes: Yet, for our gentlemen that mean to see The Tuscan service, freely have they leave To stand on either part."
         },
         {
             "speaker": "second lord",
@@ -32,7 +32,7 @@
         },
         {
             "speaker": "king",
-            "text": "Whats he comes here"
+            "text": "What's he comes here?"
         },
         {
             "text": "Enter BERTRAM, LAFEU, and PAROLLES"
@@ -43,23 +43,23 @@
         },
         {
             "speaker": "king",
-            "text": "Youth, thou bearst thy fathers face Frank nature, rather curious than in haste, Hath well composed thee. Thy fathers moral parts Mayst thou inherit too! Welcome to Paris."
+            "text": "Youth, thou bear'st thy father's face; Frank nature, rather curious than in haste, Hath well composed thee. Thy father's moral parts Mayst thou inherit too! Welcome to Paris."
         },
         {
             "speaker": "bertram",
-            "text": "My thanks and duty are your majestys."
+            "text": "My thanks and duty are your majesty's."
         },
         {
             "speaker": "king",
-            "text": "I would I had that corporal soundness now, As when thy father and myself in friendship First tried our soldiership! He did look far Into the service of the time and was Discipled of the bravest: he lasted long But on us both did haggish age steal on And wore us out of act. It much repairs me To talk of your good father. In his youth He had the wit which I can well observe Today in our young lords but they may jest Till their own scorn return to them unnoted Ere they can hide their levity in honour So like a courtier, contempt nor bitterness Were in his pride or sharpness if they were, His equal had awaked them, and his honour, Clock to itself, knew the true minute when Exception bid him speak, and at this time His tongue obeyd his hand: who were below him He used as creatures of another place And bowd his eminent top to their low ranks, Making them proud of his humility, In their poor praise he humbled. Such a man Might be a copy to these younger times Which, followd well, would demonstrate them now But goers backward."
+            "text": "I would I had that corporal soundness now, As when thy father and myself in friendship First tried our soldiership! He did look far Into the service of the time and was Discipled of the bravest: he lasted long; But on us both did haggish age steal on And wore us out of act. It much repairs me To talk of your good father. In his youth He had the wit which I can well observe To-day in our young lords; but they may jest Till their own scorn return to them unnoted Ere they can hide their levity in honour; So like a courtier, contempt nor bitterness Were in his pride or sharpness; if they were, His equal had awaked them, and his honour, Clock to itself, knew the true minute when Exception bid him speak, and at this time His tongue obey'd his hand: who were below him He used as creatures of another place And bow'd his eminent top to their low ranks, Making them proud of his humility, In their poor praise he humbled. Such a man Might be a copy to these younger times; Which, follow'd well, would demonstrate them now But goers backward."
         },
         {
             "speaker": "bertram",
-            "text": "His good remembrance, sir, Lies richer in your thoughts than on his tomb So in approof lives not his epitaph As in your royal speech."
+            "text": "His good remembrance, sir, Lies richer in your thoughts than on his tomb; So in approof lives not his epitaph As in your royal speech."
         },
         {
             "speaker": "king",
-            "text": "Would I were with him! He would always say Methinks I hear him now his plausive words He scatterd not in ears, but grafted them, To grow there and to bear,Let me not live, This his good melancholy oft began, On the catastrophe and heel of pastime, When it was out,Let me not live, quoth he, After my flame lacks oil, to be the snuff Of younger spirits, whose apprehensive senses All but new things disdain whose judgments are Mere fathers of their garments whose constancies Expire before their fashions. This he wishd I after him do after him wish too, Since I nor wax nor honey can bring home, I quickly were dissolved from my hive, To give some labourers room."
+            "text": "Would I were with him! He would always say-- Methinks I hear him now; his plausive words He scatter'd not in ears, but grafted them, To grow there and to bear,--'Let me not live,'-- This his good melancholy oft began, On the catastrophe and heel of pastime, When it was out,--'Let me not live,' quoth he, 'After my flame lacks oil, to be the snuff Of younger spirits, whose apprehensive senses All but new things disdain; whose judgments are Mere fathers of their garments; whose constancies Expire before their fashions.' This he wish'd; I after him do after him wish too, Since I nor wax nor honey can bring home, I quickly were dissolved from my hive, To give some labourers room."
         },
         {
             "speaker": "second lord",
@@ -67,7 +67,7 @@
         },
         {
             "speaker": "king",
-            "text": "I fill a place, I knowt. How long ist, count, Since the physician at your fathers died He was much famed."
+            "text": "I fill a place, I know't. How long is't, count, Since the physician at your father's died? He was much famed."
         },
         {
             "speaker": "bertram",
@@ -75,7 +75,7 @@
         },
         {
             "speaker": "king",
-            "text": "If he were living, I would try him yet. Lend me an arm the rest have worn me out With several applications nature and sickness Debate it at their leisure. Welcome, count My sons no dearer."
+            "text": "If he were living, I would try him yet. Lend me an arm; the rest have worn me out With several applications; nature and sickness Debate it at their leisure. Welcome, count; My son's no dearer."
         },
         {
             "speaker": "bertram",

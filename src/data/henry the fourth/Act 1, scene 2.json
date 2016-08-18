@@ -1,26 +1,26 @@
 {
     "sceneName": "Act 1, scene 2",
     "playName": "henry the fourth",
-    "location": "London. An apartment of the Princes.",
+    "location": "London. An apartment of the Prince's.",
     "lines": [
         {
             "text": "Enter the PRINCE OF WALES and FALSTAFF"
         },
         {
             "speaker": "falstaff",
-            "text": "Now, Hal, what time of day is it, lad"
+            "text": "Now, Hal, what time of day is it, lad?"
         },
         {
             "speaker": "prince henry",
-            "text": "Thou art so fatwitted, with drinking of old sack and unbuttoning thee after supper and sleeping upon benches after noon, that thou hast forgotten to demand that truly which thou wouldst truly know. What a devil hast thou to do with the time of the day Unless hours were cups of sack and minutes capons and clocks the tongues of bawds and dials the signs of leapinghouses and the blessed sun himself a fair hot wench in flamecoloured taffeta, I see no reason why thou shouldst be so superfluous to demand the time of the day."
+            "text": "Thou art so fat-witted, with drinking of old sack and unbuttoning thee after supper and sleeping upon benches after noon, that thou hast forgotten to demand that truly which thou wouldst truly know. What a devil hast thou to do with the time of the day? Unless hours were cups of sack and minutes capons and clocks the tongues of bawds and dials the signs of leaping-houses and the blessed sun himself a fair hot wench in flame-coloured taffeta, I see no reason why thou shouldst be so superfluous to demand the time of the day."
         },
         {
             "speaker": "falstaff",
-            "text": "Indeed, you come near me now, Hal for we that take purses go by the moon and the seven stars, and not by Phoebus, he,that wandering knight so fair. And, I prithee, sweet wag, when thou art king, as, God save thy grace,majesty I should say, for grace thou wilt have none,"
+            "text": "Indeed, you come near me now, Hal; for we that take purses go by the moon and the seven stars, and not by Phoebus, he,'that wandering knight so fair.' And, I prithee, sweet wag, when thou art king, as, God save thy grace,--majesty I should say, for grace thou wilt have none,--"
         },
         {
             "speaker": "prince henry",
-            "text": "What, none"
+            "text": "What, none?"
         },
         {
             "speaker": "falstaff",
@@ -28,31 +28,31 @@
         },
         {
             "speaker": "prince henry",
-            "text": "Well, how then come, roundly, roundly."
+            "text": "Well, how then? come, roundly, roundly."
         },
         {
             "speaker": "falstaff",
-            "text": "Marry, then, sweet wag, when thou art king, let not us that are squires of the nights body be called thieves of the days beauty: let us be Dianas foresters, gentlemen of the shade, minions of the moon and let men say we be men of good government, being governed, as the sea is, by our noble and chaste mistress the moon, under whose countenance we steal."
+            "text": "Marry, then, sweet wag, when thou art king, let not us that are squires of the night's body be called thieves of the day's beauty: let us be Diana's foresters, gentlemen of the shade, minions of the moon; and let men say we be men of good government, being governed, as the sea is, by our noble and chaste mistress the moon, under whose countenance we steal."
         },
         {
             "speaker": "prince henry",
-            "text": "Thou sayest well, and it holds well too for the fortune of us that are the moons men doth ebb and flow like the sea, being governed, as the sea is, by the moon. As, for proof, now: a purse of gold most resolutely snatched on Monday night and most dissolutely spent on Tuesday morning got with swearing Lay by and spent with crying Bring in now in as low an ebb as the foot of the ladder and by and by in as high a flow as the ridge of the gallows."
+            "text": "Thou sayest well, and it holds well too; for the fortune of us that are the moon's men doth ebb and flow like the sea, being governed, as the sea is, by the moon. As, for proof, now: a purse of gold most resolutely snatched on Monday night and most dissolutely spent on Tuesday morning; got with swearing 'Lay by' and spent with crying 'Bring in;' now in as low an ebb as the foot of the ladder and by and by in as high a flow as the ridge of the gallows."
         },
         {
             "speaker": "falstaff",
-            "text": "By the Lord, thou sayest true, lad. And is not my hostess of the tavern a most sweet wench"
+            "text": "By the Lord, thou sayest true, lad. And is not my hostess of the tavern a most sweet wench?"
         },
         {
             "speaker": "prince henry",
-            "text": "As the honey of Hybla, my old lad of the castle. And is not a buff jerkin a most sweet robe of durance"
+            "text": "As the honey of Hybla, my old lad of the castle. And is not a buff jerkin a most sweet robe of durance?"
         },
         {
             "speaker": "falstaff",
-            "text": "How now, how now, mad wag! what, in thy quips and thy quiddities what a plague have I to do with a buff jerkin"
+            "text": "How now, how now, mad wag! what, in thy quips and thy quiddities? what a plague have I to do with a buff jerkin?"
         },
         {
             "speaker": "prince henry",
-            "text": "Why, what a pox have I to do with my hostess of the tavern"
+            "text": "Why, what a pox have I to do with my hostess of the tavern?"
         },
         {
             "speaker": "falstaff",
@@ -60,27 +60,27 @@
         },
         {
             "speaker": "prince henry",
-            "text": "Did I ever call for thee to pay thy part"
+            "text": "Did I ever call for thee to pay thy part?"
         },
         {
             "speaker": "falstaff",
-            "text": "No Ill give thee thy due, thou hast paid all there."
+            "text": "No; I'll give thee thy due, thou hast paid all there."
         },
         {
             "speaker": "prince henry",
-            "text": "Yea, and elsewhere, so far as my coin would stretch and where it would not, I have used my credit."
+            "text": "Yea, and elsewhere, so far as my coin would stretch; and where it would not, I have used my credit."
         },
         {
             "speaker": "falstaff",
-            "text": "Yea, and so used it that were it not here apparent that thou art heir apparentBut, I prithee, sweet wag, shall there be gallows standing in England when thou art king and resolution thus fobbed as it is with the rusty curb of old father antic the law Do not thou, when thou art king, hang a thief."
+            "text": "Yea, and so used it that were it not here apparent that thou art heir apparent--But, I prithee, sweet wag, shall there be gallows standing in England when thou art king? and resolution thus fobbed as it is with the rusty curb of old father antic the law? Do not thou, when thou art king, hang a thief."
         },
         {
             "speaker": "prince henry",
-            "text": "No thou shalt."
+            "text": "No; thou shalt."
         },
         {
             "speaker": "falstaff",
-            "text": "Shall I O rare! By the Lord, Ill be a brave judge."
+            "text": "Shall I? O rare! By the Lord, I'll be a brave judge."
         },
         {
             "speaker": "prince henry",
@@ -88,19 +88,19 @@
         },
         {
             "speaker": "falstaff",
-            "text": "Well, Hal, well and in some sort it jumps with my humour as well as waiting in the court, I can tell you."
+            "text": "Well, Hal, well; and in some sort it jumps with my humour as well as waiting in the court, I can tell you."
         },
         {
             "speaker": "prince henry",
-            "text": "For obtaining of suits"
+            "text": "For obtaining of suits?"
         },
         {
             "speaker": "falstaff",
-            "text": "Yea, for obtaining of suits, whereof the hangman hath no lean wardrobe. Sblood, I am as melancholy as a gib cat or a lugged bear."
+            "text": "Yea, for obtaining of suits, whereof the hangman hath no lean wardrobe. 'Sblood, I am as melancholy as a gib cat or a lugged bear."
         },
         {
             "speaker": "prince henry",
-            "text": "Or an old lion, or a lovers lute."
+            "text": "Or an old lion, or a lover's lute."
         },
         {
             "speaker": "falstaff",
@@ -108,35 +108,35 @@
         },
         {
             "speaker": "prince henry",
-            "text": "What sayest thou to a hare, or the melancholy of Moorditch"
+            "text": "What sayest thou to a hare, or the melancholy of Moor-ditch?"
         },
         {
             "speaker": "falstaff",
-            "text": "Thou hast the most unsavoury similes and art indeed the most comparative, rascalliest, sweet young prince. But, Hal, I prithee, trouble me no more with vanity. I would to God thou and I knew where a commodity of good names were to be bought. An old lord of the council rated me the other day in the street about you, sir, but I marked him not and yet he talked very wisely, but I regarded him not and yet he talked wisely, and in the street too."
+            "text": "Thou hast the most unsavoury similes and art indeed the most comparative, rascalliest, sweet young prince. But, Hal, I prithee, trouble me no more with vanity. I would to God thou and I knew where a commodity of good names were to be bought. An old lord of the council rated me the other day in the street about you, sir, but I marked him not; and yet he talked very wisely, but I regarded him not; and yet he talked wisely, and in the street too."
         },
         {
             "speaker": "prince henry",
-            "text": "Thou didst well for wisdom cries out in the streets, and no man regards it."
+            "text": "Thou didst well; for wisdom cries out in the streets, and no man regards it."
         },
         {
             "speaker": "falstaff",
-            "text": "O, thou hast damnable iteration and art indeed able to corrupt a saint. Thou hast done much harm upon me, Hal God forgive thee for it! Before I knew thee, Hal, I knew nothing and now am I, if a man should speak truly, little better than one of the wicked. I must give over this life, and I will give it over: by the Lord, and I do not, I am a villain: Ill be damned for never a kings son in Christendom."
+            "text": "O, thou hast damnable iteration and art indeed able to corrupt a saint. Thou hast done much harm upon me, Hal; God forgive thee for it! Before I knew thee, Hal, I knew nothing; and now am I, if a man should speak truly, little better than one of the wicked. I must give over this life, and I will give it over: by the Lord, and I do not, I am a villain: I'll be damned for never a king's son in Christendom."
         },
         {
             "speaker": "prince henry",
-            "text": "Where shall we take a purse tomorrow, Jack"
+            "text": "Where shall we take a purse tomorrow, Jack?"
         },
         {
             "speaker": "falstaff",
-            "text": "Zounds, where thou wilt, lad Ill make one an I do not, call me villain and baffle me."
+            "text": "'Zounds, where thou wilt, lad; I'll make one; an I do not, call me villain and baffle me."
         },
         {
             "speaker": "prince henry",
-            "text": "I see a good amendment of life in thee from praying to pursetaking."
+            "text": "I see a good amendment of life in thee; from praying to purse-taking."
         },
         {
             "speaker": "falstaff",
-            "text": "Why, Hal, tis my vocation, Hal tis no sin for a man to labour in his vocation. Poins! Now shall we know if Gadshill have set a match. O, if men were to be saved by merit, what hole in hell were hot enough for him This is the most omnipotent villain that ever cried Stand to a true man."
+            "text": "Why, Hal, 'tis my vocation, Hal; 'tis no sin for a man to labour in his vocation. Poins! Now shall we know if Gadshill have set a match. O, if men were to be saved by merit, what hole in hell were hot enough for him? This is the most omnipotent villain that ever cried 'Stand' to a true man."
         },
         {
             "text": "Enter POINS"
@@ -147,11 +147,11 @@
         },
         {
             "speaker": "poins",
-            "text": "Good morrow, sweet Hal. What says Monsieur Remorse what says Sir John Sack and Sugar Jack! how agrees the devil and thee about thy soul, that thou soldest him on GoodFriday last for a cup of Madeira and a cold capons leg"
+            "text": "Good morrow, sweet Hal. What says Monsieur Remorse? what says Sir John Sack and Sugar? Jack! how agrees the devil and thee about thy soul, that thou soldest him on Good-Friday last for a cup of Madeira and a cold capon's leg?"
         },
         {
             "speaker": "prince henry",
-            "text": "Sir John stands to his word, the devil shall have his bargain for he was never yet a breaker of proverbs: he will give the devil his due."
+            "text": "Sir John stands to his word, the devil shall have his bargain; for he was never yet a breaker of proverbs: he will give the devil his due."
         },
         {
             "speaker": "poins",
@@ -163,43 +163,43 @@
         },
         {
             "speaker": "poins",
-            "text": "But, my lads, my lads, tomorrow morning, by four oclock, early at Gadshill! there are pilgrims going to Canterbury with rich offerings, and traders riding to London with fat purses: I have vizards for you all you have horses for yourselves: Gadshill lies tonight in Rochester: I have bespoke supper tomorrow night in Eastcheap: we may do it as secure as sleep. If you will go, I will stuff your purses full of crowns if you will not, tarry at home and be hanged."
+            "text": "But, my lads, my lads, to-morrow morning, by four o'clock, early at Gadshill! there are pilgrims going to Canterbury with rich offerings, and traders riding to London with fat purses: I have vizards for you all; you have horses for yourselves: Gadshill lies to-night in Rochester: I have bespoke supper to-morrow night in Eastcheap: we may do it as secure as sleep. If you will go, I will stuff your purses full of crowns; if you will not, tarry at home and be hanged."
         },
         {
             "speaker": "falstaff",
-            "text": "Hear ye, Yedward if I tarry at home and go not, Ill hang you for going."
+            "text": "Hear ye, Yedward; if I tarry at home and go not, I'll hang you for going."
         },
         {
             "speaker": "poins",
-            "text": "You will, chops"
+            "text": "You will, chops?"
         },
         {
             "speaker": "falstaff",
-            "text": "Hal, wilt thou make one"
+            "text": "Hal, wilt thou make one?"
         },
         {
             "speaker": "prince henry",
-            "text": "Who, I rob I a thief not I, by my faith."
+            "text": "Who, I rob? I a thief? not I, by my faith."
         },
         {
             "speaker": "falstaff",
-            "text": "Theres neither honesty, manhood, nor good fellowship in thee, nor thou camest not of the blood royal, if thou darest not stand for ten shillings."
+            "text": "There's neither honesty, manhood, nor good fellowship in thee, nor thou camest not of the blood royal, if thou darest not stand for ten shillings."
         },
         {
             "speaker": "prince henry",
-            "text": "Well then, once in my days Ill be a madcap."
+            "text": "Well then, once in my days I'll be a madcap."
         },
         {
             "speaker": "falstaff",
-            "text": "Why, thats well said."
+            "text": "Why, that's well said."
         },
         {
             "speaker": "prince henry",
-            "text": "Well, come what will, Ill tarry at home."
+            "text": "Well, come what will, I'll tarry at home."
         },
         {
             "speaker": "falstaff",
-            "text": "By the Lord, Ill be a traitor then, when thou art king."
+            "text": "By the Lord, I'll be a traitor then, when thou art king."
         },
         {
             "speaker": "prince henry",
@@ -211,34 +211,34 @@
         },
         {
             "speaker": "falstaff",
-            "text": "Well, God give thee the spirit of persuasion and him the ears of profiting, that what thou speakest may move and what he hears may be believed, that the true prince may, for recreation sake, prove a false thief for the poor abuses of the time want countenance. Farewell: you shall find me in Eastcheap."
+            "text": "Well, God give thee the spirit of persuasion and him the ears of profiting, that what thou speakest may move and what he hears may be believed, that the true prince may, for recreation sake, prove a false thief; for the poor abuses of the time want countenance. Farewell: you shall find me in Eastcheap."
         },
         {
             "speaker": "prince henry",
-            "text": "Farewell, thou latter spring! farewell, Allhallown summer!"
+            "text": "Farewell, thou latter spring! farewell, All-hallown summer!"
         },
         {
             "text": "Exit Falstaff"
         },
         {
             "speaker": "poins",
-            "text": "Now, my good sweet honey lord, ride with us tomorrow: I have a jest to execute that I cannot manage alone. Falstaff, Bardolph, Peto and Gadshill shall rob those men that we have already waylaid: yourself and I will not be there and when they have the booty, if you and I do not rob them, cut this head off from my shoulders."
+            "text": "Now, my good sweet honey lord, ride with us to-morrow: I have a jest to execute that I cannot manage alone. Falstaff, Bardolph, Peto and Gadshill shall rob those men that we have already waylaid: yourself and I will not be there; and when they have the booty, if you and I do not rob them, cut this head off from my shoulders."
         },
         {
             "speaker": "prince henry",
-            "text": "How shall we part with them in setting forth"
+            "text": "How shall we part with them in setting forth?"
         },
         {
             "speaker": "poins",
-            "text": "Why, we will set forth before or after them, and appoint them a place of meeting, wherein it is at our pleasure to fail, and then will they adventure upon the exploit themselves which they shall have no sooner achieved, but well set upon them."
+            "text": "Why, we will set forth before or after them, and appoint them a place of meeting, wherein it is at our pleasure to fail, and then will they adventure upon the exploit themselves; which they shall have no sooner achieved, but we'll set upon them."
         },
         {
             "speaker": "prince henry",
-            "text": "Yea, but tis like that they will know us by our horses, by our habits and by every other appointment, to be ourselves."
+            "text": "Yea, but 'tis like that they will know us by our horses, by our habits and by every other appointment, to be ourselves."
         },
         {
             "speaker": "poins",
-            "text": "Tut! our horses they shall not see: Ill tie them in the wood our vizards we will change after we leave them: and, sirrah, I have cases of buckram for the nonce, to immask our noted outward garments."
+            "text": "Tut! our horses they shall not see: I'll tie them in the wood; our vizards we will change after we leave them: and, sirrah, I have cases of buckram for the nonce, to immask our noted outward garments."
         },
         {
             "speaker": "prince henry",
@@ -246,11 +246,11 @@
         },
         {
             "speaker": "poins",
-            "text": "Well, for two of them, I know them to be as truebred cowards as ever turned back and for the third, if he fight longer than he sees reason, Ill forswear arms. The virtue of this jest will be, the incomprehensible lies that this same fat rogue will tell us when we meet at supper: how thirty, at least, he fought with what wards, what blows, what extremities he endured and in the reproof of this lies the jest."
+            "text": "Well, for two of them, I know them to be as true-bred cowards as ever turned back; and for the third, if he fight longer than he sees reason, I'll forswear arms. The virtue of this jest will be, the incomprehensible lies that this same fat rogue will tell us when we meet at supper: how thirty, at least, he fought with; what wards, what blows, what extremities he endured; and in the reproof of this lies the jest."
         },
         {
             "speaker": "prince henry",
-            "text": "Well, Ill go with thee: provide us all things necessary and meet me tomorrow night in Eastcheap there Ill sup. Farewell."
+            "text": "Well, I'll go with thee: provide us all things necessary and meet me to-morrow night in Eastcheap; there I'll sup. Farewell."
         },
         {
             "speaker": "poins",
@@ -261,7 +261,7 @@
         },
         {
             "speaker": "prince henry",
-            "text": "I know you all, and will awhile uphold The unyoked humour of your idleness: Yet herein will I imitate the sun, Who doth permit the base contagious clouds To smother up his beauty from the world, That, when he please again to be himself, Being wanted, he may be more wonderd at, By breaking through the foul and ugly mists Of vapours that did seem to strangle him. If all the year were playing holidays, To sport would be as tedious as to work But when they seldom come, they wishd for come, And nothing pleaseth but rare accidents. So, when this loose behavior I throw off And pay the debt I never promised, By how much better than my word I am, By so much shall I falsify mens hopes And like bright metal on a sullen ground, My reformation, glittering oer my fault, Shall show more goodly and attract more eyes Than that which hath no foil to set it off. Ill so offend, to make offence a skill Redeeming time when men think least I will."
+            "text": "I know you all, and will awhile uphold The unyoked humour of your idleness: Yet herein will I imitate the sun, Who doth permit the base contagious clouds To smother up his beauty from the world, That, when he please again to be himself, Being wanted, he may be more wonder'd at, By breaking through the foul and ugly mists Of vapours that did seem to strangle him. If all the year were playing holidays, To sport would be as tedious as to work; But when they seldom come, they wish'd for come, And nothing pleaseth but rare accidents. So, when this loose behavior I throw off And pay the debt I never promised, By how much better than my word I am, By so much shall I falsify men's hopes; And like bright metal on a sullen ground, My reformation, glittering o'er my fault, Shall show more goodly and attract more eyes Than that which hath no foil to set it off. I'll so offend, to make offence a skill; Redeeming time when men think least I will."
         },
         {
             "text": "Exit"

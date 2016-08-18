@@ -1,22 +1,22 @@
 {
     "sceneName": "Act 3, scene 1",
     "playName": "taming of the shrew",
-    "location": "Padua. BAPTISTAS house.",
+    "location": "Padua. BAPTISTA'S house.",
     "lines": [
         {
             "text": "Enter LUCENTIO, HORTENSIO, and BIANCA"
         },
         {
             "speaker": "lucentio",
-            "text": "Fiddler, forbear you grow too forward, sir: Have you so soon forgot the entertainment Her sister Katharina welcomed you withal"
+            "text": "Fiddler, forbear; you grow too forward, sir: Have you so soon forgot the entertainment Her sister Katharina welcomed you withal?"
         },
         {
             "speaker": "hortensio",
-            "text": "But, wrangling pedant, this is The patroness of heavenly harmony: Then give me leave to have prerogative And when in music we have spent an hour, Your lecture shall have leisure for as much."
+            "text": "But, wrangling pedant, this is The patroness of heavenly harmony: Then give me leave to have prerogative; And when in music we have spent an hour, Your lecture shall have leisure for as much."
         },
         {
             "speaker": "lucentio",
-            "text": "Preposterous ass, that never read so far To know the cause why music was ordaind! Was it not to refresh the mind of man After his studies or his usual pain Then give me leave to read philosophy, And while I pause, serve in your harmony."
+            "text": "Preposterous ass, that never read so far To know the cause why music was ordain'd! Was it not to refresh the mind of man After his studies or his usual pain? Then give me leave to read philosophy, And while I pause, serve in your harmony."
         },
         {
             "speaker": "hortensio",
@@ -24,11 +24,11 @@
         },
         {
             "speaker": "bianca",
-            "text": "Why, gentlemen, you do me double wrong, To strive for that which resteth in my choice: I am no breeching scholar in the schools Ill not be tied to hours nor pointed times, But learn my lessons as I please myself. And, to cut off all strife, here sit we down: Take you your instrument, play you the whiles His lecture will be done ere you have tuned."
+            "text": "Why, gentlemen, you do me double wrong, To strive for that which resteth in my choice: I am no breeching scholar in the schools; I'll not be tied to hours nor 'pointed times, But learn my lessons as I please myself. And, to cut off all strife, here sit we down: Take you your instrument, play you the whiles; His lecture will be done ere you have tuned."
         },
         {
             "speaker": "hortensio",
-            "text": "Youll leave his lecture when I am in tune"
+            "text": "You'll leave his lecture when I am in tune?"
         },
         {
             "speaker": "lucentio",
@@ -36,11 +36,11 @@
         },
         {
             "speaker": "bianca",
-            "text": "Where left we last"
+            "text": "Where left we last?"
         },
         {
             "speaker": "lucentio",
-            "text": "Here, madam: Hic ibat Simois hic est Sigeia tellus Hic steterat Priami regia celsa senis."
+            "text": "Here, madam: 'Hic ibat Simois; hic est Sigeia tellus; Hic steterat Priami regia celsa senis.'"
         },
         {
             "speaker": "bianca",
@@ -48,15 +48,15 @@
         },
         {
             "speaker": "lucentio",
-            "text": "Hic ibat, as I told you before, Simois, I am Lucentio, hic est, son unto Vincentio of Pisa, Sigeia tellus, disguised thus to get your love Hic steterat, and that Lucentio that comes awooing, Priami, is my man Tranio, regia, bearing my port, celsa senis, that we might beguile the old pantaloon."
+            "text": "'Hic ibat,' as I told you before, 'Simois,' I am Lucentio, 'hic est,' son unto Vincentio of Pisa, 'Sigeia tellus,' disguised thus to get your love; 'Hic steterat,' and that Lucentio that comes a-wooing, 'Priami,' is my man Tranio, 'regia,' bearing my port, 'celsa senis,' that we might beguile the old pantaloon."
         },
         {
             "speaker": "hortensio",
-            "text": "Madam, my instruments in tune."
+            "text": "Madam, my instrument's in tune."
         },
         {
             "speaker": "bianca",
-            "text": "Lets hear. O fie! the treble jars."
+            "text": "Let's hear. O fie! the treble jars."
         },
         {
             "speaker": "lucentio",
@@ -64,11 +64,11 @@
         },
         {
             "speaker": "bianca",
-            "text": "Now let me see if I can construe it: Hic ibat Simois, I know you not, hic est Sigeia tellus, I trust you not Hic steterat Priami, take heed he hear us not, regia, presume not, celsa senis, despair not."
+            "text": "Now let me see if I can construe it: 'Hic ibat Simois,' I know you not, 'hic est Sigeia tellus,' I trust you not; 'Hic steterat Priami,' take heed he hear us not, 'regia,' presume not, 'celsa senis,' despair not."
         },
         {
             "speaker": "hortensio",
-            "text": "Madam, tis now in tune."
+            "text": "Madam, 'tis now in tune."
         },
         {
             "speaker": "lucentio",
@@ -76,7 +76,7 @@
         },
         {
             "speaker": "hortensio",
-            "text": "The base is right tis the base knave that jars. How fiery and forward our pedant is! Now, for my life, the knave doth court my love: Pedascule, Ill watch you better yet."
+            "text": "The base is right; 'tis the base knave that jars. How fiery and forward our pedant is! Now, for my life, the knave doth court my love: Pedascule, I'll watch you better yet."
         },
         {
             "text": "Aside"
@@ -87,11 +87,11 @@
         },
         {
             "speaker": "lucentio",
-            "text": "Mistrust it not: for, sure, AEacides Was Ajax, calld so from his grandfather."
+            "text": "Mistrust it not: for, sure, AEacides Was Ajax, call'd so from his grandfather."
         },
         {
             "speaker": "bianca",
-            "text": "I must believe my master else, I promise you, I should be arguing still upon that doubt: But let it rest. Now, Licio, to you: Good masters, take it not unkindly, pray, That I have been thus pleasant with you both."
+            "text": "I must believe my master; else, I promise you, I should be arguing still upon that doubt: But let it rest. Now, Licio, to you: Good masters, take it not unkindly, pray, That I have been thus pleasant with you both."
         },
         {
             "speaker": "hortensio",
@@ -99,14 +99,14 @@
         },
         {
             "speaker": "lucentio",
-            "text": "Are you so formal, sir well, I must wait, And watch withal for, but I be deceived, Our fine musician groweth amorous."
+            "text": "Are you so formal, sir? well, I must wait, And watch withal; for, but I be deceived, Our fine musician groweth amorous."
         },
         {
             "text": "Aside"
         },
         {
             "speaker": "hortensio",
-            "text": "Madam, before you touch the instrument, To learn the order of my fingering, I must begin with rudiments of art To teach you gamut in a briefer sort, More pleasant, pithy and effectual, Than hath been taught by any of my trade: And there it is in writing, fairly drawn."
+            "text": "Madam, before you touch the instrument, To learn the order of my fingering, I must begin with rudiments of art; To teach you gamut in a briefer sort, More pleasant, pithy and effectual, Than hath been taught by any of my trade: And there it is in writing, fairly drawn."
         },
         {
             "speaker": "bianca",
@@ -118,18 +118,18 @@
         },
         {
             "speaker": "bianca",
-            "text": "[Reads]  Gamut I am, the ground of all accord, A re, to Plead Hortensios passion B mi, Bianca, take him for thy lord, C fa ut, that loves with all affection: D sol re, one clef, two notes have I: E la mi, show pity, or I die. Call you this gamut tut, I like it not: Old fashions please me best I am not so nice, To change true rules for old inventions."
+            "text": "[Reads]  ''Gamut' I am, the ground of all accord, 'A re,' to Plead Hortensio's passion; 'B mi,' Bianca, take him for thy lord, 'C fa ut,' that loves with all affection: 'D sol re,' one clef, two notes have I: 'E la mi,' show pity, or I die.' Call you this gamut? tut, I like it not: Old fashions please me best; I am not so nice, To change true rules for old inventions."
         },
         {
             "text": "Enter a Servant"
         },
         {
             "speaker": "servant",
-            "text": "Mistress, your father prays you leave your books And help to dress your sisters chamber up: You know tomorrow is the weddingday."
+            "text": "Mistress, your father prays you leave your books And help to dress your sister's chamber up: You know to-morrow is the wedding-day."
         },
         {
             "speaker": "bianca",
-            "text": "Farewell, sweet masters both I must be gone."
+            "text": "Farewell, sweet masters both; I must be gone."
         },
         {
             "text": "Exeunt BIANCA and Servant"

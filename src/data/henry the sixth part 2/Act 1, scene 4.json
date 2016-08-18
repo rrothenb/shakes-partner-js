@@ -1,26 +1,26 @@
 {
     "sceneName": "Act 1, scene 4",
     "playName": "henry the sixth part 2",
-    "location": "GLOUCESTERs garden.",
+    "location": "GLOUCESTER's garden.",
     "lines": [
         {
             "text": "Enter MARGARET JOURDAIN, HUME, SOUTHWELL, and BOLINGBROKE"
         },
         {
             "speaker": "hume",
-            "text": "Come, my masters the duchess, I tell you, expects performance of your promises."
+            "text": "Come, my masters; the duchess, I tell you, expects performance of your promises."
         },
         {
             "speaker": "bolingbroke",
-            "text": "Master Hume, we are therefore provided: will her ladyship behold and hear our exorcisms"
+            "text": "Master Hume, we are therefore provided: will her ladyship behold and hear our exorcisms?"
         },
         {
             "speaker": "hume",
-            "text": "Ay, what else fear you not her courage."
+            "text": "Ay, what else? fear you not her courage."
         },
         {
             "speaker": "bolingbroke",
-            "text": "I have heard her reported to be a woman of an invincible spirit: but it shall be convenient, Master Hume, that you be by her aloft, while we be busy below and so, I pray you, go, in Gods name, and leave us. Mother Jourdain, be you prostrate and grovel on the earth John Southwell, read you and let us to our work."
+            "text": "I have heard her reported to be a woman of an invincible spirit: but it shall be convenient, Master Hume, that you be by her aloft, while we be busy below; and so, I pray you, go, in God's name, and leave us. Mother Jourdain, be you prostrate and grovel on the earth; John Southwell, read you; and let us to our work."
         },
         {
             "text": "Exit HUME"
@@ -30,11 +30,11 @@
         },
         {
             "speaker": "duchess",
-            "text": "Well said, my masters and welcome all. To this gear the sooner the better."
+            "text": "Well said, my masters; and welcome all. To this gear the sooner the better."
         },
         {
             "speaker": "bolingbroke",
-            "text": "Patience, good lady wizards know their times: Deep night, dark night, the silent of the night, The time of night when Troy was set on fire The time when screechowls cry and bandogs howl, And spirits walk and ghosts break up their graves, That time best fits the work we have in hand. Madam, sit you and fear not: whom we raise, We will make fast within a hallowd verge. Here they do the ceremonies belonging, and make the  circle BOLINGBROKE or SOUTHWELL reads, Conjuro te, and c. It thunders and lightens terribly then the Spirit riseth"
+            "text": "Patience, good lady; wizards know their times: Deep night, dark night, the silent of the night, The time of night when Troy was set on fire; The time when screech-owls cry and ban-dogs howl, And spirits walk and ghosts break up their graves, That time best fits the work we have in hand. Madam, sit you and fear not: whom we raise, We will make fast within a hallow'd verge. Here they do the ceremonies belonging, and make the  circle; BOLINGBROKE or SOUTHWELL reads, Conjuro te, and c. It thunders and lightens terribly; then the Spirit riseth"
         },
         {
             "speaker": "spirit",
@@ -42,7 +42,7 @@
         },
         {
             "speaker": "margaret jourdain",
-            "text": "Asmath, By the eternal God, whose name and power Thou tremblest at, answer that I shall ask For, till thou speak, thou shalt not pass from hence."
+            "text": "Asmath, By the eternal God, whose name and power Thou tremblest at, answer that I shall ask; For, till thou speak, thou shalt not pass from hence."
         },
         {
             "speaker": "spirit",
@@ -50,21 +50,21 @@
         },
         {
             "speaker": "bolingbroke",
-            "text": "First of the king: what shall of him become"
+            "text": "'First of the king: what shall of him become?'"
         },
         {
             "text": "Reading out of a paper"
         },
         {
             "speaker": "spirit",
-            "text": "The duke yet lives that Henry shall depose But him outlive, and die a violent death."
+            "text": "The duke yet lives that Henry shall depose; But him outlive, and die a violent death."
         },
         {
             "text": "As the Spirit speaks, SOUTHWELL writes the answer"
         },
         {
             "speaker": "bolingbroke",
-            "text": "What fates await the Duke of Suffolk"
+            "text": "'What fates await the Duke of Suffolk?'"
         },
         {
             "speaker": "spirit",
@@ -72,11 +72,11 @@
         },
         {
             "speaker": "bolingbroke",
-            "text": "What shall befall the Duke of Somerset"
+            "text": "'What shall befall the Duke of Somerset?'"
         },
         {
             "speaker": "spirit",
-            "text": "Let him shun castles Safer shall he be upon the sandy plains Than where castles mounted stand. Have done, for more I hardly can endure."
+            "text": "Let him shun castles; Safer shall he be upon the sandy plains Than where castles mounted stand. Have done, for more I hardly can endure."
         },
         {
             "speaker": "bolingbroke",
@@ -90,22 +90,22 @@
         },
         {
             "speaker": "york",
-            "text": "Lay hands upon these traitors and their trash. Beldam, I think we watchd you at an inch. What, madam, are you there the king and commonweal Are deeply indebted for this piece of pains: My lord protector will, I doubt it not, See you well guerdond for these good deserts."
+            "text": "Lay hands upon these traitors and their trash. Beldam, I think we watch'd you at an inch. What, madam, are you there? the king and commonweal Are deeply indebted for this piece of pains: My lord protector will, I doubt it not, See you well guerdon'd for these good deserts."
         },
         {
             "speaker": "duchess",
-            "text": "Not half so bad as thine to Englands king, Injurious duke, that threatest wheres no cause."
+            "text": "Not half so bad as thine to England's king, Injurious duke, that threatest where's no cause."
         },
         {
             "speaker": "buckingham",
-            "text": "True, madam, none at all: what call you this Away with them! let them be clappd up close. And kept asunder. You, madam, shall with us. Stafford, take her to thee. Well see your trinkets here all forthcoming. All, away! Exeunt guard with MARGARET JOURDAIN, SOUTHWELL,  and c"
+            "text": "True, madam, none at all: what call you this? Away with them! let them be clapp'd up close. And kept asunder. You, madam, shall with us. Stafford, take her to thee. We'll see your trinkets here all forthcoming. All, away! Exeunt guard with MARGARET JOURDAIN, SOUTHWELL,  and c"
         },
         {
             "text": "Exeunt above DUCHESS and HUME, guarded"
         },
         {
             "speaker": "york",
-            "text": "Lord Buckingham, methinks, you watchd her well: A pretty plot, well chosen to build upon! Now, pray, my lord, lets see the devils writ. What have we here The duke yet lives, that Henry shall depose But him outlive, and die a violent death. Why, this is just Aio te, AEacida, Romanos vincere posse. Well, to the rest: Tell me what fate awaits the Duke of Suffolk By water shall he die, and take his end. What shall betide the Duke of Somerset Let him shun castles Safer shall he be upon the sandy plains Than where castles mounted stand. Come, come, my lords These oracles are hardly attaind, And hardly understood. The king is now in progress towards Saint Albans, With him the husband of this lovely lady: Thither go these news, as fast as horse can carry them: A sorry breakfast for my lord protector."
+            "text": "Lord Buckingham, methinks, you watch'd her well: A pretty plot, well chosen to build upon! Now, pray, my lord, let's see the devil's writ. What have we here? 'The duke yet lives, that Henry shall depose; But him outlive, and die a violent death.' Why, this is just 'Aio te, AEacida, Romanos vincere posse.' Well, to the rest: 'Tell me what fate awaits the Duke of Suffolk? By water shall he die, and take his end. What shall betide the Duke of Somerset? Let him shun castles; Safer shall he be upon the sandy plains Than where castles mounted stand.' Come, come, my lords; These oracles are hardly attain'd, And hardly understood. The king is now in progress towards Saint Alban's, With him the husband of this lovely lady: Thither go these news, as fast as horse can carry them: A sorry breakfast for my lord protector."
         },
         {
             "text": "Reads"
@@ -116,7 +116,7 @@
         },
         {
             "speaker": "york",
-            "text": "At your pleasure, my good lord. Whos within there, ho! Invite my Lords of Salisbury and Warwick To sup with me tomorrow night. Away!"
+            "text": "At your pleasure, my good lord. Who's within there, ho! Invite my Lords of Salisbury and Warwick To sup with me to-morrow night. Away!"
         },
         {
             "text": "Enter a Servingman"

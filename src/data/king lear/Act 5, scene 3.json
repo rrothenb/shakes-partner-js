@@ -4,7 +4,7 @@
     "location": "The British camp near Dover.",
     "lines": [
         {
-            "text": "Enter, in conquest, with drum and colours, EDMUND,  KING LEAR and CORDELIA, prisoners Captain, Soldiers,  and c"
+            "text": "Enter, in conquest, with drum and colours, EDMUND,  KING LEAR and CORDELIA, prisoners; Captain, Soldiers,  and c"
         },
         {
             "speaker": "edmund",
@@ -12,11 +12,11 @@
         },
         {
             "speaker": "cordelia",
-            "text": "We are not the first Who, with best meaning, have incurrd the worst. For thee, oppressed king, am I cast down Myself could else outfrown false fortunes frown. Shall we not see these daughters and these sisters"
+            "text": "We are not the first Who, with best meaning, have incurr'd the worst. For thee, oppressed king, am I cast down; Myself could else out-frown false fortune's frown. Shall we not see these daughters and these sisters?"
         },
         {
             "speaker": "king lear",
-            "text": "No, no, no, no! Come, lets away to prison: We two alone will sing like birds i the cage: When thou dost ask me blessing, Ill kneel down, And ask of thee forgiveness: so well live, And pray, and sing, and tell old tales, and laugh At gilded butterflies, and hear poor rogues Talk of court news and well talk with them too, Who loses and who wins whos in, whos out And take upons the mystery of things, As if we were Gods spies: and well wear out, In a walld prison, packs and sects of great ones, That ebb and flow by the moon."
+            "text": "No, no, no, no! Come, let's away to prison: We two alone will sing like birds i' the cage: When thou dost ask me blessing, I'll kneel down, And ask of thee forgiveness: so we'll live, And pray, and sing, and tell old tales, and laugh At gilded butterflies, and hear poor rogues Talk of court news; and we'll talk with them too, Who loses and who wins; who's in, who's out; And take upon's the mystery of things, As if we were God's spies: and we'll wear out, In a wall'd prison, packs and sects of great ones, That ebb and flow by the moon."
         },
         {
             "speaker": "edmund",
@@ -24,29 +24,29 @@
         },
         {
             "speaker": "king lear",
-            "text": "Upon such sacrifices, my Cordelia, The gods themselves throw incense. Have I caught thee He that parts us shall bring a brand from heaven, And fire us hence like foxes. Wipe thine eyes The goodyears shall devour them, flesh and fell, Ere they shall make us weep: well see em starve first. Come."
+            "text": "Upon such sacrifices, my Cordelia, The gods themselves throw incense. Have I caught thee? He that parts us shall bring a brand from heaven, And fire us hence like foxes. Wipe thine eyes; The good-years shall devour them, flesh and fell, Ere they shall make us weep: we'll see 'em starve first. Come."
         },
         {
             "text": "Exeunt KING LEAR and CORDELIA, guarded"
         },
         {
             "speaker": "edmund",
-            "text": "Come hither, captain hark. Take thou this note go follow them to prison: One step I have advanced thee if thou dost As this instructs thee, thou dost make thy way To noble fortunes: know thou this, that men Are as the time is: to be tenderminded Does not become a sword: thy great employment Will not bear question either say thoult do t, Or thrive by other means."
+            "text": "Come hither, captain; hark. Take thou this note; go follow them to prison: One step I have advanced thee; if thou dost As this instructs thee, thou dost make thy way To noble fortunes: know thou this, that men Are as the time is: to be tender-minded Does not become a sword: thy great employment Will not bear question; either say thou'lt do 't, Or thrive by other means."
         },
         {
             "text": "Giving a paper"
         },
         {
             "speaker": "captain",
-            "text": "Ill do t, my lord."
+            "text": "I'll do 't, my lord."
         },
         {
             "speaker": "edmund",
-            "text": "About it and write happy when thou hast done. Mark, I say, instantly and carry it so As I have set it down."
+            "text": "About it; and write happy when thou hast done. Mark, I say, instantly; and carry it so As I have set it down."
         },
         {
             "speaker": "captain",
-            "text": "I cannot draw a cart, nor eat dried oats If it be mans work, Ill do t."
+            "text": "I cannot draw a cart, nor eat dried oats; If it be man's work, I'll do 't."
         },
         {
             "text": "Exit"
@@ -56,11 +56,11 @@
         },
         {
             "speaker": "albany",
-            "text": "Sir, you have shown today your valiant strain, And fortune led you well: you have the captives That were the opposites of this days strife: We do require them of you, so to use them As we shall find their merits and our safety May equally determine."
+            "text": "Sir, you have shown to-day your valiant strain, And fortune led you well: you have the captives That were the opposites of this day's strife: We do require them of you, so to use them As we shall find their merits and our safety May equally determine."
         },
         {
             "speaker": "edmund",
-            "text": "Sir, I thought it fit To send the old and miserable king To some retention and appointed guard Whose age has charms in it, whose title more, To pluck the common bosom on his side, An turn our impressd lances in our eyes Which do command them. With him I sent the queen My reason all the same and they are ready Tomorrow, or at further space, to appear Where you shall hold your session. At this time We sweat and bleed: the friend hath lost his friend And the best quarrels, in the heat, are cursed By those that feel their sharpness: The question of Cordelia and her father Requires a fitter place."
+            "text": "Sir, I thought it fit To send the old and miserable king To some retention and appointed guard; Whose age has charms in it, whose title more, To pluck the common bosom on his side, An turn our impress'd lances in our eyes Which do command them. With him I sent the queen; My reason all the same; and they are ready To-morrow, or at further space, to appear Where you shall hold your session. At this time We sweat and bleed: the friend hath lost his friend; And the best quarrels, in the heat, are cursed By those that feel their sharpness: The question of Cordelia and her father Requires a fitter place."
         },
         {
             "speaker": "albany",
@@ -68,7 +68,7 @@
         },
         {
             "speaker": "regan",
-            "text": "Thats as we list to grace him. Methinks our pleasure might have been demanded, Ere you had spoke so far. He led our powers Bore the commission of my place and person The which immediacy may well stand up, And call itself your brother."
+            "text": "That's as we list to grace him. Methinks our pleasure might have been demanded, Ere you had spoke so far. He led our powers; Bore the commission of my place and person; The which immediacy may well stand up, And call itself your brother."
         },
         {
             "speaker": "goneril",
@@ -88,19 +88,19 @@
         },
         {
             "speaker": "goneril",
-            "text": "Holla, holla! That eye that told you so lookd but asquint."
+            "text": "Holla, holla! That eye that told you so look'd but a-squint."
         },
         {
             "speaker": "regan",
-            "text": "Lady, I am not well else I should answer From a fullflowing stomach. General, Take thou my soldiers, prisoners, patrimony Dispose of them, of me the walls are thine: Witness the world, that I create thee here My lord and master."
+            "text": "Lady, I am not well; else I should answer From a full-flowing stomach. General, Take thou my soldiers, prisoners, patrimony; Dispose of them, of me; the walls are thine: Witness the world, that I create thee here My lord and master."
         },
         {
             "speaker": "goneril",
-            "text": "Mean you to enjoy him"
+            "text": "Mean you to enjoy him?"
         },
         {
             "speaker": "albany",
-            "text": "The letalone lies not in your good will."
+            "text": "The let-alone lies not in your good will."
         },
         {
             "speaker": "edmund",
@@ -108,7 +108,7 @@
         },
         {
             "speaker": "albany",
-            "text": "Halfblooded fellow, yes."
+            "text": "Half-blooded fellow, yes."
         },
         {
             "speaker": "regan",
@@ -116,7 +116,7 @@
         },
         {
             "speaker": "albany",
-            "text": "Stay yet hear reason. Edmund, I arrest thee On capital treason and, in thine attaint, This gilded serpent For your claim, fair sister, I bar it in the interest of my wife: Tis she is subcontracted to this lord, And I, her husband, contradict your bans. If you will marry, make your loves to me, My lady is bespoke."
+            "text": "Stay yet; hear reason. Edmund, I arrest thee On capital treason; and, in thine attaint, This gilded serpent For your claim, fair sister, I bar it in the interest of my wife: 'Tis she is sub-contracted to this lord, And I, her husband, contradict your bans. If you will marry, make your loves to me, My lady is bespoke."
         },
         {
             "text": "Pointing to Goneril"
@@ -127,7 +127,7 @@
         },
         {
             "speaker": "albany",
-            "text": "Thou art armd, Gloucester: let the trumpet sound: If none appear to prove upon thy head Thy heinous, manifest, and many treasons, There is my pledge Ill prove it on thy heart, Ere I taste bread, thou art in nothing less Than I have here proclaimd thee."
+            "text": "Thou art arm'd, Gloucester: let the trumpet sound: If none appear to prove upon thy head Thy heinous, manifest, and many treasons, There is my pledge; I'll prove it on thy heart, Ere I taste bread, thou art in nothing less Than I have here proclaim'd thee."
         },
         {
             "text": "Throwing down a glove"
@@ -138,11 +138,11 @@
         },
         {
             "speaker": "goneril",
-            "text": "[Aside]  If not, Ill neer trust medicine."
+            "text": "[Aside]  If not, I'll ne'er trust medicine."
         },
         {
             "speaker": "edmund",
-            "text": "Theres my exchange: what in the world he is That names me traitor, villainlike he lies: Call by thy trumpet: he that dares approach, On him, on you, who not I will maintain My truth and honour firmly."
+            "text": "There's my exchange: what in the world he is That names me traitor, villain-like he lies: Call by thy trumpet: he that dares approach, On him, on you, who not? I will maintain My truth and honour firmly."
         },
         {
             "text": "Throwing down a glove"
@@ -157,7 +157,7 @@
         },
         {
             "speaker": "albany",
-            "text": "Trust to thy single virtue for thy soldiers, All levied in my name, have in my name Took their discharge."
+            "text": "Trust to thy single virtue; for thy soldiers, All levied in my name, have in my name Took their discharge."
         },
         {
             "speaker": "regan",
@@ -165,7 +165,7 @@
         },
         {
             "speaker": "albany",
-            "text": "She is not well convey her to  my tent. Come hither, herald,Let the trumpet sound, And read out this."
+            "text": "She is not well; convey her to  my tent. Come hither, herald,--Let the trumpet sound, And read out this."
         },
         {
             "text": "Exit Regan, led"
@@ -182,7 +182,7 @@
         },
         {
             "speaker": "herald",
-            "text": "[Reads]  If any man of quality or degree within the lists of the army will maintain upon Edmund, supposed Earl of Gloucester, that he is a manifold traitor, let him appear by the third sound of the trumpet: he is bold in his defence."
+            "text": "[Reads]  'If any man of quality or degree within the lists of the army will maintain upon Edmund, supposed Earl of Gloucester, that he is a manifold traitor, let him appear by the third sound of the trumpet: he is bold in his defence.'"
         },
         {
             "speaker": "edmund",
@@ -209,35 +209,35 @@
         },
         {
             "speaker": "albany",
-            "text": "Ask him his purposes, why he appears Upon this call o the trumpet."
+            "text": "Ask him his purposes, why he appears Upon this call o' the trumpet."
         },
         {
             "speaker": "herald",
-            "text": "What are you Your name, your quality and why you answer This present summons"
+            "text": "What are you? Your name, your quality? and why you answer This present summons?"
         },
         {
             "speaker": "edgar",
-            "text": "Know, my name is lost By treasons tooth baregnawn and cankerbit: Yet am I noble as the adversary I come to cope."
+            "text": "Know, my name is lost; By treason's tooth bare-gnawn and canker-bit: Yet am I noble as the adversary I come to cope."
         },
         {
             "speaker": "albany",
-            "text": "Which is that adversary"
+            "text": "Which is that adversary?"
         },
         {
             "speaker": "edgar",
-            "text": "Whats he that speaks for Edmund Earl of Gloucester"
+            "text": "What's he that speaks for Edmund Earl of Gloucester?"
         },
         {
             "speaker": "edmund",
-            "text": "Himself: what sayst thou to him"
+            "text": "Himself: what say'st thou to him?"
         },
         {
             "speaker": "edgar",
-            "text": "Draw thy sword, That, if my speech offend a noble heart, Thy arm may do thee justice: here is mine. Behold, it is the privilege of mine honours, My oath, and my profession: I protest, Maugre thy strength, youth, place, and eminence, Despite thy victor sword and firenew fortune, Thy valour and thy heart, thou art a traitor False to thy gods, thy brother, and thy father Conspirant gainst this highillustrious prince And, from the extremest upward of thy head To the descent and dust below thy foot, A most toadspotted traitor. Say thou No, This sword, this arm, and my best spirits, are bent To prove upon thy heart, whereto I speak, Thou liest."
+            "text": "Draw thy sword, That, if my speech offend a noble heart, Thy arm may do thee justice: here is mine. Behold, it is the privilege of mine honours, My oath, and my profession: I protest, Maugre thy strength, youth, place, and eminence, Despite thy victor sword and fire-new fortune, Thy valour and thy heart, thou art a traitor; False to thy gods, thy brother, and thy father; Conspirant 'gainst this high-illustrious prince; And, from the extremest upward of thy head To the descent and dust below thy foot, A most toad-spotted traitor. Say thou 'No,' This sword, this arm, and my best spirits, are bent To prove upon thy heart, whereto I speak, Thou liest."
         },
         {
             "speaker": "edmund",
-            "text": "In wisdom I should ask thy name But, since thy outside looks so fair and warlike, And that thy tongue some say of breeding breathes, What safe and nicely I might well delay By rule of knighthood, I disdain and spurn: Back do I toss these treasons to thy head With the hellhated lie oerwhelm thy heart Which, for they yet glance by and scarcely bruise, This sword of mine shall give them instant way, Where they shall rest for ever. Trumpets, speak!"
+            "text": "In wisdom I should ask thy name; But, since thy outside looks so fair and warlike, And that thy tongue some say of breeding breathes, What safe and nicely I might well delay By rule of knighthood, I disdain and spurn: Back do I toss these treasons to thy head; With the hell-hated lie o'erwhelm thy heart; Which, for they yet glance by and scarcely bruise, This sword of mine shall give them instant way, Where they shall rest for ever. Trumpets, speak!"
         },
         {
             "text": "Alarums. They fight. EDMUND falls"
@@ -248,7 +248,7 @@
         },
         {
             "speaker": "goneril",
-            "text": "This is practise, Gloucester: By the law of arms thou wast not bound to answer An unknown opposite thou art not vanquishd, But cozend and beguiled."
+            "text": "This is practise, Gloucester: By the law of arms thou wast not bound to answer An unknown opposite; thou art not vanquish'd, But cozen'd and beguiled."
         },
         {
             "speaker": "albany",
@@ -259,11 +259,11 @@
         },
         {
             "speaker": "goneril",
-            "text": "Say, if I do, the laws are mine, not thine: Who can arraign me fort."
+            "text": "Say, if I do, the laws are mine, not thine: Who can arraign me for't."
         },
         {
             "speaker": "albany",
-            "text": "Most monstrous! oh! Knowst thou this paper"
+            "text": "Most monstrous! oh! Know'st thou this paper?"
         },
         {
             "speaker": "goneril",
@@ -274,19 +274,19 @@
         },
         {
             "speaker": "albany",
-            "text": "Go after her: shes desperate govern her."
+            "text": "Go after her: she's desperate; govern her."
         },
         {
             "speaker": "edmund",
-            "text": "What you have charged me with, that have I done And more, much more the time will bring it out: Tis past, and so am I. But what art thou That hast this fortune on me If thourt noble, I do forgive thee."
+            "text": "What you have charged me with, that have I done; And more, much more; the time will bring it out: 'Tis past, and so am I. But what art thou That hast this fortune on me? If thou'rt noble, I do forgive thee."
         },
         {
             "speaker": "edgar",
-            "text": "Lets exchange charity. I am no less in blood than thou art, Edmund If more, the more thou hast wrongd me. My name is Edgar, and thy fathers son. The gods are just, and of our pleasant vices Make instruments to plague us: The dark and vicious place where thee he got Cost him his eyes."
+            "text": "Let's exchange charity. I am no less in blood than thou art, Edmund; If more, the more thou hast wrong'd me. My name is Edgar, and thy father's son. The gods are just, and of our pleasant vices Make instruments to plague us: The dark and vicious place where thee he got Cost him his eyes."
         },
         {
             "speaker": "edmund",
-            "text": "Thou hast spoken right, tis true The wheel is come full circle: I am here."
+            "text": "Thou hast spoken right, 'tis true; The wheel is come full circle: I am here."
         },
         {
             "speaker": "albany",
@@ -294,35 +294,35 @@
         },
         {
             "speaker": "edgar",
-            "text": "Worthy prince, I knowt."
+            "text": "Worthy prince, I know't."
         },
         {
             "speaker": "albany",
-            "text": "Where have you hid yourself How have you known the miseries of your father"
+            "text": "Where have you hid yourself? How have you known the miseries of your father?"
         },
         {
             "speaker": "edgar",
-            "text": "By nursing them, my lord. List a brief tale And when tis told, O, that my heart would burst! The bloody proclamation to escape, That followd me so near,O, our lives sweetness! That we the pain of death would hourly die Rather than die at once!taught me to shift Into a madmans rags to assume a semblance That very dogs disdaind: and in this habit Met I my father with his bleeding rings, Their precious stones new lost: became his guide, Led him, beggd for him, saved him from despair Never,O fault!reveald myself unto him, Until some halfhour past, when I was armd: Not sure, though hoping, of this good success, I askd his blessing, and from first to last Told him my pilgrimage: but his flawd heart, Alack, too weak the conflict to support! Twixt two extremes of passion, joy and grief, Burst smilingly."
+            "text": "By nursing them, my lord. List a brief tale; And when 'tis told, O, that my heart would burst! The bloody proclamation to escape, That follow'd me so near,--O, our lives' sweetness! That we the pain of death would hourly die Rather than die at once!--taught me to shift Into a madman's rags; to assume a semblance That very dogs disdain'd: and in this habit Met I my father with his bleeding rings, Their precious stones new lost: became his guide, Led him, begg'd for him, saved him from despair; Never,--O fault!--reveal'd myself unto him, Until some half-hour past, when I was arm'd: Not sure, though hoping, of this good success, I ask'd his blessing, and from first to last Told him my pilgrimage: but his flaw'd heart, Alack, too weak the conflict to support! 'Twixt two extremes of passion, joy and grief, Burst smilingly."
         },
         {
             "speaker": "edmund",
-            "text": "This speech of yours hath moved me, And shall perchance do good: but speak you on You look as you had something more to say."
+            "text": "This speech of yours hath moved me, And shall perchance do good: but speak you on; You look as you had something more to say."
         },
         {
             "speaker": "albany",
-            "text": "If there be more, more woeful, hold it in For I am almost ready to dissolve, Hearing of this."
+            "text": "If there be more, more woeful, hold it in; For I am almost ready to dissolve, Hearing of this."
         },
         {
             "speaker": "edgar",
-            "text": "This would have seemd a period To such as love not sorrow but another, To amplify too much, would make much more, And top extremity. Whilst I was big in clamour came there in a man, Who, having seen me in my worst estate, Shunnd my abhorrd society but then, finding Who twas that so endured, with his strong arms He fastened on my neck, and bellowd out As held burst heaven threw him on my father Told the most piteous tale of Lear and him That ever ear received: which in recounting His grief grew puissant and the strings of life Began to crack: twice then the trumpets sounded, And there I left him tranced."
+            "text": "This would have seem'd a period To such as love not sorrow; but another, To amplify too much, would make much more, And top extremity. Whilst I was big in clamour came there in a man, Who, having seen me in my worst estate, Shunn'd my abhorr'd society; but then, finding Who 'twas that so endured, with his strong arms He fastened on my neck, and bellow'd out As he'ld burst heaven; threw him on my father; Told the most piteous tale of Lear and him That ever ear received: which in recounting His grief grew puissant and the strings of life Began to crack: twice then the trumpets sounded, And there I left him tranced."
         },
         {
             "speaker": "albany",
-            "text": "But who was this"
+            "text": "But who was this?"
         },
         {
             "speaker": "edgar",
-            "text": "Kent, sir, the banishd Kent who in disguise Followd his enemy king, and did him service Improper for a slave."
+            "text": "Kent, sir, the banish'd Kent; who in disguise Follow'd his enemy king, and did him service Improper for a slave."
         },
         {
             "text": "Enter a Gentleman, with a bloody knife"
@@ -333,7 +333,7 @@
         },
         {
             "speaker": "edgar",
-            "text": "What kind of help"
+            "text": "What kind of help?"
         },
         {
             "speaker": "albany",
@@ -341,19 +341,19 @@
         },
         {
             "speaker": "edgar",
-            "text": "What means that bloody knife"
+            "text": "What means that bloody knife?"
         },
         {
             "speaker": "gentleman",
-            "text": "Tis hot, it smokes It came even from the heart ofO, shes dead!"
+            "text": "'Tis hot, it smokes; It came even from the heart of--O, she's dead!"
         },
         {
             "speaker": "albany",
-            "text": "Who dead speak, man."
+            "text": "Who dead? speak, man."
         },
         {
             "speaker": "gentleman",
-            "text": "Your lady, sir, your lady: and her sister By her is poisoned she hath confessd it."
+            "text": "Your lady, sir, your lady: and her sister By her is poisoned; she hath confess'd it."
         },
         {
             "speaker": "edmund",
@@ -365,7 +365,7 @@
         },
         {
             "speaker": "albany",
-            "text": "Produce their bodies, be they alive or dead: This judgment of the heavens, that makes us tremble, Touches us not with pity. O, is this he The time will not allow the compliment Which very manners urges."
+            "text": "Produce their bodies, be they alive or dead: This judgment of the heavens, that makes us tremble, Touches us not with pity. O, is this he? The time will not allow the compliment Which very manners urges."
         },
         {
             "text": "Exit Gentleman"
@@ -375,22 +375,22 @@
         },
         {
             "speaker": "kent",
-            "text": "I am come To bid my king and master aye good night: Is he not here"
+            "text": "I am come To bid my king and master aye good night: Is he not here?"
         },
         {
             "speaker": "albany",
-            "text": "Great thing of us forgot! Speak, Edmund, wheres the king and wheres Cordelia Seest thou this object, Kent"
+            "text": "Great thing of us forgot! Speak, Edmund, where's the king? and where's Cordelia? See'st thou this object, Kent?"
         },
         {
             "text": "The bodies of GONERIL and REGAN are brought in"
         },
         {
             "speaker": "kent",
-            "text": "Alack, why thus"
+            "text": "Alack, why thus?"
         },
         {
             "speaker": "edmund",
-            "text": "Yet Edmund was beloved: The one the other poisond for my sake, And after slew herself."
+            "text": "Yet Edmund was beloved: The one the other poison'd for my sake, And after slew herself."
         },
         {
             "speaker": "albany",
@@ -398,7 +398,7 @@
         },
         {
             "speaker": "edmund",
-            "text": "I pant for life: some good I mean to do, Despite of mine own nature. Quickly send, Be brief in it, to the castle for my writ Is on the life of Lear and on Cordelia: Nay, send in time."
+            "text": "I pant for life: some good I mean to do, Despite of mine own nature. Quickly send, Be brief in it, to the castle; for my writ Is on the life of Lear and on Cordelia: Nay, send in time."
         },
         {
             "speaker": "albany",
@@ -406,7 +406,7 @@
         },
         {
             "speaker": "edgar",
-            "text": "To who, my lord Who hath the office send Thy token of reprieve."
+            "text": "To who, my lord? Who hath the office? send Thy token of reprieve."
         },
         {
             "speaker": "edmund",
@@ -431,11 +431,11 @@
             "text": "EDMUND is borne off"
         },
         {
-            "text": "Reenter KING LEAR, with CORDELIA dead in his arms EDGAR, Captain, and others following"
+            "text": "Re-enter KING LEAR, with CORDELIA dead in his arms; EDGAR, Captain, and others following"
         },
         {
             "speaker": "king lear",
-            "text": "Howl, howl, howl, howl! O, you are men of stones: Had I your tongues and eyes, Ild use them so That heavens vault should crack. Shes gone for ever! I know when one is dead, and when one lives Shes dead as earth. Lend me a lookingglass If that her breath will mist or stain the stone, Why, then she lives."
+            "text": "Howl, howl, howl, howl! O, you are men of stones: Had I your tongues and eyes, I'ld use them so That heaven's vault should crack. She's gone for ever! I know when one is dead, and when one lives; She's dead as earth. Lend me a looking-glass; If that her breath will mist or stain the stone, Why, then she lives."
         },
         {
             "speaker": "kent",
@@ -443,7 +443,7 @@
         },
         {
             "speaker": "edgar",
-            "text": "Or image of that horror"
+            "text": "Or image of that horror?"
         },
         {
             "speaker": "albany",
@@ -451,7 +451,7 @@
         },
         {
             "speaker": "king lear",
-            "text": "This feather stirs she lives! if it be so, It is a chance which does redeem all sorrows That ever I have felt."
+            "text": "This feather stirs; she lives! if it be so, It is a chance which does redeem all sorrows That ever I have felt."
         },
         {
             "speaker": "kent",
@@ -463,19 +463,19 @@
         },
         {
             "speaker": "edgar",
-            "text": "Tis noble Kent, your friend."
+            "text": "'Tis noble Kent, your friend."
         },
         {
             "speaker": "king lear",
-            "text": "A plague upon you, murderers, traitors all! I might have saved her now shes gone for ever! Cordelia, Cordelia! stay a little. Ha! What ist thou sayst Her voice was ever soft, Gentle, and low, an excellent thing in woman. I killd the slave that was ahanging thee."
+            "text": "A plague upon you, murderers, traitors all! I might have saved her; now she's gone for ever! Cordelia, Cordelia! stay a little. Ha! What is't thou say'st? Her voice was ever soft, Gentle, and low, an excellent thing in woman. I kill'd the slave that was a-hanging thee."
         },
         {
             "speaker": "captain",
-            "text": "Tis true, my lords, he did."
+            "text": "'Tis true, my lords, he did."
         },
         {
             "speaker": "king lear",
-            "text": "Did I not, fellow I have seen the day, with my good biting falchion I would have made them skip: I am old now, And these same crosses spoil me. Who are you Mine eyes are not o the best: Ill tell you straight."
+            "text": "Did I not, fellow? I have seen the day, with my good biting falchion I would have made them skip: I am old now, And these same crosses spoil me. Who are you? Mine eyes are not o' the best: I'll tell you straight."
         },
         {
             "speaker": "kent",
@@ -483,27 +483,27 @@
         },
         {
             "speaker": "king lear",
-            "text": "This is a dull sight. Are you not Kent"
+            "text": "This is a dull sight. Are you not Kent?"
         },
         {
             "speaker": "kent",
-            "text": "The same, Your servant Kent: Where is your servant Caius"
+            "text": "The same, Your servant Kent: Where is your servant Caius?"
         },
         {
             "speaker": "king lear",
-            "text": "Hes a good fellow, I can tell you that Hell strike, and quickly too: hes dead and rotten."
+            "text": "He's a good fellow, I can tell you that; He'll strike, and quickly too: he's dead and rotten."
         },
         {
             "speaker": "kent",
-            "text": "No, my good lord I am the very man,"
+            "text": "No, my good lord; I am the very man,--"
         },
         {
             "speaker": "king lear",
-            "text": "Ill see that straight."
+            "text": "I'll see that straight."
         },
         {
             "speaker": "kent",
-            "text": "That, from your first of difference and decay, Have followd your sad steps."
+            "text": "That, from your first of difference and decay, Have follow'd your sad steps."
         },
         {
             "speaker": "king lear",
@@ -511,7 +511,7 @@
         },
         {
             "speaker": "kent",
-            "text": "Nor no man else: alls cheerless, dark, and deadly. Your eldest daughters have fordone them selves, And desperately are dead."
+            "text": "Nor no man else: all's cheerless, dark, and deadly. Your eldest daughters have fordone them selves, And desperately are dead."
         },
         {
             "speaker": "king lear",
@@ -534,14 +534,14 @@
         },
         {
             "speaker": "albany",
-            "text": "Thats but a trifle here. You lords and noble friends, know our intent. What comfort to this great decay may come Shall be applied: for us we will resign, During the life of this old majesty, To him our absolute power: you, to your rights: With boot, and such addition as your honours Have more than merited. All friends shall taste The wages of their virtue, and all foes The cup of their deservings. O, see, see!"
+            "text": "That's but a trifle here. You lords and noble friends, know our intent. What comfort to this great decay may come Shall be applied: for us we will resign, During the life of this old majesty, To him our absolute power: you, to your rights: With boot, and such addition as your honours Have more than merited. All friends shall taste The wages of their virtue, and all foes The cup of their deservings. O, see, see!"
         },
         {
             "text": "To EDGAR and KENT"
         },
         {
             "speaker": "king lear",
-            "text": "And my poor fool is hangd! No, no, no life! Why should a dog, a horse, a rat, have life, And thou no breath at all Thoult come no more, Never, never, never, never, never! Pray you, undo this button: thank you, sir. Do you see this Look on her, look, her lips, Look there, look there!"
+            "text": "And my poor fool is hang'd! No, no, no life! Why should a dog, a horse, a rat, have life, And thou no breath at all? Thou'lt come no more, Never, never, never, never, never! Pray you, undo this button: thank you, sir. Do you see this? Look on her, look, her lips, Look there, look there!"
         },
         {
             "text": "Dies"
@@ -552,7 +552,7 @@
         },
         {
             "speaker": "kent",
-            "text": "Break, heart I prithee, break!"
+            "text": "Break, heart; I prithee, break!"
         },
         {
             "speaker": "edgar",
@@ -568,7 +568,7 @@
         },
         {
             "speaker": "kent",
-            "text": "The wonder is, he hath endured so long: He but usurpd his life."
+            "text": "The wonder is, he hath endured so long: He but usurp'd his life."
         },
         {
             "speaker": "albany",
@@ -579,11 +579,11 @@
         },
         {
             "speaker": "kent",
-            "text": "I have a journey, sir, shortly to go My master calls me, I must not say no."
+            "text": "I have a journey, sir, shortly to go; My master calls me, I must not say no."
         },
         {
             "speaker": "albany",
-            "text": "The weight of this sad time we must obey Speak what we feel, not what we ought to say. The oldest hath borne most: we that are young Shall never see so much, nor live so long."
+            "text": "The weight of this sad time we must obey; Speak what we feel, not what we ought to say. The oldest hath borne most: we that are young Shall never see so much, nor live so long."
         },
         {
             "text": "Exeunt, with a dead march"

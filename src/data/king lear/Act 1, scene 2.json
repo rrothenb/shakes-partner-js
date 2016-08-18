@@ -1,21 +1,21 @@
 {
     "sceneName": "Act 1, scene 2",
     "playName": "king lear",
-    "location": "The Earl of Gloucesters castle.",
+    "location": "The Earl of Gloucester's castle.",
     "lines": [
         {
             "text": "Enter EDMUND, with a letter"
         },
         {
             "speaker": "edmund",
-            "text": "Thou, nature, art my goddess to thy law My services are bound. Wherefore should I Stand in the plague of custom, and permit The curiosity of nations to deprive me, For that I am some twelve or fourteen moonshines Lag of a brother Why bastard wherefore base When my dimensions are as well compact, My mind as generous, and my shape as true, As honest madams issue Why brand they us With base with baseness bastardy base, base Who, in the lusty stealth of nature, take More composition and fierce quality Than doth, within a dull, stale, tired bed, Go to the creating a whole tribe of fops, Got tween asleep and wake Well, then, Legitimate Edgar, I must have your land: Our fathers love is to the bastard Edmund As to the legitimate: fine word,legitimate! Well, my legitimate, if this letter speed, And my invention thrive, Edmund the base Shall top the legitimate. I grow I prosper: Now, gods, stand up for bastards!"
+            "text": "Thou, nature, art my goddess; to thy law My services are bound. Wherefore should I Stand in the plague of custom, and permit The curiosity of nations to deprive me, For that I am some twelve or fourteen moon-shines Lag of a brother? Why bastard? wherefore base? When my dimensions are as well compact, My mind as generous, and my shape as true, As honest madam's issue? Why brand they us With base? with baseness? bastardy? base, base? Who, in the lusty stealth of nature, take More composition and fierce quality Than doth, within a dull, stale, tired bed, Go to the creating a whole tribe of fops, Got 'tween asleep and wake? Well, then, Legitimate Edgar, I must have your land: Our father's love is to the bastard Edmund As to the legitimate: fine word,--legitimate! Well, my legitimate, if this letter speed, And my invention thrive, Edmund the base Shall top the legitimate. I grow; I prosper: Now, gods, stand up for bastards!"
         },
         {
             "text": "Enter GLOUCESTER"
         },
         {
             "speaker": "gloucester",
-            "text": "Kent banishd thus! and France in choler parted! And the king gone tonight! subscribed his power! Confined to exhibition! All this done Upon the gad! Edmund, how now! what news"
+            "text": "Kent banish'd thus! and France in choler parted! And the king gone to-night! subscribed his power! Confined to exhibition! All this done Upon the gad! Edmund, how now! what news?"
         },
         {
             "speaker": "edmund",
@@ -26,7 +26,7 @@
         },
         {
             "speaker": "gloucester",
-            "text": "Why so earnestly seek you to put up that letter"
+            "text": "Why so earnestly seek you to put up that letter?"
         },
         {
             "speaker": "edmund",
@@ -34,7 +34,7 @@
         },
         {
             "speaker": "gloucester",
-            "text": "What paper were you reading"
+            "text": "What paper were you reading?"
         },
         {
             "speaker": "edmund",
@@ -42,11 +42,11 @@
         },
         {
             "speaker": "gloucester",
-            "text": "No What needed, then, that terrible dispatch of it into your pocket the quality of nothing hath not such need to hide itself. Lets see: come, if it be nothing, I shall not need spectacles."
+            "text": "No? What needed, then, that terrible dispatch of it into your pocket? the quality of nothing hath not such need to hide itself. Let's see: come, if it be nothing, I shall not need spectacles."
         },
         {
             "speaker": "edmund",
-            "text": "I beseech you, sir, pardon me: it is a letter from my brother, that I have not all oerread and for so much as I have perused, I find it not fit for your oerlooking."
+            "text": "I beseech you, sir, pardon me: it is a letter from my brother, that I have not all o'er-read; and for so much as I have perused, I find it not fit for your o'er-looking."
         },
         {
             "speaker": "gloucester",
@@ -58,27 +58,27 @@
         },
         {
             "speaker": "gloucester",
-            "text": "Lets see, lets see."
+            "text": "Let's see, let's see."
         },
         {
             "speaker": "edmund",
-            "text": "I hope, for my brothers justification, he wrote this but as an essay or taste of my virtue."
+            "text": "I hope, for my brother's justification, he wrote this but as an essay or taste of my virtue."
         },
         {
             "speaker": "gloucester",
-            "text": "[Reads]  This policy and reverence of age makes the world bitter to the best of our times keeps our fortunes from us till our oldness cannot relish them. I begin to find an idle and fond bondage in the oppression of aged tyranny who sways, not as it hath power, but as it is suffered. Come to me, that of this I may speak more. If our father would sleep till I waked him, you should half his revenue for ever, and live the beloved of your brother,EDGAR. Humconspiracy!Sleep till I waked him,you should enjoy half his revenue,My son Edgar! Had he a hand to write this a heart and brain to breed it inWhen came this to you who brought it"
+            "text": "[Reads]  'This policy and reverence of age makes the world bitter to the best of our times; keeps our fortunes from us till our oldness cannot relish them. I begin to find an idle and fond bondage in the oppression of aged tyranny; who sways, not as it hath power, but as it is suffered. Come to me, that of this I may speak more. If our father would sleep till I waked him, you should half his revenue for ever, and live the beloved of your brother, EDGAR.' Hum--conspiracy!--'Sleep till I waked him,--you should enjoy half his revenue,'--My son Edgar! Had he a hand to write this? a heart and brain to breed it in?--When came this to you? who brought it?"
         },
         {
             "speaker": "edmund",
-            "text": "It was not brought me, my lord theres the cunning of it I found it thrown in at the casement of my closet."
+            "text": "It was not brought me, my lord; there's the cunning of it; I found it thrown in at the casement of my closet."
         },
         {
             "speaker": "gloucester",
-            "text": "You know the character to be your brothers"
+            "text": "You know the character to be your brother's?"
         },
         {
             "speaker": "edmund",
-            "text": "If the matter were good, my lord, I durst swear it were his but, in respect of that, I would fain think it were not."
+            "text": "If the matter were good, my lord, I durst swear it were his; but, in respect of that, I would fain think it were not."
         },
         {
             "speaker": "gloucester",
@@ -86,11 +86,11 @@
         },
         {
             "speaker": "edmund",
-            "text": "It is his hand, my lord but I hope his heart is not in the contents."
+            "text": "It is his hand, my lord; but I hope his heart is not in the contents."
         },
         {
             "speaker": "gloucester",
-            "text": "Hath he never heretofore sounded you in this business"
+            "text": "Hath he never heretofore sounded you in this business?"
         },
         {
             "speaker": "edmund",
@@ -98,23 +98,23 @@
         },
         {
             "speaker": "gloucester",
-            "text": "O villain, villain! His very opinion in the letter! Abhorred villain! Unnatural, detested, brutish villain! worse than brutish! Go, sirrah, seek him Ill apprehend him: abominable villain! Where is he"
+            "text": "O villain, villain! His very opinion in the letter! Abhorred villain! Unnatural, detested, brutish villain! worse than brutish! Go, sirrah, seek him; I'll apprehend him: abominable villain! Where is he?"
         },
         {
             "speaker": "edmund",
-            "text": "I do not well know, my lord. If it shall please you to suspend your indignation against my brother till you can derive from him better testimony of his intent, you shall run a certain course where, if you violently proceed against him, mistaking his purpose, it would make a great gap in your own honour, and shake in pieces the heart of his obedience. I dare pawn down my life for him, that he hath wrote this to feel my affection to your honour, and to no further pretence of danger."
+            "text": "I do not well know, my lord. If it shall please you to suspend your indignation against my brother till you can derive from him better testimony of his intent, you shall run a certain course; where, if you violently proceed against him, mistaking his purpose, it would make a great gap in your own honour, and shake in pieces the heart of his obedience. I dare pawn down my life for him, that he hath wrote this to feel my affection to your honour, and to no further pretence of danger."
         },
         {
             "speaker": "gloucester",
-            "text": "Think you so"
+            "text": "Think you so?"
         },
         {
             "speaker": "edmund",
-            "text": "If your honour judge it meet, I will place you where you shall hear us confer of this, and by an auricular assurance have your satisfaction and that without any further delay than this very evening."
+            "text": "If your honour judge it meet, I will place you where you shall hear us confer of this, and by an auricular assurance have your satisfaction; and that without any further delay than this very evening."
         },
         {
             "speaker": "gloucester",
-            "text": "He cannot be such a monster"
+            "text": "He cannot be such a monster--"
         },
         {
             "speaker": "edmund",
@@ -130,21 +130,21 @@
         },
         {
             "speaker": "gloucester",
-            "text": "These late eclipses in the sun and moon portend no good to us: though the wisdom of nature can reason it thus and thus, yet nature finds itself scourged by the sequent effects: love cools, friendship falls off, brothers divide: in cities, mutinies in countries, discord in palaces, treason and the bond cracked twixt son and father. This villain of mine comes under the prediction theres son against father: the king falls from bias of nature theres father against child. We have seen the best of our time: machinations, hollowness, treachery, and all ruinous disorders, follow us disquietly to our graves. Find out this villain, Edmund it shall lose thee nothing do it carefully. And the noble and truehearted Kent banished! his offence, honesty! Tis strange."
+            "text": "These late eclipses in the sun and moon portend no good to us: though the wisdom of nature can reason it thus and thus, yet nature finds itself scourged by the sequent effects: love cools, friendship falls off, brothers divide: in cities, mutinies; in countries, discord; in palaces, treason; and the bond cracked 'twixt son and father. This villain of mine comes under the prediction; there's son against father: the king falls from bias of nature; there's father against child. We have seen the best of our time: machinations, hollowness, treachery, and all ruinous disorders, follow us disquietly to our graves. Find out this villain, Edmund; it shall lose thee nothing; do it carefully. And the noble and true-hearted Kent banished! his offence, honesty! 'Tis strange."
         },
         {
             "text": "Exit"
         },
         {
             "speaker": "edmund",
-            "text": "This is the excellent foppery of the world, that, when we are sick in fortune,often the surfeit of our own behavior,we make guilty of our disasters the sun, the moon, and the stars: as if we were villains by necessity fools by heavenly compulsion knaves, thieves, and treachers, by spherical predominance drunkards, liars, and adulterers, by an enforced obedience of planetary influence and all that we are evil in, by a divine thrusting on: an admirable evasion of whoremaster man, to lay his goatish disposition to the charge of a star! My father compounded with my mother under the dragons tail and my nativity was under Ursa major so that it follows, I am rough and lecherous. Tut, I should have been that I am, had the maidenliest star in the firmament twinkled on my bastardizing. Edgar And pat he comes like the catastrophe of the old comedy: my cue is villanous melancholy, with a sigh like Tom o Bedlam. O, these eclipses do portend these divisions! fa, sol, la, mi."
+            "text": "This is the excellent foppery of the world, that, when we are sick in fortune,--often the surfeit of our own behavior,--we make guilty of our disasters the sun, the moon, and the stars: as if we were villains by necessity; fools by heavenly compulsion; knaves, thieves, and treachers, by spherical predominance; drunkards, liars, and adulterers, by an enforced obedience of planetary influence; and all that we are evil in, by a divine thrusting on: an admirable evasion of whoremaster man, to lay his goatish disposition to the charge of a star! My father compounded with my mother under the dragon's tail; and my nativity was under Ursa major; so that it follows, I am rough and lecherous. Tut, I should have been that I am, had the maidenliest star in the firmament twinkled on my bastardizing. Edgar-- And pat he comes like the catastrophe of the old comedy: my cue is villanous melancholy, with a sigh like Tom o' Bedlam. O, these eclipses do portend these divisions! fa, sol, la, mi."
         },
         {
             "text": "Enter EDGAR"
         },
         {
             "speaker": "edgar",
-            "text": "How now, brother Edmund! what serious contemplation are you in"
+            "text": "How now, brother Edmund! what serious contemplation are you in?"
         },
         {
             "speaker": "edmund",
@@ -152,19 +152,19 @@
         },
         {
             "speaker": "edgar",
-            "text": "Do you busy yourself about that"
+            "text": "Do you busy yourself about that?"
         },
         {
             "speaker": "edmund",
-            "text": "I promise you, the effects he writes of succeed unhappily as of unnaturalness between the child and the parent death, dearth, dissolutions of ancient amities divisions in state, menaces and maledictions against king and nobles needless diffidences, banishment of friends, dissipation of cohorts, nuptial breaches, and I know not what."
+            "text": "I promise you, the effects he writes of succeed unhappily; as of unnaturalness between the child and the parent; death, dearth, dissolutions of ancient amities; divisions in state, menaces and maledictions against king and nobles; needless diffidences, banishment of friends, dissipation of cohorts, nuptial breaches, and I know not what."
         },
         {
             "speaker": "edgar",
-            "text": "How long have you been a sectary astronomical"
+            "text": "How long have you been a sectary astronomical?"
         },
         {
             "speaker": "edmund",
-            "text": "Come, come when saw you my father last"
+            "text": "Come, come; when saw you my father last?"
         },
         {
             "speaker": "edgar",
@@ -172,7 +172,7 @@
         },
         {
             "speaker": "edmund",
-            "text": "Spake you with him"
+            "text": "Spake you with him?"
         },
         {
             "speaker": "edgar",
@@ -180,7 +180,7 @@
         },
         {
             "speaker": "edmund",
-            "text": "Parted you in good terms Found you no displeasure in him by word or countenance"
+            "text": "Parted you in good terms? Found you no displeasure in him by word or countenance?"
         },
         {
             "speaker": "edgar",
@@ -188,7 +188,7 @@
         },
         {
             "speaker": "edmund",
-            "text": "Bethink yourself wherein you may have offended him: and at my entreaty forbear his presence till some little time hath qualified the heat of his displeasure which at this instant so rageth in him, that with the mischief of your person it would scarcely allay."
+            "text": "Bethink yourself wherein you may have offended him: and at my entreaty forbear his presence till some little time hath qualified the heat of his displeasure; which at this instant so rageth in him, that with the mischief of your person it would scarcely allay."
         },
         {
             "speaker": "edgar",
@@ -196,7 +196,7 @@
         },
         {
             "speaker": "edmund",
-            "text": "Thats my fear. I pray you, have a continent forbearance till the spied of his rage goes slower and, as I say, retire with me to my lodging, from whence I will fitly bring you to hear my lord speak: pray ye, go theres my key: if you do stir abroad, go armed."
+            "text": "That's my fear. I pray you, have a continent forbearance till the spied of his rage goes slower; and, as I say, retire with me to my lodging, from whence I will fitly bring you to hear my lord speak: pray ye, go; there's my key: if you do stir abroad, go armed."
         },
         {
             "speaker": "edgar",
@@ -204,15 +204,15 @@
         },
         {
             "speaker": "edmund",
-            "text": "Brother, I advise you to the best go armed: I am no honest man if there be any good meaning towards you: I have told you what I have seen and heard but faintly, nothing like the image and horror of it: pray you, away."
+            "text": "Brother, I advise you to the best; go armed: I am no honest man if there be any good meaning towards you: I have told you what I have seen and heard; but faintly, nothing like the image and horror of it: pray you, away."
         },
         {
             "speaker": "edgar",
-            "text": "Shall I hear from you anon"
+            "text": "Shall I hear from you anon?"
         },
         {
             "speaker": "edmund",
-            "text": "I do serve you in this business. A credulous father! and a brother noble, Whose nature is so far from doing harms, That he suspects none: on whose foolish honesty My practises ride easy! I see the business. Let me, if not by birth, have lands by wit: All with mes meet that I can fashion fit."
+            "text": "I do serve you in this business. A credulous father! and a brother noble, Whose nature is so far from doing harms, That he suspects none: on whose foolish honesty My practises ride easy! I see the business. Let me, if not by birth, have lands by wit: All with me's meet that I can fashion fit."
         },
         {
             "text": "Exit EDGAR"

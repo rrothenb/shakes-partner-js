@@ -1,14 +1,14 @@
 {
     "sceneName": "Act 2, scene 1",
     "playName": "taming of the shrew",
-    "location": "Padua. A room in BAPTISTAS house.",
+    "location": "Padua. A room in BAPTISTA'S house.",
     "lines": [
         {
             "text": "Enter KATHARINA and BIANCA"
         },
         {
             "speaker": "bianca",
-            "text": "Good sister, wrong me not, nor wrong yourself, To make a bondmaid and a slave of me That I disdain: but for these other gawds, Unbind my hands, Ill pull them off myself, Yea, all my raiment, to my petticoat Or what you will command me will I do, So well I know my duty to my elders."
+            "text": "Good sister, wrong me not, nor wrong yourself, To make a bondmaid and a slave of me; That I disdain: but for these other gawds, Unbind my hands, I'll pull them off myself, Yea, all my raiment, to my petticoat; Or what you will command me will I do, So well I know my duty to my elders."
         },
         {
             "speaker": "katharina",
@@ -20,11 +20,11 @@
         },
         {
             "speaker": "katharina",
-            "text": "Minion, thou liest. Ist not Hortensio"
+            "text": "Minion, thou liest. Is't not Hortensio?"
         },
         {
             "speaker": "bianca",
-            "text": "If you affect him, sister, here I swear Ill plead for you myself, but you shall have him."
+            "text": "If you affect him, sister, here I swear I'll plead for you myself, but you shall have him."
         },
         {
             "speaker": "katharina",
@@ -32,7 +32,7 @@
         },
         {
             "speaker": "bianca",
-            "text": "Is it for him you do envy me so Nay then you jest, and now I well perceive You have but jested with me all this while: I prithee, sister Kate, untie my hands."
+            "text": "Is it for him you do envy me so? Nay then you jest, and now I well perceive You have but jested with me all this while: I prithee, sister Kate, untie my hands."
         },
         {
             "speaker": "katharina",
@@ -46,32 +46,32 @@
         },
         {
             "speaker": "baptista",
-            "text": "Why, how now, dame! whence grows this insolence Bianca, stand aside. Poor girl! she weeps. Go ply thy needle meddle not with her. For shame, thou helding of a devilish spirit, Why dost thou wrong her that did neer wrong thee When did she cross thee with a bitter word"
+            "text": "Why, how now, dame! whence grows this insolence? Bianca, stand aside. Poor girl! she weeps. Go ply thy needle; meddle not with her. For shame, thou helding of a devilish spirit, Why dost thou wrong her that did ne'er wrong thee? When did she cross thee with a bitter word?"
         },
         {
             "speaker": "katharina",
-            "text": "Her silence flouts me, and Ill be revenged."
+            "text": "Her silence flouts me, and I'll be revenged."
         },
         {
             "text": "Flies after BIANCA"
         },
         {
             "speaker": "baptista",
-            "text": "What, in my sight Bianca, get thee in."
+            "text": "What, in my sight? Bianca, get thee in."
         },
         {
             "text": "Exit BIANCA"
         },
         {
             "speaker": "katharina",
-            "text": "What, will you not suffer me Nay, now I see She is your treasure, she must have a husband I must dance barefoot on her wedding day And for your love to her lead apes in hell. Talk not to me: I will go sit and weep Till I can find occasion of revenge."
+            "text": "What, will you not suffer me? Nay, now I see She is your treasure, she must have a husband; I must dance bare-foot on her wedding day And for your love to her lead apes in hell. Talk not to me: I will go sit and weep Till I can find occasion of revenge."
         },
         {
             "text": "Exit"
         },
         {
             "speaker": "baptista",
-            "text": "Was ever gentleman thus grieved as I But who comes here Enter GREMIO, LUCENTIO in the habit of a mean man  PETRUCHIO, with HORTENSIO as a musician and TRANIO, with BIONDELLO bearing a lute and books"
+            "text": "Was ever gentleman thus grieved as I? But who comes here? Enter GREMIO, LUCENTIO in the habit of a mean man;  PETRUCHIO, with HORTENSIO as a musician; and TRANIO, with BIONDELLO bearing a lute and books"
         },
         {
             "speaker": "gremio",
@@ -83,7 +83,7 @@
         },
         {
             "speaker": "petruchio",
-            "text": "And you, good sir! Pray, have you not a daughter Calld Katharina, fair and virtuous"
+            "text": "And you, good sir! Pray, have you not a daughter Call'd Katharina, fair and virtuous?"
         },
         {
             "speaker": "baptista",
@@ -102,7 +102,7 @@
         },
         {
             "speaker": "baptista",
-            "text": "Youre welcome, sir and he, for your good sake. But for my daughter Katharina, this I know, She is not for your turn, the more my grief."
+            "text": "You're welcome, sir; and he, for your good sake. But for my daughter Katharina, this I know, She is not for your turn, the more my grief."
         },
         {
             "speaker": "petruchio",
@@ -110,11 +110,11 @@
         },
         {
             "speaker": "baptista",
-            "text": "Mistake me not I speak but as I find. Whence are you, sir what may I call your name"
+            "text": "Mistake me not; I speak but as I find. Whence are you, sir? what may I call your name?"
         },
         {
             "speaker": "petruchio",
-            "text": "Petruchio is my name Antonios son, A man well known throughout all Italy."
+            "text": "Petruchio is my name; Antonio's son, A man well known throughout all Italy."
         },
         {
             "speaker": "baptista",
@@ -126,37 +126,37 @@
         },
         {
             "speaker": "petruchio",
-            "text": "O, pardon me, Signior Gremio I would fain be doing."
+            "text": "O, pardon me, Signior Gremio; I would fain be doing."
         },
         {
             "speaker": "gremio",
-            "text": "I doubt it not, sir but you will curse your wooing. Neighbour, this is a gift very grateful, I am sure of it. To express the like kindness, myself, that have been more kindly beholding to you than any, freely give unto you this young scholar, that hath been long studying at Rheims as cunning in Greek, Latin, and other languages, as the other in music and mathematics: his name is Cambio pray, accept his service."
+            "text": "I doubt it not, sir; but you will curse your wooing. Neighbour, this is a gift very grateful, I am sure of it. To express the like kindness, myself, that have been more kindly beholding to you than any, freely give unto you this young scholar, that hath been long studying at Rheims; as cunning in Greek, Latin, and other languages, as the other in music and mathematics: his name is Cambio; pray, accept his service."
         },
         {
             "text": "Presenting LUCENTIO"
         },
         {
             "speaker": "baptista",
-            "text": "A thousand thanks, Signior Gremio. Welcome, good Cambio. But, gentle sir, methinks you walk like a stranger: may I be so bold to know the cause of your coming"
+            "text": "A thousand thanks, Signior Gremio. Welcome, good Cambio. But, gentle sir, methinks you walk like a stranger: may I be so bold to know the cause of your coming?"
         },
         {
             "text": "To TRANIO"
         },
         {
             "speaker": "tranio",
-            "text": "Pardon me, sir, the boldness is mine own, That, being a stranger in this city here, Do make myself a suitor to your daughter, Unto Bianca, fair and virtuous. Nor is your firm resolve unknown to me, In the preferment of the eldest sister. This liberty is all that I request, That, upon knowledge of my parentage, I may have welcome mongst the rest that woo And free access and favour as the rest: And, toward the education of your daughters, I here bestow a simple instrument, And this small packet of Greek and Latin books: If you accept them, then their worth is great."
+            "text": "Pardon me, sir, the boldness is mine own, That, being a stranger in this city here, Do make myself a suitor to your daughter, Unto Bianca, fair and virtuous. Nor is your firm resolve unknown to me, In the preferment of the eldest sister. This liberty is all that I request, That, upon knowledge of my parentage, I may have welcome 'mongst the rest that woo And free access and favour as the rest: And, toward the education of your daughters, I here bestow a simple instrument, And this small packet of Greek and Latin books: If you accept them, then their worth is great."
         },
         {
             "speaker": "baptista",
-            "text": "Lucentio is your name of whence, I pray"
+            "text": "Lucentio is your name; of whence, I pray?"
         },
         {
             "speaker": "tranio",
-            "text": "Of Pisa, sir son to Vincentio."
+            "text": "Of Pisa, sir; son to Vincentio."
         },
         {
             "speaker": "baptista",
-            "text": "A mighty man of Pisa by report I know him well: you are very welcome, sir, Take you the lute, and you the set of books You shall go see your pupils presently. Holla, within! Sirrah, lead these gentlemen To my daughters and tell them both, These are their tutors: bid them use them well. We will go walk a little in the orchard, And then to dinner. You are passing welcome, And so I pray you all to think yourselves."
+            "text": "A mighty man of Pisa; by report I know him well: you are very welcome, sir, Take you the lute, and you the set of books; You shall go see your pupils presently. Holla, within! Sirrah, lead these gentlemen To my daughters; and tell them both, These are their tutors: bid them use them well. We will go walk a little in the orchard, And then to dinner. You are passing welcome, And so I pray you all to think yourselves."
         },
         {
             "text": "Enter a Servant"
@@ -166,7 +166,7 @@
         },
         {
             "speaker": "petruchio",
-            "text": "Signior Baptista, my business asketh haste, And every day I cannot come to woo. You knew my father well, and in him me, Left solely heir to all his lands and goods, Which I have betterd rather than decreased: Then tell me, if I get your daughters love, What dowry shall I have with her to wife"
+            "text": "Signior Baptista, my business asketh haste, And every day I cannot come to woo. You knew my father well, and in him me, Left solely heir to all his lands and goods, Which I have better'd rather than decreased: Then tell me, if I get your daughter's love, What dowry shall I have with her to wife?"
         },
         {
             "speaker": "baptista",
@@ -174,30 +174,30 @@
         },
         {
             "speaker": "petruchio",
-            "text": "And, for that dowry, Ill assure her of Her widowhood, be it that she survive me, In all my lands and leases whatsoever: Let specialties be therefore drawn between us, That covenants may be kept on either hand."
+            "text": "And, for that dowry, I'll assure her of Her widowhood, be it that she survive me, In all my lands and leases whatsoever: Let specialties be therefore drawn between us, That covenants may be kept on either hand."
         },
         {
             "speaker": "baptista",
-            "text": "Ay, when the special thing is well obtaind, That is, her love for that is all in all."
+            "text": "Ay, when the special thing is well obtain'd, That is, her love; for that is all in all."
         },
         {
             "speaker": "petruchio",
-            "text": "Why, that is nothing: for I tell you, father, I am as peremptory as she proudminded And where two raging fires meet together They do consume the thing that feeds their fury: Though little fire grows great with little wind, Yet extreme gusts will blow out fire and all: So I to her and so she yields to me For I am rough and woo not like a babe."
+            "text": "Why, that is nothing: for I tell you, father, I am as peremptory as she proud-minded; And where two raging fires meet together They do consume the thing that feeds their fury: Though little fire grows great with little wind, Yet extreme gusts will blow out fire and all: So I to her and so she yields to me; For I am rough and woo not like a babe."
         },
         {
             "speaker": "baptista",
-            "text": "Well mayst thou woo, and happy be thy speed! But be thou armd for some unhappy words."
+            "text": "Well mayst thou woo, and happy be thy speed! But be thou arm'd for some unhappy words."
         },
         {
             "speaker": "petruchio",
-            "text": "Ay, to the proof as mountains are for winds, That shake not, though they blow perpetually."
+            "text": "Ay, to the proof; as mountains are for winds, That shake not, though they blow perpetually."
         },
         {
-            "text": "Reenter HORTENSIO, with his head broke"
+            "text": "Re-enter HORTENSIO, with his head broke"
         },
         {
             "speaker": "baptista",
-            "text": "How now, my friend! why dost thou look so pale"
+            "text": "How now, my friend! why dost thou look so pale?"
         },
         {
             "speaker": "hortensio",
@@ -205,31 +205,31 @@
         },
         {
             "speaker": "baptista",
-            "text": "What, will my daughter prove a good musician"
+            "text": "What, will my daughter prove a good musician?"
         },
         {
             "speaker": "hortensio",
-            "text": "I think shell sooner prove a soldier Iron may hold with her, but never lutes."
+            "text": "I think she'll sooner prove a soldier Iron may hold with her, but never lutes."
         },
         {
             "speaker": "baptista",
-            "text": "Why, then thou canst not break her to the lute"
+            "text": "Why, then thou canst not break her to the lute?"
         },
         {
             "speaker": "hortensio",
-            "text": "Why, no for she hath broke the lute to me. I did but tell her she mistook her frets, And bowd her hand to teach her fingering When, with a most impatient devilish spirit, Frets, call you these quoth she Ill fume with them: And, with that word, she struck me on the head, And through the instrument my pate made way And there I stood amazed for a while, As on a pillory, looking through the lute While she did call me rascal fiddler And twangling Jack with twenty such vile terms, As had she studied to misuse me so."
+            "text": "Why, no; for she hath broke the lute to me. I did but tell her she mistook her frets, And bow'd her hand to teach her fingering; When, with a most impatient devilish spirit, 'Frets, call you these?' quoth she; 'I'll fume with them:' And, with that word, she struck me on the head, And through the instrument my pate made way; And there I stood amazed for a while, As on a pillory, looking through the lute; While she did call me rascal fiddler And twangling Jack; with twenty such vile terms, As had she studied to misuse me so."
         },
         {
             "speaker": "petruchio",
-            "text": "Now, by the world, it is a lusty wench I love her ten times more than eer I did: O, how I long to have some chat with her!"
+            "text": "Now, by the world, it is a lusty wench; I love her ten times more than e'er I did: O, how I long to have some chat with her!"
         },
         {
             "speaker": "baptista",
-            "text": "Well, go with me and be not so discomfited: Proceed in practise with my younger daughter Shes apt to learn and thankful for good turns. Signior Petruchio, will you go with us, Or shall I send my daughter Kate to you"
+            "text": "Well, go with me and be not so discomfited: Proceed in practise with my younger daughter; She's apt to learn and thankful for good turns. Signior Petruchio, will you go with us, Or shall I send my daughter Kate to you?"
         },
         {
             "speaker": "petruchio",
-            "text": "I pray you do. I will attend her here, And woo her with some spirit when she comes. Say that she rail why then Ill tell her plain She sings as sweetly as a nightingale: Say that she frown, Ill say she looks as clear As morning roses newly washd with dew: Say she be mute and will not speak a word Then Ill commend her volubility, And say she uttereth piercing eloquence: If she do bid me pack, Ill give her thanks, As though she bid me stay by her a week: If she deny to wed, Ill crave the day When I shall ask the banns and when be married. But here she comes and now, Petruchio, speak. Good morrow, Kate for thats your name, I hear."
+            "text": "I pray you do. I will attend her here, And woo her with some spirit when she comes. Say that she rail; why then I'll tell her plain She sings as sweetly as a nightingale: Say that she frown, I'll say she looks as clear As morning roses newly wash'd with dew: Say she be mute and will not speak a word; Then I'll commend her volubility, And say she uttereth piercing eloquence: If she do bid me pack, I'll give her thanks, As though she bid me stay by her a week: If she deny to wed, I'll crave the day When I shall ask the banns and when be married. But here she comes; and now, Petruchio, speak. Good morrow, Kate; for that's your name, I hear."
         },
         {
             "text": "Exeunt all but PETRUCHIO"
@@ -243,7 +243,7 @@
         },
         {
             "speaker": "petruchio",
-            "text": "You lie, in faith for you are calld plain Kate, And bonny Kate and sometimes Kate the curst But Kate, the prettiest Kate in Christendom Kate of Kate Hall, my superdainty Kate, For dainties are all Kates, and therefore, Kate, Take this of me, Kate of my consolation Hearing thy mildness praised in every town, Thy virtues spoke of, and thy beauty sounded, Yet not so deeply as to thee belongs, Myself am moved to woo thee for my wife."
+            "text": "You lie, in faith; for you are call'd plain Kate, And bonny Kate and sometimes Kate the curst; But Kate, the prettiest Kate in Christendom Kate of Kate Hall, my super-dainty Kate, For dainties are all Kates, and therefore, Kate, Take this of me, Kate of my consolation; Hearing thy mildness praised in every town, Thy virtues spoke of, and thy beauty sounded, Yet not so deeply as to thee belongs, Myself am moved to woo thee for my wife."
         },
         {
             "speaker": "katharina",
@@ -251,11 +251,11 @@
         },
         {
             "speaker": "petruchio",
-            "text": "Why, whats a moveable"
+            "text": "Why, what's a moveable?"
         },
         {
             "speaker": "katharina",
-            "text": "A joindstool."
+            "text": "A join'd-stool."
         },
         {
             "speaker": "petruchio",
@@ -275,23 +275,23 @@
         },
         {
             "speaker": "petruchio",
-            "text": "Alas! good Kate, I will not burden thee For, knowing thee to be but young and light"
+            "text": "Alas! good Kate, I will not burden thee; For, knowing thee to be but young and light--"
         },
         {
             "speaker": "katharina",
-            "text": "Too light for such a swain as you to catch And yet as heavy as my weight should be."
+            "text": "Too light for such a swain as you to catch; And yet as heavy as my weight should be."
         },
         {
             "speaker": "petruchio",
-            "text": "Should be! shouldbuzz!"
+            "text": "Should be! should--buzz!"
         },
         {
             "speaker": "katharina",
-            "text": "Well taen, and like a buzzard."
+            "text": "Well ta'en, and like a buzzard."
         },
         {
             "speaker": "petruchio",
-            "text": "O slowwingd turtle! shall a buzzard take thee"
+            "text": "O slow-wing'd turtle! shall a buzzard take thee?"
         },
         {
             "speaker": "katharina",
@@ -299,7 +299,7 @@
         },
         {
             "speaker": "petruchio",
-            "text": "Come, come, you wasp i faith, you are too angry."
+            "text": "Come, come, you wasp; i' faith, you are too angry."
         },
         {
             "speaker": "katharina",
@@ -315,7 +315,7 @@
         },
         {
             "speaker": "petruchio",
-            "text": "Who knows not where a wasp does wear his sting In his tail."
+            "text": "Who knows not where a wasp does wear his sting? In his tail."
         },
         {
             "speaker": "katharina",
@@ -323,7 +323,7 @@
         },
         {
             "speaker": "petruchio",
-            "text": "Whose tongue"
+            "text": "Whose tongue?"
         },
         {
             "speaker": "katharina",
@@ -331,30 +331,30 @@
         },
         {
             "speaker": "petruchio",
-            "text": "What, with my tongue in your tail nay, come again, Good Kate I am a gentleman."
+            "text": "What, with my tongue in your tail? nay, come again, Good Kate; I am a gentleman."
         },
         {
             "speaker": "katharina",
-            "text": "That Ill try."
+            "text": "That I'll try."
         },
         {
             "text": "She strikes him"
         },
         {
             "speaker": "petruchio",
-            "text": "I swear Ill cuff you, if you strike again."
+            "text": "I swear I'll cuff you, if you strike again."
         },
         {
             "speaker": "katharina",
-            "text": "So may you lose your arms: If you strike me, you are no gentleman And if no gentleman, why then no arms."
+            "text": "So may you lose your arms: If you strike me, you are no gentleman; And if no gentleman, why then no arms."
         },
         {
             "speaker": "petruchio",
-            "text": "A herald, Kate O, put me in thy books!"
+            "text": "A herald, Kate? O, put me in thy books!"
         },
         {
             "speaker": "katharina",
-            "text": "What is your crest a coxcomb"
+            "text": "What is your crest? a coxcomb?"
         },
         {
             "speaker": "petruchio",
@@ -362,11 +362,11 @@
         },
         {
             "speaker": "katharina",
-            "text": "No cock of mine you crow too like a craven."
+            "text": "No cock of mine; you crow too like a craven."
         },
         {
             "speaker": "petruchio",
-            "text": "Nay, come, Kate, come you must not look so sour."
+            "text": "Nay, come, Kate, come; you must not look so sour."
         },
         {
             "speaker": "katharina",
@@ -374,7 +374,7 @@
         },
         {
             "speaker": "petruchio",
-            "text": "Why, heres no crab and therefore look not sour."
+            "text": "Why, here's no crab; and therefore look not sour."
         },
         {
             "speaker": "katharina",
@@ -390,11 +390,11 @@
         },
         {
             "speaker": "petruchio",
-            "text": "What, you mean my face"
+            "text": "What, you mean my face?"
         },
         {
             "speaker": "katharina",
-            "text": "Well aimd of such a young one."
+            "text": "Well aim'd of such a young one."
         },
         {
             "speaker": "petruchio",
@@ -402,11 +402,11 @@
         },
         {
             "speaker": "katharina",
-            "text": "Yet you are witherd."
+            "text": "Yet you are wither'd."
         },
         {
             "speaker": "petruchio",
-            "text": "Tis with cares."
+            "text": "'Tis with cares."
         },
         {
             "speaker": "katharina",
@@ -422,23 +422,23 @@
         },
         {
             "speaker": "petruchio",
-            "text": "No, not a whit: I find you passing gentle. Twas told me you were rough and coy and sullen, And now I find report a very liar For thou are pleasant, gamesome, passing courteous, But slow in speech, yet sweet as springtime flowers: Thou canst not frown, thou canst not look askance, Nor bite the lip, as angry wenches will, Nor hast thou pleasure to be cross in talk, But thou with mildness entertainst thy wooers, With gentle conference, soft and affable. Why does the world report that Kate doth limp O slanderous world! Kate like the hazeltwig Is straight and slender and as brown in hue As hazel nuts and sweeter than the kernels. O, let me see thee walk: thou dost not halt."
+            "text": "No, not a whit: I find you passing gentle. 'Twas told me you were rough and coy and sullen, And now I find report a very liar; For thou are pleasant, gamesome, passing courteous, But slow in speech, yet sweet as spring-time flowers: Thou canst not frown, thou canst not look askance, Nor bite the lip, as angry wenches will, Nor hast thou pleasure to be cross in talk, But thou with mildness entertain'st thy wooers, With gentle conference, soft and affable. Why does the world report that Kate doth limp? O slanderous world! Kate like the hazel-twig Is straight and slender and as brown in hue As hazel nuts and sweeter than the kernels. O, let me see thee walk: thou dost not halt."
         },
         {
             "speaker": "katharina",
-            "text": "Go, fool, and whom thou keepst command."
+            "text": "Go, fool, and whom thou keep'st command."
         },
         {
             "speaker": "petruchio",
-            "text": "Did ever Dian so become a grove As Kate this chamber with her princely gait O, be thou Dian, and let her be Kate And then let Kate be chaste and Dian sportful!"
+            "text": "Did ever Dian so become a grove As Kate this chamber with her princely gait? O, be thou Dian, and let her be Kate; And then let Kate be chaste and Dian sportful!"
         },
         {
             "speaker": "katharina",
-            "text": "Where did you study all this goodly speech"
+            "text": "Where did you study all this goodly speech?"
         },
         {
             "speaker": "petruchio",
-            "text": "It is extempore, from my motherwit."
+            "text": "It is extempore, from my mother-wit."
         },
         {
             "speaker": "katharina",
@@ -446,58 +446,58 @@
         },
         {
             "speaker": "petruchio",
-            "text": "Am I not wise"
+            "text": "Am I not wise?"
         },
         {
             "speaker": "katharina",
-            "text": "Yes keep you warm."
+            "text": "Yes; keep you warm."
         },
         {
             "speaker": "petruchio",
-            "text": "Marry, so I mean, sweet Katharina, in thy bed: And therefore, setting all this chat aside, Thus in plain terms: your father hath consented That you shall be my wife your dowry greed on And, Will you, nill you, I will marry you. Now, Kate, I am a husband for your turn For, by this light, whereby I see thy beauty, Thy beauty, that doth make me like thee well, Thou must be married to no man but me For I am he am born to tame you Kate, And bring you from a wild Kate to a Kate Conformable as other household Kates. Here comes your father: never make denial I must and will have Katharina to my wife."
+            "text": "Marry, so I mean, sweet Katharina, in thy bed: And therefore, setting all this chat aside, Thus in plain terms: your father hath consented That you shall be my wife; your dowry 'greed on; And, Will you, nill you, I will marry you. Now, Kate, I am a husband for your turn; For, by this light, whereby I see thy beauty, Thy beauty, that doth make me like thee well, Thou must be married to no man but me; For I am he am born to tame you Kate, And bring you from a wild Kate to a Kate Conformable as other household Kates. Here comes your father: never make denial; I must and will have Katharina to my wife."
         },
         {
-            "text": "Reenter BAPTISTA, GREMIO, and TRANIO"
+            "text": "Re-enter BAPTISTA, GREMIO, and TRANIO"
         },
         {
             "speaker": "baptista",
-            "text": "Now, Signior Petruchio, how speed you with my daughter"
+            "text": "Now, Signior Petruchio, how speed you with my daughter?"
         },
         {
             "speaker": "petruchio",
-            "text": "How but well, sir how but well It were impossible I should speed amiss."
+            "text": "How but well, sir? how but well? It were impossible I should speed amiss."
         },
         {
             "speaker": "baptista",
-            "text": "Why, how now, daughter Katharina! in your dumps"
+            "text": "Why, how now, daughter Katharina! in your dumps?"
         },
         {
             "speaker": "katharina",
-            "text": "Call you me daughter now, I promise you You have showd a tender fatherly regard, To wish me wed to one half lunatic A madcup ruffian and a swearing Jack, That thinks with oaths to face the matter out."
+            "text": "Call you me daughter? now, I promise you You have show'd a tender fatherly regard, To wish me wed to one half lunatic; A mad-cup ruffian and a swearing Jack, That thinks with oaths to face the matter out."
         },
         {
             "speaker": "petruchio",
-            "text": "Father, tis thus: yourself and all the world, That talkd of her, have talkd amiss of her: If she be curst, it is for policy, For shes not froward, but modest as the dove She is not hot, but temperate as the morn For patience she will prove a second Grissel, And Roman Lucrece for her chastity: And to conclude, we have greed so well together, That upon Sunday is the weddingday."
+            "text": "Father, 'tis thus: yourself and all the world, That talk'd of her, have talk'd amiss of her: If she be curst, it is for policy, For she's not froward, but modest as the dove; She is not hot, but temperate as the morn; For patience she will prove a second Grissel, And Roman Lucrece for her chastity: And to conclude, we have 'greed so well together, That upon Sunday is the wedding-day."
         },
         {
             "speaker": "katharina",
-            "text": "Ill see thee hangd on Sunday first."
+            "text": "I'll see thee hang'd on Sunday first."
         },
         {
             "speaker": "gremio",
-            "text": "Hark, Petruchio she says shell see thee hangd first."
+            "text": "Hark, Petruchio; she says she'll see thee hang'd first."
         },
         {
             "speaker": "tranio",
-            "text": "Is this your speeding nay, then, good night our part!"
+            "text": "Is this your speeding? nay, then, good night our part!"
         },
         {
             "speaker": "petruchio",
-            "text": "Be patient, gentlemen I choose her for myself: If she and I be pleased, whats that to you Tis bargaind twixt us twain, being alone, That she shall still be curst in company. I tell you, tis incredible to believe How much she loves me: O, the kindest Kate! She hung about my neck and kiss on kiss She vied so fast, protesting oath on oath, That in a twink she won me to her love. O, you are novices! tis a world to see, How tame, when men and women are alone, A meacock wretch can make the curstest shrew. Give me thy hand, Kate: I will unto Venice, To buy apparel gainst the weddingday. Provide the feast, father, and bid the guests I will be sure my Katharina shall be fine."
+            "text": "Be patient, gentlemen; I choose her for myself: If she and I be pleased, what's that to you? 'Tis bargain'd 'twixt us twain, being alone, That she shall still be curst in company. I tell you, 'tis incredible to believe How much she loves me: O, the kindest Kate! She hung about my neck; and kiss on kiss She vied so fast, protesting oath on oath, That in a twink she won me to her love. O, you are novices! 'tis a world to see, How tame, when men and women are alone, A meacock wretch can make the curstest shrew. Give me thy hand, Kate: I will unto Venice, To buy apparel 'gainst the wedding-day. Provide the feast, father, and bid the guests; I will be sure my Katharina shall be fine."
         },
         {
             "speaker": "baptista",
-            "text": "I know not what to say: but give me your hands God send you joy, Petruchio! tis a match."
+            "text": "I know not what to say: but give me your hands; God send you joy, Petruchio! 'tis a match."
         },
         {
             "speaker": "tranio",
@@ -505,22 +505,22 @@
         },
         {
             "speaker": "petruchio",
-            "text": "Father, and wife, and gentlemen, adieu I will to Venice Sunday comes apace: We will have rings and things and fine array And kiss me, Kate, we will be married oSunday."
+            "text": "Father, and wife, and gentlemen, adieu; I will to Venice; Sunday comes apace: We will have rings and things and fine array; And kiss me, Kate, we will be married o'Sunday."
         },
         {
             "text": "Exeunt PETRUCHIO and KATHARINA severally"
         },
         {
             "speaker": "gremio",
-            "text": "Was ever match clappd up so suddenly"
+            "text": "Was ever match clapp'd up so suddenly?"
         },
         {
             "speaker": "baptista",
-            "text": "Faith, gentlemen, now I play a merchants part, And venture madly on a desperate mart."
+            "text": "Faith, gentlemen, now I play a merchant's part, And venture madly on a desperate mart."
         },
         {
             "speaker": "tranio",
-            "text": "Twas a commodity lay fretting by you: Twill bring you gain, or perish on the seas."
+            "text": "'Twas a commodity lay fretting by you: 'Twill bring you gain, or perish on the seas."
         },
         {
             "speaker": "baptista",
@@ -544,55 +544,55 @@
         },
         {
             "speaker": "gremio",
-            "text": "But thine doth fry. Skipper, stand back: tis age that nourisheth."
+            "text": "But thine doth fry. Skipper, stand back: 'tis age that nourisheth."
         },
         {
             "speaker": "tranio",
-            "text": "But youth in ladies eyes that flourisheth."
+            "text": "But youth in ladies' eyes that flourisheth."
         },
         {
             "speaker": "baptista",
-            "text": "Content you, gentlemen: I will compound this strife: Tis deeds must win the prize and he of both That can assure my daughter greatest dower Shall have my Biancas love. Say, Signior Gremio, What can you assure her"
+            "text": "Content you, gentlemen: I will compound this strife: 'Tis deeds must win the prize; and he of both That can assure my daughter greatest dower Shall have my Bianca's love. Say, Signior Gremio, What can you assure her?"
         },
         {
             "speaker": "gremio",
-            "text": "First, as you know, my house within the city Is richly furnished with plate and gold Basins and ewers to lave her dainty hands My hangings all of Tyrian tapestry In ivory coffers I have stuffd my crowns In cypress chests my arras counterpoints, Costly apparel, tents, and canopies, Fine linen, Turkey cushions bossd with pearl, Valance of Venice gold in needlework, Pewter and brass and all things that belong To house or housekeeping: then, at my farm I have a hundred milchkine to the pail, Sixscore fat oxen standing in my stalls, And all things answerable to this portion. Myself am struck in years, I must confess And if I die tomorrow, this is hers, If whilst I live she will be only mine."
+            "text": "First, as you know, my house within the city Is richly furnished with plate and gold; Basins and ewers to lave her dainty hands; My hangings all of Tyrian tapestry; In ivory coffers I have stuff'd my crowns; In cypress chests my arras counterpoints, Costly apparel, tents, and canopies, Fine linen, Turkey cushions boss'd with pearl, Valance of Venice gold in needlework, Pewter and brass and all things that belong To house or housekeeping: then, at my farm I have a hundred milch-kine to the pail, Sixscore fat oxen standing in my stalls, And all things answerable to this portion. Myself am struck in years, I must confess; And if I die to-morrow, this is hers, If whilst I live she will be only mine."
         },
         {
             "speaker": "tranio",
-            "text": "That only came well in. Sir, list to me: I am my fathers heir and only son: If I may have your daughter to my wife, Ill leave her houses three or four as good, Within rich Pisa walls, as any one Old Signior Gremio has in Padua Besides two thousand ducats by the year Of fruitful land, all which shall be her jointure. What, have I pinchd you, Signior Gremio"
+            "text": "That 'only' came well in. Sir, list to me: I am my father's heir and only son: If I may have your daughter to my wife, I'll leave her houses three or four as good, Within rich Pisa walls, as any one Old Signior Gremio has in Padua; Besides two thousand ducats by the year Of fruitful land, all which shall be her jointure. What, have I pinch'd you, Signior Gremio?"
         },
         {
             "speaker": "gremio",
-            "text": "Two thousand ducats by the year of land! My land amounts not to so much in all: That she shall have besides an argosy That now is lying in Marseilles road. What, have I choked you with an argosy"
+            "text": "Two thousand ducats by the year of land! My land amounts not to so much in all: That she shall have; besides an argosy That now is lying in Marseilles' road. What, have I choked you with an argosy?"
         },
         {
             "speaker": "tranio",
-            "text": "Gremio, tis known my father hath no less Than three great argosies besides two galliases, And twelve tight galleys: these I will assure her, And twice as much, whateer thou offerst next."
+            "text": "Gremio, 'tis known my father hath no less Than three great argosies; besides two galliases, And twelve tight galleys: these I will assure her, And twice as much, whate'er thou offer'st next."
         },
         {
             "speaker": "gremio",
-            "text": "Nay, I have offerd all, I have no more And she can have no more than all I have: If you like me, she shall have me and mine."
+            "text": "Nay, I have offer'd all, I have no more; And she can have no more than all I have: If you like me, she shall have me and mine."
         },
         {
             "speaker": "tranio",
-            "text": "Why, then the maid is mine from all the world, By your firm promise: Gremio is outvied."
+            "text": "Why, then the maid is mine from all the world, By your firm promise: Gremio is out-vied."
         },
         {
             "speaker": "baptista",
-            "text": "I must confess your offer is the best And, let your father make her the assurance, She is your own else, you must pardon me, if you should die before him, wheres her dower"
+            "text": "I must confess your offer is the best; And, let your father make her the assurance, She is your own; else, you must pardon me, if you should die before him, where's her dower?"
         },
         {
             "speaker": "tranio",
-            "text": "Thats but a cavil: he is old, I young."
+            "text": "That's but a cavil: he is old, I young."
         },
         {
             "speaker": "gremio",
-            "text": "And may not young men die, as well as old"
+            "text": "And may not young men die, as well as old?"
         },
         {
             "speaker": "baptista",
-            "text": "Well, gentlemen, I am thus resolved: on Sunday next you know My daughter Katharina is to be married: Now, on the Sunday following, shall Bianca Be bride to you, if you this assurance If not, Signior Gremio: And so, I take my leave, and thank you both."
+            "text": "Well, gentlemen, I am thus resolved: on Sunday next you know My daughter Katharina is to be married: Now, on the Sunday following, shall Bianca Be bride to you, if you this assurance; If not, Signior Gremio: And so, I take my leave, and thank you both."
         },
         {
             "speaker": "gremio",
@@ -606,7 +606,7 @@
         },
         {
             "speaker": "tranio",
-            "text": "A vengeance on your crafty witherd hide! Yet I have faced it with a card of ten. Tis in my head to do my master good: I see no reason but supposed Lucentio Must get a father, calld supposed Vincentio And thats a wonder: fathers commonly Do get their children but in this case of wooing, A child shall get a sire, if I fail not of my cunning."
+            "text": "A vengeance on your crafty wither'd hide! Yet I have faced it with a card of ten. 'Tis in my head to do my master good: I see no reason but supposed Lucentio Must get a father, call'd 'supposed Vincentio;' And that's a wonder: fathers commonly Do get their children; but in this case of wooing, A child shall get a sire, if I fail not of my cunning."
         },
         {
             "text": "Exit"

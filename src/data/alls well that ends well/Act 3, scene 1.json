@@ -1,10 +1,10 @@
 {
     "sceneName": "Act 3, scene 1",
     "playName": "alls well that ends well",
-    "location": "Florence. The DUKEs palace.",
+    "location": "Florence. The DUKE's palace.",
     "lines": [
         {
-            "text": "Flourish. Enter the DUKE of Florence attended the two Frenchmen, with a troop of soldiers."
+            "text": "Flourish. Enter the DUKE of Florence attended; the two Frenchmen, with a troop of soldiers."
         },
         {
             "speaker": "duke",
@@ -12,7 +12,7 @@
         },
         {
             "speaker": "first lord",
-            "text": "Holy seems the quarrel Upon your graces part black and fearful On the opposer."
+            "text": "Holy seems the quarrel Upon your grace's part; black and fearful On the opposer."
         },
         {
             "speaker": "duke",
@@ -20,7 +20,7 @@
         },
         {
             "speaker": "second lord",
-            "text": "Good my lord, The reasons of our state I cannot yield, But like a common and an outward man, That the great figure of a council frames By selfunable motion: therefore dare not Say what I think of it, since I have found Myself in my incertain grounds to fail As often as I guessd."
+            "text": "Good my lord, The reasons of our state I cannot yield, But like a common and an outward man, That the great figure of a council frames By self-unable motion: therefore dare not Say what I think of it, since I have found Myself in my incertain grounds to fail As often as I guess'd."
         },
         {
             "speaker": "duke",
@@ -32,7 +32,7 @@
         },
         {
             "speaker": "duke",
-            "text": "Welcome shall they be And all the honours that can fly from us Shall on them settle. You know your places well When better fall, for your avails they fell: Tomorrow to the field."
+            "text": "Welcome shall they be; And all the honours that can fly from us Shall on them settle. You know your places well; When better fall, for your avails they fell: To-morrow to the field."
         },
         {
             "text": "Flourish. Exeunt"

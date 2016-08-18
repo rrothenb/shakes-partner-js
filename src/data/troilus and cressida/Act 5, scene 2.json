@@ -1,26 +1,26 @@
 {
     "sceneName": "Act 5, scene 2",
     "playName": "troilus and cressida",
-    "location": "The same. Before Calchas tent.",
+    "location": "The same. Before Calchas' tent.",
     "lines": [
         {
             "text": "Enter DIOMEDES"
         },
         {
             "speaker": "diomedes",
-            "text": "What, are you up here, ho speak."
+            "text": "What, are you up here, ho? speak."
         },
         {
             "speaker": "calchas",
-            "text": "[Within]  Who calls"
+            "text": "[Within]  Who calls?"
         },
         {
             "speaker": "diomedes",
-            "text": "Calchas, I think. Wheres your daughter"
+            "text": "Calchas, I think. Where's your daughter?"
         },
         {
             "speaker": "calchas",
-            "text": "[Within]  She comes to you. Enter TROILUS and ULYSSES, at a distance after them, THERSITES"
+            "text": "[Within]  She comes to you. Enter TROILUS and ULYSSES, at a distance; after them, THERSITES"
         },
         {
             "speaker": "ulysses",
@@ -54,11 +54,11 @@
         },
         {
             "speaker": "thersites",
-            "text": "And any man may sing her, if he can take her cliff shes noted."
+            "text": "And any man may sing her, if he can take her cliff; she's noted."
         },
         {
             "speaker": "diomedes",
-            "text": "Will you remember"
+            "text": "Will you remember?"
         },
         {
             "speaker": "cressida",
@@ -66,11 +66,11 @@
         },
         {
             "speaker": "diomedes",
-            "text": "Nay, but do, then And let your mind be coupled with your words."
+            "text": "Nay, but do, then; And let your mind be coupled with your words."
         },
         {
             "speaker": "troilus",
-            "text": "What should she remember"
+            "text": "What should she remember?"
         },
         {
             "speaker": "ulysses",
@@ -86,11 +86,11 @@
         },
         {
             "speaker": "diomedes",
-            "text": "Nay, then,"
+            "text": "Nay, then,--"
         },
         {
             "speaker": "cressida",
-            "text": "Ill tell you what,"
+            "text": "I'll tell you what,--"
         },
         {
             "speaker": "diomedes",
@@ -98,19 +98,19 @@
         },
         {
             "speaker": "cressida",
-            "text": "In faith, I cannot: what would you have me do"
+            "text": "In faith, I cannot: what would you have me do?"
         },
         {
             "speaker": "thersites",
-            "text": "A juggling trick,to be secretly open."
+            "text": "A juggling trick,--to be secretly open."
         },
         {
             "speaker": "diomedes",
-            "text": "What did you swear you would bestow on me"
+            "text": "What did you swear you would bestow on me?"
         },
         {
             "speaker": "cressida",
-            "text": "I prithee, do not hold me to mine oath Bid me do any thing but that, sweet Greek."
+            "text": "I prithee, do not hold me to mine oath; Bid me do any thing but that, sweet Greek."
         },
         {
             "speaker": "diomedes",
@@ -126,11 +126,11 @@
         },
         {
             "speaker": "cressida",
-            "text": "Diomed,"
+            "text": "Diomed,--"
         },
         {
             "speaker": "diomedes",
-            "text": "No, no, good night: Ill be your fool no more."
+            "text": "No, no, good night: I'll be your fool no more."
         },
         {
             "speaker": "troilus",
@@ -146,7 +146,7 @@
         },
         {
             "speaker": "ulysses",
-            "text": "You are moved, prince let us depart, I pray you, Lest your displeasure should enlarge itself To wrathful terms: this place is dangerous The time right deadly I beseech you, go."
+            "text": "You are moved, prince; let us depart, I pray you, Lest your displeasure should enlarge itself To wrathful terms: this place is dangerous; The time right deadly; I beseech you, go."
         },
         {
             "speaker": "troilus",
@@ -154,7 +154,7 @@
         },
         {
             "speaker": "ulysses",
-            "text": "Nay, good my lord, go off: You flow to great distraction come, my lord."
+            "text": "Nay, good my lord, go off: You flow to great distraction; come, my lord."
         },
         {
             "speaker": "troilus",
@@ -162,11 +162,11 @@
         },
         {
             "speaker": "ulysses",
-            "text": "You have not patience come."
+            "text": "You have not patience; come."
         },
         {
             "speaker": "troilus",
-            "text": "I pray you, stay by hell and all hells torments I will not speak a word!"
+            "text": "I pray you, stay; by hell and all hell's torments I will not speak a word!"
         },
         {
             "speaker": "diomedes",
@@ -178,7 +178,7 @@
         },
         {
             "speaker": "troilus",
-            "text": "Doth that grieve thee O witherd truth!"
+            "text": "Doth that grieve thee? O wither'd truth!"
         },
         {
             "speaker": "ulysses",
@@ -190,11 +190,11 @@
         },
         {
             "speaker": "cressida",
-            "text": "Guardian!why, Greek!"
+            "text": "Guardian!--why, Greek!"
         },
         {
             "speaker": "diomedes",
-            "text": "Foh, foh! adieu you palter."
+            "text": "Foh, foh! adieu; you palter."
         },
         {
             "speaker": "cressida",
@@ -202,7 +202,7 @@
         },
         {
             "speaker": "ulysses",
-            "text": "You shake, my lord, at something: will you go You will break out."
+            "text": "You shake, my lord, at something: will you go? You will break out."
         },
         {
             "speaker": "troilus",
@@ -214,19 +214,19 @@
         },
         {
             "speaker": "troilus",
-            "text": "Nay, stay by Jove, I will not speak a word: There is between my will and all offences A guard of patience: stay a little while."
+            "text": "Nay, stay; by Jove, I will not speak a word: There is between my will and all offences A guard of patience: stay a little while."
         },
         {
             "speaker": "thersites",
-            "text": "How the devil Luxury, with his fat rump and potatofinger, tickles these together! Fry, lechery, fry!"
+            "text": "How the devil Luxury, with his fat rump and potato-finger, tickles these together! Fry, lechery, fry!"
         },
         {
             "speaker": "diomedes",
-            "text": "But will you, then"
+            "text": "But will you, then?"
         },
         {
             "speaker": "cressida",
-            "text": "In faith, I will, la never trust me else."
+            "text": "In faith, I will, la; never trust me else."
         },
         {
             "speaker": "diomedes",
@@ -234,7 +234,7 @@
         },
         {
             "speaker": "cressida",
-            "text": "Ill fetch you one."
+            "text": "I'll fetch you one."
         },
         {
             "text": "Exit"
@@ -245,14 +245,14 @@
         },
         {
             "speaker": "troilus",
-            "text": "Fear me not, sweet lord I will not be myself, nor have cognition Of what I feel: I am all patience."
+            "text": "Fear me not, sweet lord; I will not be myself, nor have cognition Of what I feel: I am all patience."
         },
         {
-            "text": "Reenter CRESSIDA"
+            "text": "Re-enter CRESSIDA"
         },
         {
             "speaker": "thersites",
-            "text": "Now the pledge now, now, now!"
+            "text": "Now the pledge; now, now, now!"
         },
         {
             "speaker": "cressida",
@@ -260,27 +260,27 @@
         },
         {
             "speaker": "troilus",
-            "text": "O beauty! where is thy faith"
+            "text": "O beauty! where is thy faith?"
         },
         {
             "speaker": "ulysses",
-            "text": "My lord,"
+            "text": "My lord,--"
         },
         {
             "speaker": "troilus",
-            "text": "I will be patient outwardly I will."
+            "text": "I will be patient; outwardly I will."
         },
         {
             "speaker": "cressida",
-            "text": "You look upon that sleeve behold it well. He loved meO false wench!Givet me again."
+            "text": "You look upon that sleeve; behold it well. He loved me--O false wench!--Give't me again."
         },
         {
             "speaker": "diomedes",
-            "text": "Whose wast"
+            "text": "Whose was't?"
         },
         {
             "speaker": "cressida",
-            "text": "It is no matter, now I havet again. I will not meet with you tomorrow night: I prithee, Diomed, visit me no more."
+            "text": "It is no matter, now I have't again. I will not meet with you to-morrow night: I prithee, Diomed, visit me no more."
         },
         {
             "speaker": "thersites",
@@ -292,7 +292,7 @@
         },
         {
             "speaker": "cressida",
-            "text": "What, this"
+            "text": "What, this?"
         },
         {
             "speaker": "diomedes",
@@ -300,7 +300,7 @@
         },
         {
             "speaker": "cressida",
-            "text": "O, all you gods! O pretty, pretty pledge! Thy master now lies thinking in his bed Of thee and me, and sighs, and takes my glove, And gives memorial dainty kisses to it, As I kiss thee. Nay, do not snatch it from me He that takes that doth take my heart withal."
+            "text": "O, all you gods! O pretty, pretty pledge! Thy master now lies thinking in his bed Of thee and me, and sighs, and takes my glove, And gives memorial dainty kisses to it, As I kiss thee. Nay, do not snatch it from me; He that takes that doth take my heart withal."
         },
         {
             "speaker": "diomedes",
@@ -312,11 +312,11 @@
         },
         {
             "speaker": "cressida",
-            "text": "You shall not have it, Diomed faith, you shall not Ill give you something else."
+            "text": "You shall not have it, Diomed; faith, you shall not; I'll give you something else."
         },
         {
             "speaker": "diomedes",
-            "text": "I will have this: whose was it"
+            "text": "I will have this: whose was it?"
         },
         {
             "speaker": "cressida",
@@ -328,19 +328,19 @@
         },
         {
             "speaker": "cressida",
-            "text": "Twas ones that loved me better than you will. But, now you have it, take it."
+            "text": "'Twas one's that loved me better than you will. But, now you have it, take it."
         },
         {
             "speaker": "diomedes",
-            "text": "Whose was it"
+            "text": "Whose was it?"
         },
         {
             "speaker": "cressida",
-            "text": "By all Dianas waitingwomen yond, And by herself, I will not tell you whose."
+            "text": "By all Diana's waiting-women yond, And by herself, I will not tell you whose."
         },
         {
             "speaker": "diomedes",
-            "text": "Tomorrow will I wear it on my helm, And grieve his spirit that dares not challenge it."
+            "text": "To-morrow will I wear it on my helm, And grieve his spirit that dares not challenge it."
         },
         {
             "speaker": "troilus",
@@ -348,11 +348,11 @@
         },
         {
             "speaker": "cressida",
-            "text": "Well, well, tis done, tis past: and yet it is not I will not keep my word."
+            "text": "Well, well, 'tis done, 'tis past: and yet it is not; I will not keep my word."
         },
         {
             "speaker": "diomedes",
-            "text": "Why, then, farewell Thou never shalt mock Diomed again."
+            "text": "Why, then, farewell; Thou never shalt mock Diomed again."
         },
         {
             "speaker": "cressida",
@@ -368,11 +368,11 @@
         },
         {
             "speaker": "diomedes",
-            "text": "What, shall I come the hour"
+            "text": "What, shall I come? the hour?"
         },
         {
             "speaker": "cressida",
-            "text": "Ay, come:O Jove!do come:I shall be plagued."
+            "text": "Ay, come:--O Jove!--do come:--I shall be plagued."
         },
         {
             "speaker": "diomedes",
@@ -380,7 +380,7 @@
         },
         {
             "speaker": "cressida",
-            "text": "Good night: I prithee, come. Troilus, farewell! one eye yet looks on thee But with my heart the other eye doth see. Ah, poor our sex! this fault in us I find, The error of our eye directs our mind: What error leads must err O, then conclude Minds swayd by eyes are full of turpitude."
+            "text": "Good night: I prithee, come. Troilus, farewell! one eye yet looks on thee But with my heart the other eye doth see. Ah, poor our sex! this fault in us I find, The error of our eye directs our mind: What error leads must err; O, then conclude Minds sway'd by eyes are full of turpitude."
         },
         {
             "text": "Exit DIOMEDES"
@@ -390,11 +390,11 @@
         },
         {
             "speaker": "thersites",
-            "text": "A proof of strength she could not publish more, Unless she said  My mind is now turnd whore."
+            "text": "A proof of strength she could not publish more, Unless she said ' My mind is now turn'd whore.'"
         },
         {
             "speaker": "ulysses",
-            "text": "Alls done, my lord."
+            "text": "All's done, my lord."
         },
         {
             "speaker": "troilus",
@@ -402,11 +402,11 @@
         },
         {
             "speaker": "ulysses",
-            "text": "Why stay we, then"
+            "text": "Why stay we, then?"
         },
         {
             "speaker": "troilus",
-            "text": "To make a recordation to my soul Of every syllable that here was spoke. But if I tell how these two did coact, Shall I not lie in publishing a truth Sith yet there is a credence in my heart, An esperance so obstinately strong, That doth invert the attest of eyes and ears, As if those organs had deceptious functions, Created only to calumniate. Was Cressid here"
+            "text": "To make a recordation to my soul Of every syllable that here was spoke. But if I tell how these two did co-act, Shall I not lie in publishing a truth? Sith yet there is a credence in my heart, An esperance so obstinately strong, That doth invert the attest of eyes and ears, As if those organs had deceptious functions, Created only to calumniate. Was Cressid here?"
         },
         {
             "speaker": "ulysses",
@@ -430,11 +430,11 @@
         },
         {
             "speaker": "troilus",
-            "text": "Let it not be believed for womanhood! Think, we had mothers do not give advantage To stubborn critics, apt, without a theme, For depravation, to square the general sex By Cressids rule: rather think this not Cressid."
+            "text": "Let it not be believed for womanhood! Think, we had mothers; do not give advantage To stubborn critics, apt, without a theme, For depravation, to square the general sex By Cressid's rule: rather think this not Cressid."
         },
         {
             "speaker": "ulysses",
-            "text": "What hath she done, prince, that can soil our mothers"
+            "text": "What hath she done, prince, that can soil our mothers?"
         },
         {
             "speaker": "troilus",
@@ -442,27 +442,27 @@
         },
         {
             "speaker": "thersites",
-            "text": "Will he swagger himself out ons own eyes"
+            "text": "Will he swagger himself out on's own eyes?"
         },
         {
             "speaker": "troilus",
-            "text": "This she no, this is Diomeds Cressida: If beauty have a soul, this is not she If souls guide vows, if vows be sanctimonies, If sanctimony be the gods delight, If there be rule in unity itself, This is not she. O madness of discourse, That cause sets up with and against itself! Bifold authority! where reason can revolt Without perdition, and loss assume all reason Without revolt: this is, and is not, Cressid. Within my soul there doth conduce a fight Of this strange nature that a thing inseparate Divides more wider than the sky and earth, And yet the spacious breadth of this division Admits no orifex for a point as subtle As Ariachnes broken woof to enter. Instance, O instance! strong as Plutos gates Cressid is mine, tied with the bonds of heaven: Instance, O instance! strong as heaven itself The bonds of heaven are slippd, dissolved, and loosed And with another knot, fivefingertied, The fractions of her faith, orts of her love, The fragments, scraps, the bits and greasy relics Of her oereaten faith, are bound to Diomed."
+            "text": "This she? no, this is Diomed's Cressida: If beauty have a soul, this is not she; If souls guide vows, if vows be sanctimonies, If sanctimony be the gods' delight, If there be rule in unity itself, This is not she. O madness of discourse, That cause sets up with and against itself! Bi-fold authority! where reason can revolt Without perdition, and loss assume all reason Without revolt: this is, and is not, Cressid. Within my soul there doth conduce a fight Of this strange nature that a thing inseparate Divides more wider than the sky and earth, And yet the spacious breadth of this division Admits no orifex for a point as subtle As Ariachne's broken woof to enter. Instance, O instance! strong as Pluto's gates; Cressid is mine, tied with the bonds of heaven: Instance, O instance! strong as heaven itself; The bonds of heaven are slipp'd, dissolved, and loosed; And with another knot, five-finger-tied, The fractions of her faith, orts of her love, The fragments, scraps, the bits and greasy relics Of her o'er-eaten faith, are bound to Diomed."
         },
         {
             "speaker": "ulysses",
-            "text": "May worthy Troilus be half attachd With that which here his passion doth express"
+            "text": "May worthy Troilus be half attach'd With that which here his passion doth express?"
         },
         {
             "speaker": "troilus",
-            "text": "Ay, Greek and that shall be divulged well In characters as red as Mars his heart Inflamed with Venus: never did young man fancy With so eternal and so fixd a soul. Hark, Greek: as much as I do Cressid love, So much by weight hate I her Diomed: That sleeve is mine that hell bear on his helm Were it a casque composed by Vulcans skill, My sword should bite it: not the dreadful spout Which shipmen do the hurricano call, Constringed in mass by the almighty sun, Shall dizzy with more clamour Neptunes ear In his descent than shall my prompted sword Falling on Diomed."
+            "text": "Ay, Greek; and that shall be divulged well In characters as red as Mars his heart Inflamed with Venus: never did young man fancy With so eternal and so fix'd a soul. Hark, Greek: as much as I do Cressid love, So much by weight hate I her Diomed: That sleeve is mine that he'll bear on his helm; Were it a casque composed by Vulcan's skill, My sword should bite it: not the dreadful spout Which shipmen do the hurricano call, Constringed in mass by the almighty sun, Shall dizzy with more clamour Neptune's ear In his descent than shall my prompted sword Falling on Diomed."
         },
         {
             "speaker": "thersites",
-            "text": "Hell tickle it for his concupy."
+            "text": "He'll tickle it for his concupy."
         },
         {
             "speaker": "troilus",
-            "text": "O Cressid! O false Cressid! false, false, false! Let all untruths stand by thy stained name, And theyll seem glorious."
+            "text": "O Cressid! O false Cressid! false, false, false! Let all untruths stand by thy stained name, And they'll seem glorious."
         },
         {
             "speaker": "ulysses",
@@ -473,7 +473,7 @@
         },
         {
             "speaker": "aeneas",
-            "text": "I have been seeking you this hour, my lord: Hector, by this, is arming him in Troy Ajax, your guard, stays to conduct you home."
+            "text": "I have been seeking you this hour, my lord: Hector, by this, is arming him in Troy; Ajax, your guard, stays to conduct you home."
         },
         {
             "speaker": "troilus",
@@ -481,7 +481,7 @@
         },
         {
             "speaker": "ulysses",
-            "text": "Ill bring you to the gates."
+            "text": "I'll bring you to the gates."
         },
         {
             "speaker": "troilus",
@@ -492,7 +492,7 @@
         },
         {
             "speaker": "thersites",
-            "text": "Would I could meet that rogue Diomed! I would croak like a raven I would bode, I would bode. Patroclus will give me any thing for the intelligence of this whore: the parrot will not do more for an almond than he for a commodious drab. Lechery, lechery still, wars and lechery nothing else holds fashion: a burning devil take them!"
+            "text": "Would I could meet that rogue Diomed! I would croak like a raven; I would bode, I would bode. Patroclus will give me any thing for the intelligence of this whore: the parrot will not do more for an almond than he for a commodious drab. Lechery, lechery; still, wars and lechery; nothing else holds fashion: a burning devil take them!"
         },
         {
             "text": "Exit"

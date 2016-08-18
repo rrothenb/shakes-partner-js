@@ -1,22 +1,22 @@
 {
     "sceneName": "Act 5, scene 1",
     "playName": "macbeth",
-    "location": "Dunsinane. Anteroom in the castle.",
+    "location": "Dunsinane. Ante-room in the castle.",
     "lines": [
         {
-            "text": "Enter a Doctor of Physic and a WaitingGentlewoman"
+            "text": "Enter a Doctor of Physic and a Waiting-Gentlewoman"
         },
         {
             "speaker": "doctor",
-            "text": "I have two nights watched with you, but can perceive no truth in your report. When was it she last walked"
+            "text": "I have two nights watched with you, but can perceive no truth in your report. When was it she last walked?"
         },
         {
             "speaker": "gentlewoman",
-            "text": "Since his majesty went into the field, I have seen her rise from her bed, throw her nightgown upon her, unlock her closet, take forth paper, fold it, write upont, read it, afterwards seal it, and again return to bed yet all this while in a most fast sleep."
+            "text": "Since his majesty went into the field, I have seen her rise from her bed, throw her night-gown upon her, unlock her closet, take forth paper, fold it, write upon't, read it, afterwards seal it, and again return to bed; yet all this while in a most fast sleep."
         },
         {
             "speaker": "doctor",
-            "text": "A great perturbation in nature, to receive at once the benefit of sleep, and do the effects of watching! In this slumbery agitation, besides her walking and other actual performances, what, at any time, have you heard her say"
+            "text": "A great perturbation in nature, to receive at once the benefit of sleep, and do the effects of watching! In this slumbery agitation, besides her walking and other actual performances, what, at any time, have you heard her say?"
         },
         {
             "speaker": "gentlewoman",
@@ -24,22 +24,22 @@
         },
         {
             "speaker": "doctor",
-            "text": "You may to me: and tis most meet you should."
+            "text": "You may to me: and 'tis most meet you should."
         },
         {
             "speaker": "gentlewoman",
-            "text": "Neither to you nor any one having no witness to confirm my speech. Lo you, here she comes! This is her very guise and, upon my life, fast asleep. Observe her stand close."
+            "text": "Neither to you nor any one; having no witness to confirm my speech. Lo you, here she comes! This is her very guise; and, upon my life, fast asleep. Observe her; stand close."
         },
         {
             "text": "Enter LADY MACBETH, with a taper"
         },
         {
             "speaker": "doctor",
-            "text": "How came she by that light"
+            "text": "How came she by that light?"
         },
         {
             "speaker": "gentlewoman",
-            "text": "Why, it stood by her: she has light by her continually tis her command."
+            "text": "Why, it stood by her: she has light by her continually; 'tis her command."
         },
         {
             "speaker": "doctor",
@@ -51,7 +51,7 @@
         },
         {
             "speaker": "doctor",
-            "text": "What is it she does now Look, how she rubs her hands."
+            "text": "What is it she does now? Look, how she rubs her hands."
         },
         {
             "speaker": "gentlewoman",
@@ -59,7 +59,7 @@
         },
         {
             "speaker": "lady macbeth",
-            "text": "Yet heres a spot."
+            "text": "Yet here's a spot."
         },
         {
             "speaker": "doctor",
@@ -67,19 +67,19 @@
         },
         {
             "speaker": "lady macbeth",
-            "text": "Out, damned spot! out, I say!One: two: why, then, tis time to dot.Hell is murky!Fie, my lord, fie! a soldier, and afeard What need we fear who knows it, when none can call our power to accountYet who would have thought the old man to have had so much blood in him."
+            "text": "Out, damned spot! out, I say!--One: two: why, then, 'tis time to do't.--Hell is murky!--Fie, my lord, fie! a soldier, and afeard? What need we fear who knows it, when none can call our power to account?--Yet who would have thought the old man to have had so much blood in him."
         },
         {
             "speaker": "doctor",
-            "text": "Do you mark that"
+            "text": "Do you mark that?"
         },
         {
             "speaker": "lady macbeth",
-            "text": "The thane of Fife had a wife: where is she now What, will these hands neer be cleanNo more o that, my lord, no more o that: you mar all with this starting."
+            "text": "The thane of Fife had a wife: where is she now?-- What, will these hands ne'er be clean?--No more o' that, my lord, no more o' that: you mar all with this starting."
         },
         {
             "speaker": "doctor",
-            "text": "Go to, go to you have known what you should not."
+            "text": "Go to, go to; you have known what you should not."
         },
         {
             "speaker": "gentlewoman",
@@ -87,7 +87,7 @@
         },
         {
             "speaker": "lady macbeth",
-            "text": "Heres the smell of the blood still: all the perfumes of Arabia will not sweeten this little hand. Oh, oh, oh!"
+            "text": "Here's the smell of the blood still: all the perfumes of Arabia will not sweeten this little hand. Oh, oh, oh!"
         },
         {
             "speaker": "doctor",
@@ -99,7 +99,7 @@
         },
         {
             "speaker": "doctor",
-            "text": "Well, well, well,"
+            "text": "Well, well, well,--"
         },
         {
             "speaker": "gentlewoman",
@@ -111,22 +111,22 @@
         },
         {
             "speaker": "lady macbeth",
-            "text": "Wash your hands, put on your nightgown look not so pale.I tell you yet again, Banquos buried he cannot come out ons grave."
+            "text": "Wash your hands, put on your nightgown; look not so pale.--I tell you yet again, Banquo's buried; he cannot come out on's grave."
         },
         {
             "speaker": "doctor",
-            "text": "Even so"
+            "text": "Even so?"
         },
         {
             "speaker": "lady macbeth",
-            "text": "To bed, to bed! theres knocking at the gate: come, come, come, come, give me your hand. Whats done cannot be undone.To bed, to bed, to bed!"
+            "text": "To bed, to bed! there's knocking at the gate: come, come, come, come, give me your hand. What's done cannot be undone.--To bed, to bed, to bed!"
         },
         {
             "text": "Exit"
         },
         {
             "speaker": "doctor",
-            "text": "Will she go now to bed"
+            "text": "Will she go now to bed?"
         },
         {
             "speaker": "gentlewoman",
@@ -134,7 +134,7 @@
         },
         {
             "speaker": "doctor",
-            "text": "Foul whisperings are abroad: unnatural deeds Do breed unnatural troubles: infected minds To their deaf pillows will discharge their secrets: More needs she the divine than the physician. God, God forgive us all! Look after her Remove from her the means of all annoyance, And still keep eyes upon her. So, good night: My mind she has mated, and amazed my sight. I think, but dare not speak."
+            "text": "Foul whisperings are abroad: unnatural deeds Do breed unnatural troubles: infected minds To their deaf pillows will discharge their secrets: More needs she the divine than the physician. God, God forgive us all! Look after her; Remove from her the means of all annoyance, And still keep eyes upon her. So, good night: My mind she has mated, and amazed my sight. I think, but dare not speak."
         },
         {
             "speaker": "gentlewoman",

@@ -1,14 +1,14 @@
 {
     "sceneName": "Act 3, scene 1",
     "playName": "timon of athens",
-    "location": "A room in Lucullus house.",
+    "location": "A room in Lucullus' house.",
     "lines": [
         {
             "text": "FLAMINIUS waiting. Enter a Servant to him"
         },
         {
             "speaker": "servant",
-            "text": "I have told my lord of you he is coming down to you."
+            "text": "I have told my lord of you; he is coming down to you."
         },
         {
             "speaker": "flaminius",
@@ -19,11 +19,11 @@
         },
         {
             "speaker": "servant",
-            "text": "Heres my lord."
+            "text": "Here's my lord."
         },
         {
             "speaker": "lucullus",
-            "text": "[Aside]  One of Lord Timons men a gift, I warrant. Why, this hits right I dreamt of a silver basin and ewer tonight. Flaminius, honest Flaminius you are very respectively welcome, sir. Fill me some wine. And how does that honourable, complete, freehearted gentleman of Athens, thy very bountiful good lord and master"
+            "text": "[Aside]  One of Lord Timon's men? a gift, I warrant. Why, this hits right; I dreamt of a silver basin and ewer to-night. Flaminius, honest Flaminius; you are very respectively welcome, sir. Fill me some wine. And how does that honourable, complete, free-hearted gentleman of Athens, thy very bountiful good lord and master?"
         },
         {
             "text": "Exit Servants"
@@ -34,18 +34,18 @@
         },
         {
             "speaker": "lucullus",
-            "text": "I am right glad that his health is well, sir: and what hast thou there under thy cloak, pretty Flaminius"
+            "text": "I am right glad that his health is well, sir: and what hast thou there under thy cloak, pretty Flaminius?"
         },
         {
             "speaker": "flaminius",
-            "text": "Faith, nothing but an empty box, sir which, in my lords behalf, I come to entreat your honour to supply who, having great and instant occasion to use fifty talents, hath sent to your lordship to furnish him, nothing doubting your present assistance therein."
+            "text": "'Faith, nothing but an empty box, sir; which, in my lord's behalf, I come to entreat your honour to supply; who, having great and instant occasion to use fifty talents, hath sent to your lordship to furnish him, nothing doubting your present assistance therein."
         },
         {
             "speaker": "lucullus",
-            "text": "La, la, la, la! nothing doubting, says he Alas, good lord! a noble gentleman tis, if he would not keep so good a house. Many a time and often I ha dined with him, and told him ont, and come again to supper to him, of purpose to have him spend less, and yet he would embrace no counsel, take no warning by my coming. Every man has his fault, and honesty is his: I ha told him ont, but I could neer get him fromt."
+            "text": "La, la, la, la! 'nothing doubting,' says he? Alas, good lord! a noble gentleman 'tis, if he would not keep so good a house. Many a time and often I ha' dined with him, and told him on't, and come again to supper to him, of purpose to have him spend less, and yet he would embrace no counsel, take no warning by my coming. Every man has his fault, and honesty is his: I ha' told him on't, but I could ne'er get him from't."
         },
         {
-            "text": "Reenter Servant, with wine"
+            "text": "Re-enter Servant, with wine"
         },
         {
             "speaker": "servant",
@@ -53,7 +53,7 @@
         },
         {
             "speaker": "lucullus",
-            "text": "Flaminius, I have noted thee always wise. Heres to thee."
+            "text": "Flaminius, I have noted thee always wise. Here's to thee."
         },
         {
             "speaker": "flaminius",
@@ -61,7 +61,7 @@
         },
         {
             "speaker": "lucullus",
-            "text": "I have observed thee always for a towardly prompt spiritgive thee thy dueand one that knows what belongs to reason and canst use the time well, if the time use thee well: good parts in thee. Get you gone, sirrah. Draw nearer, honest Flaminius. Thy lords a bountiful gentleman: but thou art wise and thou knowest well enough, although thou comest to me, that this is no time to lend money, especially upon bare friendship, without security. Heres three solidares for thee: good boy, wink at me, and say thou sawest me not. Fare thee well."
+            "text": "I have observed thee always for a towardly prompt spirit--give thee thy due--and one that knows what belongs to reason; and canst use the time well, if the time use thee well: good parts in thee. Get you gone, sirrah. Draw nearer, honest Flaminius. Thy lord's a bountiful gentleman: but thou art wise; and thou knowest well enough, although thou comest to me, that this is no time to lend money, especially upon bare friendship, without security. Here's three solidares for thee: good boy, wink at me, and say thou sawest me not. Fare thee well."
         },
         {
             "text": "To Servant"
@@ -71,7 +71,7 @@
         },
         {
             "speaker": "flaminius",
-            "text": "Ist possible the world should so much differ, And we alive that lived Fly, damned baseness, To him that worships thee!"
+            "text": "Is't possible the world should so much differ, And we alive that lived? Fly, damned baseness, To him that worships thee!"
         },
         {
             "text": "Throwing the money back"
@@ -85,7 +85,7 @@
         },
         {
             "speaker": "flaminius",
-            "text": "May these add to the number that may scald thee! Let moulten coin be thy damnation, Thou disease of a friend, and not himself! Has friendship such a faint and milky heart, It turns in less than two nights O you gods, I feel masters passion! this slave, Unto his honour, has my lords meat in him: Why should it thrive and turn to nutriment, When he is turnd to poison O, may diseases only work upont! And, when hes sick to death, let not that part of nature Which my lord paid for, be of any power To expel sickness, but prolong his hour!"
+            "text": "May these add to the number that may scald thee! Let moulten coin be thy damnation, Thou disease of a friend, and not himself! Has friendship such a faint and milky heart, It turns in less than two nights? O you gods, I feel master's passion! this slave, Unto his honour, has my lord's meat in him: Why should it thrive and turn to nutriment, When he is turn'd to poison? O, may diseases only work upon't! And, when he's sick to death, let not that part of nature Which my lord paid for, be of any power To expel sickness, but prolong his hour!"
         },
         {
             "text": "Exit"

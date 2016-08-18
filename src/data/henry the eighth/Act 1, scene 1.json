@@ -1,31 +1,31 @@
 {
     "sceneName": "Act 1, scene 1",
     "playName": "henry the eighth",
-    "location": "London. An antechamber in the palace.",
+    "location": "London. An ante-chamber in the palace.",
     "lines": [
         {
             "speaker": "buckingham",
-            "text": "Good morrow, and well met. How have ye done Since last we saw in France"
+            "text": "Good morrow, and well met. How have ye done Since last we saw in France?"
         },
         {
             "speaker": "norfolk",
-            "text": "I thank your grace, Healthful and ever since a fresh admirer Of what I saw there."
+            "text": "I thank your grace, Healthful; and ever since a fresh admirer Of what I saw there."
         },
         {
             "speaker": "buckingham",
-            "text": "An untimely ague Stayd me a prisoner in my chamber when Those suns of glory, those two lights of men, Met in the vale of Andren."
+            "text": "An untimely ague Stay'd me a prisoner in my chamber when Those suns of glory, those two lights of men, Met in the vale of Andren."
         },
         {
             "speaker": "norfolk",
-            "text": "Twixt Guynes and Arde: I was then present, saw them salute on horseback Beheld them, when they lighted, how they clung In their embracement, as they grew together Which had they, what four throned ones could have weighd Such a compounded one"
+            "text": "'Twixt Guynes and Arde: I was then present, saw them salute on horseback; Beheld them, when they lighted, how they clung In their embracement, as they grew together; Which had they, what four throned ones could have weigh'd Such a compounded one?"
         },
         {
             "speaker": "buckingham",
-            "text": "All the whole time I was my chambers prisoner."
+            "text": "All the whole time I was my chamber's prisoner."
         },
         {
             "speaker": "norfolk",
-            "text": "Then you lost The view of earthly glory: men might say, Till this time pomp was single, but now married To one above itself. Each following day Became the next days master, till the last Made former wonders its. Today the French, All clinquant, all in gold, like heathen gods, Shone down the English and, tomorrow, they Made Britain India: every man that stood Showd like a mine. Their dwarfish pages were As cherubins, all guilt: the madams too, Not used to toil, did almost sweat to bear The pride upon them, that their very labour Was to them as a painting: now this masque Was cried incomparable and the ensuing night Made it a fool and beggar. The two kings, Equal in lustre, were now best, now worst, As presence did present them him in eye, Still him in praise: and, being present both Twas said they saw but one and no discerner Durst wag his tongue in censure. When these suns For so they phrase emby their heralds challenged The noble spirits to arms, they did perform Beyond thoughts compass that former fabulous story, Being now seen possible enough, got credit, That Bevis was believed."
+            "text": "Then you lost The view of earthly glory: men might say, Till this time pomp was single, but now married To one above itself. Each following day Became the next day's master, till the last Made former wonders its. To-day the French, All clinquant, all in gold, like heathen gods, Shone down the English; and, to-morrow, they Made Britain India: every man that stood Show'd like a mine. Their dwarfish pages were As cherubins, all guilt: the madams too, Not used to toil, did almost sweat to bear The pride upon them, that their very labour Was to them as a painting: now this masque Was cried incomparable; and the ensuing night Made it a fool and beggar. The two kings, Equal in lustre, were now best, now worst, As presence did present them; him in eye, Still him in praise: and, being present both 'Twas said they saw but one; and no discerner Durst wag his tongue in censure. When these suns-- For so they phrase 'em--by their heralds challenged The noble spirits to arms, they did perform Beyond thought's compass; that former fabulous story, Being now seen possible enough, got credit, That Bevis was believed."
         },
         {
             "speaker": "buckingham",
@@ -33,11 +33,11 @@
         },
         {
             "speaker": "norfolk",
-            "text": "As I belong to worship and affect In honour honesty, the tract of every thing Would by a good discourser lose some life, Which actions self was tongue to. All was royal To the disposing of it nought rebelld. Order gave each thing view the office did Distinctly his full function."
+            "text": "As I belong to worship and affect In honour honesty, the tract of every thing Would by a good discourser lose some life, Which action's self was tongue to. All was royal; To the disposing of it nought rebell'd. Order gave each thing view; the office did Distinctly his full function."
         },
         {
             "speaker": "buckingham",
-            "text": "Who did guide, I mean, who set the body and the limbs Of this great sport together, as you guess"
+            "text": "Who did guide, I mean, who set the body and the limbs Of this great sport together, as you guess?"
         },
         {
             "speaker": "norfolk",
@@ -45,27 +45,27 @@
         },
         {
             "speaker": "buckingham",
-            "text": "I pray you, who, my lord"
+            "text": "I pray you, who, my lord?"
         },
         {
             "speaker": "norfolk",
-            "text": "All this was orderd by the good discretion Of the right reverend Cardinal of York."
+            "text": "All this was order'd by the good discretion Of the right reverend Cardinal of York."
         },
         {
             "speaker": "buckingham",
-            "text": "The devil speed him! no mans pie is freed From his ambitious finger. What had he To do in these fierce vanities I wonder That such a keech can with his very bulk Take up the rays o the beneficial sun And keep it from the earth."
+            "text": "The devil speed him! no man's pie is freed From his ambitious finger. What had he To do in these fierce vanities? I wonder That such a keech can with his very bulk Take up the rays o' the beneficial sun And keep it from the earth."
         },
         {
             "speaker": "norfolk",
-            "text": "Surely, sir, Theres in him stuff that puts him to these ends For, being not proppd by ancestry, whose grace Chalks successors their way, nor calld upon For high feats done to the crown neither allied For eminent assistants but, spiderlike, Out of his selfdrawing web, he gives us note, The force of his own merit makes his way A gift that heaven gives for him, which buys A place next to the king."
+            "text": "Surely, sir, There's in him stuff that puts him to these ends; For, being not propp'd by ancestry, whose grace Chalks successors their way, nor call'd upon For high feats done to the crown; neither allied For eminent assistants; but, spider-like, Out of his self-drawing web, he gives us note, The force of his own merit makes his way A gift that heaven gives for him, which buys A place next to the king."
         },
         {
             "speaker": "abergavenny",
-            "text": "I cannot tell What heaven hath given him,let some graver eye Pierce into that but I can see his pride Peep through each part of him: whence has he that, If not from hell the devil is a niggard, Or has given all before, and he begins A new hell in himself."
+            "text": "I cannot tell What heaven hath given him,--let some graver eye Pierce into that; but I can see his pride Peep through each part of him: whence has he that, If not from hell? the devil is a niggard, Or has given all before, and he begins A new hell in himself."
         },
         {
             "speaker": "buckingham",
-            "text": "Why the devil, Upon this French going out, took he upon him, Without the privity o the king, to appoint Who should attend on him He makes up the file Of all the gentry for the most part such To whom as great a charge as little honour He meant to lay upon: and his own letter, The honourable board of council out, Must fetch him in the papers."
+            "text": "Why the devil, Upon this French going out, took he upon him, Without the privity o' the king, to appoint Who should attend on him? He makes up the file Of all the gentry; for the most part such To whom as great a charge as little honour He meant to lay upon: and his own letter, The honourable board of council out, Must fetch him in the papers."
         },
         {
             "speaker": "abergavenny",
@@ -73,7 +73,7 @@
         },
         {
             "speaker": "buckingham",
-            "text": "O, many Have broke their backs with laying manors on em For this great journey. What did this vanity But minister communication of A most poor issue"
+            "text": "O, many Have broke their backs with laying manors on 'em For this great journey. What did this vanity But minister communication of A most poor issue?"
         },
         {
             "speaker": "norfolk",
@@ -81,23 +81,23 @@
         },
         {
             "speaker": "buckingham",
-            "text": "Every man, After the hideous storm that followd, was A thing inspired and, not consulting, broke Into a general prophecy That this tempest, Dashing the garment of this peace, aboded The sudden breach ont."
+            "text": "Every man, After the hideous storm that follow'd, was A thing inspired; and, not consulting, broke Into a general prophecy; That this tempest, Dashing the garment of this peace, aboded The sudden breach on't."
         },
         {
             "speaker": "norfolk",
-            "text": "Which is budded out For France hath flawd the league, and hath attachd Our merchants goods at Bourdeaux."
+            "text": "Which is budded out; For France hath flaw'd the league, and hath attach'd Our merchants' goods at Bourdeaux."
         },
         {
             "speaker": "abergavenny",
-            "text": "Is it therefore The ambassador is silenced"
+            "text": "Is it therefore The ambassador is silenced?"
         },
         {
             "speaker": "norfolk",
-            "text": "Marry, ist."
+            "text": "Marry, is't."
         },
         {
             "speaker": "abergavenny",
-            "text": "A proper title of a peace and purchased At a superfluous rate!"
+            "text": "A proper title of a peace; and purchased At a superfluous rate!"
         },
         {
             "speaker": "buckingham",
@@ -105,14 +105,14 @@
         },
         {
             "speaker": "norfolk",
-            "text": "Like it your grace, The state takes notice of the private difference Betwixt you and the cardinal. I advise you And take it from a heart that wishes towards you Honour and plenteous safetythat you read The cardinals malice and his potency Together to consider further that What his high hatred would effect wants not A minister in his power. You know his nature, That hes revengeful, and I know his sword Hath a sharp edge: its long and, t may be said, It reaches far, and where twill not extend, Thither he darts it. Bosom up my counsel, Youll find it wholesome. Lo, where comes that rock That I advise your shunning."
+            "text": "Like it your grace, The state takes notice of the private difference Betwixt you and the cardinal. I advise you-- And take it from a heart that wishes towards you Honour and plenteous safety--that you read The cardinal's malice and his potency Together; to consider further that What his high hatred would effect wants not A minister in his power. You know his nature, That he's revengeful, and I know his sword Hath a sharp edge: it's long and, 't may be said, It reaches far, and where 'twill not extend, Thither he darts it. Bosom up my counsel, You'll find it wholesome. Lo, where comes that rock That I advise your shunning."
         },
         {
             "text": "Enter CARDINAL WOLSEY, the purse borne before him,  certain of the Guard, and two Secretaries with  papers. CARDINAL WOLSEY in his passage fixeth his  eye on BUCKINGHAM, and BUCKINGHAM on him, both full of disdain"
         },
         {
             "speaker": "cardinal wolsey",
-            "text": "The Duke of Buckinghams surveyor, ha Wheres his examination"
+            "text": "The Duke of Buckingham's surveyor, ha? Where's his examination?"
         },
         {
             "speaker": "first secretary",
@@ -120,7 +120,7 @@
         },
         {
             "speaker": "cardinal wolsey",
-            "text": "Is he in person ready"
+            "text": "Is he in person ready?"
         },
         {
             "speaker": "first secretary",
@@ -128,46 +128,46 @@
         },
         {
             "speaker": "cardinal wolsey",
-            "text": "Well, we shall then know more and Buckingham Shall lessen this big look."
+            "text": "Well, we shall then know more; and Buckingham Shall lessen this big look."
         },
         {
             "text": "Exeunt CARDINAL WOLSEY and his Train"
         },
         {
             "speaker": "buckingham",
-            "text": "This butchers cur is venommouthd, and I Have not the power to muzzle him therefore best Not wake him in his slumber. A beggars book Outworths a nobles blood."
+            "text": "This butcher's cur is venom-mouth'd, and I Have not the power to muzzle him; therefore best Not wake him in his slumber. A beggar's book Outworths a noble's blood."
         },
         {
             "speaker": "norfolk",
-            "text": "What, are you chafed Ask God for temperance thats the appliance only Which your disease requires."
+            "text": "What, are you chafed? Ask God for temperance; that's the appliance only Which your disease requires."
         },
         {
             "speaker": "buckingham",
-            "text": "I read ins looks Matter against me and his eye reviled Me, as his abject object: at this instant He bores me with some trick: hes gone to the king Ill follow and outstare him."
+            "text": "I read in's looks Matter against me; and his eye reviled Me, as his abject object: at this instant He bores me with some trick: he's gone to the king; I'll follow and outstare him."
         },
         {
             "speaker": "norfolk",
-            "text": "Stay, my lord, And let your reason with your choler question What tis you go about: to climb steep hills Requires slow pace at first: anger is like A fullhot horse, who being allowd his way, Selfmettle tires him. Not a man in England Can advise me like you: be to yourself As you would to your friend."
+            "text": "Stay, my lord, And let your reason with your choler question What 'tis you go about: to climb steep hills Requires slow pace at first: anger is like A full-hot horse, who being allow'd his way, Self-mettle tires him. Not a man in England Can advise me like you: be to yourself As you would to your friend."
         },
         {
             "speaker": "buckingham",
-            "text": "Ill to the king And from a mouth of honour quite cry down This Ipswich fellows insolence or proclaim Theres difference in no persons."
+            "text": "I'll to the king; And from a mouth of honour quite cry down This Ipswich fellow's insolence; or proclaim There's difference in no persons."
         },
         {
             "speaker": "norfolk",
-            "text": "Be advised Heat not a furnace for your foe so hot That it do singe yourself: we may outrun, By violent swiftness, that which we run at, And lose by overrunning. Know you not, The fire that mounts the liquor til run oer, In seeming to augment it wastes it Be advised: I say again, there is no English soul More stronger to direct you than yourself, If with the sap of reason you would quench, Or but allay, the fire of passion."
+            "text": "Be advised; Heat not a furnace for your foe so hot That it do singe yourself: we may outrun, By violent swiftness, that which we run at, And lose by over-running. Know you not, The fire that mounts the liquor til run o'er, In seeming to augment it wastes it? Be advised: I say again, there is no English soul More stronger to direct you than yourself, If with the sap of reason you would quench, Or but allay, the fire of passion."
         },
         {
             "speaker": "buckingham",
-            "text": "Sir, I am thankful to you and Ill go along By your prescription: but this topproud fellow, Whom from the flow of gall I name not but From sincere motions, by intelligence, And proofs as clear as founts in July when We see each grain of gravel, I do know To be corrupt and treasonous."
+            "text": "Sir, I am thankful to you; and I'll go along By your prescription: but this top-proud fellow, Whom from the flow of gall I name not but From sincere motions, by intelligence, And proofs as clear as founts in July when We see each grain of gravel, I do know To be corrupt and treasonous."
         },
         {
             "speaker": "norfolk",
-            "text": "Say not treasonous."
+            "text": "Say not 'treasonous.'"
         },
         {
             "speaker": "buckingham",
-            "text": "To the king Ill sayt and make my vouch as strong As shore of rock. Attend. This holy fox, Or wolf, or both,for he is equal ravenous As he is subtle, and as prone to mischief As able to performt his mind and place Infecting one another, yea, reciprocally Only to show his pomp as well in France As here at home, suggests the king our master To this last costly treaty, the interview, That swallowd so much treasure, and like a glass Did break i the rinsing."
+            "text": "To the king I'll say't; and make my vouch as strong As shore of rock. Attend. This holy fox, Or wolf, or both,--for he is equal ravenous As he is subtle, and as prone to mischief As able to perform't; his mind and place Infecting one another, yea, reciprocally-- Only to show his pomp as well in France As here at home, suggests the king our master To this last costly treaty, the interview, That swallow'd so much treasure, and like a glass Did break i' the rinsing."
         },
         {
             "speaker": "norfolk",
@@ -175,22 +175,22 @@
         },
         {
             "speaker": "buckingham",
-            "text": "Pray, give me favour, sir. This cunning cardinal The articles o the combination drew As himself pleased and they were ratified As he cried Thus let be: to as much end As give a crutch to the dead: but our countcardinal Has done this, and tis well for worthy Wolsey, Who cannot err, he did it. Now this follows, Which, as I take it, is a kind of puppy To the old dam, treason,Charles the emperor, Under pretence to see the queen his aunt For twas indeed his colour, but he came To whisper Wolsey,here makes visitation: His fears were, that the interview betwixt England and France might, through their amity, Breed him some prejudice for from this league Peepd harms that menaced him: he privily Deals with our cardinal and, as I trow, Which I do well for I am sure the emperor Paid ere he promised whereby his suit was granted Ere it was askd but when the way was made, And paved with gold, the emperor thus desired, That he would please to alter the kings course, And break the foresaid peace. Let the king know, As soon he shall by me, that thus the cardinal Does buy and sell his honour as he pleases, And for his own advantage."
+            "text": "Pray, give me favour, sir. This cunning cardinal The articles o' the combination drew As himself pleased; and they were ratified As he cried 'Thus let be': to as much end As give a crutch to the dead: but our count-cardinal Has done this, and 'tis well; for worthy Wolsey, Who cannot err, he did it. Now this follows,-- Which, as I take it, is a kind of puppy To the old dam, treason,--Charles the emperor, Under pretence to see the queen his aunt-- For 'twas indeed his colour, but he came To whisper Wolsey,--here makes visitation: His fears were, that the interview betwixt England and France might, through their amity, Breed him some prejudice; for from this league Peep'd harms that menaced him: he privily Deals with our cardinal; and, as I trow,-- Which I do well; for I am sure the emperor Paid ere he promised; whereby his suit was granted Ere it was ask'd; but when the way was made, And paved with gold, the emperor thus desired, That he would please to alter the king's course, And break the foresaid peace. Let the king know, As soon he shall by me, that thus the cardinal Does buy and sell his honour as he pleases, And for his own advantage."
         },
         {
             "speaker": "norfolk",
-            "text": "I am sorry To hear this of him and could wish he were Something mistaken int."
+            "text": "I am sorry To hear this of him; and could wish he were Something mistaken in't."
         },
         {
             "speaker": "buckingham",
             "text": "No, not a syllable: I  do pronounce him in that very shape He shall appear in proof."
         },
         {
-            "text": "Enter BRANDON, a Sergeantatarms before him, and two or three of the Guard"
+            "text": "Enter BRANDON, a Sergeant-at-arms before him, and two or three of the Guard"
         },
         {
             "speaker": "brandon",
-            "text": "Your office, sergeant execute it."
+            "text": "Your office, sergeant; execute it."
         },
         {
             "speaker": "sergeant",
@@ -198,15 +198,15 @@
         },
         {
             "speaker": "buckingham",
-            "text": "Lo, you, my lord, The net has falln upon me! I shall perish Under device and practise."
+            "text": "Lo, you, my lord, The net has fall'n upon me! I shall perish Under device and practise."
         },
         {
             "speaker": "brandon",
-            "text": "I am sorry To see you taen from liberty, to look on The business present: tis his highness pleasure You shall to the Tower."
+            "text": "I am sorry To see you ta'en from liberty, to look on The business present: 'tis his highness' pleasure You shall to the Tower."
         },
         {
             "speaker": "buckingham",
-            "text": "It will help me nothing To plead mine innocence for that dye is on me Which makes my whitest part black. The will of heaven Be done in this and all things! I obey. O my Lord Abergavenny, fare you well!"
+            "text": "It will help me nothing To plead mine innocence; for that dye is on me Which makes my whitest part black. The will of heaven Be done in this and all things! I obey. O my Lord Abergavenny, fare you well!"
         },
         {
             "speaker": "brandon",
@@ -217,23 +217,23 @@
         },
         {
             "speaker": "abergavenny",
-            "text": "As the duke said, The will of heaven be done, and the kings pleasure By me obeyd!"
+            "text": "As the duke said, The will of heaven be done, and the king's pleasure By me obey'd!"
         },
         {
             "speaker": "brandon",
-            "text": "Here is a warrant from The king to attach Lord Montacute and the bodies Of the dukes confessor, John de la Car, One Gilbert Peck, his chancellor"
+            "text": "Here is a warrant from The king to attach Lord Montacute; and the bodies Of the duke's confessor, John de la Car, One Gilbert Peck, his chancellor--"
         },
         {
             "speaker": "buckingham",
-            "text": "So, so These are the limbs o the plot: no more, I hope."
+            "text": "So, so; These are the limbs o' the plot: no more, I hope."
         },
         {
             "speaker": "brandon",
-            "text": "A monk o the Chartreux."
+            "text": "A monk o' the Chartreux."
         },
         {
             "speaker": "buckingham",
-            "text": "O, Nicholas Hopkins"
+            "text": "O, Nicholas Hopkins?"
         },
         {
             "speaker": "brandon",
@@ -241,7 +241,7 @@
         },
         {
             "speaker": "buckingham",
-            "text": "My surveyor is false the oergreat cardinal Hath showd him gold my life is spannd already: I am the shadow of poor Buckingham, Whose figure even this instant cloud puts on, By darkening my clear sun. My lord, farewell."
+            "text": "My surveyor is false; the o'er-great cardinal Hath show'd him gold; my life is spann'd already: I am the shadow of poor Buckingham, Whose figure even this instant cloud puts on, By darkening my clear sun. My lord, farewell."
         },
         {
             "text": "Exeunt"

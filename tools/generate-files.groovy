@@ -4,7 +4,7 @@ import java.nio.file.Paths
 JsonSlurper slurper = new JsonSlurper()
 def result
 
-Paths.get('shakespeare.json').withReader { reader ->
+Paths.get('shakespeare.2.json').withReader { reader ->
     result = slurper.parse(reader)
 }
 
@@ -131,17 +131,17 @@ for (def entry : result) {
     }
 }
 
-File charactersFile = new File("../src/main/resources/charactersToPlays.json")
+File charactersFile = new File("../src/data/charactersToPlays.json")
 charactersFile.write JsonOutput.prettyPrint(JsonOutput.toJson(characters))
 
 for (def playDef : plays) {
-    File playDir = new File("../src/main/resources/${playDef.playName}")
+    File playDir = new File("../src/data/${playDef.playName}")
     playDir.mkdirs()
-    File charactersToScenesFile = new File("../src/main/resources/${playDef.playName}/charactersToScenes.json")
+    File charactersToScenesFile = new File("../src/data/${playDef.playName}/charactersToScenes.json")
     charactersToScenesFile.write JsonOutput.prettyPrint(JsonOutput.toJson(playDef.characterData))
 }
 
 for (def sceneDef : scenes) {
-    File sceneFile = new File("../src/main/resources/${sceneDef.playName}/${sceneDef.sceneName}.json")
+    File sceneFile = new File("../src/data/${sceneDef.playName}/${sceneDef.sceneName}.json")
     sceneFile.write JsonOutput.prettyPrint(JsonOutput.toJson(sceneDef))
 }

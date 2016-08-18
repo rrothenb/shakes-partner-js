@@ -1,14 +1,14 @@
 {
     "sceneName": "Act 2, scene 4",
     "playName": "twelfth night",
-    "location": "DUKE ORSINOs palace.",
+    "location": "DUKE ORSINO's palace.",
     "lines": [
         {
             "text": "Enter DUKE ORSINO, VIOLA, CURIO, and others"
         },
         {
             "speaker": "duke orsino",
-            "text": "Give me some music. Now, good morrow, friends. Now, good Cesario, but that piece of song, That old and antique song we heard last night: Methought it did relieve my passion much, More than light airs and recollected terms Of these most brisk and giddypaced times: Come, but one verse."
+            "text": "Give me some music. Now, good morrow, friends. Now, good Cesario, but that piece of song, That old and antique song we heard last night: Methought it did relieve my passion much, More than light airs and recollected terms Of these most brisk and giddy-paced times: Come, but one verse."
         },
         {
             "speaker": "curio",
@@ -16,15 +16,15 @@
         },
         {
             "speaker": "duke orsino",
-            "text": "Who was it"
+            "text": "Who was it?"
         },
         {
             "speaker": "curio",
-            "text": "Feste, the jester, my lord a fool that the lady Olivias father took much delight in. He is about the house."
+            "text": "Feste, the jester, my lord; a fool that the lady Olivia's father took much delight in. He is about the house."
         },
         {
             "speaker": "duke orsino",
-            "text": "Seek him out, and play the tune the while. Come hither, boy: if ever thou shalt love, In the sweet pangs of it remember me For such as I am all true lovers are, Unstaid and skittish in all motions else, Save in the constant image of the creature That is beloved. How dost thou like this tune"
+            "text": "Seek him out, and play the tune the while. Come hither, boy: if ever thou shalt love, In the sweet pangs of it remember me; For such as I am all true lovers are, Unstaid and skittish in all motions else, Save in the constant image of the creature That is beloved. How dost thou like this tune?"
         },
         {
             "text": "Exit CURIO. Music plays"
@@ -35,7 +35,7 @@
         },
         {
             "speaker": "duke orsino",
-            "text": "Thou dost speak masterly: My life upont, young though thou art, thine eye Hath stayd upon some favour that it loves: Hath it not, boy"
+            "text": "Thou dost speak masterly: My life upon't, young though thou art, thine eye Hath stay'd upon some favour that it loves: Hath it not, boy?"
         },
         {
             "speaker": "viola",
@@ -43,7 +43,7 @@
         },
         {
             "speaker": "duke orsino",
-            "text": "What kind of woman ist"
+            "text": "What kind of woman is't?"
         },
         {
             "speaker": "viola",
@@ -51,7 +51,7 @@
         },
         {
             "speaker": "duke orsino",
-            "text": "She is not worth thee, then. What years, i faith"
+            "text": "She is not worth thee, then. What years, i' faith?"
         },
         {
             "speaker": "viola",
@@ -59,7 +59,7 @@
         },
         {
             "speaker": "duke orsino",
-            "text": "Too old by heaven: let still the woman take An elder than herself: so wears she to him, So sways she level in her husbands heart: For, boy, however we do praise ourselves, Our fancies are more giddy and unfirm, More longing, wavering, sooner lost and worn, Than womens are."
+            "text": "Too old by heaven: let still the woman take An elder than herself: so wears she to him, So sways she level in her husband's heart: For, boy, however we do praise ourselves, Our fancies are more giddy and unfirm, More longing, wavering, sooner lost and worn, Than women's are."
         },
         {
             "speaker": "viola",
@@ -67,37 +67,37 @@
         },
         {
             "speaker": "duke orsino",
-            "text": "Then let thy love be younger than thyself, Or thy affection cannot hold the bent For women are as roses, whose fair flower Being once displayd, doth fall that very hour."
+            "text": "Then let thy love be younger than thyself, Or thy affection cannot hold the bent; For women are as roses, whose fair flower Being once display'd, doth fall that very hour."
         },
         {
             "speaker": "viola",
-            "text": "And so they are: alas, that they are so To die, even when they to perfection grow!"
+            "text": "And so they are: alas, that they are so; To die, even when they to perfection grow!"
         },
         {
-            "text": "Reenter CURIO and Clown"
+            "text": "Re-enter CURIO and Clown"
         },
         {
             "speaker": "duke orsino",
-            "text": "O, fellow, come, the song we had last night. Mark it, Cesario, it is old and plain The spinsters and the knitters in the sun And the free maids that weave their thread with bones Do use to chant it: it is silly sooth, And dallies with the innocence of love, Like the old age."
+            "text": "O, fellow, come, the song we had last night. Mark it, Cesario, it is old and plain; The spinsters and the knitters in the sun And the free maids that weave their thread with bones Do use to chant it: it is silly sooth, And dallies with the innocence of love, Like the old age."
         },
         {
             "speaker": "clown",
-            "text": "Are you ready, sir"
+            "text": "Are you ready, sir?"
         },
         {
             "speaker": "duke orsino",
-            "text": "Ay prithee, sing. SONG."
+            "text": "Ay; prithee, sing. SONG."
         },
         {
             "text": "Music"
         },
         {
             "speaker": "clown",
-            "text": "Come away, come away, death, And in sad cypress let me be laid Fly away, fly away breath I am slain by a fair cruel maid. My shroud of white, stuck all with yew, O, prepare it! My part of death, no one so true Did share it. Not a flower, not a flower sweet On my black coffin let there be strown Not a friend, not a friend greet My poor corpse, where my bones shall be thrown: A thousand thousand sighs to save, Lay me, O, where Sad true lover never find my grave, To weep there!"
+            "text": "Come away, come away, death, And in sad cypress let me be laid; Fly away, fly away breath; I am slain by a fair cruel maid. My shroud of white, stuck all with yew, O, prepare it! My part of death, no one so true Did share it. Not a flower, not a flower sweet On my black coffin let there be strown; Not a friend, not a friend greet My poor corpse, where my bones shall be thrown: A thousand thousand sighs to save, Lay me, O, where Sad true lover never find my grave, To weep there!"
         },
         {
             "speaker": "duke orsino",
-            "text": "Theres for thy pains."
+            "text": "There's for thy pains."
         },
         {
             "speaker": "clown",
@@ -105,7 +105,7 @@
         },
         {
             "speaker": "duke orsino",
-            "text": "Ill pay thy pleasure then."
+            "text": "I'll pay thy pleasure then."
         },
         {
             "speaker": "clown",
@@ -117,41 +117,41 @@
         },
         {
             "speaker": "clown",
-            "text": "Now, the melancholy god protect thee and the tailor make thy doublet of changeable taffeta, for thy mind is a very opal. I would have men of such constancy put to sea, that their business might be every thing and their intent every where for thats it that always makes a good voyage of nothing. Farewell."
+            "text": "Now, the melancholy god protect thee; and the tailor make thy doublet of changeable taffeta, for thy mind is a very opal. I would have men of such constancy put to sea, that their business might be every thing and their intent every where; for that's it that always makes a good voyage of nothing. Farewell."
         },
         {
             "text": "Exit"
         },
         {
             "speaker": "duke orsino",
-            "text": "Let all the rest give place. Once more, Cesario, Get thee to yond same sovereign cruelty: Tell her, my love, more noble than the world, Prizes not quantity of dirty lands The parts that fortune hath bestowd upon her, Tell her, I hold as giddily as fortune But tis that miracle and queen of gems That nature pranks her in attracts my soul."
+            "text": "Let all the rest give place. Once more, Cesario, Get thee to yond same sovereign cruelty: Tell her, my love, more noble than the world, Prizes not quantity of dirty lands; The parts that fortune hath bestow'd upon her, Tell her, I hold as giddily as fortune; But 'tis that miracle and queen of gems That nature pranks her in attracts my soul."
         },
         {
             "text": "CURIO and Attendants retire"
         },
         {
             "speaker": "viola",
-            "text": "But if she cannot love you, sir"
+            "text": "But if she cannot love you, sir?"
         },
         {
             "speaker": "duke orsino",
-            "text": "I cannot be so answerd."
+            "text": "I cannot be so answer'd."
         },
         {
             "speaker": "viola",
-            "text": "Sooth, but you must. Say that some lady, as perhaps there is, Hath for your love a great a pang of heart As you have for Olivia: you cannot love her You tell her so must she not then be answerd"
+            "text": "Sooth, but you must. Say that some lady, as perhaps there is, Hath for your love a great a pang of heart As you have for Olivia: you cannot love her; You tell her so; must she not then be answer'd?"
         },
         {
             "speaker": "duke orsino",
-            "text": "There is no womans sides Can bide the beating of so strong a passion As love doth give my heart no womans heart So big, to hold so much they lack retention Alas, their love may be calld appetite, No motion of the liver, but the palate, That suffer surfeit, cloyment and revolt But mine is all as hungry as the sea, And can digest as much: make no compare Between that love a woman can bear me And that I owe Olivia."
+            "text": "There is no woman's sides Can bide the beating of so strong a passion As love doth give my heart; no woman's heart So big, to hold so much; they lack retention Alas, their love may be call'd appetite, No motion of the liver, but the palate, That suffer surfeit, cloyment and revolt; But mine is all as hungry as the sea, And can digest as much: make no compare Between that love a woman can bear me And that I owe Olivia."
         },
         {
             "speaker": "viola",
-            "text": "Ay, but I know"
+            "text": "Ay, but I know--"
         },
         {
             "speaker": "duke orsino",
-            "text": "What dost thou know"
+            "text": "What dost thou know?"
         },
         {
             "speaker": "viola",
@@ -159,23 +159,23 @@
         },
         {
             "speaker": "duke orsino",
-            "text": "And whats her history"
+            "text": "And what's her history?"
         },
         {
             "speaker": "viola",
-            "text": "A blank, my lord. She never told her love, But let concealment, like a worm i the bud, Feed on her damask cheek: she pined in thought, And with a green and yellow melancholy She sat like patience on a monument, Smiling at grief. Was not this love indeed We men may say more, swear more: but indeed Our shows are more than will for still we prove Much in our vows, but little in our love."
+            "text": "A blank, my lord. She never told her love, But let concealment, like a worm i' the bud, Feed on her damask cheek: she pined in thought, And with a green and yellow melancholy She sat like patience on a monument, Smiling at grief. Was not this love indeed? We men may say more, swear more: but indeed Our shows are more than will; for still we prove Much in our vows, but little in our love."
         },
         {
             "speaker": "duke orsino",
-            "text": "But died thy sister of her love, my boy"
+            "text": "But died thy sister of her love, my boy?"
         },
         {
             "speaker": "viola",
-            "text": "I am all the daughters of my fathers house, And all the brothers too: and yet I know not. Sir, shall I to this lady"
+            "text": "I am all the daughters of my father's house, And all the brothers too: and yet I know not. Sir, shall I to this lady?"
         },
         {
             "speaker": "duke orsino",
-            "text": "Ay, thats the theme. To her in haste give her this jewel say, My love can give no place, bide no denay."
+            "text": "Ay, that's the theme. To her in haste; give her this jewel; say, My love can give no place, bide no denay."
         },
         {
             "text": "Exeunt"

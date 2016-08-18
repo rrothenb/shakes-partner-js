@@ -1,14 +1,14 @@
 {
     "sceneName": "Act 1, scene 2",
     "playName": "henry the eighth",
-    "location": "The same. The councilchamber.",
+    "location": "The same. The council-chamber.",
     "lines": [
         {
-            "text": "Cornets. Enter KING HENRY VIII, leaning on  CARDINAL WOLSEYs shoulder, the Nobles, and LOVELL  CARDINAL WOLSEY places himself under KING HENRY VIIIs feet on his right side"
+            "text": "Cornets. Enter KING HENRY VIII, leaning on  CARDINAL WOLSEY's shoulder, the Nobles, and LOVELL;  CARDINAL WOLSEY places himself under KING HENRY VIII's feet on his right side"
         },
         {
             "speaker": "king henry the eighth",
-            "text": "My life itself, and the best heart of it, Thanks you for this great care: I stood i the level Of a fullcharged confederacy, and give thanks To you that choked it. Let be calld before us That gentleman of Buckinghams in person Ill hear him his confessions justify And point by point the treasons of his master He shall again relate. A noise within, crying Room for the Queen! Enter  QUEEN KATHARINE, ushered by NORFOLK, and SUFFOLK:  she kneels. KING HENRY VIII riseth from his state, takes her up, kisses and placeth her by him"
+            "text": "My life itself, and the best heart of it, Thanks you for this great care: I stood i' the level Of a full-charged confederacy, and give thanks To you that choked it. Let be call'd before us That gentleman of Buckingham's; in person I'll hear him his confessions justify; And point by point the treasons of his master He shall again relate. A noise within, crying 'Room for the Queen!' Enter  QUEEN KATHARINE, ushered by NORFOLK, and SUFFOLK:  she kneels. KING HENRY VIII riseth from his state, takes her up, kisses and placeth her by him"
         },
         {
             "speaker": "queen katharine",
@@ -16,11 +16,11 @@
         },
         {
             "speaker": "king henry the eighth",
-            "text": "Arise, and take place by us: half your suit Never name to us you have half our power: The other moiety, ere you ask, is given Repeat your will and take it."
+            "text": "Arise, and take place by us: half your suit Never name to us; you have half our power: The other moiety, ere you ask, is given; Repeat your will and take it."
         },
         {
             "speaker": "queen katharine",
-            "text": "Thank your majesty. That you would love yourself, and in that love Not unconsiderd leave your honour, nor The dignity of your office, is the point Of my petition."
+            "text": "Thank your majesty. That you would love yourself, and in that love Not unconsider'd leave your honour, nor The dignity of your office, is the point Of my petition."
         },
         {
             "speaker": "king henry the eighth",
@@ -28,31 +28,31 @@
         },
         {
             "speaker": "queen katharine",
-            "text": "I am solicited, not by a few, And those of true condition, that your subjects Are in great grievance: there have been commissions Sent down among em, which hath flawd the heart Of all their loyalties: wherein, although, My good lord cardinal, they vent reproaches Most bitterly on you, as putter on Of these exactions, yet the king our master Whose honour heaven shield from soil!even he escapes not Language unmannerly, yea, such which breaks The sides of loyalty, and almost appears In loud rebellion."
+            "text": "I am solicited, not by a few, And those of true condition, that your subjects Are in great grievance: there have been commissions Sent down among 'em, which hath flaw'd the heart Of all their loyalties: wherein, although, My good lord cardinal, they vent reproaches Most bitterly on you, as putter on Of these exactions, yet the king our master-- Whose honour heaven shield from soil!--even he escapes not Language unmannerly, yea, such which breaks The sides of loyalty, and almost appears In loud rebellion."
         },
         {
             "speaker": "norfolk",
-            "text": "Not almost appears, It doth appear for, upon these taxations, The clothiers all, not able to maintain The many to them longing, have put off The spinsters, carders, fullers, weavers, who, Unfit for other life, compelld by hunger And lack of other means, in desperate manner Daring the event to the teeth, are all in uproar, And danger serves among then!"
+            "text": "Not almost appears, It doth appear; for, upon these taxations, The clothiers all, not able to maintain The many to them longing, have put off The spinsters, carders, fullers, weavers, who, Unfit for other life, compell'd by hunger And lack of other means, in desperate manner Daring the event to the teeth, are all in uproar, And danger serves among then!"
         },
         {
             "speaker": "king henry the eighth",
-            "text": "Taxation! Wherein and what taxation My lord cardinal, You that are blamed for it alike with us, Know you of this taxation"
+            "text": "Taxation! Wherein? and what taxation? My lord cardinal, You that are blamed for it alike with us, Know you of this taxation?"
         },
         {
             "speaker": "cardinal wolsey",
-            "text": "Please you, sir, I know but of a single part, in aught Pertains to the state and front but in that file Where others tell steps with me."
+            "text": "Please you, sir, I know but of a single part, in aught Pertains to the state; and front but in that file Where others tell steps with me."
         },
         {
             "speaker": "queen katharine",
-            "text": "No, my lord, You know no more than others but you frame Things that are known alike which are not wholesome To those which would not know them, and yet must Perforce be their acquaintance. These exactions, Whereof my sovereign would have note, they are Most pestilent to the bearing and, to bear em, The back is sacrifice to the load. They say They are devised by you or else you suffer Too hard an exclamation."
+            "text": "No, my lord, You know no more than others; but you frame Things that are known alike; which are not wholesome To those which would not know them, and yet must Perforce be their acquaintance. These exactions, Whereof my sovereign would have note, they are Most pestilent to the bearing; and, to bear 'em, The back is sacrifice to the load. They say They are devised by you; or else you suffer Too hard an exclamation."
         },
         {
             "speaker": "king henry the eighth",
-            "text": "Still exaction! The nature of it in what kind, lets know, Is this exaction"
+            "text": "Still exaction! The nature of it? in what kind, let's know, Is this exaction?"
         },
         {
             "speaker": "queen katharine",
-            "text": "I am much too venturous In tempting of your patience but am boldend Under your promised pardon. The subjects grief Comes through commissions, which compel from each The sixth part of his substance, to be levied Without delay and the pretence for this Is named, your wars in France: this makes bold mouths: Tongues spit their duties out, and cold hearts freeze Allegiance in them their curses now Live where their prayers did: and its come to pass, This tractable obedience is a slave To each incensed will. I would your highness Would give it quick consideration, for There is no primer business."
+            "text": "I am much too venturous In tempting of your patience; but am bolden'd Under your promised pardon. The subjects' grief Comes through commissions, which compel from each The sixth part of his substance, to be levied Without delay; and the pretence for this Is named, your wars in France: this makes bold mouths: Tongues spit their duties out, and cold hearts freeze Allegiance in them; their curses now Live where their prayers did: and it's come to pass, This tractable obedience is a slave To each incensed will. I would your highness Would give it quick consideration, for There is no primer business."
         },
         {
             "speaker": "king henry the eighth",
@@ -60,15 +60,15 @@
         },
         {
             "speaker": "cardinal wolsey",
-            "text": "And for me, I have no further gone in this than by A single voice and that not passd me but By learned approbation of the judges. If I am Traduced by ignorant tongues, which neither know My faculties nor person, yet will be The chronicles of my doing, let me say Tis but the fate of place, and the rough brake That virtue must go through. We must not stint Our necessary actions, in the fear To cope malicious censurers which ever, As ravenous fishes, do a vessel follow That is newtrimmd, but benefit no further Than vainly longing. What we oft do best, By sick interpreters, once weak ones, is Not ours, or not allowd what worst, as oft, Hitting a grosser quality, is cried up For our best act. If we shall stand still, In fear our motion will be mockd or carpd at, We should take root here where we sit, or sit Statestatues only."
+            "text": "And for me, I have no further gone in this than by A single voice; and that not pass'd me but By learned approbation of the judges. If I am Traduced by ignorant tongues, which neither know My faculties nor person, yet will be The chronicles of my doing, let me say 'Tis but the fate of place, and the rough brake That virtue must go through. We must not stint Our necessary actions, in the fear To cope malicious censurers; which ever, As ravenous fishes, do a vessel follow That is new-trimm'd, but benefit no further Than vainly longing. What we oft do best, By sick interpreters, once weak ones, is Not ours, or not allow'd; what worst, as oft, Hitting a grosser quality, is cried up For our best act. If we shall stand still, In fear our motion will be mock'd or carp'd at, We should take root here where we sit, or sit State-statues only."
         },
         {
             "speaker": "king henry the eighth",
-            "text": "Things done well, And with a care, exempt themselves from fear Things done without example, in their issue Are to be feard. Have you a precedent Of this commission I believe, not any. We must not rend our subjects from our laws, And stick them in our will. Sixth part of each A trembling contribution! Why, we take From every tree lop, bark, and part o the timber And, though we leave it with a root, thus hackd, The air will drink the sap. To every county Where this is questiond send our letters, with Free pardon to each man that has denied The force of this commission: pray, look tot I put it to your care."
+            "text": "Things done well, And with a care, exempt themselves from fear; Things done without example, in their issue Are to be fear'd. Have you a precedent Of this commission? I believe, not any. We must not rend our subjects from our laws, And stick them in our will. Sixth part of each? A trembling contribution! Why, we take From every tree lop, bark, and part o' the timber; And, though we leave it with a root, thus hack'd, The air will drink the sap. To every county Where this is question'd send our letters, with Free pardon to each man that has denied The force of this commission: pray, look to't; I put it to your care."
         },
         {
             "speaker": "cardinal wolsey",
-            "text": "A word with you. Let there be letters writ to every shire, Of the kings grace and pardon. The grieved commons Hardly conceive of me let it be noised That through our intercession this revokement And pardon comes: I shall anon advise you Further in the proceeding."
+            "text": "A word with you. Let there be letters writ to every shire, Of the king's grace and pardon. The grieved commons Hardly conceive of me; let it be noised That through our intercession this revokement And pardon comes: I shall anon advise you Further in the proceeding."
         },
         {
             "text": "To the Secretary"
@@ -85,7 +85,7 @@
         },
         {
             "speaker": "king henry the eighth",
-            "text": "It grieves many: The gentleman is learnd, and a most rare speaker To nature none more bound his training such, That he may furnish and instruct great teachers, And never seek for aid out of himself. Yet see, When these so noble benefits shall prove Not well disposed, the mind growing once corrupt, They turn to vicious forms, ten times more ugly Than ever they were fair. This man so complete, Who was enrolld mongst wonders, and when we, Almost with ravishd listening, could not find His hour of speech a minute he, my lady, Hath into monstrous habits put the graces That once were his, and is become as black As if besmeard in hell. Sit by us you shall hear This was his gentleman in trustof him Things to strike honour sad. Bid him recount The forerecited practises whereof We cannot feel too little, hear too much."
+            "text": "It grieves many: The gentleman is learn'd, and a most rare speaker; To nature none more bound; his training such, That he may furnish and instruct great teachers, And never seek for aid out of himself. Yet see, When these so noble benefits shall prove Not well disposed, the mind growing once corrupt, They turn to vicious forms, ten times more ugly Than ever they were fair. This man so complete, Who was enroll'd 'mongst wonders, and when we, Almost with ravish'd listening, could not find His hour of speech a minute; he, my lady, Hath into monstrous habits put the graces That once were his, and is become as black As if besmear'd in hell. Sit by us; you shall hear-- This was his gentleman in trust--of him Things to strike honour sad. Bid him recount The fore-recited practises; whereof We cannot feel too little, hear too much."
         },
         {
             "speaker": "cardinal wolsey",
@@ -97,19 +97,19 @@
         },
         {
             "speaker": "surveyor",
-            "text": "First, it was usual with him, every day It would infect his speech, that if the king Should without issue die, hell carry it so To make the sceptre his: these very words Ive heard him utter to his soninlaw, Lord Abergavenny to whom by oath he menaced Revenge upon the cardinal."
+            "text": "First, it was usual with him, every day It would infect his speech, that if the king Should without issue die, he'll carry it so To make the sceptre his: these very words I've heard him utter to his son-in-law, Lord Abergavenny; to whom by oath he menaced Revenge upon the cardinal."
         },
         {
             "speaker": "cardinal wolsey",
-            "text": "Please your highness, note This dangerous conception in this point. Not friended by by his wish, to your high person His will is most malignant and it stretches Beyond you, to your friends."
+            "text": "Please your highness, note This dangerous conception in this point. Not friended by by his wish, to your high person His will is most malignant; and it stretches Beyond you, to your friends."
         },
         {
             "speaker": "queen katharine",
-            "text": "My learnd lord cardinal, Deliver all with charity."
+            "text": "My learn'd lord cardinal, Deliver all with charity."
         },
         {
             "speaker": "king henry the eighth",
-            "text": "Speak on: How grounded he his title to the crown, Upon our fail to this point hast thou heard him At any time speak aught"
+            "text": "Speak on: How grounded he his title to the crown, Upon our fail? to this point hast thou heard him At any time speak aught?"
         },
         {
             "speaker": "surveyor",
@@ -117,7 +117,7 @@
         },
         {
             "speaker": "king henry the eighth",
-            "text": "What was that Hopkins"
+            "text": "What was that Hopkins?"
         },
         {
             "speaker": "surveyor",
@@ -125,15 +125,15 @@
         },
         {
             "speaker": "king henry the eighth",
-            "text": "How knowst thou this"
+            "text": "How know'st thou this?"
         },
         {
             "speaker": "surveyor",
-            "text": "Not long before your highness sped to France, The duke being at the Rose, within the parish Saint Lawrence Poultney, did of me demand What was the speech among the Londoners Concerning the French journey: I replied, Men feard the French would prove perfidious, To the kings danger. Presently the duke Said, twas the fear, indeed and that he doubted Twould prove the verity of certain words Spoke by a holy monk that oft, says he, Hath sent to me, wishing me to permit John de la Car, my chaplain, a choice hour To hear from him a matter of some moment: Whom after under the confessions seal He solemnly had sworn, that what he spoke My chaplain to no creature living, but To me, should utter, with demure confidence This pausingly ensued: neither the king nors heirs, Tell you the duke, shall prosper: bid him strive To gain the love o the commonalty: the duke Shall govern England."
+            "text": "Not long before your highness sped to France, The duke being at the Rose, within the parish Saint Lawrence Poultney, did of me demand What was the speech among the Londoners Concerning the French journey: I replied, Men fear'd the French would prove perfidious, To the king's danger. Presently the duke Said, 'twas the fear, indeed; and that he doubted 'Twould prove the verity of certain words Spoke by a holy monk; 'that oft,' says he, 'Hath sent to me, wishing me to permit John de la Car, my chaplain, a choice hour To hear from him a matter of some moment: Whom after under the confession's seal He solemnly had sworn, that what he spoke My chaplain to no creature living, but To me, should utter, with demure confidence This pausingly ensued: neither the king nor's heirs, Tell you the duke, shall prosper: bid him strive To gain the love o' the commonalty: the duke Shall govern England.'"
         },
         {
             "speaker": "queen katharine",
-            "text": "If I know you well, You were the dukes surveyor, and lost your office On the complaint o the tenants: take good heed You charge not in your spleen a noble person And spoil your nobler soul: I say, take heed Yes, heartily beseech you."
+            "text": "If I know you well, You were the duke's surveyor, and lost your office On the complaint o' the tenants: take good heed You charge not in your spleen a noble person And spoil your nobler soul: I say, take heed; Yes, heartily beseech you."
         },
         {
             "speaker": "king henry the eighth",
@@ -141,11 +141,11 @@
         },
         {
             "speaker": "surveyor",
-            "text": "On my soul, Ill speak but truth. I told my lord the duke, by the devils illusions The monk might be deceived and that twas dangerous for him To ruminate on this so far, until It forged him some design, which, being believed, It was much like to do: he answerd, Tush, It can do me no damage adding further, That, had the king in his last sickness faild, The cardinals and Sir Thomas Lovells heads Should have gone off."
+            "text": "On my soul, I'll speak but truth. I told my lord the duke, by the devil's illusions The monk might be deceived; and that 'twas dangerous for him To ruminate on this so far, until It forged him some design, which, being believed, It was much like to do: he answer'd, 'Tush, It can do me no damage;' adding further, That, had the king in his last sickness fail'd, The cardinal's and Sir Thomas Lovell's heads Should have gone off."
         },
         {
             "speaker": "king henry the eighth",
-            "text": "Ha! what, so rank Ah ha! Theres mischief in this man: canst thou say further"
+            "text": "Ha! what, so rank? Ah ha! There's mischief in this man: canst thou say further?"
         },
         {
             "speaker": "surveyor",
@@ -157,15 +157,15 @@
         },
         {
             "speaker": "surveyor",
-            "text": "Being at Greenwich, After your highness had reproved the duke About Sir William Blomer,"
+            "text": "Being at Greenwich, After your highness had reproved the duke About Sir William Blomer,--"
         },
         {
             "speaker": "king henry the eighth",
-            "text": "I remember Of such a time: being my sworn servant, The duke retaind him his. But on what hence"
+            "text": "I remember Of such a time: being my sworn servant, The duke retain'd him his. But on; what hence?"
         },
         {
             "speaker": "surveyor",
-            "text": "If, quoth he, I for this had been committed, As, to the Tower, I thought, I would have playd The part my father meant to act upon The usurper Richard who, being at Salisbury, Made suit to come ins presence which if granted, As he made semblance of his duty, would Have put his knife to him."
+            "text": "'If,' quoth he, 'I for this had been committed, As, to the Tower, I thought, I would have play'd The part my father meant to act upon The usurper Richard; who, being at Salisbury, Made suit to come in's presence; which if granted, As he made semblance of his duty, would Have put his knife to him.'"
         },
         {
             "speaker": "king henry the eighth",
@@ -173,7 +173,7 @@
         },
         {
             "speaker": "cardinal wolsey",
-            "text": "Now, madam, may his highness live in freedom, and this man out of prison"
+            "text": "Now, madam, may his highness live in freedom, and this man out of prison?"
         },
         {
             "speaker": "queen katharine",
@@ -181,15 +181,15 @@
         },
         {
             "speaker": "king henry the eighth",
-            "text": "Theres something more would out of thee what sayst"
+            "text": "There's something more would out of thee; what say'st?"
         },
         {
             "speaker": "surveyor",
-            "text": "After the duke his father, with the knife, He stretchd him, and, with one hand on his dagger, Another spread ons breast, mounting his eyes He did discharge a horrible oath whose tenor Was,were he evil used, he would outgo His father by as much as a performance Does an irresolute purpose."
+            "text": "After 'the duke his father,' with 'the knife,' He stretch'd him, and, with one hand on his dagger, Another spread on's breast, mounting his eyes He did discharge a horrible oath; whose tenor Was,--were he evil used, he would outgo His father by as much as a performance Does an irresolute purpose."
         },
         {
             "speaker": "king henry the eighth",
-            "text": "Theres his period, To sheathe his knife in us. He is attachd Call him to present trial: if he may Find mercy in the law, tis his: if none, Let him not seek t of us: by day and night, Hes traitor to the height."
+            "text": "There's his period, To sheathe his knife in us. He is attach'd; Call him to present trial: if he may Find mercy in the law, 'tis his: if none, Let him not seek 't of us: by day and night, He's traitor to the height."
         },
         {
             "text": "Exeunt"

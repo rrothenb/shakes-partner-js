@@ -1,7 +1,7 @@
 {
     "sceneName": "Act 4, scene 2",
     "playName": "troilus and cressida",
-    "location": "The same. Court of Pandarus house.",
+    "location": "The same. Court of Pandarus' house.",
     "lines": [
         {
             "text": "Enter TROILUS and CRESSIDA"
@@ -12,11 +12,11 @@
         },
         {
             "speaker": "cressida",
-            "text": "Then, sweet my lord, Ill call mine uncle down He shall unbolt the gates."
+            "text": "Then, sweet my lord, I'll call mine uncle down; He shall unbolt the gates."
         },
         {
             "speaker": "troilus",
-            "text": "Trouble him not To bed, to bed: sleep kill those pretty eyes, And give as soft attachment to thy senses As infants empty of all thought!"
+            "text": "Trouble him not; To bed, to bed: sleep kill those pretty eyes, And give as soft attachment to thy senses As infants' empty of all thought!"
         },
         {
             "speaker": "cressida",
@@ -28,7 +28,7 @@
         },
         {
             "speaker": "cressida",
-            "text": "Are you aweary of me"
+            "text": "Are you a-weary of me?"
         },
         {
             "speaker": "troilus",
@@ -40,15 +40,15 @@
         },
         {
             "speaker": "troilus",
-            "text": "Beshrew the witch! with venomous wights she stays As tediously as hell, but flies the grasps of love With wings more momentaryswift than thought. You will catch cold, and curse me."
+            "text": "Beshrew the witch! with venomous wights she stays As tediously as hell, but flies the grasps of love With wings more momentary-swift than thought. You will catch cold, and curse me."
         },
         {
             "speaker": "cressida",
-            "text": "Prithee, tarry: You men will never tarry. O foolish Cressid! I might have still held off, And then you would have tarried. Hark! theres one up."
+            "text": "Prithee, tarry: You men will never tarry. O foolish Cressid! I might have still held off, And then you would have tarried. Hark! there's one up."
         },
         {
             "speaker": "pandarus",
-            "text": "[Within]  What, s all the doors open here"
+            "text": "[Within]  What, 's all the doors open here?"
         },
         {
             "speaker": "troilus",
@@ -63,7 +63,7 @@
         },
         {
             "speaker": "pandarus",
-            "text": "How now, how now! how go maidenheads Here, you maid! wheres my cousin Cressid"
+            "text": "How now, how now! how go maidenheads? Here, you maid! where's my cousin Cressid?"
         },
         {
             "speaker": "cressida",
@@ -71,19 +71,19 @@
         },
         {
             "speaker": "pandarus",
-            "text": "To do what to do what let her say what: what have I brought you to do"
+            "text": "To do what? to do what? let her say what: what have I brought you to do?"
         },
         {
             "speaker": "cressida",
-            "text": "Come, come, beshrew your heart! youll neer be good, Nor suffer others."
+            "text": "Come, come, beshrew your heart! you'll ne'er be good, Nor suffer others."
         },
         {
             "speaker": "pandarus",
-            "text": "Ha! ha! Alas, poor wretch! ah, poor capocchia! hast not slept tonight would he not, a naughty man, let it sleep a bugbear take him!"
+            "text": "Ha! ha! Alas, poor wretch! ah, poor capocchia! hast not slept to-night? would he not, a naughty man, let it sleep? a bugbear take him!"
         },
         {
             "speaker": "cressida",
-            "text": "Did not I tell you Would he were knockd i the head! Whos that at door good uncle, go and see. My lord, come you again into my chamber: You smile and mock me, as if I meant naughtily."
+            "text": "Did not I tell you? Would he were knock'd i' the head! Who's that at door? good uncle, go and see. My lord, come you again into my chamber: You smile and mock me, as if I meant naughtily."
         },
         {
             "text": "Knocking within"
@@ -104,7 +104,7 @@
         },
         {
             "speaker": "pandarus",
-            "text": "Whos there whats the matter will you beat down the door How now! whats the matter"
+            "text": "Who's there? what's the matter? will you beat down the door? How now! what's the matter?"
         },
         {
             "text": "Enter AENEAS"
@@ -115,42 +115,42 @@
         },
         {
             "speaker": "pandarus",
-            "text": "Whos there my Lord AEneas! By my troth, I knew you not: what news with you so early"
+            "text": "Who's there? my Lord AEneas! By my troth, I knew you not: what news with you so early?"
         },
         {
             "speaker": "aeneas",
-            "text": "Is not Prince Troilus here"
+            "text": "Is not Prince Troilus here?"
         },
         {
             "speaker": "pandarus",
-            "text": "Here! what should he do here"
+            "text": "Here! what should he do here?"
         },
         {
             "speaker": "aeneas",
-            "text": "Come, he is here, my lord do not deny him: It doth import him much to speak with me."
+            "text": "Come, he is here, my lord; do not deny him: It doth import him much to speak with me."
         },
         {
             "speaker": "pandarus",
-            "text": "Is he here, say you tis more than I know, Ill be sworn: for my own part, I came in late. What should he do here"
+            "text": "Is he here, say you? 'tis more than I know, I'll be sworn: for my own part, I came in late. What should he do here?"
         },
         {
             "speaker": "aeneas",
-            "text": "Who!nay, then: come, come, youll do him wrong ere youre ware: youll be so true to him, to be false to him: do not you know of him, but yet go fetch him hither go."
+            "text": "Who!--nay, then: come, come, you'll do him wrong ere you're ware: you'll be so true to him, to be false to him: do not you know of him, but yet go fetch him hither; go."
         },
         {
-            "text": "Reenter TROILUS"
+            "text": "Re-enter TROILUS"
         },
         {
             "speaker": "troilus",
-            "text": "How now! whats the matter"
+            "text": "How now! what's the matter?"
         },
         {
             "speaker": "aeneas",
-            "text": "My lord, I scarce have leisure to salute you, My matter is so rash: there is at hand Paris your brother, and Deiphobus, The Grecian Diomed, and our Antenor Deliverd to us and for him forthwith, Ere the first sacrifice, within this hour, We must give up to Diomedes hand The Lady Cressida."
+            "text": "My lord, I scarce have leisure to salute you, My matter is so rash: there is at hand Paris your brother, and Deiphobus, The Grecian Diomed, and our Antenor Deliver'd to us; and for him forthwith, Ere the first sacrifice, within this hour, We must give up to Diomedes' hand The Lady Cressida."
         },
         {
             "speaker": "troilus",
-            "text": "Is it so concluded"
+            "text": "Is it so concluded?"
         },
         {
             "speaker": "aeneas",
@@ -158,25 +158,25 @@
         },
         {
             "speaker": "troilus",
-            "text": "How my achievements mock me! I will go meet them: and, my Lord AEneas, We met by chance you did not find me here."
+            "text": "How my achievements mock me! I will go meet them: and, my Lord AEneas, We met by chance; you did not find me here."
         },
         {
             "speaker": "aeneas",
-            "text": "Good, good, my lord the secrets of nature Have not more gift in taciturnity."
+            "text": "Good, good, my lord; the secrets of nature Have not more gift in taciturnity."
         },
         {
             "text": "Exeunt TROILUS and AENEAS"
         },
         {
             "speaker": "pandarus",
-            "text": "Ist possible no sooner got but lost The devil take Antenor! the young prince will go mad: a plague upon Antenor! I would they had broke s neck!"
+            "text": "Is't possible? no sooner got but lost? The devil take Antenor! the young prince will go mad: a plague upon Antenor! I would they had broke 's neck!"
         },
         {
-            "text": "Reenter CRESSIDA"
+            "text": "Re-enter CRESSIDA"
         },
         {
             "speaker": "cressida",
-            "text": "How now! whats the matter who was here"
+            "text": "How now! what's the matter? who was here?"
         },
         {
             "speaker": "pandarus",
@@ -184,7 +184,7 @@
         },
         {
             "speaker": "cressida",
-            "text": "Why sigh you so profoundly wheres my lord gone! Tell me, sweet uncle, whats the matter"
+            "text": "Why sigh you so profoundly? where's my lord? gone! Tell me, sweet uncle, what's the matter?"
         },
         {
             "speaker": "pandarus",
@@ -192,19 +192,19 @@
         },
         {
             "speaker": "cressida",
-            "text": "O the gods! whats the matter"
+            "text": "O the gods! what's the matter?"
         },
         {
             "speaker": "pandarus",
-            "text": "Prithee, get thee in: would thou hadst neer been born! I knew thou wouldst be his death. O, poor gentleman! A plague upon Antenor!"
+            "text": "Prithee, get thee in: would thou hadst ne'er been born! I knew thou wouldst be his death. O, poor gentleman! A plague upon Antenor!"
         },
         {
             "speaker": "cressida",
-            "text": "Good uncle, I beseech you, on my knees! beseech you, whats the matter"
+            "text": "Good uncle, I beseech you, on my knees! beseech you, what's the matter?"
         },
         {
             "speaker": "pandarus",
-            "text": "Thou must be gone, wench, thou must be gone thou art changed for Antenor: thou must to thy father, and be gone from Troilus: twill be his death twill be his bane he cannot bear it."
+            "text": "Thou must be gone, wench, thou must be gone; thou art changed for Antenor: thou must to thy father, and be gone from Troilus: 'twill be his death; 'twill be his bane; he cannot bear it."
         },
         {
             "speaker": "cressida",
@@ -216,7 +216,7 @@
         },
         {
             "speaker": "cressida",
-            "text": "I will not, uncle: I have forgot my father I know no touch of consanguinity No kin no love, no blood, no soul so near me As the sweet Troilus. O you gods divine! Make Cressids name the very crown of falsehood, If ever she leave Troilus! Time, force, and death, Do to this body what extremes you can But the strong base and building of my love Is as the very centre of the earth, Drawing all things to it. Ill go in and weep,"
+            "text": "I will not, uncle: I have forgot my father; I know no touch of consanguinity; No kin no love, no blood, no soul so near me As the sweet Troilus. O you gods divine! Make Cressid's name the very crown of falsehood, If ever she leave Troilus! Time, force, and death, Do to this body what extremes you can; But the strong base and building of my love Is as the very centre of the earth, Drawing all things to it. I'll go in and weep,--"
         },
         {
             "speaker": "pandarus",

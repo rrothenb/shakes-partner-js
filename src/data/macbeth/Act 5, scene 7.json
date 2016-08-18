@@ -8,26 +8,26 @@
         },
         {
             "speaker": "macbeth",
-            "text": "They have tied me to a stake I cannot fly, But, bearlike, I must fight the course. Whats he That was not born of woman Such a one Am I to fear, or none."
+            "text": "They have tied me to a stake; I cannot fly, But, bear-like, I must fight the course. What's he That was not born of woman? Such a one Am I to fear, or none."
         },
         {
             "text": "Enter YOUNG SIWARD"
         },
         {
             "speaker": "young siward",
-            "text": "What is thy name"
+            "text": "What is thy name?"
         },
         {
             "speaker": "macbeth",
-            "text": "Thoult be afraid to hear it."
+            "text": "Thou'lt be afraid to hear it."
         },
         {
             "speaker": "young siward",
-            "text": "No though thou callst thyself a hotter name Than any is in hell."
+            "text": "No; though thou call'st thyself a hotter name Than any is in hell."
         },
         {
             "speaker": "macbeth",
-            "text": "My names Macbeth."
+            "text": "My name's Macbeth."
         },
         {
             "speaker": "young siward",
@@ -39,14 +39,14 @@
         },
         {
             "speaker": "young siward",
-            "text": "Thou liest, abhorred tyrant with my sword Ill prove the lie thou speakst."
+            "text": "Thou liest, abhorred tyrant; with my sword I'll prove the lie thou speak'st."
         },
         {
             "text": "They fight and YOUNG SIWARD is slain"
         },
         {
             "speaker": "macbeth",
-            "text": "Thou wast born of woman But swords I smile at, weapons laugh to scorn, Brandishd by man thats of a woman born."
+            "text": "Thou wast born of woman But swords I smile at, weapons laugh to scorn, Brandish'd by man that's of a woman born."
         },
         {
             "text": "Exit"
@@ -56,7 +56,7 @@
         },
         {
             "speaker": "macduff",
-            "text": "That way the noise is. Tyrant, show thy face! If thou best slain and with no stroke of mine, My wife and childrens ghosts will haunt me still. I cannot strike at wretched kerns, whose arms Are hired to bear their staves: either thou, Macbeth, Or else my sword with an unbatterd edge I sheathe again undeeded. There thou shouldst be By this great clatter, one of greatest note Seems bruited. Let me find him, fortune! And more I beg not."
+            "text": "That way the noise is. Tyrant, show thy face! If thou be'st slain and with no stroke of mine, My wife and children's ghosts will haunt me still. I cannot strike at wretched kerns, whose arms Are hired to bear their staves: either thou, Macbeth, Or else my sword with an unbatter'd edge I sheathe again undeeded. There thou shouldst be; By this great clatter, one of greatest note Seems bruited. Let me find him, fortune! And more I beg not."
         },
         {
             "text": "Exit. Alarums"
@@ -66,7 +66,7 @@
         },
         {
             "speaker": "siward",
-            "text": "This way, my lord the castles gently renderd: The tyrants people on both sides do fight The noble thanes do bravely in the war The day almost itself professes yours, And little is to do."
+            "text": "This way, my lord; the castle's gently render'd: The tyrant's people on both sides do fight; The noble thanes do bravely in the war; The day almost itself professes yours, And little is to do."
         },
         {
             "speaker": "malcolm",

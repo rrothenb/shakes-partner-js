@@ -1,14 +1,14 @@
 {
     "sceneName": "Act 2, scene 4",
     "playName": "measure for measure",
-    "location": "A room in ANGELOs house.",
+    "location": "A room in ANGELO's house.",
     "lines": [
         {
             "text": "Enter ANGELO"
         },
         {
             "speaker": "angelo",
-            "text": "When I would pray and think, I think and pray To several subjects. Heaven hath my empty words Whilst my invention, hearing not my tongue, Anchors on Isabel: Heaven in my mouth, As if I did but only chew his name And in my heart the strong and swelling evil Of my conception. The state, whereon I studied Is like a good thing, being often read, Grown feard and tedious yea, my gravity, Whereinlet no man hear meI take pride, Could I with boot change for an idle plume, Which the air beats for vain. O place, O form, How often dost thou with thy case, thy habit, Wrench awe from fools and tie the wiser souls To thy false seeming! Blood, thou art blood: Lets write good angel on the devils horn: Tis not the devils crest. How now! whos there"
+            "text": "When I would pray and think, I think and pray To several subjects. Heaven hath my empty words; Whilst my invention, hearing not my tongue, Anchors on Isabel: Heaven in my mouth, As if I did but only chew his name; And in my heart the strong and swelling evil Of my conception. The state, whereon I studied Is like a good thing, being often read, Grown fear'd and tedious; yea, my gravity, Wherein--let no man hear me--I take pride, Could I with boot change for an idle plume, Which the air beats for vain. O place, O form, How often dost thou with thy case, thy habit, Wrench awe from fools and tie the wiser souls To thy false seeming! Blood, thou art blood: Let's write good angel on the devil's horn: 'Tis not the devil's crest. How now! who's there?"
         },
         {
             "text": "Enter a Servant"
@@ -19,7 +19,7 @@
         },
         {
             "speaker": "angelo",
-            "text": "Teach her the way. O heavens! Why does my blood thus muster to my heart, Making both it unable for itself, And dispossessing all my other parts Of necessary fitness So play the foolish throngs with one that swoons Come all to help him, and so stop the air By which he should revive: and even so The general, subject to a wellwishd king, Quit their own part, and in obsequious fondness Crowd to his presence, where their untaught love Must needs appear offence. How now, fair maid"
+            "text": "Teach her the way. O heavens! Why does my blood thus muster to my heart, Making both it unable for itself, And dispossessing all my other parts Of necessary fitness? So play the foolish throngs with one that swoons; Come all to help him, and so stop the air By which he should revive: and even so The general, subject to a well-wish'd king, Quit their own part, and in obsequious fondness Crowd to his presence, where their untaught love Must needs appear offence. How now, fair maid?"
         },
         {
             "text": "Exit Servant"
@@ -33,7 +33,7 @@
         },
         {
             "speaker": "angelo",
-            "text": "That you might know it, would much better please me Than to demand what tis. Your brother cannot live."
+            "text": "That you might know it, would much better please me Than to demand what 'tis. Your brother cannot live."
         },
         {
             "speaker": "isabella",
@@ -41,11 +41,11 @@
         },
         {
             "speaker": "angelo",
-            "text": "Yet may he live awhile and, it may be, As long as you or I yet he must die."
+            "text": "Yet may he live awhile; and, it may be, As long as you or I yet he must die."
         },
         {
             "speaker": "isabella",
-            "text": "Under your sentence"
+            "text": "Under your sentence?"
         },
         {
             "speaker": "angelo",
@@ -53,19 +53,19 @@
         },
         {
             "speaker": "isabella",
-            "text": "When, I beseech you that in his reprieve, Longer or shorter, he may be so fitted That his soul sicken not."
+            "text": "When, I beseech you? that in his reprieve, Longer or shorter, he may be so fitted That his soul sicken not."
         },
         {
             "speaker": "angelo",
-            "text": "Ha! fie, these filthy vices! It were as good To pardon him that hath from nature stolen A man already made, as to remit Their saucy sweetness that do coin heavens image In stamps that are forbid: tis all as easy Falsely to take away a life true made As to put metal in restrained means To make a false one."
+            "text": "Ha! fie, these filthy vices! It were as good To pardon him that hath from nature stolen A man already made, as to remit Their saucy sweetness that do coin heaven's image In stamps that are forbid: 'tis all as easy Falsely to take away a life true made As to put metal in restrained means To make a false one."
         },
         {
             "speaker": "isabella",
-            "text": "Tis set down so in heaven, but not in earth."
+            "text": "'Tis set down so in heaven, but not in earth."
         },
         {
             "speaker": "angelo",
-            "text": "Say you so then I shall pose you quickly. Which had you rather, that the most just law Now took your brothers life or, to redeem him, Give up your body to such sweet uncleanness As she that he hath staind"
+            "text": "Say you so? then I shall pose you quickly. Which had you rather, that the most just law Now took your brother's life; or, to redeem him, Give up your body to such sweet uncleanness As she that he hath stain'd?"
         },
         {
             "speaker": "isabella",
@@ -73,31 +73,31 @@
         },
         {
             "speaker": "angelo",
-            "text": "I talk not of your soul: our compelld sins Stand more for number than for accompt."
+            "text": "I talk not of your soul: our compell'd sins Stand more for number than for accompt."
         },
         {
             "speaker": "isabella",
-            "text": "How say you"
+            "text": "How say you?"
         },
         {
             "speaker": "angelo",
-            "text": "Nay, Ill not warrant that for I can speak Against the thing I say. Answer to this: I, now the voice of the recorded law, Pronounce a sentence on your brothers life: Might there not be a charity in sin To save this brothers life"
+            "text": "Nay, I'll not warrant that; for I can speak Against the thing I say. Answer to this: I, now the voice of the recorded law, Pronounce a sentence on your brother's life: Might there not be a charity in sin To save this brother's life?"
         },
         {
             "speaker": "isabella",
-            "text": "Please you to dot, Ill take it as a peril to my soul, It is no sin at all, but charity."
+            "text": "Please you to do't, I'll take it as a peril to my soul, It is no sin at all, but charity."
         },
         {
             "speaker": "angelo",
-            "text": "Pleased you to dot at peril of your soul, Were equal poise of sin and charity."
+            "text": "Pleased you to do't at peril of your soul, Were equal poise of sin and charity."
         },
         {
             "speaker": "isabella",
-            "text": "That I do beg his life, if it be sin, Heaven let me bear it! you granting of my suit, If that be sin, Ill make it my morn prayer To have it added to the faults of mine, And nothing of your answer."
+            "text": "That I do beg his life, if it be sin, Heaven let me bear it! you granting of my suit, If that be sin, I'll make it my morn prayer To have it added to the faults of mine, And nothing of your answer."
         },
         {
             "speaker": "angelo",
-            "text": "Nay, but hear me. Your sense pursues not mine: either you are ignorant, Or seem so craftily and thats not good."
+            "text": "Nay, but hear me. Your sense pursues not mine: either you are ignorant, Or seem so craftily; and that's not good."
         },
         {
             "speaker": "isabella",
@@ -105,7 +105,7 @@
         },
         {
             "speaker": "angelo",
-            "text": "Thus wisdom wishes to appear most bright When it doth tax itself as these black masks Proclaim an enshield beauty ten times louder Than beauty could, displayd. But mark me To be received plain, Ill speak more gross: Your brother is to die."
+            "text": "Thus wisdom wishes to appear most bright When it doth tax itself; as these black masks Proclaim an enshield beauty ten times louder Than beauty could, display'd. But mark me; To be received plain, I'll speak more gross: Your brother is to die."
         },
         {
             "speaker": "isabella",
@@ -121,11 +121,11 @@
         },
         {
             "speaker": "angelo",
-            "text": "Admit no other way to save his life, As I subscribe not that, nor any other, But in the loss of question,that you, his sister, Finding yourself desired of such a person, Whose credit with the judge, or own great place, Could fetch your brother from the manacles Of the allbuilding law and that there were No earthly mean to save him, but that either You must lay down the treasures of your body To this supposed, or else to let him suffer What would you do"
+            "text": "Admit no other way to save his life,-- As I subscribe not that, nor any other, But in the loss of question,--that you, his sister, Finding yourself desired of such a person, Whose credit with the judge, or own great place, Could fetch your brother from the manacles Of the all-building law; and that there were No earthly mean to save him, but that either You must lay down the treasures of your body To this supposed, or else to let him suffer; What would you do?"
         },
         {
             "speaker": "isabella",
-            "text": "As much for my poor brother as myself: That is, were I under the terms of death, The impression of keen whips Ild wear as rubies, And strip myself to death, as to a bed That longing have been sick for, ere Ild yield My body up to shame."
+            "text": "As much for my poor brother as myself: That is, were I under the terms of death, The impression of keen whips I'ld wear as rubies, And strip myself to death, as to a bed That longing have been sick for, ere I'ld yield My body up to shame."
         },
         {
             "speaker": "angelo",
@@ -133,11 +133,11 @@
         },
         {
             "speaker": "isabella",
-            "text": "And twere the cheaper way: Better it were a brother died at once, Than that a sister, by redeeming him, Should die for ever."
+            "text": "And 'twere the cheaper way: Better it were a brother died at once, Than that a sister, by redeeming him, Should die for ever."
         },
         {
             "speaker": "angelo",
-            "text": "Were not you then as cruel as the sentence That you have slanderd so"
+            "text": "Were not you then as cruel as the sentence That you have slander'd so?"
         },
         {
             "speaker": "isabella",
@@ -145,11 +145,11 @@
         },
         {
             "speaker": "angelo",
-            "text": "You seemd of late to make the law a tyrant And rather proved the sliding of your brother A merriment than a vice."
+            "text": "You seem'd of late to make the law a tyrant; And rather proved the sliding of your brother A merriment than a vice."
         },
         {
             "speaker": "isabella",
-            "text": "O, pardon me, my lord it oft falls out, To have what we would have, we speak not what we mean: I something do excuse the thing I hate, For his advantage that I dearly love."
+            "text": "O, pardon me, my lord; it oft falls out, To have what we would have, we speak not what we mean: I something do excuse the thing I hate, For his advantage that I dearly love."
         },
         {
             "speaker": "angelo",
@@ -165,11 +165,11 @@
         },
         {
             "speaker": "isabella",
-            "text": "Ay, as the glasses where they view themselves Which are as easy broke as they make forms. Women! Help Heaven! men their creation mar In profiting by them. Nay, call us ten times frail For we are soft as our complexions are, And credulous to false prints."
+            "text": "Ay, as the glasses where they view themselves; Which are as easy broke as they make forms. Women! Help Heaven! men their creation mar In profiting by them. Nay, call us ten times frail; For we are soft as our complexions are, And credulous to false prints."
         },
         {
             "speaker": "angelo",
-            "text": "I think it well: And from this testimony of your own sex, Since I suppose we are made to be no stronger Than faults may shake our frames,let me be bold I do arrest your words. Be that you are, That is, a woman if you be more, youre none If you be one, as you are well expressd By all external warrants, show it now, By putting on the destined livery."
+            "text": "I think it well: And from this testimony of your own sex,-- Since I suppose we are made to be no stronger Than faults may shake our frames,--let me be bold; I do arrest your words. Be that you are, That is, a woman; if you be more, you're none; If you be one, as you are well express'd By all external warrants, show it now, By putting on the destined livery."
         },
         {
             "speaker": "isabella",
@@ -189,7 +189,7 @@
         },
         {
             "speaker": "isabella",
-            "text": "I know your virtue hath a licence int, Which seems a little fouler than it is, To pluck on others."
+            "text": "I know your virtue hath a licence in't, Which seems a little fouler than it is, To pluck on others."
         },
         {
             "speaker": "angelo",
@@ -197,18 +197,18 @@
         },
         {
             "speaker": "isabella",
-            "text": "Ha! little honour to be much believed, And most pernicious purpose! Seeming, seeming! I will proclaim thee, Angelo look fort: Sign me a present pardon for my brother, Or with an outstretchd throat Ill tell the world aloud What man thou art."
+            "text": "Ha! little honour to be much believed, And most pernicious purpose! Seeming, seeming! I will proclaim thee, Angelo; look for't: Sign me a present pardon for my brother, Or with an outstretch'd throat I'll tell the world aloud What man thou art."
         },
         {
             "speaker": "angelo",
-            "text": "Who will believe thee, Isabel My unsoild name, the austereness of my life, My vouch against you, and my place i the state, Will so your accusation overweigh, That you shall stifle in your own report And smell of calumny. I have begun, And now I give my sensual race the rein: Fit thy consent to my sharp appetite Lay by all nicety and prolixious blushes, That banish what they sue for redeem thy brother By yielding up thy body to my will Or else he must not only die the death, But thy unkindness shall his death draw out To lingering sufferance. Answer me tomorrow, Or, by the affection that now guides me most, Ill prove a tyrant to him. As for you, Say what you can, my false oerweighs your true."
+            "text": "Who will believe thee, Isabel? My unsoil'd name, the austereness of my life, My vouch against you, and my place i' the state, Will so your accusation overweigh, That you shall stifle in your own report And smell of calumny. I have begun, And now I give my sensual race the rein: Fit thy consent to my sharp appetite; Lay by all nicety and prolixious blushes, That banish what they sue for; redeem thy brother By yielding up thy body to my will; Or else he must not only die the death, But thy unkindness shall his death draw out To lingering sufferance. Answer me to-morrow, Or, by the affection that now guides me most, I'll prove a tyrant to him. As for you, Say what you can, my false o'erweighs your true."
         },
         {
             "text": "Exit"
         },
         {
             "speaker": "isabella",
-            "text": "To whom should I complain Did I tell this, Who would believe me O perilous mouths, That bear in them one and the selfsame tongue, Either of condemnation or approof Bidding the law make courtsy to their will: Hooking both right and wrong to the appetite, To follow as it draws! Ill to my brother: Though he hath fallen by prompture of the blood, Yet hath he in him such a mind of honour. That, had he twenty heads to tender down On twenty bloody blocks, held yield them up, Before his sister should her body stoop To such abhorrd pollution. Then, Isabel, live chaste, and, brother, die: More than our brother is our chastity. Ill tell him yet of Angelos request, And fit his mind to death, for his souls rest."
+            "text": "To whom should I complain? Did I tell this, Who would believe me? O perilous mouths, That bear in them one and the self-same tongue, Either of condemnation or approof; Bidding the law make court'sy to their will: Hooking both right and wrong to the appetite, To follow as it draws! I'll to my brother: Though he hath fallen by prompture of the blood, Yet hath he in him such a mind of honour. That, had he twenty heads to tender down On twenty bloody blocks, he'ld yield them up, Before his sister should her body stoop To such abhorr'd pollution. Then, Isabel, live chaste, and, brother, die: More than our brother is our chastity. I'll tell him yet of Angelo's request, And fit his mind to death, for his soul's rest."
         },
         {
             "text": "Exit"

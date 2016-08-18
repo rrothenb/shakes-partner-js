@@ -1,7 +1,7 @@
 {
     "sceneName": "Act 3, scene 5",
     "playName": "king lear",
-    "location": "Gloucesters castle.",
+    "location": "Gloucester's castle.",
     "lines": [
         {
             "text": "Enter CORNWALL and EDMUND"
@@ -16,7 +16,7 @@
         },
         {
             "speaker": "cornwall",
-            "text": "I now perceive, it was not altogether your brothers evil disposition made him seek his death but a provoking merit, set awork by a reprovable badness in himself."
+            "text": "I now perceive, it was not altogether your brother's evil disposition made him seek his death; but a provoking merit, set a-work by a reprovable badness in himself."
         },
         {
             "speaker": "edmund",
@@ -36,11 +36,11 @@
         },
         {
             "speaker": "edmund",
-            "text": "[Aside]  If I find him comforting the king, it will stuff his suspicion more fully.I will persevere in my course of loyalty, though the conflict be sore between that and my blood."
+            "text": "[Aside]  If I find him comforting the king, it will stuff his suspicion more fully.--I will persevere in my course of loyalty, though the conflict be sore between that and my blood."
         },
         {
             "speaker": "cornwall",
-            "text": "I will lay trust upon thee and thou shalt find a dearer father in my love."
+            "text": "I will lay trust upon thee; and thou shalt find a dearer father in my love."
         },
         {
             "text": "Exeunt"

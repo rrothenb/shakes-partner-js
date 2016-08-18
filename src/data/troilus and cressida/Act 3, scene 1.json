@@ -1,14 +1,14 @@
 {
     "sceneName": "Act 3, scene 1",
     "playName": "troilus and cressida",
-    "location": "Troy. Priams palace.",
+    "location": "Troy. Priam's palace.",
     "lines": [
         {
             "text": "Enter a Servant and PANDARUS"
         },
         {
             "speaker": "pandarus",
-            "text": "Friend, you! pray you, a word: do not you follow the young Lord Paris"
+            "text": "Friend, you! pray you, a word: do not you follow the young Lord Paris?"
         },
         {
             "speaker": "servant",
@@ -16,7 +16,7 @@
         },
         {
             "speaker": "pandarus",
-            "text": "You depend upon him, I mean"
+            "text": "You depend upon him, I mean?"
         },
         {
             "speaker": "servant",
@@ -24,7 +24,7 @@
         },
         {
             "speaker": "pandarus",
-            "text": "You depend upon a noble gentleman I must needs praise him."
+            "text": "You depend upon a noble gentleman; I must needs praise him."
         },
         {
             "speaker": "servant",
@@ -32,7 +32,7 @@
         },
         {
             "speaker": "pandarus",
-            "text": "You know me, do you not"
+            "text": "You know me, do you not?"
         },
         {
             "speaker": "servant",
@@ -40,7 +40,7 @@
         },
         {
             "speaker": "pandarus",
-            "text": "Friend, know me better I am the Lord Pandarus."
+            "text": "Friend, know me better; I am the Lord Pandarus."
         },
         {
             "speaker": "servant",
@@ -56,7 +56,7 @@
         },
         {
             "speaker": "pandarus",
-            "text": "Grace! not so, friend: honour and lordship are my titles. What music is this"
+            "text": "Grace! not so, friend: honour and lordship are my titles. What music is this?"
         },
         {
             "text": "Music within"
@@ -67,7 +67,7 @@
         },
         {
             "speaker": "pandarus",
-            "text": "Know you the musicians"
+            "text": "Know you the musicians?"
         },
         {
             "speaker": "servant",
@@ -75,7 +75,7 @@
         },
         {
             "speaker": "pandarus",
-            "text": "Who play they to"
+            "text": "Who play they to?"
         },
         {
             "speaker": "servant",
@@ -95,23 +95,23 @@
         },
         {
             "speaker": "servant",
-            "text": "Who shall I command, sir"
+            "text": "Who shall I command, sir?"
         },
         {
             "speaker": "pandarus",
-            "text": "Friend, we understand not one another: I am too courtly and thou art too cunning. At whose request do these men play"
+            "text": "Friend, we understand not one another: I am too courtly and thou art too cunning. At whose request do these men play?"
         },
         {
             "speaker": "servant",
-            "text": "Thats to t indeed, sir: marry, sir, at the request of Paris my lord, whos there in person with him, the mortal Venus, the heartblood of beauty, loves invisible soul,"
+            "text": "That's to 't indeed, sir: marry, sir, at the request of Paris my lord, who's there in person; with him, the mortal Venus, the heart-blood of beauty, love's invisible soul,--"
         },
         {
             "speaker": "pandarus",
-            "text": "Who, my cousin Cressida"
+            "text": "Who, my cousin Cressida?"
         },
         {
             "speaker": "servant",
-            "text": "No, sir, Helen: could you not find out that by her attributes"
+            "text": "No, sir, Helen: could you not find out that by her attributes?"
         },
         {
             "speaker": "pandarus",
@@ -119,7 +119,7 @@
         },
         {
             "speaker": "servant",
-            "text": "Sodden business! theres a stewed phrase indeed!"
+            "text": "Sodden business! there's a stewed phrase indeed!"
         },
         {
             "text": "Enter PARIS and HELEN, attended"
@@ -138,7 +138,7 @@
         },
         {
             "speaker": "paris",
-            "text": "You have broke it, cousin: and, by my life, you shall make it whole again you shall piece it out with a piece of your performance. Nell, he is full of harmony."
+            "text": "You have broke it, cousin: and, by my life, you shall make it whole again; you shall piece it out with a piece of your performance. Nell, he is full of harmony."
         },
         {
             "speaker": "pandarus",
@@ -146,11 +146,11 @@
         },
         {
             "speaker": "helen",
-            "text": "O, sir,"
+            "text": "O, sir,--"
         },
         {
             "speaker": "pandarus",
-            "text": "Rude, in sooth in good sooth, very rude."
+            "text": "Rude, in sooth; in good sooth, very rude."
         },
         {
             "speaker": "paris",
@@ -158,23 +158,23 @@
         },
         {
             "speaker": "pandarus",
-            "text": "I have business to my lord, dear queen. My lord, will you vouchsafe me a word"
+            "text": "I have business to my lord, dear queen. My lord, will you vouchsafe me a word?"
         },
         {
             "speaker": "helen",
-            "text": "Nay, this shall not hedge us out: well hear you sing, certainly."
+            "text": "Nay, this shall not hedge us out: we'll hear you sing, certainly."
         },
         {
             "speaker": "pandarus",
-            "text": "Well, sweet queen. you are pleasant with me. But, marry, thus, my lord: my dear lord and most esteemed friend, your brother Troilus,"
+            "text": "Well, sweet queen. you are pleasant with me. But, marry, thus, my lord: my dear lord and most esteemed friend, your brother Troilus,--"
         },
         {
             "speaker": "helen",
-            "text": "My Lord Pandarus honeysweet lord,"
+            "text": "My Lord Pandarus; honey-sweet lord,--"
         },
         {
             "speaker": "pandarus",
-            "text": "Go to, sweet queen, to go:commends himself most affectionately to you,"
+            "text": "Go to, sweet queen, to go:--commends himself most affectionately to you,--"
         },
         {
             "speaker": "helen",
@@ -182,7 +182,7 @@
         },
         {
             "speaker": "pandarus",
-            "text": "Sweet queen, sweet queen! thats a sweet queen, i faith."
+            "text": "Sweet queen, sweet queen! that's a sweet queen, i' faith."
         },
         {
             "speaker": "helen",
@@ -190,43 +190,43 @@
         },
         {
             "speaker": "pandarus",
-            "text": "Nay, that shall not serve your turn that shall not, in truth, la. Nay, I care not for such words no, no. And, my lord, he desires you, that if the king call for him at supper, you will make his excuse."
+            "text": "Nay, that shall not serve your turn; that shall not, in truth, la. Nay, I care not for such words; no, no. And, my lord, he desires you, that if the king call for him at supper, you will make his excuse."
         },
         {
             "speaker": "helen",
-            "text": "My Lord Pandarus,"
+            "text": "My Lord Pandarus,--"
         },
         {
             "speaker": "pandarus",
-            "text": "What says my sweet queen, my very very sweet queen"
+            "text": "What says my sweet queen, my very very sweet queen?"
         },
         {
             "speaker": "paris",
-            "text": "What exploits in hand where sups he tonight"
+            "text": "What exploit's in hand? where sups he to-night?"
         },
         {
             "speaker": "helen",
-            "text": "Nay, but, my lord,"
+            "text": "Nay, but, my lord,--"
         },
         {
             "speaker": "pandarus",
-            "text": "What says my sweet queen My cousin will fall out with you. You must not know where he sups."
+            "text": "What says my sweet queen? My cousin will fall out with you. You must not know where he sups."
         },
         {
             "speaker": "paris",
-            "text": "Ill lay my life, with my disposer Cressida."
+            "text": "I'll lay my life, with my disposer Cressida."
         },
         {
             "speaker": "pandarus",
-            "text": "No, no, no such matter you are wide: come, your disposer is sick."
+            "text": "No, no, no such matter; you are wide: come, your disposer is sick."
         },
         {
             "speaker": "paris",
-            "text": "Well, Ill make excuse."
+            "text": "Well, I'll make excuse."
         },
         {
             "speaker": "pandarus",
-            "text": "Ay, good my lord. Why should you say Cressida no, your poor disposers sick."
+            "text": "Ay, good my lord. Why should you say Cressida? no, your poor disposer's sick."
         },
         {
             "speaker": "paris",
@@ -234,7 +234,7 @@
         },
         {
             "speaker": "pandarus",
-            "text": "You spy! what do you spy Come, give me an instrument. Now, sweet queen."
+            "text": "You spy! what do you spy? Come, give me an instrument. Now, sweet queen."
         },
         {
             "speaker": "helen",
@@ -250,7 +250,7 @@
         },
         {
             "speaker": "pandarus",
-            "text": "He! no, shell none of him they two are twain."
+            "text": "He! no, she'll none of him; they two are twain."
         },
         {
             "speaker": "helen",
@@ -258,7 +258,7 @@
         },
         {
             "speaker": "pandarus",
-            "text": "Come, come, Ill hear no more of this Ill sing you a song now."
+            "text": "Come, come, I'll hear no more of this; I'll sing you a song now."
         },
         {
             "speaker": "helen",
@@ -274,7 +274,7 @@
         },
         {
             "speaker": "pandarus",
-            "text": "Love! ay, that it shall, i faith."
+            "text": "Love! ay, that it shall, i' faith."
         },
         {
             "speaker": "paris",
@@ -282,14 +282,14 @@
         },
         {
             "speaker": "pandarus",
-            "text": "In good troth, it begins so. Love, love, nothing but love, still more! For, O, loves bow Shoots buck and doe: The shaft confounds, Not that it wounds, But tickles still the sore. These lovers cry Oh! oh! they die! Yet that which seems the wound to kill, Doth turn oh! oh! to ha! ha! he! So dying love lives still: Oh! oh! a while, but ha! ha! ha! Oh! oh! groans out for ha! ha! ha! Heighho!"
+            "text": "In good troth, it begins so. Love, love, nothing but love, still more! For, O, love's bow Shoots buck and doe: The shaft confounds, Not that it wounds, But tickles still the sore. These lovers cry Oh! oh! they die! Yet that which seems the wound to kill, Doth turn oh! oh! to ha! ha! he! So dying love lives still: Oh! oh! a while, but ha! ha! ha! Oh! oh! groans out for ha! ha! ha! Heigh-ho!"
         },
         {
             "text": "Sings"
         },
         {
             "speaker": "helen",
-            "text": "In love, i faith, to the very tip of the nose."
+            "text": "In love, i' faith, to the very tip of the nose."
         },
         {
             "speaker": "paris",
@@ -297,11 +297,11 @@
         },
         {
             "speaker": "pandarus",
-            "text": "Is this the generation of love hot blood, hot thoughts, and hot deeds Why, they are vipers: is love a generation of vipers Sweet lord, whos afield today"
+            "text": "Is this the generation of love? hot blood, hot thoughts, and hot deeds? Why, they are vipers: is love a generation of vipers? Sweet lord, who's a-field to-day?"
         },
         {
             "speaker": "paris",
-            "text": "Hector, Deiphobus, Helenus, Antenor, and all the gallantry of Troy: I  would fain have armed today, but my Nell would not have it so. How chance my brother Troilus went not"
+            "text": "Hector, Deiphobus, Helenus, Antenor, and all the gallantry of Troy: I  would fain have armed to-day, but my Nell would not have it so. How chance my brother Troilus went not?"
         },
         {
             "speaker": "helen",
@@ -309,7 +309,7 @@
         },
         {
             "speaker": "pandarus",
-            "text": "Not I, honeysweet queen. I long to hear how they sped today. Youll remember your brothers excuse"
+            "text": "Not I, honey-sweet queen. I long to hear how they sped to-day. You'll remember your brother's excuse?"
         },
         {
             "speaker": "paris",
@@ -335,11 +335,11 @@
         },
         {
             "speaker": "paris",
-            "text": "Theyre come from field: let us to Priams hall, To greet the warriors. Sweet Helen, I must woo you To help unarm our Hector: his stubborn buckles, With these your white enchanting fingers touchd, Shall more obey than to the edge of steel Or force of Greekish sinews you shall do more Than all the island kings,disarm great Hector."
+            "text": "They're come from field: let us to Priam's hall, To greet the warriors. Sweet Helen, I must woo you To help unarm our Hector: his stubborn buckles, With these your white enchanting fingers touch'd, Shall more obey than to the edge of steel Or force of Greekish sinews; you shall do more Than all the island kings,--disarm great Hector."
         },
         {
             "speaker": "helen",
-            "text": "Twill make us proud to be his servant, Paris Yea, what he shall receive of us in duty Gives us more palm in beauty than we have, Yea, overshines ourself."
+            "text": "'Twill make us proud to be his servant, Paris; Yea, what he shall receive of us in duty Gives us more palm in beauty than we have, Yea, overshines ourself."
         },
         {
             "speaker": "paris",

@@ -1,0 +1,4 @@
+cd src
+zip -r ../shakes-partner-js.zip *
+cd ..
+zip -r shakes-partner-js.zip node_modules/fast-levenshtein node_modules/double-metaphone

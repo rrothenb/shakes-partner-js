@@ -1,18 +1,18 @@
 {
     "sceneName": "Act 1, scene 2",
     "playName": "timon of athens",
-    "location": "A banquetingroom in Timons house.",
+    "location": "A banqueting-room in Timon's house.",
     "lines": [
         {
-            "text": "Hautboys playing loud music. A great banquet  served in FLAVIUS and others attending then enter  TIMON, ALCIBIADES, Lords, Senators, and VENTIDIUS.  Then comes, dropping, after all, APEMANTUS, discontentedly, like himself"
+            "text": "Hautboys playing loud music. A great banquet  served in; FLAVIUS and others attending; then enter  TIMON, ALCIBIADES, Lords, Senators, and VENTIDIUS.  Then comes, dropping, after all, APEMANTUS, discontentedly, like himself"
         },
         {
             "speaker": "ventidius",
-            "text": "Most honourd Timon, It hath pleased the gods to remember my fathers age, And call him to long peace. He is gone happy, and has left me rich: Then, as in grateful virtue I am bound To your free heart, I do return those talents, Doubled with thanks and service, from whose help I derived liberty."
+            "text": "Most honour'd Timon, It hath pleased the gods to remember my father's age, And call him to long peace. He is gone happy, and has left me rich: Then, as in grateful virtue I am bound To your free heart, I do return those talents, Doubled with thanks and service, from whose help I derived liberty."
         },
         {
             "speaker": "timon",
-            "text": "O, by no means, Honest Ventidius you mistake my love: I gave it freely ever and theres none Can truly say he gives, if he receives: If our betters play at that game, we must not dare To imitate them faults that are rich are fair."
+            "text": "O, by no means, Honest Ventidius; you mistake my love: I gave it freely ever; and there's none Can truly say he gives, if he receives: If our betters play at that game, we must not dare To imitate them; faults that are rich are fair."
         },
         {
             "speaker": "ventidius",
@@ -20,7 +20,7 @@
         },
         {
             "speaker": "timon",
-            "text": "Nay, my lords, Ceremony was but devised at first To set a gloss on faint deeds, hollow welcomes, Recanting goodness, sorry ere tis shown But where there is true friendship, there needs none. Pray, sit more welcome are ye to my fortunes Than my fortunes to me."
+            "text": "Nay, my lords, Ceremony was but devised at first To set a gloss on faint deeds, hollow welcomes, Recanting goodness, sorry ere 'tis shown; But where there is true friendship, there needs none. Pray, sit; more welcome are ye to my fortunes Than my fortunes to me."
         },
         {
             "text": "They all stand ceremoniously looking on TIMON"
@@ -30,11 +30,11 @@
         },
         {
             "speaker": "first lord",
-            "text": "My lord, we always have confessd it."
+            "text": "My lord, we always have confess'd it."
         },
         {
             "speaker": "apemantus",
-            "text": "Ho, ho, confessd it! hangd it, have you not"
+            "text": "Ho, ho, confess'd it! hang'd it, have you not?"
         },
         {
             "speaker": "timon",
@@ -42,27 +42,27 @@
         },
         {
             "speaker": "apemantus",
-            "text": "No You shall not make me welcome: I come to have thee thrust me out of doors."
+            "text": "No; You shall not make me welcome: I come to have thee thrust me out of doors."
         },
         {
             "speaker": "timon",
-            "text": "Fie, thourt a churl yeve got a humour there Does not become a man: tis much to blame. They say, my lords, ira furor brevis est but yond man is ever angry. Go, let him have a table by himself, for he does neither affect company, nor is he fit fort, indeed."
+            "text": "Fie, thou'rt a churl; ye've got a humour there Does not become a man: 'tis much to blame. They say, my lords, 'ira furor brevis est;' but yond man is ever angry. Go, let him have a table by himself, for he does neither affect company, nor is he fit for't, indeed."
         },
         {
             "speaker": "apemantus",
-            "text": "Let me stay at thine apperil, Timon: I come to observe I give thee warning ont."
+            "text": "Let me stay at thine apperil, Timon: I come to observe; I give thee warning on't."
         },
         {
             "speaker": "timon",
-            "text": "I take no heed of thee thourt an Athenian, therefore welcome: I myself would have no power prithee, let my meat make thee silent."
+            "text": "I take no heed of thee; thou'rt an Athenian, therefore welcome: I myself would have no power; prithee, let my meat make thee silent."
         },
         {
             "speaker": "apemantus",
-            "text": "I scorn thy meat twould choke me, for I should neer flatter thee. O you gods, what a number of men eat Timon, and he sees em not! It grieves me to see so many dip their meat in one mans blood and all the madness is, he cheers them up too. I wonder men dare trust themselves with men: Methinks they should invite them without knives Good for their meat, and safer for their lives. Theres much example fort the fellow that sits next him now, parts bread with him, pledges the breath of him in a divided draught, is the readiest man to kill him: t has been proved. If I were a huge man, I should fear to drink at meals Lest they should spy my windpipes dangerous notes: Great men should drink with harness on their throats."
+            "text": "I scorn thy meat; 'twould choke me, for I should ne'er flatter thee. O you gods, what a number of men eat Timon, and he sees 'em not! It grieves me to see so many dip their meat in one man's blood; and all the madness is, he cheers them up too. I wonder men dare trust themselves with men: Methinks they should invite them without knives; Good for their meat, and safer for their lives. There's much example for't; the fellow that sits next him now, parts bread with him, pledges the breath of him in a divided draught, is the readiest man to kill him: 't has been proved. If I were a huge man, I should fear to drink at meals; Lest they should spy my windpipe's dangerous notes: Great men should drink with harness on their throats."
         },
         {
             "speaker": "timon",
-            "text": "My lord, in heart and let the health go round."
+            "text": "My lord, in heart; and let the health go round."
         },
         {
             "speaker": "second lord",
@@ -70,14 +70,14 @@
         },
         {
             "speaker": "apemantus",
-            "text": "Flow this way! A brave fellow! he keeps his tides well. Those healths will make thee and thy state look ill, Timon. Heres that which is too weak to be a sinner, honest water, which neer left man i the mire: This and my food are equals theres no odds: Feasts are too proud to give thanks to the gods. Apemantus grace. Immortal gods, I crave no pelf I pray for no man but myself: Grant I may never prove so fond, To trust man on his oath or bond Or a harlot, for her weeping Or a dog, that seems asleeping: Or a keeper with my freedom Or my friends, if I should need em. Amen. So fall tot: Rich men sin, and I eat root. Much good dich thy good heart, Apemantus!"
+            "text": "Flow this way! A brave fellow! he keeps his tides well. Those healths will make thee and thy state look ill, Timon. Here's that which is too weak to be a sinner, honest water, which ne'er left man i' the mire: This and my food are equals; there's no odds: Feasts are too proud to give thanks to the gods. Apemantus' grace. Immortal gods, I crave no pelf; I pray for no man but myself: Grant I may never prove so fond, To trust man on his oath or bond; Or a harlot, for her weeping; Or a dog, that seems a-sleeping: Or a keeper with my freedom; Or my friends, if I should need 'em. Amen. So fall to't: Rich men sin, and I eat root. Much good dich thy good heart, Apemantus!"
         },
         {
             "text": "Eats and drinks"
         },
         {
             "speaker": "timon",
-            "text": "Captain Alcibiades, your hearts in the field now."
+            "text": "Captain Alcibiades, your heart's in the field now."
         },
         {
             "speaker": "alcibiades",
@@ -89,11 +89,11 @@
         },
         {
             "speaker": "alcibiades",
-            "text": "So the were bleedingnew, my lord, theres no meat like em: I could wish my best friend at such a feast."
+            "text": "So the were bleeding-new, my lord, there's no meat like 'em: I could wish my best friend at such a feast."
         },
         {
             "speaker": "apemantus",
-            "text": "Would all those fatterers were thine enemies then, that then thou mightst kill em and bid me to em!"
+            "text": "Would all those fatterers were thine enemies then, that then thou mightst kill 'em and bid me to 'em!"
         },
         {
             "speaker": "first lord",
@@ -101,7 +101,7 @@
         },
         {
             "speaker": "timon",
-            "text": "O, no doubt, my good friends, but the gods themselves have provided that I shall have much help from you: how had you been my friends else why have you that charitable title from thousands, did not you chiefly belong to my heart I have told more of you to myself than you can with modesty speak in your own behalf and thus far I confirm you. O you gods, think I, what need we have any friends, if we should neer have need of em they were the most needless creatures living, should we neer have use for em, and would most resemble sweet instruments hung up in cases that keep their sounds to themselves. Why, I have often wished myself poorer, that I might come nearer to you. We are born to do benefits: and what better or properer can we can our own than the riches of our friends O, what a precious comfort tis, to have so many, like brothers, commanding one anothers fortunes! O joy, een made away ere t can be born! Mine eyes cannot hold out water, methinks: to forget their faults, I drink to you."
+            "text": "O, no doubt, my good friends, but the gods themselves have provided that I shall have much help from you: how had you been my friends else? why have you that charitable title from thousands, did not you chiefly belong to my heart? I have told more of you to myself than you can with modesty speak in your own behalf; and thus far I confirm you. O you gods, think I, what need we have any friends, if we should ne'er have need of 'em? they were the most needless creatures living, should we ne'er have use for 'em, and would most resemble sweet instruments hung up in cases that keep their sounds to themselves. Why, I have often wished myself poorer, that I might come nearer to you. We are born to do benefits: and what better or properer can we can our own than the riches of our friends? O, what a precious comfort 'tis, to have so many, like brothers, commanding one another's fortunes! O joy, e'en made away ere 't can be born! Mine eyes cannot hold out water, methinks: to forget their faults, I drink to you."
         },
         {
             "speaker": "apemantus",
@@ -128,7 +128,7 @@
         },
         {
             "speaker": "timon",
-            "text": "What means that trump How now"
+            "text": "What means that trump? How now?"
         },
         {
             "text": "Enter a Servant"
@@ -139,7 +139,7 @@
         },
         {
             "speaker": "timon",
-            "text": "Ladies! what are their wills"
+            "text": "Ladies! what are their wills?"
         },
         {
             "speaker": "servant",
@@ -154,29 +154,29 @@
         },
         {
             "speaker": "cupid",
-            "text": "Hail to thee, worthy Timon, and to all That of his bounties taste! The five best senses Acknowledge thee their patron and come freely To gratulate thy plenteous bosom: th ear, Taste, touch and smell, pleased from thy tale rise They only now come but to feast thine eyes."
+            "text": "Hail to thee, worthy Timon, and to all That of his bounties taste! The five best senses Acknowledge thee their patron; and come freely To gratulate thy plenteous bosom: th' ear, Taste, touch and smell, pleased from thy tale rise; They only now come but to feast thine eyes."
         },
         {
             "speaker": "timon",
-            "text": "Theyre welcome all let em have kind admittance: Music, make their welcome!"
+            "text": "They're welcome all; let 'em have kind admittance: Music, make their welcome!"
         },
         {
             "text": "Exit Cupid"
         },
         {
             "speaker": "first lord",
-            "text": "You see, my lord, how ample youre beloved."
+            "text": "You see, my lord, how ample you're beloved."
         },
         {
-            "text": "Music. Reenter Cupid with a mask of Ladies  as Amazons, with lutes in their hands, dancing and playing"
+            "text": "Music. Re-enter Cupid with a mask of Ladies  as Amazons, with lutes in their hands, dancing and playing"
         },
         {
             "speaker": "apemantus",
-            "text": "Hoyday, what a sweep of vanity comes this way! They dance! they are mad women. Like madness is the glory of this life. As this pomp shows to a little oil and root. We make ourselves fools, to disport ourselves And spend our flatteries, to drink those men Upon whose age we void it up again, With poisonous spite and envy. Who lives thats not depraved or depraves Who dies, that bears not one spurn to their graves Of their friends gift I should fear those that dance before me now Would one day stamp upon me: t has been done Men shut their doors against a setting sun. The Lords rise from table, with much adoring of  TIMON and to show their loves, each singles out an  Amazon, and all dance, men with women, a lofty strain or two to the hautboys, and cease"
+            "text": "Hoy-day, what a sweep of vanity comes this way! They dance! they are mad women. Like madness is the glory of this life. As this pomp shows to a little oil and root. We make ourselves fools, to disport ourselves; And spend our flatteries, to drink those men Upon whose age we void it up again, With poisonous spite and envy. Who lives that's not depraved or depraves? Who dies, that bears not one spurn to their graves Of their friends' gift? I should fear those that dance before me now Would one day stamp upon me: 't has been done; Men shut their doors against a setting sun. The Lords rise from table, with much adoring of  TIMON; and to show their loves, each singles out an  Amazon, and all dance, men with women, a lofty strain or two to the hautboys, and cease"
         },
         {
             "speaker": "timon",
-            "text": "You have done our pleasures much grace, fair ladies, Set a fair fashion on our entertainment, Which was not half so beautiful and kind You have added worth unto t and lustre, And entertaind me with mine own device I am to thank you for t."
+            "text": "You have done our pleasures much grace, fair ladies, Set a fair fashion on our entertainment, Which was not half so beautiful and kind; You have added worth unto 't and lustre, And entertain'd me with mine own device; I am to thank you for 't."
         },
         {
             "speaker": "first lady",
@@ -184,7 +184,7 @@
         },
         {
             "speaker": "apemantus",
-            "text": "Faith, for the worst is filthy and would not hold taking, I doubt me."
+            "text": "'Faith, for the worst is filthy; and would not hold taking, I doubt me."
         },
         {
             "speaker": "timon",
@@ -203,7 +203,7 @@
         },
         {
             "speaker": "flavius",
-            "text": "My lord"
+            "text": "My lord?"
         },
         {
             "speaker": "timon",
@@ -211,7 +211,7 @@
         },
         {
             "speaker": "flavius",
-            "text": "Yes, my lord. More jewels yet! There is no crossing him in s humour Else I should tell him,well, i faith I should, When alls spent, he ld be crossd then, an he could. Tis pity bounty had not eyes behind, That man might neer be wretched for his mind."
+            "text": "Yes, my lord. More jewels yet! There is no crossing him in 's humour; Else I should tell him,--well, i' faith I should, When all's spent, he 'ld be cross'd then, an he could. 'Tis pity bounty had not eyes behind, That man might ne'er be wretched for his mind."
         },
         {
             "text": "Aside"
@@ -221,7 +221,7 @@
         },
         {
             "speaker": "first lord",
-            "text": "Where be our men"
+            "text": "Where be our men?"
         },
         {
             "speaker": "servant",
@@ -232,15 +232,15 @@
             "text": "Our horses!"
         },
         {
-            "text": "Reenter FLAVIUS, with the casket"
+            "text": "Re-enter FLAVIUS, with the casket"
         },
         {
             "speaker": "timon",
-            "text": "O my friends, I have one word to say to you: look you, my good lord, I must entreat you, honour me so much As to advance this jewel accept it and wear it, Kind my lord."
+            "text": "O my friends, I have one word to say to you: look you, my good lord, I must entreat you, honour me so much As to advance this jewel; accept it and wear it, Kind my lord."
         },
         {
             "speaker": "first lord",
-            "text": "I am so far already in your gifts,"
+            "text": "I am so far already in your gifts,--"
         },
         {
             "speaker": "all",
@@ -259,11 +259,11 @@
         },
         {
             "speaker": "flavius",
-            "text": "I beseech your honour, Vouchsafe me a word it does concern you near."
+            "text": "I beseech your honour, Vouchsafe me a word; it does concern you near."
         },
         {
             "speaker": "timon",
-            "text": "Near! why then, another time Ill hear thee: I prithee, lets be provided to show them entertainment."
+            "text": "Near! why then, another time I'll hear thee: I prithee, let's be provided to show them entertainment."
         },
         {
             "speaker": "flavius",
@@ -274,26 +274,26 @@
         },
         {
             "speaker": "second servant",
-            "text": "May it please your honour, Lord Lucius, Out of his free love, hath presented to you Four milkwhite horses, trappd in silver."
+            "text": "May it please your honour, Lord Lucius, Out of his free love, hath presented to you Four milk-white horses, trapp'd in silver."
         },
         {
             "speaker": "timon",
-            "text": "I shall accept them fairly let the presents Be worthily entertaind. How now! what news"
+            "text": "I shall accept them fairly; let the presents Be worthily entertain'd. How now! what news?"
         },
         {
             "text": "Enter a third Servant"
         },
         {
             "speaker": "third servant",
-            "text": "Please you, my lord, that honourable gentleman, Lord Lucullus, entreats your company tomorrow to hunt with him, and has sent your honour two brace of greyhounds."
+            "text": "Please you, my lord, that honourable gentleman, Lord Lucullus, entreats your company to-morrow to hunt with him, and has sent your honour two brace of greyhounds."
         },
         {
             "speaker": "timon",
-            "text": "Ill hunt with him and let them be received, Not without fair reward."
+            "text": "I'll hunt with him; and let them be received, Not without fair reward."
         },
         {
             "speaker": "flavius",
-            "text": "[Aside]                What will this come to He commands us to provide, and give great gifts, And all out of an empty coffer: Nor will he know his purse, or yield me this, To show him what a beggar his heart is, Being of no power to make his wishes good: His promises fly so beyond his state That what he speaks is all in debt he owes For every word: he is so kind that he now Pays interest for t his lands put to their books. Well, would I were gently put out of office Before I were forced out! Happier is he that has no friend to feed Than such that do een enemies exceed. I bleed inwardly for my lord."
+            "text": "[Aside]                What will this come to? He commands us to provide, and give great gifts, And all out of an empty coffer: Nor will he know his purse, or yield me this, To show him what a beggar his heart is, Being of no power to make his wishes good: His promises fly so beyond his state That what he speaks is all in debt; he owes For every word: he is so kind that he now Pays interest for 't; his land's put to their books. Well, would I were gently put out of office Before I were forced out! Happier is he that has no friend to feed Than such that do e'en enemies exceed. I bleed inwardly for my lord."
         },
         {
             "text": "Exit"
@@ -308,7 +308,7 @@
         },
         {
             "speaker": "third lord",
-            "text": "O, hes the very soul of bounty!"
+            "text": "O, he's the very soul of bounty!"
         },
         {
             "speaker": "timon",
@@ -320,7 +320,7 @@
         },
         {
             "speaker": "timon",
-            "text": "You may take my word, my lord I know, no man Can justly praise but what he does affect: I weigh my friends affection with mine own Ill tell you true. Ill call to you."
+            "text": "You may take my word, my lord; I know, no man Can justly praise but what he does affect: I weigh my friend's affection with mine own; I'll tell you true. I'll call to you."
         },
         {
             "speaker": "all lords",
@@ -328,7 +328,7 @@
         },
         {
             "speaker": "timon",
-            "text": "I take all and your several visitations So kind to heart, tis not enough to give Methinks, I could deal kingdoms to my friends, And neer be weary. Alcibiades, Thou art a soldier, therefore seldom rich It comes in charity to thee: for all thy living Is mongst the dead, and all the lands thou hast Lie in a pitchd field."
+            "text": "I take all and your several visitations So kind to heart, 'tis not enough to give; Methinks, I could deal kingdoms to my friends, And ne'er be weary. Alcibiades, Thou art a soldier, therefore seldom rich; It comes in charity to thee: for all thy living Is 'mongst the dead, and all the lands thou hast Lie in a pitch'd field."
         },
         {
             "speaker": "alcibiades",
@@ -336,7 +336,7 @@
         },
         {
             "speaker": "first lord",
-            "text": "We are so virtuously bound"
+            "text": "We are so virtuously bound--"
         },
         {
             "speaker": "timon",
@@ -344,7 +344,7 @@
         },
         {
             "speaker": "second lord",
-            "text": "So infinitely endeard"
+            "text": "So infinitely endear'd--"
         },
         {
             "speaker": "timon",
@@ -363,7 +363,7 @@
         },
         {
             "speaker": "apemantus",
-            "text": "What a coils here! Serving of becks and juttingout of bums! I doubt whether their legs be worth the sums That are given for em. Friendships full of dregs: Methinks, false hearts should never have sound legs, Thus honest fools lay out their wealth on courtsies."
+            "text": "What a coil's here! Serving of becks and jutting-out of bums! I doubt whether their legs be worth the sums That are given for 'em. Friendship's full of dregs: Methinks, false hearts should never have sound legs, Thus honest fools lay out their wealth on court'sies."
         },
         {
             "speaker": "timon",
@@ -371,18 +371,18 @@
         },
         {
             "speaker": "apemantus",
-            "text": "No, Ill nothing: for if I should be bribed too, there would be none left to rail upon thee, and then thou wouldst sin the faster. Thou givest so long, Timon, I fear me thou wilt give away thyself in paper shortly: what need these feasts, pomps and vainglories"
+            "text": "No, I'll nothing: for if I should be bribed too, there would be none left to rail upon thee, and then thou wouldst sin the faster. Thou givest so long, Timon, I fear me thou wilt give away thyself in paper shortly: what need these feasts, pomps and vain-glories?"
         },
         {
             "speaker": "timon",
-            "text": "Nay, an you begin to rail on society once, I am sworn not to give regard to you. Farewell and come with better music."
+            "text": "Nay, an you begin to rail on society once, I am sworn not to give regard to you. Farewell; and come with better music."
         },
         {
             "text": "Exit"
         },
         {
             "speaker": "apemantus",
-            "text": "So: Thou wilt not hear me now thou shalt not then: Ill lock thy heaven from thee. O, that mens ears should be To counsel deaf, but not to flattery!"
+            "text": "So: Thou wilt not hear me now; thou shalt not then: I'll lock thy heaven from thee. O, that men's ears should be To counsel deaf, but not to flattery!"
         },
         {
             "text": "Exit"

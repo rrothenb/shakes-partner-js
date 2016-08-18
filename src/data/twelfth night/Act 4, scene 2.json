@@ -1,21 +1,21 @@
 {
     "sceneName": "Act 4, scene 2",
     "playName": "twelfth night",
-    "location": "OLIVIAs house.",
+    "location": "OLIVIA's house.",
     "lines": [
         {
             "text": "Enter MARIA and Clown"
         },
         {
             "speaker": "maria",
-            "text": "Nay, I prithee, put on this gown and this beard make him believe thou art Sir Topas the curate: do it quickly Ill call Sir Toby the whilst."
+            "text": "Nay, I prithee, put on this gown and this beard; make him believe thou art Sir Topas the curate: do it quickly; I'll call Sir Toby the whilst."
         },
         {
             "text": "Exit"
         },
         {
             "speaker": "clown",
-            "text": "Well, Ill put it on, and I will dissemble myself int and I would I were the first that ever dissembled in such a gown. I am not tall enough to become the function well, nor lean enough to be thought a good student but to be said an honest man and a good housekeeper goes as fairly as to say a careful man and a great scholar. The competitors enter."
+            "text": "Well, I'll put it on, and I will dissemble myself in't; and I would I were the first that ever dissembled in such a gown. I am not tall enough to become the function well, nor lean enough to be thought a good student; but to be said an honest man and a good housekeeper goes as fairly as to say a careful man and a great scholar. The competitors enter."
         },
         {
             "text": "Enter SIR TOBY BELCH and MARIA"
@@ -26,7 +26,7 @@
         },
         {
             "speaker": "clown",
-            "text": "Bonos dies, Sir Toby: for, as the old hermit of Prague, that never saw pen and ink, very wittily said to a niece of King Gorboduc, That that is is so I, being Master Parson, am Master Parson for, what is that but that, and is but is"
+            "text": "Bonos dies, Sir Toby: for, as the old hermit of Prague, that never saw pen and ink, very wittily said to a niece of King Gorboduc, 'That that is is;' so I, being Master Parson, am Master Parson; for, what is 'that' but 'that,' and 'is' but 'is'?"
         },
         {
             "speaker": "sir toby belch",
@@ -38,11 +38,11 @@
         },
         {
             "speaker": "sir toby belch",
-            "text": "The knave counterfeits well a good knave."
+            "text": "The knave counterfeits well; a good knave."
         },
         {
             "speaker": "malvolio",
-            "text": "[Within]  Who calls there"
+            "text": "[Within]  Who calls there?"
         },
         {
             "speaker": "clown",
@@ -54,7 +54,7 @@
         },
         {
             "speaker": "clown",
-            "text": "Out, hyperbolical fiend! how vexest thou this man! talkest thou nothing but of ladies"
+            "text": "Out, hyperbolical fiend! how vexest thou this man! talkest thou nothing but of ladies?"
         },
         {
             "speaker": "sir toby belch",
@@ -66,7 +66,7 @@
         },
         {
             "speaker": "clown",
-            "text": "Fie, thou dishonest Satan! I call thee by the most modest terms for I am one of those gentle ones that will use the devil himself with courtesy: sayest thou that house is dark"
+            "text": "Fie, thou dishonest Satan! I call thee by the most modest terms; for I am one of those gentle ones that will use the devil himself with courtesy: sayest thou that house is dark?"
         },
         {
             "speaker": "malvolio",
@@ -74,7 +74,7 @@
         },
         {
             "speaker": "clown",
-            "text": "Why it hath bay windows transparent as barricadoes, and the clearstores toward the south north are as lustrous as ebony and yet complainest thou of obstruction"
+            "text": "Why it hath bay windows transparent as barricadoes, and the clearstores toward the south north are as lustrous as ebony; and yet complainest thou of obstruction?"
         },
         {
             "speaker": "malvolio",
@@ -82,15 +82,15 @@
         },
         {
             "speaker": "clown",
-            "text": "Madman, thou errest: I say, there is no darkness but ignorance in which thou art more puzzled than the Egyptians in their fog."
+            "text": "Madman, thou errest: I say, there is no darkness but ignorance; in which thou art more puzzled than the Egyptians in their fog."
         },
         {
             "speaker": "malvolio",
-            "text": "I say, this house is as dark as ignorance, though ignorance were as dark as hell and I say, there was never man thus abused. I am no more mad than you are: make the trial of it in any constant question."
+            "text": "I say, this house is as dark as ignorance, though ignorance were as dark as hell; and I say, there was never man thus abused. I am no more mad than you are: make the trial of it in any constant question."
         },
         {
             "speaker": "clown",
-            "text": "What is the opinion of Pythagoras concerning wild fowl"
+            "text": "What is the opinion of Pythagoras concerning wild fowl?"
         },
         {
             "speaker": "malvolio",
@@ -98,7 +98,7 @@
         },
         {
             "speaker": "clown",
-            "text": "What thinkest thou of his opinion"
+            "text": "What thinkest thou of his opinion?"
         },
         {
             "speaker": "malvolio",
@@ -133,7 +133,7 @@
         },
         {
             "speaker": "clown",
-            "text": "[Singing] Hey, Robin, jolly Robin, Tell me how thy lady does."
+            "text": "[Singing] 'Hey, Robin, jolly Robin, Tell me how thy lady does.'"
         },
         {
             "speaker": "malvolio",
@@ -141,7 +141,7 @@
         },
         {
             "speaker": "clown",
-            "text": "My lady is unkind, perdy."
+            "text": "'My lady is unkind, perdy.'"
         },
         {
             "speaker": "malvolio",
@@ -149,7 +149,7 @@
         },
         {
             "speaker": "clown",
-            "text": "Alas, why is she so"
+            "text": "'Alas, why is she so?'"
         },
         {
             "speaker": "malvolio",
@@ -157,15 +157,15 @@
         },
         {
             "speaker": "clown",
-            "text": "She loves anotherWho calls, ha"
+            "text": "'She loves another'--Who calls, ha?"
         },
         {
             "speaker": "malvolio",
-            "text": "Good fool, as ever thou wilt deserve well at my hand, help me to a candle, and pen, ink and paper: as I am a gentleman, I will live to be thankful to thee fort."
+            "text": "Good fool, as ever thou wilt deserve well at my hand, help me to a candle, and pen, ink and paper: as I am a gentleman, I will live to be thankful to thee for't."
         },
         {
             "speaker": "clown",
-            "text": "Master Malvolio"
+            "text": "Master Malvolio?"
         },
         {
             "speaker": "malvolio",
@@ -173,7 +173,7 @@
         },
         {
             "speaker": "clown",
-            "text": "Alas, sir, how fell you besides your five wits"
+            "text": "Alas, sir, how fell you besides your five wits?"
         },
         {
             "speaker": "malvolio",
@@ -181,15 +181,15 @@
         },
         {
             "speaker": "clown",
-            "text": "But as well then you are mad indeed, if you be no better in your wits than a fool."
+            "text": "But as well? then you are mad indeed, if you be no better in your wits than a fool."
         },
         {
             "speaker": "malvolio",
-            "text": "They have here propertied me keep me in darkness, send ministers to me, asses, and do all they can to face me out of my wits."
+            "text": "They have here propertied me; keep me in darkness, send ministers to me, asses, and do all they can to face me out of my wits."
         },
         {
             "speaker": "clown",
-            "text": "Advise you what you say the minister is here. Malvolio, Malvolio, thy wits the heavens restore! endeavour thyself to sleep, and leave thy vain bibble babble."
+            "text": "Advise you what you say; the minister is here. Malvolio, Malvolio, thy wits the heavens restore! endeavour thyself to sleep, and leave thy vain bibble babble."
         },
         {
             "speaker": "malvolio",
@@ -197,7 +197,7 @@
         },
         {
             "speaker": "clown",
-            "text": "Maintain no words with him, good fellow. Who, I, sir not I, sir. God be wi you, good Sir Topas. Merry, amen. I will, sir, I will."
+            "text": "Maintain no words with him, good fellow. Who, I, sir? not I, sir. God be wi' you, good Sir Topas. Merry, amen. I will, sir, I will."
         },
         {
             "speaker": "malvolio",
@@ -205,7 +205,7 @@
         },
         {
             "speaker": "clown",
-            "text": "Alas, sir, be patient. What say you sir I am shent for speaking to you."
+            "text": "Alas, sir, be patient. What say you sir? I am shent for speaking to you."
         },
         {
             "speaker": "malvolio",
@@ -213,31 +213,31 @@
         },
         {
             "speaker": "clown",
-            "text": "Welladay that you were, sir"
+            "text": "Well-a-day that you were, sir"
         },
         {
             "speaker": "malvolio",
-            "text": "By this hand, I am. Good fool, some ink, paper and light and convey what I will set down to my lady: it shall advantage thee more than ever the bearing of letter did."
+            "text": "By this hand, I am. Good fool, some ink, paper and light; and convey what I will set down to my lady: it shall advantage thee more than ever the bearing of letter did."
         },
         {
             "speaker": "clown",
-            "text": "I will help you tot. But tell me true, are you not mad indeed or do you but counterfeit"
+            "text": "I will help you to't. But tell me true, are you not mad indeed? or do you but counterfeit?"
         },
         {
             "speaker": "malvolio",
-            "text": "Believe me, I am not I tell thee true."
+            "text": "Believe me, I am not; I tell thee true."
         },
         {
             "speaker": "clown",
-            "text": "Nay, Ill neer believe a madman till I see his brains. I will fetch you light and paper and ink."
+            "text": "Nay, I'll ne'er believe a madman till I see his brains. I will fetch you light and paper and ink."
         },
         {
             "speaker": "malvolio",
-            "text": "Fool, Ill requite it in the highest degree: I prithee, be gone."
+            "text": "Fool, I'll requite it in the highest degree: I prithee, be gone."
         },
         {
             "speaker": "clown",
-            "text": "[Singing] I am gone, sir, And anon, sir, Ill be with you again, In a trice, Like to the old Vice, Your need to sustain Who, with dagger of lath, In his rage and his wrath, Cries, ah, ha! to the devil: Like a mad lad, Pare thy nails, dad Adieu, good man devil."
+            "text": "[Singing] I am gone, sir, And anon, sir, I'll be with you again, In a trice, Like to the old Vice, Your need to sustain; Who, with dagger of lath, In his rage and his wrath, Cries, ah, ha! to the devil: Like a mad lad, Pare thy nails, dad; Adieu, good man devil."
         },
         {
             "text": "Exit"

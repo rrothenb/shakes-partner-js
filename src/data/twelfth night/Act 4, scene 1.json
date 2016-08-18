@@ -1,14 +1,14 @@
 {
     "sceneName": "Act 4, scene 1",
     "playName": "twelfth night",
-    "location": "Before OLIVIAs house.",
+    "location": "Before OLIVIA's house.",
     "lines": [
         {
             "text": "Enter SEBASTIAN and Clown"
         },
         {
             "speaker": "clown",
-            "text": "Will you make me believe that I am not sent for you"
+            "text": "Will you make me believe that I am not sent for you?"
         },
         {
             "speaker": "sebastian",
@@ -16,38 +16,38 @@
         },
         {
             "speaker": "clown",
-            "text": "Well held out, i faith! No, I do not know you nor I am not sent to you by my lady, to bid you come speak with her nor your name is not Master Cesario nor this is not my nose neither. Nothing that is so is so."
+            "text": "Well held out, i' faith! No, I do not know you; nor I am not sent to you by my lady, to bid you come speak with her; nor your name is not Master Cesario; nor this is not my nose neither. Nothing that is so is so."
         },
         {
             "speaker": "sebastian",
-            "text": "I prithee, vent thy folly somewhere else: Thou knowst not me."
+            "text": "I prithee, vent thy folly somewhere else: Thou know'st not me."
         },
         {
             "speaker": "clown",
-            "text": "Vent my folly! he has heard that word of some great man and now applies it to a fool. Vent my folly! I am afraid this great lubber, the world, will prove a cockney. I prithee now, ungird thy strangeness and tell me what I shall vent to my lady: shall I vent to her that thou art coming"
+            "text": "Vent my folly! he has heard that word of some great man and now applies it to a fool. Vent my folly! I am afraid this great lubber, the world, will prove a cockney. I prithee now, ungird thy strangeness and tell me what I shall vent to my lady: shall I vent to her that thou art coming?"
         },
         {
             "speaker": "sebastian",
-            "text": "I prithee, foolish Greek, depart from me: Theres money for thee: if you tarry longer, I shall give worse payment."
+            "text": "I prithee, foolish Greek, depart from me: There's money for thee: if you tarry longer, I shall give worse payment."
         },
         {
             "speaker": "clown",
-            "text": "By my troth, thou hast an open hand. These wise men that give fools money get themselves a good reportafter fourteen years purchase."
+            "text": "By my troth, thou hast an open hand. These wise men that give fools money get themselves a good report--after fourteen years' purchase."
         },
         {
             "text": "Enter SIR ANDREW, SIR TOBY BELCH, and FABIAN"
         },
         {
             "speaker": "sir andrew",
-            "text": "Now, sir, have I met you again theres for you."
+            "text": "Now, sir, have I met you again? there's for you."
         },
         {
             "speaker": "sebastian",
-            "text": "Why, theres for thee, and there, and there. Are all the people mad"
+            "text": "Why, there's for thee, and there, and there. Are all the people mad?"
         },
         {
             "speaker": "sir toby belch",
-            "text": "Hold, sir, or Ill throw your dagger oer the house."
+            "text": "Hold, sir, or I'll throw your dagger o'er the house."
         },
         {
             "speaker": "clown",
@@ -58,11 +58,11 @@
         },
         {
             "speaker": "sir toby belch",
-            "text": "Come on, sir hold."
+            "text": "Come on, sir; hold."
         },
         {
             "speaker": "sir andrew",
-            "text": "Nay, let him alone: Ill go another way to work with him Ill have an action of battery against him, if there be any law in Illyria: though I struck him first, yet its no matter for that."
+            "text": "Nay, let him alone: I'll go another way to work with him; I'll have an action of battery against him, if there be any law in Illyria: though I struck him first, yet it's no matter for that."
         },
         {
             "speaker": "sebastian",
@@ -70,22 +70,22 @@
         },
         {
             "speaker": "sir toby belch",
-            "text": "Come, sir, I will not let you go. Come, my young soldier, put up your iron: you are well fleshed come on."
+            "text": "Come, sir, I will not let you go. Come, my young soldier, put up your iron: you are well fleshed; come on."
         },
         {
             "speaker": "sebastian",
-            "text": "I will be free from thee. What wouldst thou now If thou darest tempt me further, draw thy sword."
+            "text": "I will be free from thee. What wouldst thou now? If thou darest tempt me further, draw thy sword."
         },
         {
             "speaker": "sir toby belch",
-            "text": "What, what Nay, then I must have an ounce or two of this malapert blood from you."
+            "text": "What, what? Nay, then I must have an ounce or two of this malapert blood from you."
         },
         {
             "text": "Enter OLIVIA"
         },
         {
             "speaker": "olivia",
-            "text": "Hold, Toby on thy life I charge thee, hold!"
+            "text": "Hold, Toby; on thy life I charge thee, hold!"
         },
         {
             "speaker": "sir toby belch",
@@ -93,18 +93,18 @@
         },
         {
             "speaker": "olivia",
-            "text": "Will it be ever thus Ungracious wretch, Fit for the mountains and the barbarous caves, Where manners neer were preachd! out of my sight! Be not offended, dear Cesario. Rudesby, be gone! I prithee, gentle friend, Let thy fair wisdom, not thy passion, sway In this uncivil and thou unjust extent Against thy peace. Go with me to my house, And hear thou there how many fruitless pranks This ruffian hath botchd up, that thou thereby Mayst smile at this: thou shalt not choose but go: Do not deny. Beshrew his soul for me, He started one poor heart of mine in thee."
+            "text": "Will it be ever thus? Ungracious wretch, Fit for the mountains and the barbarous caves, Where manners ne'er were preach'd! out of my sight! Be not offended, dear Cesario. Rudesby, be gone! I prithee, gentle friend, Let thy fair wisdom, not thy passion, sway In this uncivil and thou unjust extent Against thy peace. Go with me to my house, And hear thou there how many fruitless pranks This ruffian hath botch'd up, that thou thereby Mayst smile at this: thou shalt not choose but go: Do not deny. Beshrew his soul for me, He started one poor heart of mine in thee."
         },
         {
             "text": "Exeunt SIR TOBY BELCH, SIR ANDREW, and FABIAN"
         },
         {
             "speaker": "sebastian",
-            "text": "What relish is in this how runs the stream Or I am mad, or else this is a dream: Let fancy still my sense in Lethe steep If it be thus to dream, still let me sleep!"
+            "text": "What relish is in this? how runs the stream? Or I am mad, or else this is a dream: Let fancy still my sense in Lethe steep; If it be thus to dream, still let me sleep!"
         },
         {
             "speaker": "olivia",
-            "text": "Nay, come, I prithee would thouldst be ruled by me!"
+            "text": "Nay, come, I prithee; would thou'ldst be ruled by me!"
         },
         {
             "speaker": "sebastian",

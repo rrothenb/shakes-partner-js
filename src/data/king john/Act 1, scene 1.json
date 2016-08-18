@@ -1,34 +1,34 @@
 {
     "sceneName": "Act 1, scene 1",
     "playName": "king john",
-    "location": "KING JOHNS palace.",
+    "location": "KING JOHN'S palace.",
     "lines": [
         {
             "text": "Enter KING JOHN, QUEEN ELINOR, PEMBROKE, ESSEX, SALISBURY, and others, with CHATILLON"
         },
         {
             "speaker": "king john",
-            "text": "Now, say, Chatillon, what would France with us"
+            "text": "Now, say, Chatillon, what would France with us?"
         },
         {
             "speaker": "chatillon",
-            "text": "Thus, after greeting, speaks the King of France In my behavior to the majesty, The borrowd majesty, of England here."
+            "text": "Thus, after greeting, speaks the King of France In my behavior to the majesty, The borrow'd majesty, of England here."
         },
         {
             "speaker": "queen elinor",
-            "text": "A strange beginning: borrowd majesty!"
+            "text": "A strange beginning: 'borrow'd majesty!'"
         },
         {
             "speaker": "king john",
-            "text": "Silence, good mother hear the embassy."
+            "text": "Silence, good mother; hear the embassy."
         },
         {
             "speaker": "chatillon",
-            "text": "Philip of France, in right and true behalf Of thy deceased brother Geffreys son, Arthur Plantagenet, lays most lawful claim To this fair island and the territories, To Ireland, Poictiers, Anjou, Touraine, Maine, Desiring thee to lay aside the sword Which sways usurpingly these several titles, And put these same into young Arthurs hand, Thy nephew and right royal sovereign."
+            "text": "Philip of France, in right and true behalf Of thy deceased brother Geffrey's son, Arthur Plantagenet, lays most lawful claim To this fair island and the territories, To Ireland, Poictiers, Anjou, Touraine, Maine, Desiring thee to lay aside the sword Which sways usurpingly these several titles, And put these same into young Arthur's hand, Thy nephew and right royal sovereign."
         },
         {
             "speaker": "king john",
-            "text": "What follows if we disallow of this"
+            "text": "What follows if we disallow of this?"
         },
         {
             "speaker": "chatillon",
@@ -40,18 +40,18 @@
         },
         {
             "speaker": "chatillon",
-            "text": "Then take my kings defiance from my mouth, The farthest limit of my embassy."
+            "text": "Then take my king's defiance from my mouth, The farthest limit of my embassy."
         },
         {
             "speaker": "king john",
-            "text": "Bear mine to him, and so depart in peace: Be thou as lightning in the eyes of France For ere thou canst report I will be there, The thunder of my cannon shall be heard: So hence! Be thou the trumpet of our wrath And sullen presage of your own decay. An honourable conduct let him have: Pembroke, look to t. Farewell, Chatillon."
+            "text": "Bear mine to him, and so depart in peace: Be thou as lightning in the eyes of France; For ere thou canst report I will be there, The thunder of my cannon shall be heard: So hence! Be thou the trumpet of our wrath And sullen presage of your own decay. An honourable conduct let him have: Pembroke, look to 't. Farewell, Chatillon."
         },
         {
             "text": "Exeunt CHATILLON and PEMBROKE"
         },
         {
             "speaker": "queen elinor",
-            "text": "What now, my son! have I not ever said How that ambitious Constance would not cease Till she had kindled France and all the world, Upon the right and party of her son This might have been prevented and made whole With very easy arguments of love, Which now the manage of two kingdoms must With fearful bloody issue arbitrate."
+            "text": "What now, my son! have I not ever said How that ambitious Constance would not cease Till she had kindled France and all the world, Upon the right and party of her son? This might have been prevented and made whole With very easy arguments of love, Which now the manage of two kingdoms must With fearful bloody issue arbitrate."
         },
         {
             "speaker": "king john",
@@ -66,22 +66,22 @@
         },
         {
             "speaker": "essex",
-            "text": "My liege, here is the strangest controversy Come from country to be judged by you, That eer I heard: shall I produce the men"
+            "text": "My liege, here is the strangest controversy Come from country to be judged by you, That e'er I heard: shall I produce the men?"
         },
         {
             "speaker": "king john",
-            "text": "Let them approach. Our abbeys and our priories shall pay This expeditions charge. What men are you"
+            "text": "Let them approach. Our abbeys and our priories shall pay This expedition's charge. What men are you?"
         },
         {
             "text": "Enter ROBERT and the BASTARD"
         },
         {
             "speaker": "bastard",
-            "text": "Your faithful subject I, a gentleman Born in Northamptonshire and eldest son, As I suppose, to Robert Faulconbridge, A soldier, by the honourgiving hand Of Coeurdelion knighted in the field."
+            "text": "Your faithful subject I, a gentleman Born in Northamptonshire and eldest son, As I suppose, to Robert Faulconbridge, A soldier, by the honour-giving hand Of Coeur-de-lion knighted in the field."
         },
         {
             "speaker": "king john",
-            "text": "What art thou"
+            "text": "What art thou?"
         },
         {
             "speaker": "robert",
@@ -89,11 +89,11 @@
         },
         {
             "speaker": "king john",
-            "text": "Is that the elder, and art thou the heir You came not of one mother then, it seems."
+            "text": "Is that the elder, and art thou the heir? You came not of one mother then, it seems."
         },
         {
             "speaker": "bastard",
-            "text": "Most certain of one mother, mighty king That is well known and, as I think, one father: But for the certain knowledge of that truth I put you oer to heaven and to my mother: Of that I doubt, as all mens children may."
+            "text": "Most certain of one mother, mighty king; That is well known; and, as I think, one father: But for the certain knowledge of that truth I put you o'er to heaven and to my mother: Of that I doubt, as all men's children may."
         },
         {
             "speaker": "queen elinor",
@@ -101,15 +101,15 @@
         },
         {
             "speaker": "bastard",
-            "text": "I, madam no, I have no reason for it That is my brothers plea and none of mine The which if he can prove, a pops me out At least from fair five hundred pound a year: Heaven guard my mothers honour and my land!"
+            "text": "I, madam? no, I have no reason for it; That is my brother's plea and none of mine; The which if he can prove, a' pops me out At least from fair five hundred pound a year: Heaven guard my mother's honour and my land!"
         },
         {
             "speaker": "king john",
-            "text": "A good blunt fellow. Why, being younger born, Doth he lay claim to thine inheritance"
+            "text": "A good blunt fellow. Why, being younger born, Doth he lay claim to thine inheritance?"
         },
         {
             "speaker": "bastard",
-            "text": "I know not why, except to get the land. But once he slanderd me with bastardy: But whether I be as true begot or no, That still I lay upon my mothers head, But that I am as well begot, my liege, Fair fall the bones that took the pains for me! Compare our faces and be judge yourself. If old sir Robert did beget us both And were our father and this son like him, O old sir Robert, father, on my knee I give heaven thanks I was not like to thee!"
+            "text": "I know not why, except to get the land. But once he slander'd me with bastardy: But whether I be as true begot or no, That still I lay upon my mother's head, But that I am as well begot, my liege,-- Fair fall the bones that took the pains for me!-- Compare our faces and be judge yourself. If old sir Robert did beget us both And were our father and this son like him, O old sir Robert, father, on my knee I give heaven thanks I was not like to thee!"
         },
         {
             "speaker": "king john",
@@ -117,35 +117,35 @@
         },
         {
             "speaker": "queen elinor",
-            "text": "He hath a trick of Coeurdelions face The accent of his tongue affecteth him. Do you not read some tokens of my son In the large composition of this man"
+            "text": "He hath a trick of Coeur-de-lion's face; The accent of his tongue affecteth him. Do you not read some tokens of my son In the large composition of this man?"
         },
         {
             "speaker": "king john",
-            "text": "Mine eye hath well examined his parts And finds them perfect Richard. Sirrah, speak, What doth move you to claim your brothers land"
+            "text": "Mine eye hath well examined his parts And finds them perfect Richard. Sirrah, speak, What doth move you to claim your brother's land?"
         },
         {
             "speaker": "bastard",
-            "text": "Because he hath a halfface, like my father. With half that face would he have all my land: A halffaced groat five hundred pound a year!"
+            "text": "Because he hath a half-face, like my father. With half that face would he have all my land: A half-faced groat five hundred pound a year!"
         },
         {
             "speaker": "robert",
-            "text": "My gracious liege, when that my father lived, Your brother did employ my father much,"
+            "text": "My gracious liege, when that my father lived, Your brother did employ my father much,--"
         },
         {
             "speaker": "bastard",
-            "text": "Well, sir, by this you cannot get my land: Your tale must be how he employd my mother."
+            "text": "Well, sir, by this you cannot get my land: Your tale must be how he employ'd my mother."
         },
         {
             "speaker": "robert",
-            "text": "And once dispatchd him in an embassy To Germany, there with the emperor To treat of high affairs touching that time. The advantage of his absence took the king And in the mean time sojournd at my fathers Where how he did prevail I shame to speak, But truth is truth: large lengths of seas and shores Between my father and my mother lay, As I have heard my father speak himself, When this same lusty gentleman was got. Upon his deathbed he by will bequeathd His lands to me, and took it on his death That this my mothers son was none of his And if he were, he came into the world Full fourteen weeks before the course of time. Then, good my liege, let me have what is mine, My fathers land, as was my fathers will."
+            "text": "And once dispatch'd him in an embassy To Germany, there with the emperor To treat of high affairs touching that time. The advantage of his absence took the king And in the mean time sojourn'd at my father's; Where how he did prevail I shame to speak, But truth is truth: large lengths of seas and shores Between my father and my mother lay, As I have heard my father speak himself, When this same lusty gentleman was got. Upon his death-bed he by will bequeath'd His lands to me, and took it on his death That this my mother's son was none of his; And if he were, he came into the world Full fourteen weeks before the course of time. Then, good my liege, let me have what is mine, My father's land, as was my father's will."
         },
         {
             "speaker": "king john",
-            "text": "Sirrah, your brother is legitimate Your fathers wife did after wedlock bear him, And if she did play false, the fault was hers Which fault lies on the hazards of all husbands That marry wives. Tell me, how if my brother, Who, as you say, took pains to get this son, Had of your father claimd this son for his In sooth, good friend, your father might have kept This calf bred from his cow from all the world In sooth he might then, if he were my brothers, My brother might not claim him nor your father, Being none of his, refuse him: this concludes My mothers son did get your fathers heir Your fathers heir must have your fathers land."
+            "text": "Sirrah, your brother is legitimate; Your father's wife did after wedlock bear him, And if she did play false, the fault was hers; Which fault lies on the hazards of all husbands That marry wives. Tell me, how if my brother, Who, as you say, took pains to get this son, Had of your father claim'd this son for his? In sooth, good friend, your father might have kept This calf bred from his cow from all the world; In sooth he might; then, if he were my brother's, My brother might not claim him; nor your father, Being none of his, refuse him: this concludes; My mother's son did get your father's heir; Your father's heir must have your father's land."
         },
         {
             "speaker": "robert",
-            "text": "Shall then my fathers will be of no force To dispossess that child which is not his"
+            "text": "Shall then my father's will be of no force To dispossess that child which is not his?"
         },
         {
             "speaker": "bastard",
@@ -153,19 +153,19 @@
         },
         {
             "speaker": "queen elinor",
-            "text": "Whether hadst thou rather be a Faulconbridge And like thy brother, to enjoy thy land, Or the reputed son of Coeurdelion, Lord of thy presence and no land beside"
+            "text": "Whether hadst thou rather be a Faulconbridge And like thy brother, to enjoy thy land, Or the reputed son of Coeur-de-lion, Lord of thy presence and no land beside?"
         },
         {
             "speaker": "bastard",
-            "text": "Madam, an if my brother had my shape, And I had his, sir Roberts his, like him And if my legs were two such ridingrods, My arms such eelskins stuffd, my face so thin That in mine ear I durst not stick a rose Lest men should say Look, where threefarthings goes! And, to his shape, were heir to all this land, Would I might never stir from off this place, I would give it every foot to have this face I would not be sir Nob in any case."
+            "text": "Madam, an if my brother had my shape, And I had his, sir Robert's his, like him; And if my legs were two such riding-rods, My arms such eel-skins stuff'd, my face so thin That in mine ear I durst not stick a rose Lest men should say 'Look, where three-farthings goes!' And, to his shape, were heir to all this land, Would I might never stir from off this place, I would give it every foot to have this face; I would not be sir Nob in any case."
         },
         {
             "speaker": "queen elinor",
-            "text": "I like thee well: wilt thou forsake thy fortune, Bequeath thy land to him and follow me I am a soldier and now bound to France."
+            "text": "I like thee well: wilt thou forsake thy fortune, Bequeath thy land to him and follow me? I am a soldier and now bound to France."
         },
         {
             "speaker": "bastard",
-            "text": "Brother, take you my land, Ill take my chance. Your face hath got five hundred pound a year, Yet sell your face for five pence and tis dear. Madam, Ill follow you unto the death."
+            "text": "Brother, take you my land, I'll take my chance. Your face hath got five hundred pound a year, Yet sell your face for five pence and 'tis dear. Madam, I'll follow you unto the death."
         },
         {
             "speaker": "queen elinor",
@@ -177,35 +177,35 @@
         },
         {
             "speaker": "king john",
-            "text": "What is thy name"
+            "text": "What is thy name?"
         },
         {
             "speaker": "bastard",
-            "text": "Philip, my liege, so is my name begun, Philip, good old sir Roberts wifes eldest son."
+            "text": "Philip, my liege, so is my name begun, Philip, good old sir Robert's wife's eldest son."
         },
         {
             "speaker": "king john",
-            "text": "From henceforth bear his name whose form thou bearst: Kneel thou down Philip, but rise more great, Arise sir Richard and Plantagenet."
+            "text": "From henceforth bear his name whose form thou bear'st: Kneel thou down Philip, but rise more great, Arise sir Richard and Plantagenet."
         },
         {
             "speaker": "bastard",
-            "text": "Brother by the mothers side, give me your hand: My father gave me honour, yours gave land. Now blessed by the hour, by night or day, When I was got, sir Robert was away!"
+            "text": "Brother by the mother's side, give me your hand: My father gave me honour, yours gave land. Now blessed by the hour, by night or day, When I was got, sir Robert was away!"
         },
         {
             "speaker": "queen elinor",
-            "text": "The very spirit of Plantagenet! I am thy grandam, Richard call me so."
+            "text": "The very spirit of Plantagenet! I am thy grandam, Richard; call me so."
         },
         {
             "speaker": "bastard",
-            "text": "Madam, by chance but not by truth what though Something about, a little from the right, In at the window, or else oer the hatch: Who dares not stir by day must walk by night, And have is have, however men do catch: Near or far off, well won is still well shot, And I am I, howeer I was begot."
+            "text": "Madam, by chance but not by truth; what though? Something about, a little from the right, In at the window, or else o'er the hatch: Who dares not stir by day must walk by night, And have is have, however men do catch: Near or far off, well won is still well shot, And I am I, howe'er I was begot."
         },
         {
             "speaker": "king john",
-            "text": "Go, Faulconbridge: now hast thou thy desire A landless knight makes thee a landed squire. Come, madam, and come, Richard, we must speed For France, for France, for it is more than need."
+            "text": "Go, Faulconbridge: now hast thou thy desire; A landless knight makes thee a landed squire. Come, madam, and come, Richard, we must speed For France, for France, for it is more than need."
         },
         {
             "speaker": "bastard",
-            "text": "Brother, adieu: good fortune come to thee! For thou wast got i the way of honesty. A foot of honour better than I was But many a many foot of land the worse. Well, now can I make any Joan a lady. Good den, sir Richard!Godamercy, fellow! And if his name be George, Ill call him Peter For newmade honour doth forget mens names Tis too respective and too sociable For your conversion. Now your traveller, He and his toothpick at my worships mess, And when my knightly stomach is sufficed, Why then I suck my teeth and catechise My picked man of countries: My dear sir, Thus, leaning on mine elbow, I begin, I shall beseech youthat is question now And then comes answer like an Absey book: O sir, says answer, at your best command At your employment at your service, sir No, sir, says question, I, sweet sir, at yours: And so, ere answer knows what question would, Saving in dialogue of compliment, And talking of the Alps and Apennines, The Pyrenean and the river Po, It draws toward supper in conclusion so. But this is worshipful society And fits the mounting spirit like myself, For he is but a bastard to the time That doth not smack of observation And so am I, whether I smack or no And not alone in habit and device, Exterior form, outward accoutrement, But from the inward motion to deliver Sweet, sweet, sweet poison for the ages tooth: Which, though I will not practise to deceive, Yet, to avoid deceit, I mean to learn For it shall strew the footsteps of my rising. But who comes in such haste in ridingrobes What womanpost is this hath she no husband That will take pains to blow a horn before her O me! it is my mother. How now, good lady! What brings you here to court so hastily"
+            "text": "Brother, adieu: good fortune come to thee! For thou wast got i' the way of honesty. A foot of honour better than I was; But many a many foot of land the worse. Well, now can I make any Joan a lady. 'Good den, sir Richard!'--'God-a-mercy, fellow!'-- And if his name be George, I'll call him Peter; For new-made honour doth forget men's names; 'Tis too respective and too sociable For your conversion. Now your traveller, He and his toothpick at my worship's mess, And when my knightly stomach is sufficed, Why then I suck my teeth and catechise My picked man of countries: 'My dear sir,' Thus, leaning on mine elbow, I begin, 'I shall beseech you'--that is question now; And then comes answer like an Absey book: 'O sir,' says answer, 'at your best command; At your employment; at your service, sir;' 'No, sir,' says question, 'I, sweet sir, at yours:' And so, ere answer knows what question would, Saving in dialogue of compliment, And talking of the Alps and Apennines, The Pyrenean and the river Po, It draws toward supper in conclusion so. But this is worshipful society And fits the mounting spirit like myself, For he is but a bastard to the time That doth not smack of observation; And so am I, whether I smack or no; And not alone in habit and device, Exterior form, outward accoutrement, But from the inward motion to deliver Sweet, sweet, sweet poison for the age's tooth: Which, though I will not practise to deceive, Yet, to avoid deceit, I mean to learn; For it shall strew the footsteps of my rising. But who comes in such haste in riding-robes? What woman-post is this? hath she no husband That will take pains to blow a horn before her? O me! it is my mother. How now, good lady! What brings you here to court so hastily?"
         },
         {
             "text": "Exeunt all but BASTARD"
@@ -215,19 +215,19 @@
         },
         {
             "speaker": "lady faulconbridge",
-            "text": "Where is that slave, thy brother where is he, That holds in chase mine honour up and down"
+            "text": "Where is that slave, thy brother? where is he, That holds in chase mine honour up and down?"
         },
         {
             "speaker": "bastard",
-            "text": "My brother Robert old sir Roberts son Colbrand the giant, that same mighty man Is it sir Roberts son that you seek so"
+            "text": "My brother Robert? old sir Robert's son? Colbrand the giant, that same mighty man? Is it sir Robert's son that you seek so?"
         },
         {
             "speaker": "lady faulconbridge",
-            "text": "Sir Roberts son! Ay, thou unreverend boy, Sir Roberts son: why scornst thou at sir Robert He is sir Roberts son, and so art thou."
+            "text": "Sir Robert's son! Ay, thou unreverend boy, Sir Robert's son: why scorn'st thou at sir Robert? He is sir Robert's son, and so art thou."
         },
         {
             "speaker": "bastard",
-            "text": "James Gurney, wilt thou give us leave awhile"
+            "text": "James Gurney, wilt thou give us leave awhile?"
         },
         {
             "speaker": "gurney",
@@ -235,22 +235,22 @@
         },
         {
             "speaker": "bastard",
-            "text": "Philip! sparrow: James, Theres toys abroad: anon Ill tell thee more. Madam, I was not old sir Roberts son: Sir Robert might have eat his part in me Upon GoodFriday and neer broke his fast: Sir Robert could do well: marry, to confess, Could he get me Sir Robert could not do it: We know his handiwork: therefore, good mother, To whom am I beholding for these limbs Sir Robert never holp to make this leg."
+            "text": "Philip! sparrow: James, There's toys abroad: anon I'll tell thee more. Madam, I was not old sir Robert's son: Sir Robert might have eat his part in me Upon Good-Friday and ne'er broke his fast: Sir Robert could do well: marry, to confess, Could he get me? Sir Robert could not do it: We know his handiwork: therefore, good mother, To whom am I beholding for these limbs? Sir Robert never holp to make this leg."
         },
         {
             "text": "Exit GURNEY"
         },
         {
             "speaker": "lady faulconbridge",
-            "text": "Hast thou conspired with thy brother too, That for thine own gain shouldst defend mine honour What means this scorn, thou most untoward knave"
+            "text": "Hast thou conspired with thy brother too, That for thine own gain shouldst defend mine honour? What means this scorn, thou most untoward knave?"
         },
         {
             "speaker": "bastard",
-            "text": "Knight, knight, good mother, Basiliscolike. What! I am dubbd! I have it on my shoulder. But, mother, I am not sir Roberts son I have disclaimd sir Robert and my land Legitimation, name and all is gone: Then, good my mother, let me know my father Some proper man, I hope: who was it, mother"
+            "text": "Knight, knight, good mother, Basilisco-like. What! I am dubb'd! I have it on my shoulder. But, mother, I am not sir Robert's son; I have disclaim'd sir Robert and my land; Legitimation, name and all is gone: Then, good my mother, let me know my father; Some proper man, I hope: who was it, mother?"
         },
         {
             "speaker": "lady faulconbridge",
-            "text": "Hast thou denied thyself a Faulconbridge"
+            "text": "Hast thou denied thyself a Faulconbridge?"
         },
         {
             "speaker": "bastard",
@@ -258,11 +258,11 @@
         },
         {
             "speaker": "lady faulconbridge",
-            "text": "King Richard Coeurdelion was thy father: By long and vehement suit I was seduced To make room for him in my husbands bed: Heaven lay not my transgression to my charge! Thou art the issue of my dear offence, Which was so strongly urged past my defence."
+            "text": "King Richard Coeur-de-lion was thy father: By long and vehement suit I was seduced To make room for him in my husband's bed: Heaven lay not my transgression to my charge! Thou art the issue of my dear offence, Which was so strongly urged past my defence."
         },
         {
             "speaker": "bastard",
-            "text": "Now, by this light, were I to get again, Madam, I would not wish a better father. Some sins do bear their privilege on earth, And so doth yours your fault was not your folly: Needs must you lay your heart at his dispose, Subjected tribute to commanding love, Against whose fury and unmatched force The aweless lion could not wage the fight, Nor keep his princely heart from Richards hand. He that perforce robs lions of their hearts May easily win a womans. Ay, my mother, With all my heart I thank thee for my father! Who lives and dares but say thou didst not well When I was got, Ill send his soul to hell. Come, lady, I will show thee to my kin And they shall say, when Richard me begot, If thou hadst said him nay, it had been sin: Who says it was, he lies I say twas not."
+            "text": "Now, by this light, were I to get again, Madam, I would not wish a better father. Some sins do bear their privilege on earth, And so doth yours; your fault was not your folly: Needs must you lay your heart at his dispose, Subjected tribute to commanding love, Against whose fury and unmatched force The aweless lion could not wage the fight, Nor keep his princely heart from Richard's hand. He that perforce robs lions of their hearts May easily win a woman's. Ay, my mother, With all my heart I thank thee for my father! Who lives and dares but say thou didst not well When I was got, I'll send his soul to hell. Come, lady, I will show thee to my kin; And they shall say, when Richard me begot, If thou hadst said him nay, it had been sin: Who says it was, he lies; I say 'twas not."
         },
         {
             "text": "Exeunt"

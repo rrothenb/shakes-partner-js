@@ -1,22 +1,22 @@
 {
     "sceneName": "Act 1, scene 4",
     "playName": "merry wives of windsor",
-    "location": "A room in DOCTOR CAIUS house.",
+    "location": "A room in DOCTOR CAIUS' house.",
     "lines": [
         {
             "text": "Enter MISTRESS QUICKLY, SIMPLE, and RUGBY"
         },
         {
             "speaker": "mistress quickly",
-            "text": "What, John Rugby! I pray thee, go to the casement, and see if you can see my master, Master Doctor Caius, coming. If he do, i faith, and find any body in the house, here will be an old abusing of Gods patience and the kings English."
+            "text": "What, John Rugby! I pray thee, go to the casement, and see if you can see my master, Master Doctor Caius, coming. If he do, i' faith, and find any body in the house, here will be an old abusing of God's patience and the king's English."
         },
         {
             "speaker": "rugby",
-            "text": "Ill go watch."
+            "text": "I'll go watch."
         },
         {
             "speaker": "mistress quickly",
-            "text": "Go and well have a posset fort soon at night, in faith, at the latter end of a seacoal fire. An honest, willing, kind fellow, as ever servant shall come in house withal, and, I warrant you, no telltale nor no breedbate: his worst fault is, that he is given to prayer he is something peevish that way: but nobody but has his fault but let that pass. Peter Simple, you say your name is"
+            "text": "Go; and we'll have a posset for't soon at night, in faith, at the latter end of a sea-coal fire. An honest, willing, kind fellow, as ever servant shall come in house withal, and, I warrant you, no tell-tale nor no breed-bate: his worst fault is, that he is given to prayer; he is something peevish that way: but nobody but has his fault; but let that pass. Peter Simple, you say your name is?"
         },
         {
             "text": "Exit RUGBY"
@@ -27,7 +27,7 @@
         },
         {
             "speaker": "mistress quickly",
-            "text": "And Master Slenders your master"
+            "text": "And Master Slender's your master?"
         },
         {
             "speaker": "simple",
@@ -35,23 +35,23 @@
         },
         {
             "speaker": "mistress quickly",
-            "text": "Does he not wear a great round beard, like a glovers paringknife"
+            "text": "Does he not wear a great round beard, like a glover's paring-knife?"
         },
         {
             "speaker": "simple",
-            "text": "No, forsooth: he hath but a little wee face, with a little yellow beard, a Caincoloured beard."
+            "text": "No, forsooth: he hath but a little wee face, with a little yellow beard, a Cain-coloured beard."
         },
         {
             "speaker": "mistress quickly",
-            "text": "A softlysprighted man, is he not"
+            "text": "A softly-sprighted man, is he not?"
         },
         {
             "speaker": "simple",
-            "text": "Ay, forsooth: but he is as tall a man of his hands as any is between this and his head he hath fought with a warrener."
+            "text": "Ay, forsooth: but he is as tall a man of his hands as any is between this and his head; he hath fought with a warrener."
         },
         {
             "speaker": "mistress quickly",
-            "text": "How say you O, I should remember him: does he not hold up his head, as it were, and strut in his gait"
+            "text": "How say you? O, I should remember him: does he not hold up his head, as it were, and strut in his gait?"
         },
         {
             "speaker": "simple",
@@ -59,10 +59,10 @@
         },
         {
             "speaker": "mistress quickly",
-            "text": "Well, heaven send Anne Page no worse fortune! Tell Master Parson Evans I will do what I can for your master: Anne is a good girl, and I wish"
+            "text": "Well, heaven send Anne Page no worse fortune! Tell Master Parson Evans I will do what I can for your master: Anne is a good girl, and I wish--"
         },
         {
-            "text": "Reenter RUGBY"
+            "text": "Re-enter RUGBY"
         },
         {
             "speaker": "rugby",
@@ -70,7 +70,7 @@
         },
         {
             "speaker": "mistress quickly",
-            "text": "We shall all be shent. Run in here, good young man go into this closet: he will not stay long. What, John Rugby! John! what, John, I say! Go, John, go inquire for my master I doubt he be not well, that he comes not home. And down, down, adowna,  and c."
+            "text": "We shall all be shent. Run in here, good young man; go into this closet: he will not stay long. What, John Rugby! John! what, John, I say! Go, John, go inquire for my master; I doubt he be not well, that he comes not home. And down, down, adown-a,  and c."
         },
         {
             "text": "Shuts SIMPLE in the closet"
@@ -83,26 +83,26 @@
         },
         {
             "speaker": "doctor caius",
-            "text": "Vat is you sing I do not like des toys. Pray you, go and vetch me in my closet un boitier vert, a box, a greena box: do intend vat I speak a greena box."
+            "text": "Vat is you sing? I do not like des toys. Pray you, go and vetch me in my closet un boitier vert, a box, a green-a box: do intend vat I speak? a green-a box."
         },
         {
             "speaker": "mistress quickly",
-            "text": "Ay, forsooth Ill fetch it you. I am glad he went not in himself: if he had found the young man, he would have been hornmad."
+            "text": "Ay, forsooth; I'll fetch it you. I am glad he went not in himself: if he had found the young man, he would have been horn-mad."
         },
         {
             "text": "Aside"
         },
         {
             "speaker": "doctor caius",
-            "text": "Fe, fe, fe, fe! ma foi, il fait fort chaud. Je men vais a la courla grande affaire."
+            "text": "Fe, fe, fe, fe! ma foi, il fait fort chaud. Je m'en vais a la cour--la grande affaire."
         },
         {
             "speaker": "mistress quickly",
-            "text": "Is it this, sir"
+            "text": "Is it this, sir?"
         },
         {
             "speaker": "doctor caius",
-            "text": "Oui mette le au mon pocket: depeche, quickly. Vere is dat knave Rugby"
+            "text": "Oui; mette le au mon pocket: depeche, quickly. Vere is dat knave Rugby?"
         },
         {
             "speaker": "mistress quickly",
@@ -114,23 +114,23 @@
         },
         {
             "speaker": "doctor caius",
-            "text": "You are John Rugby, and you are Jack Rugby. Come, takea your rapier, and come after my heel to the court."
+            "text": "You are John Rugby, and you are Jack Rugby. Come, take-a your rapier, and come after my heel to the court."
         },
         {
             "speaker": "rugby",
-            "text": "Tis ready, sir, here in the porch."
+            "text": "'Tis ready, sir, here in the porch."
         },
         {
             "speaker": "doctor caius",
-            "text": "By my trot, I tarry too long. Ods me! Quaijoublie! dere is some simples in my closet, dat I vill not for the varld I shall leave behind."
+            "text": "By my trot, I tarry too long. Od's me! Qu'ai-j'oublie! dere is some simples in my closet, dat I vill not for the varld I shall leave behind."
         },
         {
             "speaker": "mistress quickly",
-            "text": "Ay me, hell find the young man here, and be mad!"
+            "text": "Ay me, he'll find the young man here, and be mad!"
         },
         {
             "speaker": "doctor caius",
-            "text": "O diable, diable! vat is in my closet Villain! larron! Rugby, my rapier!"
+            "text": "O diable, diable! vat is in my closet? Villain! larron! Rugby, my rapier!"
         },
         {
             "text": "Pulling SIMPLE out"
@@ -141,7 +141,7 @@
         },
         {
             "speaker": "doctor caius",
-            "text": "Wherefore shall I be contenta"
+            "text": "Wherefore shall I be content-a?"
         },
         {
             "speaker": "mistress quickly",
@@ -149,7 +149,7 @@
         },
         {
             "speaker": "doctor caius",
-            "text": "What shall de honest man do in my closet dere is no honest man dat shall come in my closet."
+            "text": "What shall de honest man do in my closet? dere is no honest man dat shall come in my closet."
         },
         {
             "speaker": "mistress quickly",
@@ -161,7 +161,7 @@
         },
         {
             "speaker": "simple",
-            "text": "Ay, forsooth to desire her to"
+            "text": "Ay, forsooth; to desire her to--"
         },
         {
             "speaker": "mistress quickly",
@@ -169,7 +169,7 @@
         },
         {
             "speaker": "doctor caius",
-            "text": "Peacea your tongue. Speaka your tale."
+            "text": "Peace-a your tongue. Speak-a your tale."
         },
         {
             "speaker": "simple",
@@ -177,30 +177,30 @@
         },
         {
             "speaker": "mistress quickly",
-            "text": "This is all, indeed, la! but Ill neer put my finger in the fire, and need not."
+            "text": "This is all, indeed, la! but I'll ne'er put my finger in the fire, and need not."
         },
         {
             "speaker": "doctor caius",
-            "text": "Sir Hugh senda you Rugby, baille me some paper. Tarry you a littlea while."
+            "text": "Sir Hugh send-a you? Rugby, baille me some paper. Tarry you a little-a while."
         },
         {
             "text": "Writes"
         },
         {
             "speaker": "mistress quickly",
-            "text": "[Aside to SIMPLE]  I am glad he is so quiet: if he had been thoroughly moved, you should have heard him so loud and so melancholy. But notwithstanding, man, Ill do you your master what good I can: and the very yea and the no is, the French doctor, my master,I may call him my master, look you, for I keep his house and I wash, wring, brew, bake, scour, dress meat and drink, make the beds and do all myself,"
+            "text": "[Aside to SIMPLE]  I am glad he is so quiet: if he had been thoroughly moved, you should have heard him so loud and so melancholy. But notwithstanding, man, I'll do you your master what good I can: and the very yea and the no is, the French doctor, my master,--I may call him my master, look you, for I keep his house; and I wash, wring, brew, bake, scour, dress meat and drink, make the beds and do all myself,--"
         },
         {
             "speaker": "simple",
-            "text": "[Aside to MISTRESS QUICKLY]  Tis a great charge to come under one bodys hand."
+            "text": "[Aside to MISTRESS QUICKLY]  'Tis a great charge to come under one body's hand."
         },
         {
             "speaker": "mistress quickly",
-            "text": "[Aside to SIMPLE]  Are you avised o that you shall find it a great charge: and to be up early and down late but notwithstanding,to tell you in your ear I would have no words of it,my master himself is in love with Mistress Anne Page: but notwithstanding that, I know Annes mind,thats neither here nor there."
+            "text": "[Aside to SIMPLE]  Are you avised o' that? you shall find it a great charge: and to be up early and down late; but notwithstanding,--to tell you in your ear; I would have no words of it,--my master himself is in love with Mistress Anne Page: but notwithstanding that, I know Anne's mind,--that's neither here nor there."
         },
         {
             "speaker": "doctor caius",
-            "text": "You jacknape, givea this letter to Sir Hugh by gar, it is a shallenge: I will cut his troat in dee park and I will teach a scurvy jackanape priest to meddle or make. You may be gone it is not good you tarry here. By gar, I will cut all his two stones by gar, he shall not have a stone to throw at his dog:"
+            "text": "You jack'nape, give-a this letter to Sir Hugh; by gar, it is a shallenge: I will cut his troat in dee park; and I will teach a scurvy jack-a-nape priest to meddle or make. You may be gone; it is not good you tarry here. By gar, I will cut all his two stones; by gar, he shall not have a stone to throw at his dog:"
         },
         {
             "text": "Exit SIMPLE"
@@ -211,11 +211,11 @@
         },
         {
             "speaker": "doctor caius",
-            "text": "It is no mattera ver dat: do not you tella me dat I shall have Anne Page for myself By gar, I vill kill de Jack priest and I have appointed mine host of de Jarteer to measure our weapon. By gar, I will myself have Anne Page."
+            "text": "It is no matter-a ver dat: do not you tell-a me dat I shall have Anne Page for myself? By gar, I vill kill de Jack priest; and I have appointed mine host of de Jarteer to measure our weapon. By gar, I will myself have Anne Page."
         },
         {
             "speaker": "mistress quickly",
-            "text": "Sir, the maid loves you, and all shall be well. We must give folks leave to prate: what, the goodjer!"
+            "text": "Sir, the maid loves you, and all shall be well. We must give folks leave to prate: what, the good-jer!"
         },
         {
             "speaker": "doctor caius",
@@ -226,22 +226,22 @@
         },
         {
             "speaker": "mistress quickly",
-            "text": "You shall have An foolshead of your own. No, I know Annes mind for that: never a woman in Windsor knows more of Annes mind than I do nor can do more than I do with her, I thank heaven."
+            "text": "You shall have An fool's-head of your own. No, I know Anne's mind for that: never a woman in Windsor knows more of Anne's mind than I do; nor can do more than I do with her, I thank heaven."
         },
         {
             "speaker": "fenton",
-            "text": "[Within]  Whos within there ho!"
+            "text": "[Within]  Who's within there? ho!"
         },
         {
             "speaker": "mistress quickly",
-            "text": "Whos there, I trow! Come near the house, I pray you."
+            "text": "Who's there, I trow! Come near the house, I pray you."
         },
         {
             "text": "Enter FENTON"
         },
         {
             "speaker": "fenton",
-            "text": "How now, good woman how dost thou"
+            "text": "How now, good woman? how dost thou?"
         },
         {
             "speaker": "mistress quickly",
@@ -249,43 +249,43 @@
         },
         {
             "speaker": "fenton",
-            "text": "What news how does pretty Mistress Anne"
+            "text": "What news? how does pretty Mistress Anne?"
         },
         {
             "speaker": "mistress quickly",
-            "text": "In truth, sir, and she is pretty, and honest, and gentle and one that is your friend, I can tell you that by the way I praise heaven for it."
+            "text": "In truth, sir, and she is pretty, and honest, and gentle; and one that is your friend, I can tell you that by the way; I praise heaven for it."
         },
         {
             "speaker": "fenton",
-            "text": "Shall I do any good, thinkest thou shall I not lose my suit"
+            "text": "Shall I do any good, thinkest thou? shall I not lose my suit?"
         },
         {
             "speaker": "mistress quickly",
-            "text": "Troth, sir, all is in his hands above: but notwithstanding, Master Fenton, Ill be sworn on a book, she loves you. Have not your worship a wart above your eye"
+            "text": "Troth, sir, all is in his hands above: but notwithstanding, Master Fenton, I'll be sworn on a book, she loves you. Have not your worship a wart above your eye?"
         },
         {
             "speaker": "fenton",
-            "text": "Yes, marry, have I what of that"
+            "text": "Yes, marry, have I; what of that?"
         },
         {
             "speaker": "mistress quickly",
-            "text": "Well, thereby hangs a tale: good faith, it is such another Nan but, I detest, an honest maid as ever broke bread: we had an hours talk of that wart. I shall never laugh but in that maids company! But indeed she is given too much to allicholy and musing: but for youwell, go to."
+            "text": "Well, thereby hangs a tale: good faith, it is such another Nan; but, I detest, an honest maid as ever broke bread: we had an hour's talk of that wart. I shall never laugh but in that maid's company! But indeed she is given too much to allicholy and musing: but for you--well, go to."
         },
         {
             "speaker": "fenton",
-            "text": "Well, I shall see her today. Hold, theres money for thee let me have thy voice in my behalf: if thou seest her before me, commend me."
+            "text": "Well, I shall see her to-day. Hold, there's money for thee; let me have thy voice in my behalf: if thou seest her before me, commend me."
         },
         {
             "speaker": "mistress quickly",
-            "text": "Will I ifaith, that we will and I will tell your worship more of the wart the next time we have confidence and of other wooers."
+            "text": "Will I? i'faith, that we will; and I will tell your worship more of the wart the next time we have confidence; and of other wooers."
         },
         {
             "speaker": "fenton",
-            "text": "Well, farewell I am in great haste now."
+            "text": "Well, farewell; I am in great haste now."
         },
         {
             "speaker": "mistress quickly",
-            "text": "Farewell to your worship. Truly, an honest gentleman: but Anne loves him not for I know Annes mind as well as another does. Out upont! what have I forgot"
+            "text": "Farewell to your worship. Truly, an honest gentleman: but Anne loves him not; for I know Anne's mind as well as another does. Out upon't! what have I forgot?"
         },
         {
             "text": "Exit FENTON"

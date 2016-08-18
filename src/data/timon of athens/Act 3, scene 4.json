@@ -1,14 +1,14 @@
 {
     "sceneName": "Act 3, scene 4",
     "playName": "timon of athens",
-    "location": "The same. A hall in Timons house.",
+    "location": "The same. A hall in Timon's house.",
     "lines": [
         {
-            "text": "Enter two Servants of Varro, and the Servant of  LUCIUS, meeting TITUS, HORTENSIUS, and other Servants of TIMONs creditors, waiting his coming out"
+            "text": "Enter two Servants of Varro, and the Servant of  LUCIUS, meeting TITUS, HORTENSIUS, and other Servants of TIMON's creditors, waiting his coming out"
         },
         {
             "speaker": "first servant",
-            "text": "Well met good morrow, Titus and Hortensius."
+            "text": "Well met; good morrow, Titus and Hortensius."
         },
         {
             "speaker": "titus",
@@ -16,22 +16,22 @@
         },
         {
             "speaker": "hortensius",
-            "text": "Lucius! What, do we meet together Lucilius ServantAy, and I think One business does command us all for mine Is money."
+            "text": "Lucius! What, do we meet together? Lucilius' Servant Ay, and I think One business does command us all; for mine Is money."
         },
         {
             "speaker": "titus",
-            "text": "So is theirs and ours. Lucilius ServantAnd Sir Philotus too!"
+            "text": "So is theirs and ours. Lucilius' Servant And Sir Philotus too!"
         },
         {
             "text": "Enter PHILOTUS"
         },
         {
             "speaker": "philotus",
-            "text": "Good day at once. Lucilius Servant                  Welcome, good brother. What do you think the hour Labouring for nine. Lucilius ServantSo much Is not my lord seen yet Lucilius ServantNot yet. I wonder ont he was wont to shine at seven. Lucilius ServantAy, but the days are waxd shorter with him: You must consider that a prodigal course Is like the suns but not, like his, recoverable. I fear tis deepest winter in Lord Timons purse That is one may reach deep enough, and yet Find little. I am of your fear for that."
+            "text": "Good day at once. Lucilius' Servant                   Welcome, good brother. What do you think the hour? Labouring for nine. Lucilius' Servant So much? Is not my lord seen yet? Lucilius' Servant Not yet. I wonder on't; he was wont to shine at seven. Lucilius' Servant Ay, but the days are wax'd shorter with him: You must consider that a prodigal course Is like the sun's; but not, like his, recoverable. I fear 'tis deepest winter in Lord Timon's purse; That is one may reach deep enough, and yet Find little. I am of your fear for that."
         },
         {
             "speaker": "titus",
-            "text": "Ill show you how to observe a strange event. Your lord sends now for money."
+            "text": "I'll show you how to observe a strange event. Your lord sends now for money."
         },
         {
             "speaker": "hortensius",
@@ -39,19 +39,19 @@
         },
         {
             "speaker": "titus",
-            "text": "And he wears jewels now of Timons gift, For which I wait for money."
+            "text": "And he wears jewels now of Timon's gift, For which I wait for money."
         },
         {
             "speaker": "hortensius",
-            "text": "It is against my heart. Lucilius ServantMark, how strange it shows, Timon in this should pay more than he owes: And een as if your lord should wear rich jewels, And send for money for em. Im weary of this charge, the gods can witness: I know my lord hath spent of Timons wealth, And now ingratitude makes it worse than stealth. Varros"
+            "text": "It is against my heart. Lucilius' Servant Mark, how strange it shows, Timon in this should pay more than he owes: And e'en as if your lord should wear rich jewels, And send for money for 'em. I'm weary of this charge, the gods can witness: I know my lord hath spent of Timon's wealth, And now ingratitude makes it worse than stealth. Varro's"
         },
         {
             "speaker": "first servant",
-            "text": "Yes, mines three thousand crowns: whats yours Lucilius ServantFive thousand mine. Varros Tis much deep: and it should seem by the sun, Your masters confidence was above mine Else, surely, his had equalld. Enter FLAMINIUS."
+            "text": "Yes, mine's three thousand crowns: what's yours? Lucilius' Servant Five thousand mine. Varro's 'Tis much deep: and it should seem by the sun, Your master's confidence was above mine; Else, surely, his had equall'd. Enter FLAMINIUS."
         },
         {
             "speaker": "titus",
-            "text": "One of Lord Timons men. Lucilius ServantFlaminius! Sir, a word: pray, is my lord ready to come forth"
+            "text": "One of Lord Timon's men. Lucilius' Servant Flaminius! Sir, a word: pray, is my lord ready to come forth?"
         },
         {
             "speaker": "flaminius",
@@ -59,11 +59,11 @@
         },
         {
             "speaker": "titus",
-            "text": "We attend his lordship pray, signify so much."
+            "text": "We attend his lordship; pray, signify so much."
         },
         {
             "speaker": "flaminius",
-            "text": "I need not tell him that he knows you are too diligent. Lucilius ServantHa! is not that his steward muffled so He goes away in a cloud: call him, call him."
+            "text": "I need not tell him that; he knows you are too diligent. Lucilius' Servant Ha! is not that his steward muffled so? He goes away in a cloud: call him, call him."
         },
         {
             "text": "Exit"
@@ -73,15 +73,15 @@
         },
         {
             "speaker": "titus",
-            "text": "Do you hear, sir Varros"
+            "text": "Do you hear, sir? Varro's"
         },
         {
             "speaker": "second servant",
-            "text": "By your leave, sir,"
+            "text": "By your leave, sir,--"
         },
         {
             "speaker": "flavius",
-            "text": "What do ye ask of me, my friend"
+            "text": "What do ye ask of me, my friend?"
         },
         {
             "speaker": "titus",
@@ -89,29 +89,29 @@
         },
         {
             "speaker": "flavius",
-            "text": "Ay, If money were as certain as your waiting, Twere sure enough. Why then preferrd you not your sums and bills, When your false masters eat of my lords meat Then they could smile and fawn upon his debts And take down the interest into their gluttonous maws. You do yourselves but wrong to stir me up Let me pass quietly: Believe t, my lord and I have made an end I have no more to reckon, he to spend. Lucilius ServantAy, but this answer will not serve. If twill not serve,tis not so base as you For you serve knaves. Varros"
+            "text": "Ay, If money were as certain as your waiting, 'Twere sure enough. Why then preferr'd you not your sums and bills, When your false masters eat of my lord's meat? Then they could smile and fawn upon his debts And take down the interest into their gluttonous maws. You do yourselves but wrong to stir me up; Let me pass quietly: Believe 't, my lord and I have made an end; I have no more to reckon, he to spend. Lucilius' Servant Ay, but this answer will not serve. If 'twill not serve,'tis not so base as you; For you serve knaves. Varro's"
         },
         {
             "text": "Exit"
         },
         {
             "speaker": "first servant",
-            "text": "How! what does his cashiered worship mutter Varros"
+            "text": "How! what does his cashiered worship mutter? Varro's"
         },
         {
             "speaker": "second servant",
-            "text": "No matter what hes poor, and thats revenge enough. Who can speak broader than he that has no house to put his head in such may rail against great buildings."
+            "text": "No matter what; he's poor, and that's revenge enough. Who can speak broader than he that has no house to put his head in? such may rail against great buildings."
         },
         {
             "text": "Enter SERVILIUS"
         },
         {
             "speaker": "titus",
-            "text": "O, heres Servilius now we shall know some answer."
+            "text": "O, here's Servilius; now we shall know some answer."
         },
         {
             "speaker": "servilius",
-            "text": "If I might beseech you, gentlemen, to repair some other hour, I should derive much fromt for, taket of my soul, my lord leans wondrously to discontent: his comfortable temper has forsook him hes much out of health, and keeps his chamber. Lucilius Servant: Many do keep their chambers are not sick: And, if it be so far beyond his health, Methinks he should the sooner pay his debts, And make a clear way to the gods. Good gods!"
+            "text": "If I might beseech you, gentlemen, to repair some other hour, I should derive much from't; for, take't of my soul, my lord leans wondrously to discontent: his comfortable temper has forsook him; he's much out of health, and keeps his chamber. Lucilius' Servant: Many do keep their chambers are not sick: And, if it be so far beyond his health, Methinks he should the sooner pay his debts, And make a clear way to the gods. Good gods!"
         },
         {
             "speaker": "titus",
@@ -126,15 +126,15 @@
         },
         {
             "speaker": "timon",
-            "text": "What, are my doors opposed against my passage Have I been ever free, and must my house Be my retentive enemy, my gaol The place which I have feasted, does it now, Like all mankind, show me an iron heart Lucilius ServantPut in now, Titus."
+            "text": "What, are my doors opposed against my passage? Have I been ever free, and must my house Be my retentive enemy, my gaol? The place which I have feasted, does it now, Like all mankind, show me an iron heart? Lucilius' Servant Put in now, Titus."
         },
         {
             "speaker": "titus",
-            "text": "My lord, here is my bill. Lucilius ServantHeres mine."
+            "text": "My lord, here is my bill. Lucilius' Servant Here's mine."
         },
         {
             "speaker": "hortensius",
-            "text": "And mine, my lord. Both Varros ServantsAnd ours, my lord."
+            "text": "And mine, my lord. Both Varro's Servants And ours, my lord."
         },
         {
             "speaker": "philotus",
@@ -142,7 +142,7 @@
         },
         {
             "speaker": "timon",
-            "text": "Knock me down with em: cleave me to the girdle. Lucilius ServantAlas, my lord, Cut my heart in sums."
+            "text": "Knock me down with 'em: cleave me to the girdle. Lucilius' Servant Alas, my lord,- Cut my heart in sums."
         },
         {
             "speaker": "titus",
@@ -150,15 +150,15 @@
         },
         {
             "speaker": "timon",
-            "text": "Tell out my blood. Lucilius ServantFive thousand crowns, my lord. Five thousand drops pays that. What yoursand yours Varros"
+            "text": "Tell out my blood. Lucilius' Servant Five thousand crowns, my lord. Five thousand drops pays that. What yours?--and yours? Varro's"
         },
         {
             "speaker": "first servant",
-            "text": "My lord, Varros"
+            "text": "My lord,-- Varro's"
         },
         {
             "speaker": "second servant",
-            "text": "My lord,"
+            "text": "My lord,--"
         },
         {
             "speaker": "timon",
@@ -169,33 +169,33 @@
         },
         {
             "speaker": "hortensius",
-            "text": "Faith, I perceive our masters may throw their caps at their money: these debts may well be called desperate ones, for a madman owes em."
+            "text": "'Faith, I perceive our masters may throw their caps at their money: these debts may well be called desperate ones, for a madman owes 'em."
         },
         {
             "text": "Exeunt"
         },
         {
-            "text": "Reenter TIMON and FLAVIUS"
+            "text": "Re-enter TIMON and FLAVIUS"
         },
         {
             "speaker": "timon",
-            "text": "They have een put my breath from me, the slaves. Creditors devils!"
+            "text": "They have e'en put my breath from me, the slaves. Creditors? devils!"
         },
         {
             "speaker": "flavius",
-            "text": "My dear lord,"
+            "text": "My dear lord,--"
         },
         {
             "speaker": "timon",
-            "text": "What if it should be so"
+            "text": "What if it should be so?"
         },
         {
             "speaker": "flavius",
-            "text": "My lord,"
+            "text": "My lord,--"
         },
         {
             "speaker": "timon",
-            "text": "Ill have it so. My steward!"
+            "text": "I'll have it so. My steward!"
         },
         {
             "speaker": "flavius",
@@ -203,15 +203,15 @@
         },
         {
             "speaker": "timon",
-            "text": "So fitly Go, bid all my friends again, Lucius, Lucullus, and Sempronius: All, sirrah, all: Ill once more feast the rascals."
+            "text": "So fitly? Go, bid all my friends again, Lucius, Lucullus, and Sempronius: All, sirrah, all: I'll once more feast the rascals."
         },
         {
             "speaker": "flavius",
-            "text": "O my lord, You only speak from your distracted soul There is not so much left, to furnish out A moderate table."
+            "text": "O my lord, You only speak from your distracted soul; There is not so much left, to furnish out A moderate table."
         },
         {
             "speaker": "timon",
-            "text": "Bet not in thy care go, I charge thee, invite them all: let in the tide Of knaves once more my cook and Ill provide."
+            "text": "Be't not in thy care; go, I charge thee, invite them all: let in the tide Of knaves once more; my cook and I'll provide."
         },
         {
             "text": "Exeunt"

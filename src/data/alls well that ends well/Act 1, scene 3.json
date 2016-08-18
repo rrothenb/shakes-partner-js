@@ -1,26 +1,26 @@
 {
     "sceneName": "Act 1, scene 3",
     "playName": "alls well that ends well",
-    "location": "Rousillon. The COUNTs palace.",
+    "location": "Rousillon. The COUNT's palace.",
     "lines": [
         {
             "text": "Enter COUNTESS, Steward, and Clown"
         },
         {
             "speaker": "countess",
-            "text": "I will now hear what say you of this gentlewoman"
+            "text": "I will now hear; what say you of this gentlewoman?"
         },
         {
             "speaker": "steward",
-            "text": "Madam, the care I have had to even your content, I wish might be found in the calendar of my past endeavours for then we wound our modesty and make foul the clearness of our deservings, when of ourselves we publish them."
+            "text": "Madam, the care I have had to even your content, I wish might be found in the calendar of my past endeavours; for then we wound our modesty and make foul the clearness of our deservings, when of ourselves we publish them."
         },
         {
             "speaker": "countess",
-            "text": "What does this knave here Get you gone, sirrah: the complaints I have heard of you I do not all believe: tis my slowness that I do not for I know you lack not folly to commit them, and have ability enough to make such knaveries yours."
+            "text": "What does this knave here? Get you gone, sirrah: the complaints I have heard of you I do not all believe: 'tis my slowness that I do not; for I know you lack not folly to commit them, and have ability enough to make such knaveries yours."
         },
         {
             "speaker": "clown",
-            "text": "Tis not unknown to you, madam, I am a poor fellow."
+            "text": "'Tis not unknown to you, madam, I am a poor fellow."
         },
         {
             "speaker": "countess",
@@ -28,11 +28,11 @@
         },
         {
             "speaker": "clown",
-            "text": "No, madam, tis not so well that I am poor, though many of the rich are damned: but, if I may have your ladyships good will to go to the world, Isbel the woman and I will do as we may."
+            "text": "No, madam, 'tis not so well that I am poor, though many of the rich are damned: but, if I may have your ladyship's good will to go to the world, Isbel the woman and I will do as we may."
         },
         {
             "speaker": "countess",
-            "text": "Wilt thou needs be a beggar"
+            "text": "Wilt thou needs be a beggar?"
         },
         {
             "speaker": "clown",
@@ -40,11 +40,11 @@
         },
         {
             "speaker": "countess",
-            "text": "In what case"
+            "text": "In what case?"
         },
         {
             "speaker": "clown",
-            "text": "In Isbels case and mine own. Service is no heritage: and I think I shall never have the blessing of God till I have issue o my body for they say barnes are blessings."
+            "text": "In Isbel's case and mine own. Service is no heritage: and I think I shall never have the blessing of God till I have issue o' my body; for they say barnes are blessings."
         },
         {
             "speaker": "countess",
@@ -52,11 +52,11 @@
         },
         {
             "speaker": "clown",
-            "text": "My poor body, madam, requires it: I am driven on by the flesh and he must needs go that the devil drives."
+            "text": "My poor body, madam, requires it: I am driven on by the flesh; and he must needs go that the devil drives."
         },
         {
             "speaker": "countess",
-            "text": "Is this all your worships reason"
+            "text": "Is this all your worship's reason?"
         },
         {
             "speaker": "clown",
@@ -64,11 +64,11 @@
         },
         {
             "speaker": "countess",
-            "text": "May the world know them"
+            "text": "May the world know them?"
         },
         {
             "speaker": "clown",
-            "text": "I have been, madam, a wicked creature, as you and all flesh and blood are and, indeed, I do marry that I may repent."
+            "text": "I have been, madam, a wicked creature, as you and all flesh and blood are; and, indeed, I do marry that I may repent."
         },
         {
             "speaker": "countess",
@@ -76,7 +76,7 @@
         },
         {
             "speaker": "clown",
-            "text": "I am out o friends, madam and I hope to have friends for my wifes sake."
+            "text": "I am out o' friends, madam; and I hope to have friends for my wife's sake."
         },
         {
             "speaker": "countess",
@@ -84,19 +84,19 @@
         },
         {
             "speaker": "clown",
-            "text": "Youre shallow, madam, in great friends for the knaves come to do that for me which I am aweary of. He that ears my land spares my team and gives me leave to in the crop if I be his cuckold, hes my drudge: he that comforts my wife is the cherisher of my flesh and blood he that cherishes my flesh and blood loves my flesh and blood he that loves my flesh and blood is my friend: ergo, he that kisses my wife is my friend. If men could be contented to be what they are, there were no fear in marriage for young Charbon the Puritan and old Poysam the Papist, howsomeer their hearts are severed in religion, their heads are both one they may jowl horns together, like any deer i the herd."
+            "text": "You're shallow, madam, in great friends; for the knaves come to do that for me which I am aweary of. He that ears my land spares my team and gives me leave to in the crop; if I be his cuckold, he's my drudge: he that comforts my wife is the cherisher of my flesh and blood; he that cherishes my flesh and blood loves my flesh and blood; he that loves my flesh and blood is my friend: ergo, he that kisses my wife is my friend. If men could be contented to be what they are, there were no fear in marriage; for young Charbon the Puritan and old Poysam the Papist, howsome'er their hearts are severed in religion, their heads are both one; they may jowl horns together, like any deer i' the herd."
         },
         {
             "speaker": "countess",
-            "text": "Wilt thou ever be a foulmouthed and calumnious knave"
+            "text": "Wilt thou ever be a foul-mouthed and calumnious knave?"
         },
         {
             "speaker": "clown",
-            "text": "A prophet I, madam and I speak the truth the next way: For I the ballad will repeat, Which men full true shall find Your marriage comes by destiny, Your cuckoo sings by kind."
+            "text": "A prophet I, madam; and I speak the truth the next way: For I the ballad will repeat, Which men full true shall find; Your marriage comes by destiny, Your cuckoo sings by kind."
         },
         {
             "speaker": "countess",
-            "text": "Get you gone, sir Ill talk with you more anon."
+            "text": "Get you gone, sir; I'll talk with you more anon."
         },
         {
             "speaker": "steward",
@@ -104,27 +104,27 @@
         },
         {
             "speaker": "countess",
-            "text": "Sirrah, tell my gentlewoman I would speak with her Helen, I mean."
+            "text": "Sirrah, tell my gentlewoman I would speak with her; Helen, I mean."
         },
         {
             "speaker": "clown",
-            "text": "Was this fair face the cause, quoth she, Why the Grecians sacked Troy Fond done, done fond, Was this King Priams joy With that she sighed as she stood, With that she sighed as she stood, And gave this sentence then Among nine bad if one be good, Among nine bad if one be good, Theres yet one good in ten."
+            "text": "Was this fair face the cause, quoth she, Why the Grecians sacked Troy? Fond done, done fond, Was this King Priam's joy? With that she sighed as she stood, With that she sighed as she stood, And gave this sentence then; Among nine bad if one be good, Among nine bad if one be good, There's yet one good in ten."
         },
         {
             "speaker": "countess",
-            "text": "What, one good in ten you corrupt the song, sirrah."
+            "text": "What, one good in ten? you corrupt the song, sirrah."
         },
         {
             "speaker": "clown",
-            "text": "One good woman in ten, madam which is a purifying o the song: would God would serve the world so all the year! weld find no fault with the tithewoman, if I were the parson. One in ten, quoth a! An we might have a good woman born but one every blazing star, or at an earthquake, twould mend the lottery well: a man may draw his heart out, ere a pluck one."
+            "text": "One good woman in ten, madam; which is a purifying o' the song: would God would serve the world so all the year! we'ld find no fault with the tithe-woman, if I were the parson. One in ten, quoth a'! An we might have a good woman born but one every blazing star, or at an earthquake, 'twould mend the lottery well: a man may draw his heart out, ere a' pluck one."
         },
         {
             "speaker": "countess",
-            "text": "Youll be gone, sir knave, and do as I command you."
+            "text": "You'll be gone, sir knave, and do as I command you."
         },
         {
             "speaker": "clown",
-            "text": "That man should be at womans command, and yet no hurt done! Though honesty be no puritan, yet it will do no hurt it will wear the surplice of humility over the black gown of a big heart. I am going, forsooth: the business is for Helen to come hither."
+            "text": "That man should be at woman's command, and yet no hurt done! Though honesty be no puritan, yet it will do no hurt; it will wear the surplice of humility over the black gown of a big heart. I am going, forsooth: the business is for Helen to come hither."
         },
         {
             "text": "Exit"
@@ -139,15 +139,15 @@
         },
         {
             "speaker": "countess",
-            "text": "Faith, I do: her father bequeathed her to me and she herself, without other advantage, may lawfully make title to as much love as she finds: there is more owing her than is paid and more shall be paid her than shell demand."
+            "text": "Faith, I do: her father bequeathed her to me; and she herself, without other advantage, may lawfully make title to as much love as she finds: there is more owing her than is paid; and more shall be paid her than she'll demand."
         },
         {
             "speaker": "steward",
-            "text": "Madam, I was very late more near her than I think she wished me: alone she was, and did communicate to herself her own words to her own ears she thought, I dare vow for her, they touched not any stranger sense. Her matter was, she loved your son: Fortune, she said, was no goddess, that had put such difference betwixt their two estates Love no god, that would not extend his might, only where qualities were level Dian no queen of virgins, that would suffer her poor knight surprised, without rescue in the first assault or ransom afterward. This she delivered in the most bitter touch of sorrow that eer I heard virgin exclaim in: which I held my duty speedily to acquaint you withal sithence, in the loss that may happen, it concerns you something to know it."
+            "text": "Madam, I was very late more near her than I think she wished me: alone she was, and did communicate to herself her own words to her own ears; she thought, I dare vow for her, they touched not any stranger sense. Her matter was, she loved your son: Fortune, she said, was no goddess, that had put such difference betwixt their two estates; Love no god, that would not extend his might, only where qualities were level; Dian no queen of virgins, that would suffer her poor knight surprised, without rescue in the first assault or ransom afterward. This she delivered in the most bitter touch of sorrow that e'er I heard virgin exclaim in: which I held my duty speedily to acquaint you withal; sithence, in the loss that may happen, it concerns you something to know it."
         },
         {
             "speaker": "countess",
-            "text": "You have discharged this honestly keep it to yourself: many likelihoods informed me of this before, which hung so tottering in the balance that I could neither believe nor misdoubt. Pray you, leave me: stall this in your bosom and I thank you for your honest care: I will speak with you further anon. Even so it was with me when I was young: If ever we are natures, these are ours this thorn Doth to our rose of youth rightly belong Our blood to us, this to our blood is born It is the show and seal of natures truth, Where loves strong passion is impressd in youth: By our remembrances of days foregone, Such were our faults, or then we thought them none. Her eye is sick ont: I observe her now."
+            "text": "You have discharged this honestly; keep it to yourself: many likelihoods informed me of this before, which hung so tottering in the balance that I could neither believe nor misdoubt. Pray you, leave me: stall this in your bosom; and I thank you for your honest care: I will speak with you further anon. Even so it was with me when I was young: If ever we are nature's, these are ours; this thorn Doth to our rose of youth rightly belong; Our blood to us, this to our blood is born; It is the show and seal of nature's truth, Where love's strong passion is impress'd in youth: By our remembrances of days foregone, Such were our faults, or then we thought them none. Her eye is sick on't: I observe her now."
         },
         {
             "text": "Exit Steward"
@@ -157,7 +157,7 @@
         },
         {
             "speaker": "helena",
-            "text": "What is your pleasure, madam"
+            "text": "What is your pleasure, madam?"
         },
         {
             "speaker": "countess",
@@ -169,7 +169,7 @@
         },
         {
             "speaker": "countess",
-            "text": "Nay, a mother: Why not a mother When I said a mother, Methought you saw a serpent: whats in mother, That you start at it I say, I am your mother And put you in the catalogue of those That were enwombed mine: tis often seen Adoption strives with nature and choice breeds A native slip to us from foreign seeds: You neer oppressd me with a mothers groan, Yet I express to you a mothers care: Gods mercy, maiden! does it curd thy blood To say I am thy mother Whats the matter, That this distemperd messenger of wet, The manycolourd Iris, rounds thine eye Why that you are my daughter"
+            "text": "Nay, a mother: Why not a mother? When I said 'a mother,' Methought you saw a serpent: what's in 'mother,' That you start at it? I say, I am your mother; And put you in the catalogue of those That were enwombed mine: 'tis often seen Adoption strives with nature and choice breeds A native slip to us from foreign seeds: You ne'er oppress'd me with a mother's groan, Yet I express to you a mother's care: God's mercy, maiden! does it curd thy blood To say I am thy mother? What's the matter, That this distemper'd messenger of wet, The many-colour'd Iris, rounds thine eye? Why? that you are my daughter?"
         },
         {
             "speaker": "helena",
@@ -181,19 +181,19 @@
         },
         {
             "speaker": "helena",
-            "text": "Pardon, madam The Count Rousillon cannot be my brother: I am from humble, he from honourd name No note upon my parents, his all noble: My master, my dear lord he is and I His servant live, and will his vassal die: He must not be my brother."
+            "text": "Pardon, madam; The Count Rousillon cannot be my brother: I am from humble, he from honour'd name; No note upon my parents, his all noble: My master, my dear lord he is; and I His servant live, and will his vassal die: He must not be my brother."
         },
         {
             "speaker": "countess",
-            "text": "Nor I your mother"
+            "text": "Nor I your mother?"
         },
         {
             "speaker": "helena",
-            "text": "You are my mother, madam would you were, So that my lord your son were not my brother, Indeed my mother! or were you both our mothers, I care no more for than I do for heaven, So I were not his sister. Cant no other, But, I your daughter, he must be my brother"
+            "text": "You are my mother, madam; would you were,-- So that my lord your son were not my brother,-- Indeed my mother! or were you both our mothers, I care no more for than I do for heaven, So I were not his sister. Can't no other, But, I your daughter, he must be my brother?"
         },
         {
             "speaker": "countess",
-            "text": "Yes, Helen, you might be my daughterinlaw: God shield you mean it not! daughter and mother So strive upon your pulse. What, pale again My fear hath catchd your fondness: now I see The mystery of your loneliness, and find Your salt tears head: now to all sense tis gross You love my son invention is ashamed, Against the proclamation of thy passion, To say thou dost not: therefore tell me true But tell me then, tis so for, look thy cheeks Confess it, th one to th other and thine eyes See it so grossly shown in thy behaviors That in their kind they speak it: only sin And hellish obstinacy tie thy tongue, That truth should be suspected. Speak, ist so If it be so, you have wound a goodly clew If it be not, forsweart: howeer, I charge thee, As heaven shall work in me for thine avail, Tell me truly."
+            "text": "Yes, Helen, you might be my daughter-in-law: God shield you mean it not! daughter and mother So strive upon your pulse. What, pale again? My fear hath catch'd your fondness: now I see The mystery of your loneliness, and find Your salt tears' head: now to all sense 'tis gross You love my son; invention is ashamed, Against the proclamation of thy passion, To say thou dost not: therefore tell me true; But tell me then, 'tis so; for, look thy cheeks Confess it, th' one to th' other; and thine eyes See it so grossly shown in thy behaviors That in their kind they speak it: only sin And hellish obstinacy tie thy tongue, That truth should be suspected. Speak, is't so? If it be so, you have wound a goodly clew; If it be not, forswear't: howe'er, I charge thee, As heaven shall work in me for thine avail, Tell me truly."
         },
         {
             "speaker": "helena",
@@ -201,7 +201,7 @@
         },
         {
             "speaker": "countess",
-            "text": "Do you love my son"
+            "text": "Do you love my son?"
         },
         {
             "speaker": "helena",
@@ -209,23 +209,23 @@
         },
         {
             "speaker": "countess",
-            "text": "Love you my son"
+            "text": "Love you my son?"
         },
         {
             "speaker": "helena",
-            "text": "Do not you love him, madam"
+            "text": "Do not you love him, madam?"
         },
         {
             "speaker": "countess",
-            "text": "Go not about my love hath int a bond, Whereof the world takes note: come, come, disclose The state of your affection for your passions Have to the full appeachd."
+            "text": "Go not about; my love hath in't a bond, Whereof the world takes note: come, come, disclose The state of your affection; for your passions Have to the full appeach'd."
         },
         {
             "speaker": "helena",
-            "text": "Then, I confess, Here on my knee, before high heaven and you, That before you, and next unto high heaven, I love your son. My friends were poor, but honest sos my love: Be not offended for it hurts not him That he is loved of me: I follow him not By any token of presumptuous suit Nor would I have him till I do deserve him Yet never know how that desert should be. I know I love in vain, strive against hope Yet in this captious and intenible sieve I still pour in the waters of my love And lack not to lose still: thus, Indianlike, Religious in mine error, I adore The sun, that looks upon his worshipper, But knows of him no more. My dearest madam, Let not your hate encounter with my love For loving where you do: but if yourself, Whose aged honour cites a virtuous youth, Did ever in so true a flame of liking Wish chastely and love dearly, that your Dian Was both herself and love: O, then, give pity To her, whose state is such that cannot choose But lend and give where she is sure to lose That seeks not to find that her search implies, But riddlelike lives sweetly where she dies!"
+            "text": "Then, I confess, Here on my knee, before high heaven and you, That before you, and next unto high heaven, I love your son. My friends were poor, but honest; so's my love: Be not offended; for it hurts not him That he is loved of me: I follow him not By any token of presumptuous suit; Nor would I have him till I do deserve him; Yet never know how that desert should be. I know I love in vain, strive against hope; Yet in this captious and intenible sieve I still pour in the waters of my love And lack not to lose still: thus, Indian-like, Religious in mine error, I adore The sun, that looks upon his worshipper, But knows of him no more. My dearest madam, Let not your hate encounter with my love For loving where you do: but if yourself, Whose aged honour cites a virtuous youth, Did ever in so true a flame of liking Wish chastely and love dearly, that your Dian Was both herself and love: O, then, give pity To her, whose state is such that cannot choose But lend and give where she is sure to lose; That seeks not to find that her search implies, But riddle-like lives sweetly where she dies!"
         },
         {
             "speaker": "countess",
-            "text": "Had you not lately an intent,speak truly, To go to Paris"
+            "text": "Had you not lately an intent,--speak truly,-- To go to Paris?"
         },
         {
             "speaker": "helena",
@@ -233,31 +233,31 @@
         },
         {
             "speaker": "countess",
-            "text": "Wherefore tell true."
+            "text": "Wherefore? tell true."
         },
         {
             "speaker": "helena",
-            "text": "I will tell truth by grace itself I swear. You know my father left me some prescriptions Of rare and proved effects, such as his reading And manifest experience had collected For general sovereignty and that he willd me In heedfullst reservation to bestow them, As notes whose faculties inclusive were More than they were in note: amongst the rest, There is a remedy, approved, set down, To cure the desperate languishings whereof The king is renderd lost."
+            "text": "I will tell truth; by grace itself I swear. You know my father left me some prescriptions Of rare and proved effects, such as his reading And manifest experience had collected For general sovereignty; and that he will'd me In heedfull'st reservation to bestow them, As notes whose faculties inclusive were More than they were in note: amongst the rest, There is a remedy, approved, set down, To cure the desperate languishings whereof The king is render'd lost."
         },
         {
             "speaker": "countess",
-            "text": "This was your motive For Paris, was it speak."
+            "text": "This was your motive For Paris, was it? speak."
         },
         {
             "speaker": "helena",
-            "text": "My lord your son made me to think of this Else Paris and the medicine and the king Had from the conversation of my thoughts Haply been absent then."
+            "text": "My lord your son made me to think of this; Else Paris and the medicine and the king Had from the conversation of my thoughts Haply been absent then."
         },
         {
             "speaker": "countess",
-            "text": "But think you, Helen, If you should tender your supposed aid, He would receive it he and his physicians Are of a mind he, that they cannot help him, They, that they cannot help: how shall they credit A poor unlearned virgin, when the schools, Embowelld of their doctrine, have left off The danger to itself"
+            "text": "But think you, Helen, If you should tender your supposed aid, He would receive it? he and his physicians Are of a mind; he, that they cannot help him, They, that they cannot help: how shall they credit A poor unlearned virgin, when the schools, Embowell'd of their doctrine, have left off The danger to itself?"
         },
         {
             "speaker": "helena",
-            "text": "Theres something int, More than my fathers skill, which was the greatest Of his profession, that his good receipt Shall for my legacy be sanctified By the luckiest stars in heaven: and, would your honour But give me leave to try success, Ild venture The welllost life of mine on his graces cure By such a day and hour."
+            "text": "There's something in't, More than my father's skill, which was the greatest Of his profession, that his good receipt Shall for my legacy be sanctified By the luckiest stars in heaven: and, would your honour But give me leave to try success, I'ld venture The well-lost life of mine on his grace's cure By such a day and hour."
         },
         {
             "speaker": "countess",
-            "text": "Dost thou believet"
+            "text": "Dost thou believe't?"
         },
         {
             "speaker": "helena",
@@ -265,7 +265,7 @@
         },
         {
             "speaker": "countess",
-            "text": "Why, Helen, thou shalt have my leave and love, Means and attendants and my loving greetings To those of mine in court: Ill stay at home And pray Gods blessing into thy attempt: Be gone tomorrow and be sure of this, What I can help thee to thou shalt not miss."
+            "text": "Why, Helen, thou shalt have my leave and love, Means and attendants and my loving greetings To those of mine in court: I'll stay at home And pray God's blessing into thy attempt: Be gone to-morrow; and be sure of this, What I can help thee to thou shalt not miss."
         },
         {
             "text": "Exeunt"

@@ -1,7 +1,7 @@
 {
     "sceneName": "Act 2, scene 5",
     "playName": "twelfth night",
-    "location": "OLIVIAs garden.",
+    "location": "OLIVIA's garden.",
     "lines": [
         {
             "text": "Enter SIR TOBY BELCH, SIR ANDREW, and FABIAN"
@@ -12,19 +12,19 @@
         },
         {
             "speaker": "fabian",
-            "text": "Nay, Ill come: if I lose a scruple of this sport, let me be boiled to death with melancholy."
+            "text": "Nay, I'll come: if I lose a scruple of this sport, let me be boiled to death with melancholy."
         },
         {
             "speaker": "sir toby belch",
-            "text": "Wouldst thou not be glad to have the niggardly rascally sheepbiter come by some notable shame"
+            "text": "Wouldst thou not be glad to have the niggardly rascally sheep-biter come by some notable shame?"
         },
         {
             "speaker": "fabian",
-            "text": "I would exult, man: you know, he brought me out o favour with my lady about a bearbaiting here."
+            "text": "I would exult, man: you know, he brought me out o' favour with my lady about a bear-baiting here."
         },
         {
             "speaker": "sir toby belch",
-            "text": "To anger him well have the bear again and we will fool him black and blue: shall we not, Sir Andrew"
+            "text": "To anger him we'll have the bear again; and we will fool him black and blue: shall we not, Sir Andrew?"
         },
         {
             "speaker": "sir andrew",
@@ -39,7 +39,7 @@
         },
         {
             "speaker": "maria",
-            "text": "Get ye all three into the boxtree: Malvolios coming down this walk: he has been yonder i the sun practising behavior to his own shadow this half hour: observe him, for the love of mockery for I know this letter will make a contemplative idiot of him. Close, in the name of jesting! Lie thou there, for here comes the trout that must be caught with tickling."
+            "text": "Get ye all three into the box-tree: Malvolio's coming down this walk: he has been yonder i' the sun practising behavior to his own shadow this half hour: observe him, for the love of mockery; for I know this letter will make a contemplative idiot of him. Close, in the name of jesting! Lie thou there, for here comes the trout that must be caught with tickling."
         },
         {
             "text": "Throws down a letter"
@@ -52,19 +52,19 @@
         },
         {
             "speaker": "malvolio",
-            "text": "Tis but fortune all is fortune. Maria once told me she did affect me: and I have heard herself come thus near, that, should she fancy, it should be one of my complexion. Besides, she uses me with a more exalted respect than any one else that follows her. What should I think ont"
+            "text": "'Tis but fortune; all is fortune. Maria once told me she did affect me: and I have heard herself come thus near, that, should she fancy, it should be one of my complexion. Besides, she uses me with a more exalted respect than any one else that follows her. What should I think on't?"
         },
         {
             "speaker": "sir toby belch",
-            "text": "Heres an overweening rogue!"
+            "text": "Here's an overweening rogue!"
         },
         {
             "speaker": "fabian",
-            "text": "O, peace! Contemplation makes a rare turkeycock of him: how he jets under his advanced plumes!"
+            "text": "O, peace! Contemplation makes a rare turkey-cock of him: how he jets under his advanced plumes!"
         },
         {
             "speaker": "sir andrew",
-            "text": "Slight, I could so beat the rogue!"
+            "text": "'Slight, I could so beat the rogue!"
         },
         {
             "speaker": "sir toby belch",
@@ -88,7 +88,7 @@
         },
         {
             "speaker": "malvolio",
-            "text": "There is example fort the lady of the Strachy married the yeoman of the wardrobe."
+            "text": "There is example for't; the lady of the Strachy married the yeoman of the wardrobe."
         },
         {
             "speaker": "sir andrew",
@@ -96,19 +96,19 @@
         },
         {
             "speaker": "fabian",
-            "text": "O, peace! now hes deeply in: look how imagination blows him."
+            "text": "O, peace! now he's deeply in: look how imagination blows him."
         },
         {
             "speaker": "malvolio",
-            "text": "Having been three months married to her, sitting in my state,"
+            "text": "Having been three months married to her, sitting in my state,--"
         },
         {
             "speaker": "sir toby belch",
-            "text": "O, for a stonebow, to hit him in the eye!"
+            "text": "O, for a stone-bow, to hit him in the eye!"
         },
         {
             "speaker": "malvolio",
-            "text": "Calling my officers about me, in my branched velvet gown having come from a daybed, where I have left Olivia sleeping,"
+            "text": "Calling my officers about me, in my branched velvet gown; having come from a day-bed, where I have left Olivia sleeping,--"
         },
         {
             "speaker": "sir toby belch",
@@ -120,7 +120,7 @@
         },
         {
             "speaker": "malvolio",
-            "text": "And then to have the humour of state and after a demure travel of regard, telling them I know my place as I would they should do theirs, to for my kinsman Toby,"
+            "text": "And then to have the humour of state; and after a demure travel of regard, telling them I know my place as I would they should do theirs, to for my kinsman Toby,--"
         },
         {
             "speaker": "sir toby belch",
@@ -132,11 +132,11 @@
         },
         {
             "speaker": "malvolio",
-            "text": "Seven of my people, with an obedient start, make out for him: I frown the while and perchance wind up watch, or play with mysome rich jewel. Toby approaches courtesies there to me,"
+            "text": "Seven of my people, with an obedient start, make out for him: I frown the while; and perchance wind up watch, or play with my--some rich jewel. Toby approaches; courtesies there to me,--"
         },
         {
             "speaker": "sir toby belch",
-            "text": "Shall this fellow live"
+            "text": "Shall this fellow live?"
         },
         {
             "speaker": "fabian",
@@ -144,23 +144,23 @@
         },
         {
             "speaker": "malvolio",
-            "text": "I extend my hand to him thus, quenching my familiar smile with an austere regard of control,"
+            "text": "I extend my hand to him thus, quenching my familiar smile with an austere regard of control,--"
         },
         {
             "speaker": "sir toby belch",
-            "text": "And does not Toby take you a blow o the lips then"
+            "text": "And does not Toby take you a blow o' the lips then?"
         },
         {
             "speaker": "malvolio",
-            "text": "Saying, Cousin Toby, my fortunes having cast me on your niece give me this prerogative of speech,"
+            "text": "Saying, 'Cousin Toby, my fortunes having cast me on your niece give me this prerogative of speech,'--"
         },
         {
             "speaker": "sir toby belch",
-            "text": "What, what"
+            "text": "What, what?"
         },
         {
             "speaker": "malvolio",
-            "text": "You must amend your drunkenness."
+            "text": "'You must amend your drunkenness.'"
         },
         {
             "speaker": "sir toby belch",
@@ -172,23 +172,23 @@
         },
         {
             "speaker": "malvolio",
-            "text": "Besides, you waste the treasure of your time with a foolish knight,"
+            "text": "'Besides, you waste the treasure of your time with a foolish knight,'--"
         },
         {
             "speaker": "sir andrew",
-            "text": "Thats me, I warrant you."
+            "text": "That's me, I warrant you."
         },
         {
             "speaker": "malvolio",
-            "text": "One Sir Andrew,"
+            "text": "'One Sir Andrew,'--"
         },
         {
             "speaker": "sir andrew",
-            "text": "I knew twas I for many do call me fool."
+            "text": "I knew 'twas I; for many do call me fool."
         },
         {
             "speaker": "malvolio",
-            "text": "What employment have we here"
+            "text": "What employment have we here?"
         },
         {
             "text": "Taking up the letter"
@@ -203,15 +203,15 @@
         },
         {
             "speaker": "malvolio",
-            "text": "By my life, this is my ladys hand these be her very Cs, her Us and her Ts and thus makes she her great Ps. It is, in contempt of question, her hand."
+            "text": "By my life, this is my lady's hand these be her very C's, her U's and her T's and thus makes she her great P's. It is, in contempt of question, her hand."
         },
         {
             "speaker": "sir andrew",
-            "text": "Her Cs, her Us and her Ts: why that"
+            "text": "Her C's, her U's and her T's: why that?"
         },
         {
             "speaker": "malvolio",
-            "text": "[Reads]  To the unknown beloved, this, and my good wishes:her very phrases! By your leave, wax. Soft! and the impressure her Lucrece, with which she uses to seal: tis my lady. To whom should this be"
+            "text": "[Reads]  'To the unknown beloved, this, and my good wishes:'--her very phrases! By your leave, wax. Soft! and the impressure her Lucrece, with which she uses to seal: 'tis my lady. To whom should this be?"
         },
         {
             "speaker": "fabian",
@@ -219,7 +219,7 @@
         },
         {
             "speaker": "malvolio",
-            "text": "[Reads] Jove knows I love: But who Lips, do not move No man must know. No man must know. What follows the numbers altered! No man must know: if this should be thee, Malvolio"
+            "text": "[Reads] Jove knows I love: But who? Lips, do not move; No man must know. 'No man must know.' What follows? the numbers altered! 'No man must know:' if this should be thee, Malvolio?"
         },
         {
             "speaker": "sir toby belch",
@@ -227,7 +227,7 @@
         },
         {
             "speaker": "malvolio",
-            "text": "[Reads] I may command where I adore But silence, like a Lucrece knife, With bloodless stroke my heart doth gore: M, O, A, I, doth sway my life."
+            "text": "[Reads] I may command where I adore; But silence, like a Lucrece knife, With bloodless stroke my heart doth gore: M, O, A, I, doth sway my life."
         },
         {
             "speaker": "fabian",
@@ -239,11 +239,11 @@
         },
         {
             "speaker": "malvolio",
-            "text": "M, O, A, I, doth sway my life. Nay, but first, let me see, let me see, let me see."
+            "text": "'M, O, A, I, doth sway my life.' Nay, but first, let me see, let me see, let me see."
         },
         {
             "speaker": "fabian",
-            "text": "What dish o poison has she dressed him!"
+            "text": "What dish o' poison has she dressed him!"
         },
         {
             "speaker": "sir toby belch",
@@ -251,7 +251,7 @@
         },
         {
             "speaker": "malvolio",
-            "text": "I may command where I adore. Why, she may command me: I serve her she is my lady. Why, this is evident to any formal capacity there is no obstruction in this: and the end,what should that alphabetical position portend If I could make that resemble something in me,Softly! M, O, A, I,"
+            "text": "'I may command where I adore.' Why, she may command me: I serve her; she is my lady. Why, this is evident to any formal capacity; there is no obstruction in this: and the end,--what should that alphabetical position portend? If I could make that resemble something in me,--Softly! M, O, A, I,--"
         },
         {
             "speaker": "sir toby belch",
@@ -259,19 +259,19 @@
         },
         {
             "speaker": "fabian",
-            "text": "Sowter will cry upont for all this, though it be as rank as a fox."
+            "text": "Sowter will cry upon't for all this, though it be as rank as a fox."
         },
         {
             "speaker": "malvolio",
-            "text": "M,Malvolio M,why, that begins my name."
+            "text": "M,--Malvolio; M,--why, that begins my name."
         },
         {
             "speaker": "fabian",
-            "text": "Did not I say he would work it out the cur is excellent at faults."
+            "text": "Did not I say he would work it out? the cur is excellent at faults."
         },
         {
             "speaker": "malvolio",
-            "text": "M,but then there is no consonancy in the sequel that suffers under probation A should follow but O does."
+            "text": "M,--but then there is no consonancy in the sequel; that suffers under probation A should follow but O does."
         },
         {
             "speaker": "fabian",
@@ -279,7 +279,7 @@
         },
         {
             "speaker": "sir toby belch",
-            "text": "Ay, or Ill cudgel him, and make him cry O!"
+            "text": "Ay, or I'll cudgel him, and make him cry O!"
         },
         {
             "speaker": "malvolio",
@@ -291,7 +291,7 @@
         },
         {
             "speaker": "malvolio",
-            "text": "M, O, A, I this simulation is not as the former: and yet, to crush this a little, it would bow to me, for every one of these letters are in my name. Soft! here follows prose. If this fall into thy hand, revolve. In my stars I am above thee but be not afraid of greatness: some are born great, some achieve greatness, and some have greatness thrust upon em. Thy Fates open their hands let thy blood and spirit embrace them and, to inure thyself to what thou art like to be, cast thy humble slough and appear fresh. Be opposite with a kinsman, surly with servants let thy tongue tang arguments of state put thyself into the trick of singularity: she thus advises thee that sighs for thee. Remember who commended thy yellow stockings, and wished to see thee ever crossgartered: I say, remember. Go to, thou art made, if thou desirest to be so if not, let me see thee a steward still, the fellow of servants, and not worthy to touch Fortunes fingers. Farewell. She that would alter services with thee, THE FORTUNATEUNHAPPY. Daylight and champaign discovers not more: this is open. I will be proud, I will read politic authors, I will baffle Sir Toby, I will wash off gross acquaintance, I will be pointdevise the very man. I do not now fool myself, to let imagination jade me for every reason excites to this, that my lady loves me. She did commend my yellow stockings of late, she did praise my leg being crossgartered and in this she manifests herself to my love, and with a kind of injunction drives me to these habits of her liking. I thank my stars I am happy. I will be strange, stout, in yellow stockings, and crossgartered, even with the swiftness of putting on. Jove and my stars be praised! Here is yet a postscript. Thou canst not choose but know who I am. If thou entertainest my love, let it appear in thy smiling thy smiles become thee well therefore in my presence still smile, dear my sweet, I prithee. Jove, I thank thee: I will smile I will do everything that thou wilt have me."
+            "text": "M, O, A, I; this simulation is not as the former: and yet, to crush this a little, it would bow to me, for every one of these letters are in my name. Soft! here follows prose. 'If this fall into thy hand, revolve. In my stars I am above thee; but be not afraid of greatness: some are born great, some achieve greatness, and some have greatness thrust upon 'em. Thy Fates open their hands; let thy blood and spirit embrace them; and, to inure thyself to what thou art like to be, cast thy humble slough and appear fresh. Be opposite with a kinsman, surly with servants; let thy tongue tang arguments of state; put thyself into the trick of singularity: she thus advises thee that sighs for thee. Remember who commended thy yellow stockings, and wished to see thee ever cross-gartered: I say, remember. Go to, thou art made, if thou desirest to be so; if not, let me see thee a steward still, the fellow of servants, and not worthy to touch Fortune's fingers. Farewell. She that would alter services with thee, THE FORTUNATE-UNHAPPY.' Daylight and champaign discovers not more: this is open. I will be proud, I will read politic authors, I will baffle Sir Toby, I will wash off gross acquaintance, I will be point-devise the very man. I do not now fool myself, to let imagination jade me; for every reason excites to this, that my lady loves me. She did commend my yellow stockings of late, she did praise my leg being cross-gartered; and in this she manifests herself to my love, and with a kind of injunction drives me to these habits of her liking. I thank my stars I am happy. I will be strange, stout, in yellow stockings, and cross-gartered, even with the swiftness of putting on. Jove and my stars be praised! Here is yet a postscript. 'Thou canst not choose but know who I am. If thou entertainest my love, let it appear in thy smiling; thy smiles become thee well; therefore in my presence still smile, dear my sweet, I prithee.' Jove, I thank thee: I will smile; I will do everything that thou wilt have me."
         },
         {
             "text": "Reads"
@@ -324,26 +324,26 @@
         },
         {
             "speaker": "fabian",
-            "text": "Here comes my noble gullcatcher."
+            "text": "Here comes my noble gull-catcher."
         },
         {
-            "text": "Reenter MARIA"
-        },
-        {
-            "speaker": "sir toby belch",
-            "text": "Wilt thou set thy foot o my neck"
-        },
-        {
-            "speaker": "sir andrew",
-            "text": "Or o mine either"
+            "text": "Re-enter MARIA"
         },
         {
             "speaker": "sir toby belch",
-            "text": "Shall I play my freedom at traytrip, and become thy bondslave"
+            "text": "Wilt thou set thy foot o' my neck?"
         },
         {
             "speaker": "sir andrew",
-            "text": "I faith, or I either"
+            "text": "Or o' mine either?"
+        },
+        {
+            "speaker": "sir toby belch",
+            "text": "Shall I play my freedom at traytrip, and become thy bond-slave?"
+        },
+        {
+            "speaker": "sir andrew",
+            "text": "I' faith, or I either?"
         },
         {
             "speaker": "sir toby belch",
@@ -351,15 +351,15 @@
         },
         {
             "speaker": "maria",
-            "text": "Nay, but say true does it work upon him"
+            "text": "Nay, but say true; does it work upon him?"
         },
         {
             "speaker": "sir toby belch",
-            "text": "Like aquavitae with a midwife."
+            "text": "Like aqua-vitae with a midwife."
         },
         {
             "speaker": "maria",
-            "text": "If you will then see the fruits of the sport, mark his first approach before my lady: he will come to her in yellow stockings, and tis a colour she abhors, and crossgartered, a fashion she detests and he will smile upon her, which will now be so unsuitable to her disposition, being addicted to a melancholy as she is, that it cannot but turn him into a notable contempt. If you will see it, follow me."
+            "text": "If you will then see the fruits of the sport, mark his first approach before my lady: he will come to her in yellow stockings, and 'tis a colour she abhors, and cross-gartered, a fashion she detests; and he will smile upon her, which will now be so unsuitable to her disposition, being addicted to a melancholy as she is, that it cannot but turn him into a notable contempt. If you will see it, follow me."
         },
         {
             "speaker": "sir toby belch",
@@ -367,7 +367,7 @@
         },
         {
             "speaker": "sir andrew",
-            "text": "Ill make one too."
+            "text": "I'll make one too."
         },
         {
             "text": "Exeunt"

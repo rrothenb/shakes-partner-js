@@ -4,11 +4,11 @@
     "location": "Before the Tower.",
     "lines": [
         {
-            "text": "Enter, on one side, QUEEN ELIZABETH, DUCHESS OF  YORK, and DORSET on the other, ANNE, Duchess of  Gloucester, leading Lady Margaret Plantagenet, CLARENCEs young Daughter"
+            "text": "Enter, on one side, QUEEN ELIZABETH, DUCHESS OF  YORK, and DORSET; on the other, ANNE, Duchess of  Gloucester, leading Lady Margaret Plantagenet, CLARENCE's young Daughter"
         },
         {
             "speaker": "duchess of york",
-            "text": "Who m eets us here  my niece Plantagenet Led in the hand of her kind aunt of Gloucester Now, for my life, shes wandering to the Tower, On pure hearts love to greet the tender princes. Daughter, well met."
+            "text": "Who m eets us here?  my niece Plantagenet Led in the hand of her kind aunt of Gloucester? Now, for my life, she's wandering to the Tower, On pure heart's love to greet the tender princes. Daughter, well met."
         },
         {
             "speaker": "lady anne",
@@ -16,26 +16,26 @@
         },
         {
             "speaker": "queen elizabeth",
-            "text": "As much to you, good sister! Whither away"
+            "text": "As much to you, good sister! Whither away?"
         },
         {
             "speaker": "lady anne",
-            "text": "No farther than the Tower and, as I guess, Upon the like devotion as yourselves, To gratulate the gentle princes there."
+            "text": "No farther than the Tower; and, as I guess, Upon the like devotion as yourselves, To gratulate the gentle princes there."
         },
         {
             "speaker": "queen elizabeth",
-            "text": "Kind sister, thanks: well enter all together. And, in good time, here the lieutenant comes. Master lieutenant, pray you, by your leave, How doth the prince, and my young son of York"
+            "text": "Kind sister, thanks: we'll enter all together. And, in good time, here the lieutenant comes. Master lieutenant, pray you, by your leave, How doth the prince, and my young son of York?"
         },
         {
             "text": "Enter BRAKENBURY"
         },
         {
             "speaker": "brakenbury",
-            "text": "Right well, dear madam. By your patience, I may not suffer you to visit them The king hath straitly charged the contrary."
+            "text": "Right well, dear madam. By your patience, I may not suffer you to visit them; The king hath straitly charged the contrary."
         },
         {
             "speaker": "queen elizabeth",
-            "text": "The king! why, whos that"
+            "text": "The king! why, who's that?"
         },
         {
             "speaker": "brakenbury",
@@ -43,19 +43,19 @@
         },
         {
             "speaker": "queen elizabeth",
-            "text": "The Lord protect him from that kingly title! Hath he set bounds betwixt their love and me I am their mother who should keep me from them"
+            "text": "The Lord protect him from that kingly title! Hath he set bounds betwixt their love and me? I am their mother; who should keep me from them?"
         },
         {
             "speaker": "duchess of york",
-            "text": "I am their fathers mother I will see them."
+            "text": "I am their fathers mother; I will see them."
         },
         {
             "speaker": "lady anne",
-            "text": "Their aunt I am in law, in love their mother: Then bring me to their sights Ill bear thy blame And take thy office from thee, on my peril."
+            "text": "Their aunt I am in law, in love their mother: Then bring me to their sights; I'll bear thy blame And take thy office from thee, on my peril."
         },
         {
             "speaker": "brakenbury",
-            "text": "No, madam, no I may not leave it so: I am bound by oath, and therefore pardon me."
+            "text": "No, madam, no; I may not leave it so: I am bound by oath, and therefore pardon me."
         },
         {
             "text": "Exit"
@@ -65,14 +65,14 @@
         },
         {
             "speaker": "lord stanley",
-            "text": "Let me but meet you, ladies, one hour hence, And Ill salute your grace of York as mother, And reverend looker on, of two fair queens. Come, madam, you must straight to Westminster, There to be crowned Richards royal queen."
+            "text": "Let me but meet you, ladies, one hour hence, And I'll salute your grace of York as mother, And reverend looker on, of two fair queens. Come, madam, you must straight to Westminster, There to be crowned Richard's royal queen."
         },
         {
             "text": "To LADY ANNE"
         },
         {
             "speaker": "queen elizabeth",
-            "text": "O, cut my lace in sunder, that my pent heart May have some scope to beat, or else I swoon With this deadkilling news!"
+            "text": "O, cut my lace in sunder, that my pent heart May have some scope to beat, or else I swoon With this dead-killing news!"
         },
         {
             "speaker": "lady anne",
@@ -80,27 +80,27 @@
         },
         {
             "speaker": "dorset",
-            "text": "Be of good cheer: mother, how fares your grace"
+            "text": "Be of good cheer: mother, how fares your grace?"
         },
         {
             "speaker": "queen elizabeth",
-            "text": "O Dorset, speak not to me, get thee hence! Death and destruction dog thee at the heels Thy mothers name is ominous to children. If thou wilt outstrip death, go cross the seas, And live with Richmond, from the reach of hell Go, hie thee, hie thee from this slaughterhouse, Lest thou increase the number of the dead And make me die the thrall of Margarets curse, Nor mother, wife, nor Englands counted queen."
+            "text": "O Dorset, speak not to me, get thee hence! Death and destruction dog thee at the heels; Thy mother's name is ominous to children. If thou wilt outstrip death, go cross the seas, And live with Richmond, from the reach of hell Go, hie thee, hie thee from this slaughter-house, Lest thou increase the number of the dead; And make me die the thrall of Margaret's curse, Nor mother, wife, nor England's counted queen."
         },
         {
             "speaker": "lord stanley",
-            "text": "Full of wise care is this your counsel, madam. Take all the swift advantage of the hours You shall have letters from me to my son To meet you on the way, and welcome you. Be not taen tardy by unwise delay."
+            "text": "Full of wise care is this your counsel, madam. Take all the swift advantage of the hours; You shall have letters from me to my son To meet you on the way, and welcome you. Be not ta'en tardy by unwise delay."
         },
         {
             "speaker": "duchess of york",
-            "text": "O illdispersing wind of misery! O my accursed womb, the bed of death! A cockatrice hast thou hatchd to the world, Whose unavoided eye is murderous."
+            "text": "O ill-dispersing wind of misery! O my accursed womb, the bed of death! A cockatrice hast thou hatch'd to the world, Whose unavoided eye is murderous."
         },
         {
             "speaker": "lord stanley",
-            "text": "Come, madam, come I in all haste was sent."
+            "text": "Come, madam, come; I in all haste was sent."
         },
         {
             "speaker": "lady anne",
-            "text": "And I in all unwillingness will go. I would to God that the inclusive verge Of golden metal that must round my brow Were redhot steel, to sear me to the brain! Anointed let me be with deadly venom, And die, ere men can say, God save the queen!"
+            "text": "And I in all unwillingness will go. I would to God that the inclusive verge Of golden metal that must round my brow Were red-hot steel, to sear me to the brain! Anointed let me be with deadly venom, And die, ere men can say, God save the queen!"
         },
         {
             "speaker": "queen elizabeth",
@@ -108,7 +108,7 @@
         },
         {
             "speaker": "lady anne",
-            "text": "No! why  When he that is my husband now Came to me, as I followd Henrys corse, When scarce the blood was well washd from his hands Which issued from my other angel husband And that dead saint which then I weeping followd O, when, I say, I lookd on Richards face, This was my wish: Be thou, quoth I,  accursed, For making me, so young, so old a widow! And, when thou wedst, let sorrow haunt thy bed And be thy wifeif any be so mad As miserable by the life of thee As thou hast made me by my dear lords death! Lo, ere I can repeat this curse again, Even in so short a space, my womans heart Grossly grew captive to his honey words And proved the subject of my own souls curse, Which ever since hath kept my eyes from rest For never yet one hour in his bed Have I enjoyd the golden dew of sleep, But have been waked by his timorous dreams. Besides, he hates me for my father Warwick And will, no doubt, shortly be rid of me."
+            "text": "No! why?  When he that is my husband now Came to me, as I follow'd Henry's corse, When scarce the blood was well wash'd from his hands Which issued from my other angel husband And that dead saint which then I weeping follow'd; O, when, I say, I look'd on Richard's face, This was my wish: 'Be thou,' quoth I, ' accursed, For making me, so young, so old a widow! And, when thou wed'st, let sorrow haunt thy bed; And be thy wife--if any be so mad-- As miserable by the life of thee As thou hast made me by my dear lord's death! Lo, ere I can repeat this curse again, Even in so short a space, my woman's heart Grossly grew captive to his honey words And proved the subject of my own soul's curse, Which ever since hath kept my eyes from rest; For never yet one hour in his bed Have I enjoy'd the golden dew of sleep, But have been waked by his timorous dreams. Besides, he hates me for my father Warwick; And will, no doubt, shortly be rid of me."
         },
         {
             "speaker": "queen elizabeth",
@@ -128,7 +128,7 @@
         },
         {
             "speaker": "duchess of york",
-            "text": "[To DORSET] Go thou to Richmond, and good fortune guide thee! Go thou to Richard, and good angels guard thee! Go thou to sanctuary, and good thoughts possess thee! I to my grave, where peace and rest lie with me! Eighty odd years of sorrow have I seen, And each hours joy wrecked with a week of teen."
+            "text": "[To DORSET] Go thou to Richmond, and good fortune guide thee! Go thou to Richard, and good angels guard thee! Go thou to sanctuary, and good thoughts possess thee! I to my grave, where peace and rest lie with me! Eighty odd years of sorrow have I seen, And each hour's joy wrecked with a week of teen."
         },
         {
             "text": "To LADY ANNE"

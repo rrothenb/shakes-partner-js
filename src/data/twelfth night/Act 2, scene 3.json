@@ -1,14 +1,14 @@
 {
     "sceneName": "Act 2, scene 3",
     "playName": "twelfth night",
-    "location": "OLIVIAs house.",
+    "location": "OLIVIA's house.",
     "lines": [
         {
             "text": "Enter SIR TOBY BELCH and SIR ANDREW"
         },
         {
             "speaker": "sir toby belch",
-            "text": "Approach, Sir Andrew: not to be abed after midnight is to be up betimes and diluculo surgere, thou knowst,"
+            "text": "Approach, Sir Andrew: not to be abed after midnight is to be up betimes; and 'diluculo surgere,' thou know'st,--"
         },
         {
             "speaker": "sir andrew",
@@ -16,38 +16,38 @@
         },
         {
             "speaker": "sir toby belch",
-            "text": "A false conclusion: I hate it as an unfilled can. To be up after midnight and to go to bed then, is early: so that to go to bed after midnight is to go to bed betimes. Does not our life consist of the four elements"
+            "text": "A false conclusion: I hate it as an unfilled can. To be up after midnight and to go to bed then, is early: so that to go to bed after midnight is to go to bed betimes. Does not our life consist of the four elements?"
         },
         {
             "speaker": "sir andrew",
-            "text": "Faith, so they say but I think it rather consists of eating and drinking."
+            "text": "Faith, so they say; but I think it rather consists of eating and drinking."
         },
         {
             "speaker": "sir toby belch",
-            "text": "Thourt a scholar let us therefore eat and drink. Marian, I say! a stoup of wine!"
+            "text": "Thou'rt a scholar; let us therefore eat and drink. Marian, I say! a stoup of wine!"
         },
         {
             "text": "Enter Clown"
         },
         {
             "speaker": "sir andrew",
-            "text": "Here comes the fool, i faith."
+            "text": "Here comes the fool, i' faith."
         },
         {
             "speaker": "clown",
-            "text": "How now, my hearts! did you never see the picture of we three"
+            "text": "How now, my hearts! did you never see the picture of 'we three'?"
         },
         {
             "speaker": "sir toby belch",
-            "text": "Welcome, ass. Now lets have a catch."
+            "text": "Welcome, ass. Now let's have a catch."
         },
         {
             "speaker": "sir andrew",
-            "text": "By my troth, the fool has an excellent breast. I had rather than forty shillings I had such a leg, and so sweet a breath to sing, as the fool has. In sooth, thou wast in very gracious fooling last night, when thou spokest of Pigrogromitus, of the Vapians passing the equinoctial of Queubus: twas very good, i faith. I sent thee sixpence for thy leman: hadst it"
+            "text": "By my troth, the fool has an excellent breast. I had rather than forty shillings I had such a leg, and so sweet a breath to sing, as the fool has. In sooth, thou wast in very gracious fooling last night, when thou spokest of Pigrogromitus, of the Vapians passing the equinoctial of Queubus: 'twas very good, i' faith. I sent thee sixpence for thy leman: hadst it?"
         },
         {
             "speaker": "clown",
-            "text": "I did impeticos thy gratillity for Malvolios nose is no whipstock: my lady has a white hand, and the Myrmidons are no bottleale houses."
+            "text": "I did impeticos thy gratillity; for Malvolio's nose is no whipstock: my lady has a white hand, and the Myrmidons are no bottle-ale houses."
         },
         {
             "speaker": "sir andrew",
@@ -55,19 +55,19 @@
         },
         {
             "speaker": "sir toby belch",
-            "text": "Come on there is sixpence for you: lets have a song."
+            "text": "Come on; there is sixpence for you: let's have a song."
         },
         {
             "speaker": "sir andrew",
-            "text": "Theres a testril of me too: if one knight give a"
+            "text": "There's a testril of me too: if one knight give a--"
         },
         {
             "speaker": "clown",
-            "text": "Would you have a lovesong, or a song of good life"
+            "text": "Would you have a love-song, or a song of good life?"
         },
         {
             "speaker": "sir toby belch",
-            "text": "A lovesong, a lovesong."
+            "text": "A love-song, a love-song."
         },
         {
             "speaker": "sir andrew",
@@ -75,11 +75,11 @@
         },
         {
             "speaker": "clown",
-            "text": "[Sings] O mistress mine, where are you roaming O, stay and hear your true loves coming, That can sing both high and low: Trip no further, pretty sweeting Journeys end in lovers meeting, Every wise mans son doth know."
+            "text": "[Sings] O mistress mine, where are you roaming? O, stay and hear; your true love's coming, That can sing both high and low: Trip no further, pretty sweeting; Journeys end in lovers meeting, Every wise man's son doth know."
         },
         {
             "speaker": "sir andrew",
-            "text": "Excellent good, i faith."
+            "text": "Excellent good, i' faith."
         },
         {
             "speaker": "sir toby belch",
@@ -87,7 +87,7 @@
         },
         {
             "speaker": "clown",
-            "text": "[Sings] What is love tis not hereafter Present mirth hath present laughter Whats to come is still unsure: In delay there lies no plenty Then come kiss me, sweet and twenty, Youths a stuff will not endure."
+            "text": "[Sings] What is love? 'tis not hereafter; Present mirth hath present laughter; What's to come is still unsure: In delay there lies no plenty; Then come kiss me, sweet and twenty, Youth's a stuff will not endure."
         },
         {
             "speaker": "sir andrew",
@@ -99,31 +99,31 @@
         },
         {
             "speaker": "sir andrew",
-            "text": "Very sweet and contagious, i faith."
+            "text": "Very sweet and contagious, i' faith."
         },
         {
             "speaker": "sir toby belch",
-            "text": "To hear by the nose, it is dulcet in contagion. But shall we make the welkin dance indeed shall we rouse the nightowl in a catch that will draw three souls out of one weaver shall we do that"
+            "text": "To hear by the nose, it is dulcet in contagion. But shall we make the welkin dance indeed? shall we rouse the night-owl in a catch that will draw three souls out of one weaver? shall we do that?"
         },
         {
             "speaker": "sir andrew",
-            "text": "An you love me, lets dot: I am dog at a catch."
+            "text": "An you love me, let's do't: I am dog at a catch."
         },
         {
             "speaker": "clown",
-            "text": "Byr lady, sir, and some dogs will catch well."
+            "text": "By'r lady, sir, and some dogs will catch well."
         },
         {
             "speaker": "sir andrew",
-            "text": "Most certain. Let our catch be, Thou knave."
+            "text": "Most certain. Let our catch be, 'Thou knave.'"
         },
         {
             "speaker": "clown",
-            "text": "Hold thy peace, thou knave, knight I shall be constrained int to call thee knave, knight."
+            "text": "'Hold thy peace, thou knave,' knight? I shall be constrained in't to call thee knave, knight."
         },
         {
             "speaker": "sir andrew",
-            "text": "Tis not the first time I have constrained one to call me knave. Begin, fool: it begins Hold thy peace."
+            "text": "'Tis not the first time I have constrained one to call me knave. Begin, fool: it begins 'Hold thy peace.'"
         },
         {
             "speaker": "clown",
@@ -131,7 +131,7 @@
         },
         {
             "speaker": "sir andrew",
-            "text": "Good, i faith. Come, begin."
+            "text": "Good, i' faith. Come, begin."
         },
         {
             "text": "Catch sung"
@@ -145,14 +145,14 @@
         },
         {
             "speaker": "sir toby belch",
-            "text": "My ladys a Cataian, we are politicians, Malvolios a PegaRamsey, and Three merry men be we. Am not I consanguineous am I not of her blood Tillyvally. Lady! There dwelt a man in Babylon, lady, lady!"
+            "text": "My lady's a Cataian, we are politicians, Malvolio's a Peg-a-Ramsey, and 'Three merry men be we.' Am not I consanguineous? am I not of her blood? Tillyvally. Lady! 'There dwelt a man in Babylon, lady, lady!'"
         },
         {
             "text": "Sings"
         },
         {
             "speaker": "clown",
-            "text": "Beshrew me, the knights in admirable fooling."
+            "text": "Beshrew me, the knight's in admirable fooling."
         },
         {
             "speaker": "sir andrew",
@@ -160,18 +160,18 @@
         },
         {
             "speaker": "sir toby belch",
-            "text": "[Sings]  O, the twelfth day of December,"
+            "text": "[Sings]  'O, the twelfth day of December,'--"
         },
         {
             "speaker": "maria",
-            "text": "For the love o God, peace!"
+            "text": "For the love o' God, peace!"
         },
         {
             "text": "Enter MALVOLIO"
         },
         {
             "speaker": "malvolio",
-            "text": "My masters, are you mad or what are you Have ye no wit, manners, nor honesty, but to gabble like tinkers at this time of night Do ye make an alehouse of my ladys house, that ye squeak out your coziers catches without any mitigation or remorse of voice Is there no respect of place, persons, nor time in you"
+            "text": "My masters, are you mad? or what are you? Have ye no wit, manners, nor honesty, but to gabble like tinkers at this time of night? Do ye make an alehouse of my lady's house, that ye squeak out your coziers' catches without any mitigation or remorse of voice? Is there no respect of place, persons, nor time in you?"
         },
         {
             "speaker": "sir toby belch",
@@ -179,11 +179,11 @@
         },
         {
             "speaker": "malvolio",
-            "text": "Sir Toby, I must be round with you. My lady bade me tell you, that, though she harbours you as her kinsman, shes nothing allied to your disorders. If you can separate yourself and your misdemeanors, you are welcome to the house if not, an it would please you to take leave of her, she is very willing to bid you farewell."
+            "text": "Sir Toby, I must be round with you. My lady bade me tell you, that, though she harbours you as her kinsman, she's nothing allied to your disorders. If you can separate yourself and your misdemeanors, you are welcome to the house; if not, an it would please you to take leave of her, she is very willing to bid you farewell."
         },
         {
             "speaker": "sir toby belch",
-            "text": "Farewell, dear heart, since I must needs be gone."
+            "text": "'Farewell, dear heart, since I must needs be gone.'"
         },
         {
             "speaker": "maria",
@@ -191,15 +191,15 @@
         },
         {
             "speaker": "clown",
-            "text": "His eyes do show his days are almost done."
+            "text": "'His eyes do show his days are almost done.'"
         },
         {
             "speaker": "malvolio",
-            "text": "Ist even so"
+            "text": "Is't even so?"
         },
         {
             "speaker": "sir toby belch",
-            "text": "But I will never die."
+            "text": "'But I will never die.'"
         },
         {
             "speaker": "clown",
@@ -211,35 +211,35 @@
         },
         {
             "speaker": "sir toby belch",
-            "text": "Shall I bid him go"
+            "text": "'Shall I bid him go?'"
         },
         {
             "speaker": "clown",
-            "text": "What an if you do"
+            "text": "'What an if you do?'"
         },
         {
             "speaker": "sir toby belch",
-            "text": "Shall I bid him go, and spare not"
+            "text": "'Shall I bid him go, and spare not?'"
         },
         {
             "speaker": "clown",
-            "text": "O no, no, no, no, you dare not."
+            "text": "'O no, no, no, no, you dare not.'"
         },
         {
             "speaker": "sir toby belch",
-            "text": "Out o tune, sir: ye lie. Art any more than a steward Dost thou think, because thou art virtuous, there shall be no more cakes and ale"
+            "text": "Out o' tune, sir: ye lie. Art any more than a steward? Dost thou think, because thou art virtuous, there shall be no more cakes and ale?"
         },
         {
             "speaker": "clown",
-            "text": "Yes, by Saint Anne, and ginger shall be hot i the mouth too."
+            "text": "Yes, by Saint Anne, and ginger shall be hot i' the mouth too."
         },
         {
             "speaker": "sir toby belch",
-            "text": "Thourt i the right. Go, sir, rub your chain with crumbs. A stoup of wine, Maria!"
+            "text": "Thou'rt i' the right. Go, sir, rub your chain with crumbs. A stoup of wine, Maria!"
         },
         {
             "speaker": "malvolio",
-            "text": "Mistress Mary, if you prized my ladys favour at any thing more than contempt, you would not give means for this uncivil rule: she shall know of it, by this hand."
+            "text": "Mistress Mary, if you prized my lady's favour at any thing more than contempt, you would not give means for this uncivil rule: she shall know of it, by this hand."
         },
         {
             "text": "Exit"
@@ -250,19 +250,19 @@
         },
         {
             "speaker": "sir andrew",
-            "text": "Twere as good a deed as to drink when a mans ahungry, to challenge him the field, and then to break promise with him and make a fool of him."
+            "text": "'Twere as good a deed as to drink when a man's a-hungry, to challenge him the field, and then to break promise with him and make a fool of him."
         },
         {
             "speaker": "sir toby belch",
-            "text": "Dot, knight: Ill write thee a challenge: or Ill deliver thy indignation to him by word of mouth."
+            "text": "Do't, knight: I'll write thee a challenge: or I'll deliver thy indignation to him by word of mouth."
         },
         {
             "speaker": "maria",
-            "text": "Sweet Sir Toby, be patient for tonight: since the youth of the counts was today with thy lady, she is much out of quiet. For Monsieur Malvolio, let me alone with him: if I do not gull him into a nayword, and make him a common recreation, do not think I have wit enough to lie straight in my bed: I know I can do it."
+            "text": "Sweet Sir Toby, be patient for tonight: since the youth of the count's was today with thy lady, she is much out of quiet. For Monsieur Malvolio, let me alone with him: if I do not gull him into a nayword, and make him a common recreation, do not think I have wit enough to lie straight in my bed: I know I can do it."
         },
         {
             "speaker": "sir toby belch",
-            "text": "Possess us, possess us tell us something of him."
+            "text": "Possess us, possess us; tell us something of him."
         },
         {
             "speaker": "maria",
@@ -270,27 +270,27 @@
         },
         {
             "speaker": "sir andrew",
-            "text": "O, if I thought that Ild beat him like a dog!"
+            "text": "O, if I thought that I'ld beat him like a dog!"
         },
         {
             "speaker": "sir toby belch",
-            "text": "What, for being a puritan thy exquisite reason, dear knight"
+            "text": "What, for being a puritan? thy exquisite reason, dear knight?"
         },
         {
             "speaker": "sir andrew",
-            "text": "I have no exquisite reason fort, but I have reason good enough."
+            "text": "I have no exquisite reason for't, but I have reason good enough."
         },
         {
             "speaker": "maria",
-            "text": "The devil a puritan that he is, or any thing constantly, but a timepleaser an affectioned ass, that cons state without book and utters it by great swarths: the best persuaded of himself, so crammed, as he thinks, with excellencies, that it is his grounds of faith that all that look on him love him and on that vice in him will my revenge find notable cause to work."
+            "text": "The devil a puritan that he is, or any thing constantly, but a time-pleaser; an affectioned ass, that cons state without book and utters it by great swarths: the best persuaded of himself, so crammed, as he thinks, with excellencies, that it is his grounds of faith that all that look on him love him; and on that vice in him will my revenge find notable cause to work."
         },
         {
             "speaker": "sir toby belch",
-            "text": "What wilt thou do"
+            "text": "What wilt thou do?"
         },
         {
             "speaker": "maria",
-            "text": "I will drop in his way some obscure epistles of love wherein, by the colour of his beard, the shape of his leg, the manner of his gait, the expressure of his eye, forehead, and complexion, he shall find himself most feelingly personated. I can write very like my lady your niece: on a forgotten matter we can hardly make distinction of our hands."
+            "text": "I will drop in his way some obscure epistles of love; wherein, by the colour of his beard, the shape of his leg, the manner of his gait, the expressure of his eye, forehead, and complexion, he shall find himself most feelingly personated. I can write very like my lady your niece: on a forgotten matter we can hardly make distinction of our hands."
         },
         {
             "speaker": "sir toby belch",
@@ -298,11 +298,11 @@
         },
         {
             "speaker": "sir andrew",
-            "text": "I havet in my nose too."
+            "text": "I have't in my nose too."
         },
         {
             "speaker": "sir toby belch",
-            "text": "He shall think, by the letters that thou wilt drop, that they come from my niece, and that shes in love with him."
+            "text": "He shall think, by the letters that thou wilt drop, that they come from my niece, and that she's in love with him."
         },
         {
             "speaker": "maria",
@@ -318,7 +318,7 @@
         },
         {
             "speaker": "sir andrew",
-            "text": "O, twill be admirable!"
+            "text": "O, 'twill be admirable!"
         },
         {
             "speaker": "maria",
@@ -333,11 +333,11 @@
         },
         {
             "speaker": "sir andrew",
-            "text": "Before me, shes a good wench."
+            "text": "Before me, she's a good wench."
         },
         {
             "speaker": "sir toby belch",
-            "text": "Shes a beagle, truebred, and one that adores me: what o that"
+            "text": "She's a beagle, true-bred, and one that adores me: what o' that?"
         },
         {
             "speaker": "sir andrew",
@@ -345,7 +345,7 @@
         },
         {
             "speaker": "sir toby belch",
-            "text": "Lets to bed, knight. Thou hadst need send for more money."
+            "text": "Let's to bed, knight. Thou hadst need send for more money."
         },
         {
             "speaker": "sir andrew",
@@ -353,7 +353,7 @@
         },
         {
             "speaker": "sir toby belch",
-            "text": "Send for money, knight: if thou hast her not i the end, call me cut."
+            "text": "Send for money, knight: if thou hast her not i' the end, call me cut."
         },
         {
             "speaker": "sir andrew",
@@ -361,7 +361,7 @@
         },
         {
             "speaker": "sir toby belch",
-            "text": "Come, come, Ill go burn some sack tis too late to go to bed now: come, knight come, knight."
+            "text": "Come, come, I'll go burn some sack; 'tis too late to go to bed now: come, knight; come, knight."
         },
         {
             "text": "Exeunt"

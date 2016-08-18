@@ -1,18 +1,18 @@
 {
     "sceneName": "Act 5, scene 1",
     "playName": "merchant of venice",
-    "location": "Belmont. Avenue to PORTIAS house.",
+    "location": "Belmont. Avenue to PORTIA'S house.",
     "lines": [
         {
             "text": "Enter LORENZO and JESSICA"
         },
         {
             "speaker": "lorenzo",
-            "text": "The moon shines bright: in such a night as this, When the sweet wind did gently kiss the trees And they did make no noise, in such a night Troilus methinks mounted the Troyan walls And sighd his soul toward the Grecian tents, Where Cressid lay that night."
+            "text": "The moon shines bright: in such a night as this, When the sweet wind did gently kiss the trees And they did make no noise, in such a night Troilus methinks mounted the Troyan walls And sigh'd his soul toward the Grecian tents, Where Cressid lay that night."
         },
         {
             "speaker": "jessica",
-            "text": "In such a night Did Thisbe fearfully oertrip the dew And saw the lions shadow ere himself And ran dismayd away."
+            "text": "In such a night Did Thisbe fearfully o'ertrip the dew And saw the lion's shadow ere himself And ran dismay'd away."
         },
         {
             "speaker": "lorenzo",
@@ -20,7 +20,7 @@
         },
         {
             "speaker": "jessica",
-            "text": "In such a night Medea gatherd the enchanted herbs That did renew old AEson."
+            "text": "In such a night Medea gather'd the enchanted herbs That did renew old AEson."
         },
         {
             "speaker": "lorenzo",
@@ -28,7 +28,7 @@
         },
         {
             "speaker": "jessica",
-            "text": "In such a night Did young Lorenzo swear he loved her well, Stealing her soul with many vows of faith And neer a true one."
+            "text": "In such a night Did young Lorenzo swear he loved her well, Stealing her soul with many vows of faith And ne'er a true one."
         },
         {
             "speaker": "lorenzo",
@@ -36,14 +36,14 @@
         },
         {
             "speaker": "jessica",
-            "text": "I would outnight you, did no body come But, hark, I hear the footing of a man."
+            "text": "I would out-night you, did no body come; But, hark, I hear the footing of a man."
         },
         {
             "text": "Enter STEPHANO"
         },
         {
             "speaker": "lorenzo",
-            "text": "Who comes so fast in silence of the night"
+            "text": "Who comes so fast in silence of the night?"
         },
         {
             "speaker": "stephano",
@@ -51,19 +51,19 @@
         },
         {
             "speaker": "lorenzo",
-            "text": "A friend! what friend your name, I pray you, friend"
+            "text": "A friend! what friend? your name, I pray you, friend?"
         },
         {
             "speaker": "stephano",
-            "text": "Stephano is my name and I bring word My mistress will before the break of day Be here at Belmont she doth stray about By holy crosses, where she kneels and prays For happy wedlock hours."
+            "text": "Stephano is my name; and I bring word My mistress will before the break of day Be here at Belmont; she doth stray about By holy crosses, where she kneels and prays For happy wedlock hours."
         },
         {
             "speaker": "lorenzo",
-            "text": "Who comes with her"
+            "text": "Who comes with her?"
         },
         {
             "speaker": "stephano",
-            "text": "None but a holy hermit and her maid. I pray you, is my master yet returnd"
+            "text": "None but a holy hermit and her maid. I pray you, is my master yet return'd?"
         },
         {
             "speaker": "lorenzo",
@@ -78,11 +78,11 @@
         },
         {
             "speaker": "lorenzo",
-            "text": "Who calls"
+            "text": "Who calls?"
         },
         {
             "speaker": "launcelot",
-            "text": "Sola! did you see Master Lorenzo Master Lorenzo, sola, sola!"
+            "text": "Sola! did you see Master Lorenzo? Master Lorenzo, sola, sola!"
         },
         {
             "speaker": "lorenzo",
@@ -90,7 +90,7 @@
         },
         {
             "speaker": "launcelot",
-            "text": "Sola! where where"
+            "text": "Sola! where? where?"
         },
         {
             "speaker": "lorenzo",
@@ -98,14 +98,14 @@
         },
         {
             "speaker": "launcelot",
-            "text": "Tell him theres a post come from my master, with his horn full of good news: my master will be here ere morning."
+            "text": "Tell him there's a post come from my master, with his horn full of good news: my master will be here ere morning."
         },
         {
             "text": "Exit"
         },
         {
             "speaker": "lorenzo",
-            "text": "Sweet soul, lets in, and there expect their coming. And yet no matter: why should we go in My friend Stephano, signify, I pray you, Within the house, your mistress is at hand And bring your music forth into the air. How sweet the moonlight sleeps upon this bank! Here will we sit and let the sounds of music Creep in our ears: soft stillness and the night Become the touches of sweet harmony. Sit, Jessica. Look how the floor of heaven Is thick inlaid with patines of bright gold: Theres not the smallest orb which thou beholdst But in his motion like an angel sings, Still quiring to the youngeyed cherubins Such harmony is in immortal souls But whilst this muddy vesture of decay Doth grossly close it in, we cannot hear it. Come, ho! and wake Diana with a hymn! With sweetest touches pierce your mistress ear, And draw her home with music."
+            "text": "Sweet soul, let's in, and there expect their coming. And yet no matter: why should we go in? My friend Stephano, signify, I pray you, Within the house, your mistress is at hand; And bring your music forth into the air. How sweet the moonlight sleeps upon this bank! Here will we sit and let the sounds of music Creep in our ears: soft stillness and the night Become the touches of sweet harmony. Sit, Jessica. Look how the floor of heaven Is thick inlaid with patines of bright gold: There's not the smallest orb which thou behold'st But in his motion like an angel sings, Still quiring to the young-eyed cherubins; Such harmony is in immortal souls; But whilst this muddy vesture of decay Doth grossly close it in, we cannot hear it. Come, ho! and wake Diana with a hymn! With sweetest touches pierce your mistress' ear, And draw her home with music."
         },
         {
             "text": "Exit Stephano"
@@ -122,7 +122,7 @@
         },
         {
             "speaker": "lorenzo",
-            "text": "The reason is, your spirits are attentive: For do but note a wild and wanton herd, Or race of youthful and unhandled colts, Fetching mad bounds, bellowing and neighing loud, Which is the hot condition of their blood If they but hear perchance a trumpet sound, Or any air of music touch their ears, You shall perceive them make a mutual stand, Their savage eyes turnd to a modest gaze By the sweet power of music: therefore the poet Did feign that Orpheus drew trees, stones and floods Since nought so stockish, hard and full of rage, But music for the time doth change his nature. The man that hath no music in himself, Nor is not moved with concord of sweet sounds, Is fit for treasons, stratagems and spoils The motions of his spirit are dull as night And his affections dark as Erebus: Let no such man be trusted. Mark the music."
+            "text": "The reason is, your spirits are attentive: For do but note a wild and wanton herd, Or race of youthful and unhandled colts, Fetching mad bounds, bellowing and neighing loud, Which is the hot condition of their blood; If they but hear perchance a trumpet sound, Or any air of music touch their ears, You shall perceive them make a mutual stand, Their savage eyes turn'd to a modest gaze By the sweet power of music: therefore the poet Did feign that Orpheus drew trees, stones and floods; Since nought so stockish, hard and full of rage, But music for the time doth change his nature. The man that hath no music in himself, Nor is not moved with concord of sweet sounds, Is fit for treasons, stratagems and spoils; The motions of his spirit are dull as night And his affections dark as Erebus: Let no such man be trusted. Mark the music."
         },
         {
             "text": "Enter PORTIA and NERISSA"
@@ -153,7 +153,7 @@
         },
         {
             "speaker": "portia",
-            "text": "The crow doth sing as sweetly as the lark, When neither is attended, and I think The nightingale, if she should sing by day, When every goose is cackling, would be thought No better a musician than the wren. How many things by season seasond are To their right praise and true perfection! Peace, ho! the moon sleeps with Endymion And would not be awaked."
+            "text": "The crow doth sing as sweetly as the lark, When neither is attended, and I think The nightingale, if she should sing by day, When every goose is cackling, would be thought No better a musician than the wren. How many things by season season'd are To their right praise and true perfection! Peace, ho! the moon sleeps with Endymion And would not be awaked."
         },
         {
             "text": "Music ceases"
@@ -172,26 +172,26 @@
         },
         {
             "speaker": "portia",
-            "text": "We have been praying for our husbands healths, Which speed, we hope, the better for our words. Are they returnd"
+            "text": "We have been praying for our husbands' healths, Which speed, we hope, the better for our words. Are they return'd?"
         },
         {
             "speaker": "lorenzo",
-            "text": "Madam, they are not yet But there is come a messenger before, To signify their coming."
+            "text": "Madam, they are not yet; But there is come a messenger before, To signify their coming."
         },
         {
             "speaker": "portia",
-            "text": "Go in, Nerissa Give order to my servants that they take No note at all of our being absent hence Nor you, Lorenzo Jessica, nor you."
+            "text": "Go in, Nerissa; Give order to my servants that they take No note at all of our being absent hence; Nor you, Lorenzo; Jessica, nor you."
         },
         {
             "text": "A tucket sounds"
         },
         {
             "speaker": "lorenzo",
-            "text": "Your husband is at hand I hear his trumpet: We are no telltales, madam fear you not."
+            "text": "Your husband is at hand; I hear his trumpet: We are no tell-tales, madam; fear you not."
         },
         {
             "speaker": "portia",
-            "text": "This night methinks is but the daylight sick It looks a little paler: tis a day, Such as the day is when the sun is hid."
+            "text": "This night methinks is but the daylight sick; It looks a little paler: 'tis a day, Such as the day is when the sun is hid."
         },
         {
             "text": "Enter BASSANIO, ANTONIO, GRATIANO, and their followers"
@@ -202,7 +202,7 @@
         },
         {
             "speaker": "portia",
-            "text": "Let me give light, but let me not be light For a light wife doth make a heavy husband, And never be Bassanio so for me: But God sort all! You are welcome home, my lord."
+            "text": "Let me give light, but let me not be light; For a light wife doth make a heavy husband, And never be Bassanio so for me: But God sort all! You are welcome home, my lord."
         },
         {
             "speaker": "bassanio",
@@ -222,19 +222,19 @@
         },
         {
             "speaker": "gratiano",
-            "text": "[To NERISSA]  By yonder moon I swear you do me wrong In faith, I gave it to the judges clerk: Would he were gelt that had it, for my part, Since you do take it, love, so much at heart."
+            "text": "[To NERISSA]  By yonder moon I swear you do me wrong; In faith, I gave it to the judge's clerk: Would he were gelt that had it, for my part, Since you do take it, love, so much at heart."
         },
         {
             "speaker": "portia",
-            "text": "A quarrel, ho, already! whats the matter"
+            "text": "A quarrel, ho, already! what's the matter?"
         },
         {
             "speaker": "gratiano",
-            "text": "About a hoop of gold, a paltry ring That she did give me, whose posy was For all the world like cutlers poetry Upon  a knife, Love me, and leave me not."
+            "text": "About a hoop of gold, a paltry ring That she did give me, whose posy was For all the world like cutler's poetry Upon  a knife, 'Love me, and leave me not.'"
         },
         {
             "speaker": "nerissa",
-            "text": "What talk you of the posy or the value You swore to me, when I did give it you, That you would wear it till your hour of death And that it should lie with you in your grave: Though not for me, yet for your vehement oaths, You should have been respective and have kept it. Gave it a judges clerk! no, Gods my judge, The clerk will neer wear hair ons face that had it."
+            "text": "What talk you of the posy or the value? You swore to me, when I did give it you, That you would wear it till your hour of death And that it should lie with you in your grave: Though not for me, yet for your vehement oaths, You should have been respective and have kept it. Gave it a judge's clerk! no, God's my judge, The clerk will ne'er wear hair on's face that had it."
         },
         {
             "speaker": "gratiano",
@@ -246,11 +246,11 @@
         },
         {
             "speaker": "gratiano",
-            "text": "Now, by this hand, I gave it to a youth, A kind of boy, a little scrubbed boy, No higher than thyself the judges clerk, A prating boy, that beggd it as a fee: I could not for my heart deny it him."
+            "text": "Now, by this hand, I gave it to a youth, A kind of boy, a little scrubbed boy, No higher than thyself; the judge's clerk, A prating boy, that begg'd it as a fee: I could not for my heart deny it him."
         },
         {
             "speaker": "portia",
-            "text": "You were to blame, I must be plain with you, To part so slightly with your wifes first gift: A thing stuck on with oaths upon your finger And so riveted with faith unto your flesh. I gave my love a ring and made him swear Never to part with it and here he stands I dare be sworn for him he would not leave it Nor pluck it from his finger, for the wealth That the world masters. Now, in faith, Gratiano, You give your wife too unkind a cause of grief: An twere to me, I should be mad at it."
+            "text": "You were to blame, I must be plain with you, To part so slightly with your wife's first gift: A thing stuck on with oaths upon your finger And so riveted with faith unto your flesh. I gave my love a ring and made him swear Never to part with it; and here he stands; I dare be sworn for him he would not leave it Nor pluck it from his finger, for the wealth That the world masters. Now, in faith, Gratiano, You give your wife too unkind a cause of grief: An 'twere to me, I should be mad at it."
         },
         {
             "speaker": "bassanio",
@@ -258,19 +258,19 @@
         },
         {
             "speaker": "gratiano",
-            "text": "My Lord Bassanio gave his ring away Unto the judge that beggd it and indeed Deserved it too and then the boy, his clerk, That took some pains in writing, he beggd mine And neither man nor master would take aught But the two rings."
+            "text": "My Lord Bassanio gave his ring away Unto the judge that begg'd it and indeed Deserved it too; and then the boy, his clerk, That took some pains in writing, he begg'd mine; And neither man nor master would take aught But the two rings."
         },
         {
             "speaker": "portia",
-            "text": "What ring gave you my lord Not that, I hope, which you received of me."
+            "text": "What ring gave you my lord? Not that, I hope, which you received of me."
         },
         {
             "speaker": "bassanio",
-            "text": "If I could add a lie unto a fault, I would deny it but you see my finger Hath not the ring upon it it is gone."
+            "text": "If I could add a lie unto a fault, I would deny it; but you see my finger Hath not the ring upon it; it is gone."
         },
         {
             "speaker": "portia",
-            "text": "Even so void is your false heart of truth. By heaven, I will neer come in your bed Until I see the ring."
+            "text": "Even so void is your false heart of truth. By heaven, I will ne'er come in your bed Until I see the ring."
         },
         {
             "speaker": "nerissa",
@@ -282,23 +282,23 @@
         },
         {
             "speaker": "portia",
-            "text": "If you had known the virtue of the ring, Or half her worthiness that gave the ring, Or your own honour to contain the ring, You would not then have parted with the ring. What man is there so much unreasonable, If you had pleased to have defended it With any terms of zeal, wanted the modesty To urge the thing held as a ceremony Nerissa teaches me what to believe: Ill die fort but some woman had the ring."
+            "text": "If you had known the virtue of the ring, Or half her worthiness that gave the ring, Or your own honour to contain the ring, You would not then have parted with the ring. What man is there so much unreasonable, If you had pleased to have defended it With any terms of zeal, wanted the modesty To urge the thing held as a ceremony? Nerissa teaches me what to believe: I'll die for't but some woman had the ring."
         },
         {
             "speaker": "bassanio",
-            "text": "No, by my honour, madam, by my soul, No woman had it, but a civil doctor, Which did refuse three thousand ducats of me And beggd the ring the which I did deny him And sufferd him to go displeased away Even he that did uphold the very life Of my dear friend. What should I say, sweet lady I was enforced to send it after him I was beset with shame and courtesy My honour would not let ingratitude So much besmear it. Pardon me, good lady For, by these blessed candles of the night, Had you been there, I think you would have beggd The ring of me to give the worthy doctor."
+            "text": "No, by my honour, madam, by my soul, No woman had it, but a civil doctor, Which did refuse three thousand ducats of me And begg'd the ring; the which I did deny him And suffer'd him to go displeased away; Even he that did uphold the very life Of my dear friend. What should I say, sweet lady? I was enforced to send it after him; I was beset with shame and courtesy; My honour would not let ingratitude So much besmear it. Pardon me, good lady; For, by these blessed candles of the night, Had you been there, I think you would have begg'd The ring of me to give the worthy doctor."
         },
         {
             "speaker": "portia",
-            "text": "Let not that doctor eer come near my house: Since he hath got the jewel that I loved, And that which you did swear to keep for me, I will become as liberal as you Ill not deny him any thing I have, No, not my body nor my husbands bed: Know him I shall, I am well sure of it: Lie not a night from home watch me like Argus: If you do not, if I be left alone, Now, by mine honour, which is yet mine own, Ill have that doctor for my bedfellow."
+            "text": "Let not that doctor e'er come near my house: Since he hath got the jewel that I loved, And that which you did swear to keep for me, I will become as liberal as you; I'll not deny him any thing I have, No, not my body nor my husband's bed: Know him I shall, I am well sure of it: Lie not a night from home; watch me like Argus: If you do not, if I be left alone, Now, by mine honour, which is yet mine own, I'll have that doctor for my bedfellow."
         },
         {
             "speaker": "nerissa",
-            "text": "And I his clerk therefore be well advised How you do leave me to mine own protection."
+            "text": "And I his clerk; therefore be well advised How you do leave me to mine own protection."
         },
         {
             "speaker": "gratiano",
-            "text": "Well, do you so let not me take him, then For if I do, Ill mar the young clerks pen."
+            "text": "Well, do you so; let not me take him, then; For if I do, I'll mar the young clerk's pen."
         },
         {
             "speaker": "antonio",
@@ -306,15 +306,15 @@
         },
         {
             "speaker": "portia",
-            "text": "Sir, grieve not you you are welcome notwithstanding."
+            "text": "Sir, grieve not you; you are welcome notwithstanding."
         },
         {
             "speaker": "bassanio",
-            "text": "Portia, forgive me this enforced wrong And, in the hearing of these many friends, I swear to thee, even by thine own fair eyes, Wherein I see myself"
+            "text": "Portia, forgive me this enforced wrong; And, in the hearing of these many friends, I swear to thee, even by thine own fair eyes, Wherein I see myself--"
         },
         {
             "speaker": "portia",
-            "text": "Mark you but that! In both my eyes he doubly sees himself In each eye, one: swear by your double self, And theres an oath of credit."
+            "text": "Mark you but that! In both my eyes he doubly sees himself; In each eye, one: swear by your double self, And there's an oath of credit."
         },
         {
             "speaker": "bassanio",
@@ -322,7 +322,7 @@
         },
         {
             "speaker": "antonio",
-            "text": "I once did lend my body for his wealth Which, but for him that had your husbands ring, Had quite miscarried: I dare be bound again, My soul upon the forfeit, that your lord Will never more break faith advisedly."
+            "text": "I once did lend my body for his wealth; Which, but for him that had your husband's ring, Had quite miscarried: I dare be bound again, My soul upon the forfeit, that your lord Will never more break faith advisedly."
         },
         {
             "speaker": "portia",
@@ -330,7 +330,7 @@
         },
         {
             "speaker": "antonio",
-            "text": "Here, Lord Bassanio swear to keep this ring."
+            "text": "Here, Lord Bassanio; swear to keep this ring."
         },
         {
             "speaker": "bassanio",
@@ -338,19 +338,19 @@
         },
         {
             "speaker": "portia",
-            "text": "I had it of him: pardon me, Bassanio For, by this ring, the doctor lay with me."
+            "text": "I had it of him: pardon me, Bassanio; For, by this ring, the doctor lay with me."
         },
         {
             "speaker": "nerissa",
-            "text": "And pardon me, my gentle Gratiano For that same scrubbed boy, the doctors clerk, In lieu of this last night did lie with me."
+            "text": "And pardon me, my gentle Gratiano; For that same scrubbed boy, the doctor's clerk, In lieu of this last night did lie with me."
         },
         {
             "speaker": "gratiano",
-            "text": "Why, this is like the mending of highways In summer, where the ways are fair enough: What, are we cuckolds ere we have deserved it"
+            "text": "Why, this is like the mending of highways In summer, where the ways are fair enough: What, are we cuckolds ere we have deserved it?"
         },
         {
             "speaker": "portia",
-            "text": "Speak not so grossly. You are all amazed: Here is a letter read it at your leisure It comes from Padua, from Bellario: There you shall find that Portia was the doctor, Nerissa there her clerk: Lorenzo here Shall witness I set forth as soon as you And even but now returnd I have not yet Enterd my house. Antonio, you are welcome And I have better news in store for you Than you expect: unseal this letter soon There you shall find three of your argosies Are richly come to harbour suddenly: You shall not know by what strange accident I chanced on this letter."
+            "text": "Speak not so grossly. You are all amazed: Here is a letter; read it at your leisure; It comes from Padua, from Bellario: There you shall find that Portia was the doctor, Nerissa there her clerk: Lorenzo here Shall witness I set forth as soon as you And even but now return'd; I have not yet Enter'd my house. Antonio, you are welcome; And I have better news in store for you Than you expect: unseal this letter soon; There you shall find three of your argosies Are richly come to harbour suddenly: You shall not know by what strange accident I chanced on this letter."
         },
         {
             "speaker": "antonio",
@@ -358,11 +358,11 @@
         },
         {
             "speaker": "bassanio",
-            "text": "Were you the doctor and I knew you not"
+            "text": "Were you the doctor and I knew you not?"
         },
         {
             "speaker": "gratiano",
-            "text": "Were you the clerk that is to make me cuckold"
+            "text": "Were you the clerk that is to make me cuckold?"
         },
         {
             "speaker": "nerissa",
@@ -370,11 +370,11 @@
         },
         {
             "speaker": "bassanio",
-            "text": "Sweet doctor, you shall be my bedfellow: When I am absent, then lie with my wife."
+            "text": "Sweet doctor, you shall be my bed-fellow: When I am absent, then lie with my wife."
         },
         {
             "speaker": "antonio",
-            "text": "Sweet lady, you have given me life and living For here I read for certain that my ships Are safely come to road."
+            "text": "Sweet lady, you have given me life and living; For here I read for certain that my ships Are safely come to road."
         },
         {
             "speaker": "portia",
@@ -382,7 +382,7 @@
         },
         {
             "speaker": "nerissa",
-            "text": "Ay, and Ill give them him without a fee. There do I give to you and Jessica, From the rich Jew, a special deed of gift, After his death, of all he dies possessd of."
+            "text": "Ay, and I'll give them him without a fee. There do I give to you and Jessica, From the rich Jew, a special deed of gift, After his death, of all he dies possess'd of."
         },
         {
             "speaker": "lorenzo",
@@ -390,11 +390,11 @@
         },
         {
             "speaker": "portia",
-            "text": "It is almost morning, And yet I am sure you are not satisfied Of these events at full. Let us go in And charge us there upon intergatories, And we will answer all things faithfully."
+            "text": "It is almost morning, And yet I am sure you are not satisfied Of these events at full. Let us go in; And charge us there upon inter'gatories, And we will answer all things faithfully."
         },
         {
             "speaker": "gratiano",
-            "text": "Let it be so: the first intergatory That my Nerissa shall be sworn on is, Whether till the next night she had rather stay, Or go to bed now, being two hours to day: But were the day come, I should wish it dark, That I were couching with the doctors clerk. Well, while I live Ill fear no other thing So sore as keeping safe Nerissas ring."
+            "text": "Let it be so: the first inter'gatory That my Nerissa shall be sworn on is, Whether till the next night she had rather stay, Or go to bed now, being two hours to day: But were the day come, I should wish it dark, That I were couching with the doctor's clerk. Well, while I live I'll fear no other thing So sore as keeping safe Nerissa's ring."
         },
         {
             "text": "Exeunt"

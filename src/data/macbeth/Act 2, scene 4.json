@@ -1,45 +1,45 @@
 {
     "sceneName": "Act 2, scene 4",
     "playName": "macbeth",
-    "location": "Outside Macbeths castle.",
+    "location": "Outside Macbeth's castle.",
     "lines": [
         {
             "text": "Enter ROSS and an old Man"
         },
         {
             "speaker": "old man",
-            "text": "Threescore and ten I can remember well: Within the volume of which time I have seen Hours dreadful and things strange but this sore night Hath trifled former knowings."
+            "text": "Threescore and ten I can remember well: Within the volume of which time I have seen Hours dreadful and things strange; but this sore night Hath trifled former knowings."
         },
         {
             "speaker": "ross",
-            "text": "Ah, good father, Thou seest, the heavens, as troubled with mans act, Threaten his bloody stage: by the clock, tis day, And yet dark night strangles the travelling lamp: Ist nights predominance, or the days shame, That darkness does the face of earth entomb, When living light should kiss it"
+            "text": "Ah, good father, Thou seest, the heavens, as troubled with man's act, Threaten his bloody stage: by the clock, 'tis day, And yet dark night strangles the travelling lamp: Is't night's predominance, or the day's shame, That darkness does the face of earth entomb, When living light should kiss it?"
         },
         {
             "speaker": "old man",
-            "text": "Tis unnatural, Even like the deed thats done. On Tuesday last, A falcon, towering in her pride of place, Was by a mousing owl hawkd at and killd."
+            "text": "'Tis unnatural, Even like the deed that's done. On Tuesday last, A falcon, towering in her pride of place, Was by a mousing owl hawk'd at and kill'd."
         },
         {
             "speaker": "ross",
-            "text": "And Duncans horsesa thing most strange and certain Beauteous and swift, the minions of their race, Turnd wild in nature, broke their stalls, flung out, Contending gainst obedience, as they would make War with mankind."
+            "text": "And Duncan's horses--a thing most strange and certain-- Beauteous and swift, the minions of their race, Turn'd wild in nature, broke their stalls, flung out, Contending 'gainst obedience, as they would make War with mankind."
         },
         {
             "speaker": "old man",
-            "text": "Tis said they eat each other."
+            "text": "'Tis said they eat each other."
         },
         {
             "speaker": "ross",
-            "text": "They did so, to the amazement of mine eyes That lookd upont. Here comes the good Macduff. How goes the world, sir, now"
+            "text": "They did so, to the amazement of mine eyes That look'd upon't. Here comes the good Macduff. How goes the world, sir, now?"
         },
         {
             "text": "Enter MACDUFF"
         },
         {
             "speaker": "macduff",
-            "text": "Why, see you not"
+            "text": "Why, see you not?"
         },
         {
             "speaker": "ross",
-            "text": "Ist known who did this more than bloody deed"
+            "text": "Is't known who did this more than bloody deed?"
         },
         {
             "speaker": "macduff",
@@ -47,15 +47,15 @@
         },
         {
             "speaker": "ross",
-            "text": "Alas, the day! What good could they pretend"
+            "text": "Alas, the day! What good could they pretend?"
         },
         {
             "speaker": "macduff",
-            "text": "They were subornd: Malcolm and Donalbain, the kings two sons, Are stoln away and fled which puts upon them Suspicion of the deed."
+            "text": "They were suborn'd: Malcolm and Donalbain, the king's two sons, Are stol'n away and fled; which puts upon them Suspicion of the deed."
         },
         {
             "speaker": "ross",
-            "text": "Gainst nature still! Thriftless ambition, that wilt ravin up Thine own lifes means! Then tis most like The sovereignty will fall upon Macbeth."
+            "text": "'Gainst nature still! Thriftless ambition, that wilt ravin up Thine own life's means! Then 'tis most like The sovereignty will fall upon Macbeth."
         },
         {
             "speaker": "macduff",
@@ -63,7 +63,7 @@
         },
         {
             "speaker": "ross",
-            "text": "Where is Duncans body"
+            "text": "Where is Duncan's body?"
         },
         {
             "speaker": "macduff",
@@ -71,11 +71,11 @@
         },
         {
             "speaker": "ross",
-            "text": "Will you to Scone"
+            "text": "Will you to Scone?"
         },
         {
             "speaker": "macduff",
-            "text": "No, cousin, Ill to Fife."
+            "text": "No, cousin, I'll to Fife."
         },
         {
             "speaker": "ross",
@@ -91,7 +91,7 @@
         },
         {
             "speaker": "old man",
-            "text": "Gods benison go with you and with those That would make good of bad, and friends of foes!"
+            "text": "God's benison go with you; and with those That would make good of bad, and friends of foes!"
         },
         {
             "text": "Exeunt"

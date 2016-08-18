@@ -1,30 +1,30 @@
 {
     "sceneName": "Act 2, scene 3",
     "playName": "a winters tale",
-    "location": "A room in LEONTES palace.",
+    "location": "A room in LEONTES' palace.",
     "lines": [
         {
             "text": "Enter LEONTES, ANTIGONUS, Lords, and Servants"
         },
         {
             "speaker": "leontes",
-            "text": "Nor night nor day no rest: it is but weakness To bear the matter thus mere weakness. If The cause were not in being,part o the cause, She the adulteress for the harlot king Is quite beyond mine arm, out of the blank And level of my brain, plotproof but she I can hook to me: say that she were gone, Given to the fire, a moiety of my rest Might come to me again. Whos there"
+            "text": "Nor night nor day no rest: it is but weakness To bear the matter thus; mere weakness. If The cause were not in being,--part o' the cause, She the adulteress; for the harlot king Is quite beyond mine arm, out of the blank And level of my brain, plot-proof; but she I can hook to me: say that she were gone, Given to the fire, a moiety of my rest Might come to me again. Who's there?"
         },
         {
             "speaker": "first servant",
-            "text": "My lord"
+            "text": "My lord?"
         },
         {
             "speaker": "leontes",
-            "text": "How does the boy"
+            "text": "How does the boy?"
         },
         {
             "speaker": "first servant",
-            "text": "He took good rest tonight Tis hoped his sickness is discharged."
+            "text": "He took good rest to-night; 'Tis hoped his sickness is discharged."
         },
         {
             "speaker": "leontes",
-            "text": "To see his nobleness! Conceiving the dishonour of his mother, He straight declined, droopd, took it deeply, Fastend and fixd the shame ont in himself, Threw off his spirit, his appetite, his sleep, And downright languishd. Leave me solely: go, See how he fares. Fie, fie! no thought of him: The thought of my revenges that way Recoil upon me: in himself too mighty, And in his parties, his alliance let him be Until a time may serve: for present vengeance, Take it on her. Camillo and Polixenes Laugh at me, make their pastime at my sorrow: They should not laugh if I could reach them, nor Shall she within my power."
+            "text": "To see his nobleness! Conceiving the dishonour of his mother, He straight declined, droop'd, took it deeply, Fasten'd and fix'd the shame on't in himself, Threw off his spirit, his appetite, his sleep, And downright languish'd. Leave me solely: go, See how he fares. Fie, fie! no thought of him: The thought of my revenges that way Recoil upon me: in himself too mighty, And in his parties, his alliance; let him be Until a time may serve: for present vengeance, Take it on her. Camillo and Polixenes Laugh at me, make their pastime at my sorrow: They should not laugh if I could reach them, nor Shall she within my power."
         },
         {
             "text": "Exit Servant"
@@ -38,27 +38,27 @@
         },
         {
             "speaker": "paulina",
-            "text": "Nay, rather, good my lords, be second to me: Fear you his tyrannous passion more, alas, Than the queens life a gracious innocent soul, More free than he is jealous."
+            "text": "Nay, rather, good my lords, be second to me: Fear you his tyrannous passion more, alas, Than the queen's life? a gracious innocent soul, More free than he is jealous."
         },
         {
             "speaker": "antigonus",
-            "text": "Thats enough."
+            "text": "That's enough."
         },
         {
             "speaker": "second servant",
-            "text": "Madam, he hath not slept tonight commanded None should come at him."
+            "text": "Madam, he hath not slept tonight; commanded None should come at him."
         },
         {
             "speaker": "paulina",
-            "text": "Not so hot, good sir: I come to bring him sleep. Tis such as you, That creep like shadows by him and do sigh At each his needless heavings, such as you Nourish the cause of his awaking: I Do come with words as medicinal as true, Honest as either, to purge him of that humour That presses him from sleep."
+            "text": "Not so hot, good sir: I come to bring him sleep. 'Tis such as you, That creep like shadows by him and do sigh At each his needless heavings, such as you Nourish the cause of his awaking: I Do come with words as medicinal as true, Honest as either, to purge him of that humour That presses him from sleep."
         },
         {
             "speaker": "leontes",
-            "text": "What noise there, ho"
+            "text": "What noise there, ho?"
         },
         {
             "speaker": "paulina",
-            "text": "No noise, my lord but needful conference About some gossips for your highness."
+            "text": "No noise, my lord; but needful conference About some gossips for your highness."
         },
         {
             "speaker": "leontes",
@@ -66,11 +66,11 @@
         },
         {
             "speaker": "antigonus",
-            "text": "I told her so, my lord, On your displeasures peril and on mine, She should not visit you."
+            "text": "I told her so, my lord, On your displeasure's peril and on mine, She should not visit you."
         },
         {
             "speaker": "leontes",
-            "text": "What, canst not rule her"
+            "text": "What, canst not rule her?"
         },
         {
             "speaker": "paulina",
@@ -78,11 +78,11 @@
         },
         {
             "speaker": "antigonus",
-            "text": "La you now, you hear: When she will take the rein I let her run But shell not stumble."
+            "text": "La you now, you hear: When she will take the rein I let her run; But she'll not stumble."
         },
         {
             "speaker": "paulina",
-            "text": "Good my liege, I come And, I beseech you, hear me, who profess Myself your loyal servant, your physician, Your most obedient counsellor, yet that dare Less appear so in comforting your evils, Than such as most seem yours: I say, I come From your good queen."
+            "text": "Good my liege, I come; And, I beseech you, hear me, who profess Myself your loyal servant, your physician, Your most obedient counsellor, yet that dare Less appear so in comforting your evils, Than such as most seem yours: I say, I come From your good queen."
         },
         {
             "speaker": "leontes",
@@ -90,7 +90,7 @@
         },
         {
             "speaker": "paulina",
-            "text": "Good queen, my lord, Good queen I say good queen And would by combat make her good, so were I A man, the worst about you."
+            "text": "Good queen, my lord, Good queen; I say good queen; And would by combat make her good, so were I A man, the worst about you."
         },
         {
             "speaker": "leontes",
@@ -98,26 +98,26 @@
         },
         {
             "speaker": "paulina",
-            "text": "Let him that makes but trifles of his eyes First hand me: on mine own accord Ill off But first Ill do my errand. The good queen, For she is good, hath brought you forth a daughter Here tis commends it to your blessing."
+            "text": "Let him that makes but trifles of his eyes First hand me: on mine own accord I'll off; But first I'll do my errand. The good queen, For she is good, hath brought you forth a daughter; Here 'tis; commends it to your blessing."
         },
         {
             "text": "Laying down the child"
         },
         {
             "speaker": "leontes",
-            "text": "Out! A mankind witch! Hence with her, out o door: A most intelligencing bawd!"
+            "text": "Out! A mankind witch! Hence with her, out o' door: A most intelligencing bawd!"
         },
         {
             "speaker": "paulina",
-            "text": "Not so: I am as ignorant in that as you In so entitling me, and no less honest Than you are mad which is enough, Ill warrant, As this world goes, to pass for honest."
+            "text": "Not so: I am as ignorant in that as you In so entitling me, and no less honest Than you are mad; which is enough, I'll warrant, As this world goes, to pass for honest."
         },
         {
             "speaker": "leontes",
-            "text": "Traitors! Will you not push her out Give her the bastard. Thou dotard! thou art womantired, unroosted By thy dame Partlet here. Take up the bastard Taket up, I say givet to thy crone."
+            "text": "Traitors! Will you not push her out? Give her the bastard. Thou dotard! thou art woman-tired, unroosted By thy dame Partlet here. Take up the bastard; Take't up, I say; give't to thy crone."
         },
         {
             "speaker": "paulina",
-            "text": "For ever Unvenerable be thy hands, if thou Takest up the princess by that forced baseness Which he has put upont!"
+            "text": "For ever Unvenerable be thy hands, if thou Takest up the princess by that forced baseness Which he has put upon't!"
         },
         {
             "speaker": "leontes",
@@ -125,7 +125,7 @@
         },
         {
             "speaker": "paulina",
-            "text": "So I would you did then twere past all doubt Yould call your children yours."
+            "text": "So I would you did; then 'twere past all doubt You'ld call your children yours."
         },
         {
             "speaker": "leontes",
@@ -137,23 +137,23 @@
         },
         {
             "speaker": "paulina",
-            "text": "Nor I, nor any But one thats here, and thats himself, for he The sacred honour of himself, his queens, His hopeful sons, his babes, betrays to slander, Whose sting is sharper than the swords and will not For, as the case now stands, it is a curse He cannot be compelld totonce remove The root of his opinion, which is rotten As ever oak or stone was sound."
+            "text": "Nor I, nor any But one that's here, and that's himself, for he The sacred honour of himself, his queen's, His hopeful son's, his babe's, betrays to slander, Whose sting is sharper than the sword's; and will not-- For, as the case now stands, it is a curse He cannot be compell'd to't--once remove The root of his opinion, which is rotten As ever oak or stone was sound."
         },
         {
             "speaker": "leontes",
-            "text": "A callat Of boundless tongue, who late hath beat her husband And now baits me! This brat is none of mine It is the issue of Polixenes: Hence with it, and together with the dam Commit them to the fire!"
+            "text": "A callat Of boundless tongue, who late hath beat her husband And now baits me! This brat is none of mine; It is the issue of Polixenes: Hence with it, and together with the dam Commit them to the fire!"
         },
         {
             "speaker": "paulina",
-            "text": "It is yours And, might we lay the old proverb to your charge, So like you, tis the worse. Behold, my lords, Although the print be little, the whole matter And copy of the father, eye, nose, lip, The trick ofs frown, his forehead, nay, the valley, The pretty dimples of his chin and cheek, His smiles, The very mould and frame of hand, nail, finger: And thou, good goddess Nature, which hast made it So like to him that got it, if thou hast The ordering of the mind too, mongst all colours No yellow int, lest she suspect, as he does, Her children not her husbands!"
+            "text": "It is yours; And, might we lay the old proverb to your charge, So like you, 'tis the worse. Behold, my lords, Although the print be little, the whole matter And copy of the father, eye, nose, lip, The trick of's frown, his forehead, nay, the valley, The pretty dimples of his chin and cheek, His smiles, The very mould and frame of hand, nail, finger: And thou, good goddess Nature, which hast made it So like to him that got it, if thou hast The ordering of the mind too, 'mongst all colours No yellow in't, lest she suspect, as he does, Her children not her husband's!"
         },
         {
             "speaker": "leontes",
-            "text": "A gross hag And, lozel, thou art worthy to be hangd, That wilt not stay her tongue."
+            "text": "A gross hag And, lozel, thou art worthy to be hang'd, That wilt not stay her tongue."
         },
         {
             "speaker": "antigonus",
-            "text": "Hang all the husbands That cannot do that feat, youll leave yourself Hardly one subject."
+            "text": "Hang all the husbands That cannot do that feat, you'll leave yourself Hardly one subject."
         },
         {
             "speaker": "leontes",
@@ -165,30 +165,30 @@
         },
         {
             "speaker": "leontes",
-            "text": "Ill ha thee burnt."
+            "text": "I'll ha' thee burnt."
         },
         {
             "speaker": "paulina",
-            "text": "I care not: It is an heretic that makes the fire, Not she which burns int. Ill not call you tyrant But this most cruel usage of your queen, Not able to produce more accusation Than your own weakhinged fancy, something savours Of tyranny and will ignoble make you, Yea, scandalous to the world."
+            "text": "I care not: It is an heretic that makes the fire, Not she which burns in't. I'll not call you tyrant; But this most cruel usage of your queen, Not able to produce more accusation Than your own weak-hinged fancy, something savours Of tyranny and will ignoble make you, Yea, scandalous to the world."
         },
         {
             "speaker": "leontes",
-            "text": "On your allegiance, Out of the chamber with her! Were I a tyrant, Where were her life she durst not call me so, If she did know me one. Away with her!"
+            "text": "On your allegiance, Out of the chamber with her! Were I a tyrant, Where were her life? she durst not call me so, If she did know me one. Away with her!"
         },
         {
             "speaker": "paulina",
-            "text": "I pray you, do not push me Ill be gone. Look to your babe, my lord tis yours: Jove send her A better guiding spirit! What needs these hands You, that are thus so tender oer his follies, Will never do him good, not one of you. So, so: farewell we are gone."
+            "text": "I pray you, do not push me; I'll be gone. Look to your babe, my lord; 'tis yours: Jove send her A better guiding spirit! What needs these hands? You, that are thus so tender o'er his follies, Will never do him good, not one of you. So, so: farewell; we are gone."
         },
         {
             "text": "Exit"
         },
         {
             "speaker": "leontes",
-            "text": "Thou, traitor, hast set on thy wife to this. My child away witht! Even thou, that hast A heart so tender oer it, take it hence And see it instantly consumed with fire Even thou and none but thou. Take it up straight: Within this hour bring me word tis done, And by good testimony, or Ill seize thy life, With what thou else callst thine. If thou refuse And wilt encounter with my wrath, say so The bastard brains with these my proper hands Shall I dash out. Go, take it to the fire For thou setst on thy wife."
+            "text": "Thou, traitor, hast set on thy wife to this. My child? away with't! Even thou, that hast A heart so tender o'er it, take it hence And see it instantly consumed with fire; Even thou and none but thou. Take it up straight: Within this hour bring me word 'tis done, And by good testimony, or I'll seize thy life, With what thou else call'st thine. If thou refuse And wilt encounter with my wrath, say so; The bastard brains with these my proper hands Shall I dash out. Go, take it to the fire; For thou set'st on thy wife."
         },
         {
             "speaker": "antigonus",
-            "text": "I did not, sir: These lords, my noble fellows, if they please, Can clear me int."
+            "text": "I did not, sir: These lords, my noble fellows, if they please, Can clear me in't."
         },
         {
             "speaker": "lords",
@@ -196,7 +196,7 @@
         },
         {
             "speaker": "leontes",
-            "text": "Youre liars all."
+            "text": "You're liars all."
         },
         {
             "speaker": "first lord",
@@ -204,11 +204,11 @@
         },
         {
             "speaker": "leontes",
-            "text": "I am a feather for each wind that blows: Shall I live on to see this bastard kneel And call me father better burn it now Than curse it then. But be it let it live. It shall not neither. You, sir, come you hither You that have been so tenderly officious With Lady Margery, your midwife there, To save this bastards life,for tis a bastard, So sure as this beards grey, what will you adventure To save this brats life"
+            "text": "I am a feather for each wind that blows: Shall I live on to see this bastard kneel And call me father? better burn it now Than curse it then. But be it; let it live. It shall not neither. You, sir, come you hither; You that have been so tenderly officious With Lady Margery, your midwife there, To save this bastard's life,--for 'tis a bastard, So sure as this beard's grey, --what will you adventure To save this brat's life?"
         },
         {
             "speaker": "antigonus",
-            "text": "Any thing, my lord, That my ability may undergo And nobleness impose: at least thus much: Ill pawn the little blood which I have left To save the innocent: any thing possible."
+            "text": "Any thing, my lord, That my ability may undergo And nobleness impose: at least thus much: I'll pawn the little blood which I have left To save the innocent: any thing possible."
         },
         {
             "speaker": "leontes",
@@ -220,18 +220,18 @@
         },
         {
             "speaker": "leontes",
-            "text": "Mark and perform it, seest thou! for the fail Of any point int shall not only be Death to thyself but to thy lewdtongued wife, Whom for this time we pardon. We enjoin thee, As thou art liegeman to us, that thou carry This female bastard hence and that thou bear it To some remote and desert place quite out Of our dominions, and that there thou leave it, Without more mercy, to its own protection And favour of the climate. As by strange fortune It came to us, I do in justice charge thee, On thy souls peril and thy bodys torture, That thou commend it strangely to some place Where chance may nurse or end it. Take it up."
+            "text": "Mark and perform it, see'st thou! for the fail Of any point in't shall not only be Death to thyself but to thy lewd-tongued wife, Whom for this time we pardon. We enjoin thee, As thou art liege-man to us, that thou carry This female bastard hence and that thou bear it To some remote and desert place quite out Of our dominions, and that there thou leave it, Without more mercy, to its own protection And favour of the climate. As by strange fortune It came to us, I do in justice charge thee, On thy soul's peril and thy body's torture, That thou commend it strangely to some place Where chance may nurse or end it. Take it up."
         },
         {
             "speaker": "antigonus",
-            "text": "I swear to do this, though a present death Had been more merciful. Come on, poor babe: Some powerful spirit instruct the kites and ravens To be thy nurses! Wolves and bears, they say Casting their savageness aside have done Like offices of pity. Sir, be prosperous In more than this deed does require! And blessing Against this cruelty fight on thy side, Poor thing, condemnd to loss!"
+            "text": "I swear to do this, though a present death Had been more merciful. Come on, poor babe: Some powerful spirit instruct the kites and ravens To be thy nurses! Wolves and bears, they say Casting their savageness aside have done Like offices of pity. Sir, be prosperous In more than this deed does require! And blessing Against this cruelty fight on thy side, Poor thing, condemn'd to loss!"
         },
         {
             "text": "Exit with the child"
         },
         {
             "speaker": "leontes",
-            "text": "No, Ill not rear Anothers issue."
+            "text": "No, I'll not rear Another's issue."
         },
         {
             "text": "Enter a Servant"
@@ -246,7 +246,7 @@
         },
         {
             "speaker": "leontes",
-            "text": "Twentythree days They have been absent: tis good speed foretells The great Apollo suddenly will have The truth of this appear. Prepare you, lords Summon a session, that we may arraign Our most disloyal lady, for, as she hath Been publicly accused, so shall she have A just and open trial. While she lives My heart will be a burthen to me. Leave me, And think upon my bidding."
+            "text": "Twenty-three days They have been absent: 'tis good speed; foretells The great Apollo suddenly will have The truth of this appear. Prepare you, lords; Summon a session, that we may arraign Our most disloyal lady, for, as she hath Been publicly accused, so shall she have A just and open trial. While she lives My heart will be a burthen to me. Leave me, And think upon my bidding."
         },
         {
             "text": "Exeunt"

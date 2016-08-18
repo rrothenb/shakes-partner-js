@@ -1,18 +1,18 @@
 {
     "sceneName": "Act 4, scene 4",
     "playName": "merry wives of windsor",
-    "location": "A room in FORDS house.",
+    "location": "A room in FORD'S house.",
     "lines": [
         {
             "text": "Enter PAGE, FORD, MISTRESS PAGE, MISTRESS FORD, and SIR HUGH EVANS"
         },
         {
             "speaker": "sir hugh evans",
-            "text": "Tis one of the best discretions of a oman as ever I did look upon."
+            "text": "'Tis one of the best discretions of a 'oman as ever I did look upon."
         },
         {
             "speaker": "page",
-            "text": "And did he send you both these letters at an instant"
+            "text": "And did he send you both these letters at an instant?"
         },
         {
             "speaker": "mistress page",
@@ -20,11 +20,11 @@
         },
         {
             "speaker": "ford",
-            "text": "Pardon me, wife. Henceforth do what thou wilt I rather will suspect the sun with cold Than thee with wantonness: now doth thy honour stand In him that was of late an heretic, As firm as faith."
+            "text": "Pardon me, wife. Henceforth do what thou wilt; I rather will suspect the sun with cold Than thee with wantonness: now doth thy honour stand In him that was of late an heretic, As firm as faith."
         },
         {
             "speaker": "page",
-            "text": "Tis well, tis well no more: Be not as extreme in submission As in offence. But let our plot go forward: let our wives Yet once again, to make us public sport, Appoint a meeting with this old fat fellow, Where we may take him and disgrace him for it."
+            "text": "'Tis well, 'tis well; no more: Be not as extreme in submission As in offence. But let our plot go forward: let our wives Yet once again, to make us public sport, Appoint a meeting with this old fat fellow, Where we may take him and disgrace him for it."
         },
         {
             "speaker": "ford",
@@ -32,11 +32,11 @@
         },
         {
             "speaker": "page",
-            "text": "How to send him word theyll meet him in the park at midnight Fie, fie! hell never come."
+            "text": "How? to send him word they'll meet him in the park at midnight? Fie, fie! he'll never come."
         },
         {
             "speaker": "sir hugh evans",
-            "text": "You say he has been thrown in the rivers and has been grievously peaten as an old oman: methinks there should be terrors in him that he should not come methinks his flesh is punished, he shall have no desires."
+            "text": "You say he has been thrown in the rivers and has been grievously peaten as an old 'oman: methinks there should be terrors in him that he should not come; methinks his flesh is punished, he shall have no desires."
         },
         {
             "speaker": "page",
@@ -44,27 +44,27 @@
         },
         {
             "speaker": "mistress ford",
-            "text": "Devise but how youll use him when he comes, And let us two devise to bring him thither."
+            "text": "Devise but how you'll use him when he comes, And let us two devise to bring him thither."
         },
         {
             "speaker": "mistress page",
-            "text": "There is an old tale goes that Herne the hunter, Sometime a keeper here in Windsor forest, Doth all the wintertime, at still midnight, Walk round about an oak, with great raggd horns And there he blasts the tree and takes the cattle And makes milchkine yield blood and shakes a chain In a most hideous and dreadful manner: You have heard of such a spirit, and well you know The superstitious idleheaded eld Received and did deliver to our age This tale of Herne the hunter for a truth."
+            "text": "There is an old tale goes that Herne the hunter, Sometime a keeper here in Windsor forest, Doth all the winter-time, at still midnight, Walk round about an oak, with great ragg'd horns; And there he blasts the tree and takes the cattle And makes milch-kine yield blood and shakes a chain In a most hideous and dreadful manner: You have heard of such a spirit, and well you know The superstitious idle-headed eld Received and did deliver to our age This tale of Herne the hunter for a truth."
         },
         {
             "speaker": "page",
-            "text": "Why, yet there want not many that do fear In deep of night to walk by this Hernes oak: But what of this"
+            "text": "Why, yet there want not many that do fear In deep of night to walk by this Herne's oak: But what of this?"
         },
         {
             "speaker": "mistress ford",
-            "text": "Marry, this is our device That Falstaff at that oak shall meet with us."
+            "text": "Marry, this is our device; That Falstaff at that oak shall meet with us."
         },
         {
             "speaker": "page",
-            "text": "Well, let it not be doubted but hell come: And in this shape when you have brought him thither, What shall be done with him what is your plot"
+            "text": "Well, let it not be doubted but he'll come: And in this shape when you have brought him thither, What shall be done with him? what is your plot?"
         },
         {
             "speaker": "mistress page",
-            "text": "That likewise have we thought upon, and thus: Nan Page my daughter and my little son And three or four more of their growth well dress Like urchins, ouphes and fairies, green and white, With rounds of waxen tapers on their heads, And rattles in their hands: upon a sudden, As Falstaff, she and I, are newly met, Let them from forth a sawpit rush at once With some diffused song: upon their sight, We two in great amazedness will fly: Then let them all encircle him about And, fairylike, topinch the unclean knight, And ask him why, that hour of fairy revel, In their so sacred paths he dares to tread In shape profane."
+            "text": "That likewise have we thought upon, and thus: Nan Page my daughter and my little son And three or four more of their growth we'll dress Like urchins, ouphes and fairies, green and white, With rounds of waxen tapers on their heads, And rattles in their hands: upon a sudden, As Falstaff, she and I, are newly met, Let them from forth a sawpit rush at once With some diffused song: upon their sight, We two in great amazedness will fly: Then let them all encircle him about And, fairy-like, to-pinch the unclean knight, And ask him why, that hour of fairy revel, In their so sacred paths he dares to tread In shape profane."
         },
         {
             "speaker": "mistress ford",
@@ -72,19 +72,19 @@
         },
         {
             "speaker": "mistress page",
-            "text": "The truth being known, Well all present ourselves, dishorn the spirit, And mock him home to Windsor."
+            "text": "The truth being known, We'll all present ourselves, dis-horn the spirit, And mock him home to Windsor."
         },
         {
             "speaker": "ford",
-            "text": "The children must Be practised well to this, or theyll neer dot."
+            "text": "The children must Be practised well to this, or they'll ne'er do't."
         },
         {
             "speaker": "sir hugh evans",
-            "text": "I will teach the children their behaviors and I will be like a jackanapes also, to burn the knight with my taber."
+            "text": "I will teach the children their behaviors; and I will be like a jack-an-apes also, to burn the knight with my taber."
         },
         {
             "speaker": "ford",
-            "text": "That will be excellent. Ill go and buy them vizards."
+            "text": "That will be excellent. I'll go and buy them vizards."
         },
         {
             "speaker": "mistress page",
@@ -99,7 +99,7 @@
         },
         {
             "speaker": "ford",
-            "text": "Nay Ill to him again in name of Brook Hell tell me all his purpose: sure, hell come."
+            "text": "Nay I'll to him again in name of Brook He'll tell me all his purpose: sure, he'll come."
         },
         {
             "speaker": "mistress page",
@@ -114,7 +114,7 @@
         },
         {
             "speaker": "mistress page",
-            "text": "Go, Mistress Ford, Send quickly to Sir John, to know his mind. Ill to the doctor: he hath my good will, And none but he, to marry with Nan Page. That Slender, though well landed, is an idiot And he my husband best of all affects. The doctor is well moneyd, and his friends Potent at court: he, none but he, shall have her, Though twenty thousand worthier come to crave her."
+            "text": "Go, Mistress Ford, Send quickly to Sir John, to know his mind. I'll to the doctor: he hath my good will, And none but he, to marry with Nan Page. That Slender, though well landed, is an idiot; And he my husband best of all affects. The doctor is well money'd, and his friends Potent at court: he, none but he, shall have her, Though twenty thousand worthier come to crave her."
         },
         {
             "text": "Exit MISTRESS FORD"

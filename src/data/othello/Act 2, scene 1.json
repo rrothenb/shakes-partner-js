@@ -1,61 +1,61 @@
 {
     "sceneName": "Act 2, scene 1",
     "playName": "othello",
-    "location": "A Seaport in Cyprus. An open place near the quay.",
+    "location": "A Sea-port in Cyprus. An open place near the quay.",
     "lines": [
         {
             "text": "Enter MONTANO and two Gentlemen"
         },
         {
             "speaker": "montano",
-            "text": "What from the cape can you discern at sea"
+            "text": "What from the cape can you discern at sea?"
         },
         {
             "speaker": "first gentleman",
-            "text": "Nothing at all: it is a highwrought flood I cannot, twixt the heaven and the main, Descry a sail."
+            "text": "Nothing at all: it is a highwrought flood; I cannot, 'twixt the heaven and the main, Descry a sail."
         },
         {
             "speaker": "montano",
-            "text": "Methinks the wind hath spoke aloud at land A fuller blast neer shook our battlements: If it hath ruffiand so upon the sea, What ribs of oak, when mountains melt on them, Can hold the mortise What shall we hear of this"
+            "text": "Methinks the wind hath spoke aloud at land; A fuller blast ne'er shook our battlements: If it hath ruffian'd so upon the sea, What ribs of oak, when mountains melt on them, Can hold the mortise? What shall we hear of this?"
         },
         {
             "speaker": "second gentleman",
-            "text": "A segregation of the Turkish fleet: For do but stand upon the foaming shore, The chidden billow seems to pelt the clouds The windshaked surge, with high and monstrous mane, seems to cast water on the burning bear, And quench the guards of the everfixed pole: I never did like molestation view On the enchafed flood."
+            "text": "A segregation of the Turkish fleet: For do but stand upon the foaming shore, The chidden billow seems to pelt the clouds; The wind-shaked surge, with high and monstrous mane, seems to cast water on the burning bear, And quench the guards of the ever-fixed pole: I never did like molestation view On the enchafed flood."
         },
         {
             "speaker": "montano",
-            "text": "If that the Turkish fleet Be not enshelterd and embayd, they are drownd: It is impossible they bear it out."
+            "text": "If that the Turkish fleet Be not enshelter'd and embay'd, they are drown'd: It is impossible they bear it out."
         },
         {
             "text": "Enter a third Gentleman"
         },
         {
             "speaker": "third gentleman",
-            "text": "News, lads! our wars are done. The desperate tempest hath so bangd the Turks, That their designment halts: a noble ship of Venice Hath seen a grievous wreck and sufferance On most part of their fleet."
+            "text": "News, lads! our wars are done. The desperate tempest hath so bang'd the Turks, That their designment halts: a noble ship of Venice Hath seen a grievous wreck and sufferance On most part of their fleet."
         },
         {
             "speaker": "montano",
-            "text": "How! is this true"
+            "text": "How! is this true?"
         },
         {
             "speaker": "third gentleman",
-            "text": "The ship is here put in, A Veronesa Michael Cassio, Lieutenant to the warlike Moor Othello, Is come on shore: the Moor himself at sea, And is in full commission here for Cyprus."
+            "text": "The ship is here put in, A Veronesa; Michael Cassio, Lieutenant to the warlike Moor Othello, Is come on shore: the Moor himself at sea, And is in full commission here for Cyprus."
         },
         {
             "speaker": "montano",
-            "text": "I am glad ont tis a worthy governor."
+            "text": "I am glad on't; 'tis a worthy governor."
         },
         {
             "speaker": "third gentleman",
-            "text": "But this same Cassio, though he speak of comfort Touching the Turkish loss, yet he looks sadly, And prays the Moor be safe for they were parted With foul and violent tempest."
+            "text": "But this same Cassio, though he speak of comfort Touching the Turkish loss, yet he looks sadly, And prays the Moor be safe; for they were parted With foul and violent tempest."
         },
         {
             "speaker": "montano",
-            "text": "Pray heavens he be For I have served him, and the man commands Like a full soldier. Lets to the seaside, ho! As well to see the vessel thats come in As to throw out our eyes for brave Othello, Even till we make the main and the aerial blue An indistinct regard."
+            "text": "Pray heavens he be; For I have served him, and the man commands Like a full soldier. Let's to the seaside, ho! As well to see the vessel that's come in As to throw out our eyes for brave Othello, Even till we make the main and the aerial blue An indistinct regard."
         },
         {
             "speaker": "third gentleman",
-            "text": "Come, lets do so: For every minute is expectancy Of more arrivance."
+            "text": "Come, let's do so: For every minute is expectancy Of more arrivance."
         },
         {
             "text": "Enter CASSIO"
@@ -66,18 +66,18 @@
         },
         {
             "speaker": "montano",
-            "text": "Is he well shippd"
+            "text": "Is he well shipp'd?"
         },
         {
             "speaker": "cassio",
-            "text": "His bark is stoutly timberd, his pilot Of very expert and approved allowance Therefore my hopes, not surfeited to death, Stand in bold cure. A cry within A sail, a sail, a sail! What noise"
+            "text": "His bark is stoutly timber'd, his pilot Of very expert and approved allowance; Therefore my hopes, not surfeited to death, Stand in bold cure. A cry within 'A sail, a sail, a sail!' What noise?"
         },
         {
             "text": "Enter a fourth Gentleman"
         },
         {
             "speaker": "fourth gentleman",
-            "text": "The town is empty on the brow o the sea Stand ranks of people, and they cry A sail!"
+            "text": "The town is empty; on the brow o' the sea Stand ranks of people, and they cry 'A sail!'"
         },
         {
             "speaker": "cassio",
@@ -92,7 +92,7 @@
         },
         {
             "speaker": "cassio",
-            "text": "I pray you, sir, go forth, And give us truth who tis that is arrived."
+            "text": "I pray you, sir, go forth, And give us truth who 'tis that is arrived."
         },
         {
             "speaker": "second gentleman",
@@ -103,57 +103,57 @@
         },
         {
             "speaker": "montano",
-            "text": "But, good lieutenant, is your general wived"
+            "text": "But, good lieutenant, is your general wived?"
         },
         {
             "speaker": "cassio",
-            "text": "Most fortunately: he hath achieved a maid That paragons description and wild fame One that excels the quirks of blazoning pens, And in the essential vesture of creation Does tire the ingener. How now! who has put in"
+            "text": "Most fortunately: he hath achieved a maid That paragons description and wild fame; One that excels the quirks of blazoning pens, And in the essential vesture of creation Does tire the ingener. How now! who has put in?"
         },
         {
-            "text": "Reenter second Gentleman"
+            "text": "Re-enter second Gentleman"
         },
         {
             "speaker": "second gentleman",
-            "text": "Tis one Iago, ancient to the general."
+            "text": "'Tis one Iago, ancient to the general."
         },
         {
             "speaker": "cassio",
-            "text": "Has had most favourable and happy speed: Tempests themselves, high seas, and howling winds, The gutterd rocks and congregated sands Traitors ensteepd to clog the guiltless keel, As having sense of beauty, do omit Their mortal natures, letting go safely by The divine Desdemona."
+            "text": "Has had most favourable and happy speed: Tempests themselves, high seas, and howling winds, The gutter'd rocks and congregated sands-- Traitors ensteep'd to clog the guiltless keel,-- As having sense of beauty, do omit Their mortal natures, letting go safely by The divine Desdemona."
         },
         {
             "speaker": "montano",
-            "text": "What is she"
+            "text": "What is she?"
         },
         {
             "speaker": "cassio",
-            "text": "She that I spake of, our great captains captain, Left in the conduct of the bold Iago, Whose footing here anticipates our thoughts A sennights speed. Great Jove, Othello guard, And swell his sail with thine own powerful breath, That he may bless this bay with his tall ship, Make loves quick pants in Desdemonas arms, Give renewd fire to our extincted spirits And bring all Cyprus comfort! O, behold, The riches of the ship is come on shore! Ye men of Cyprus, let her have your knees. Hail to thee, lady! and the grace of heaven, Before, behind thee, and on every hand, Enwheel thee round!"
+            "text": "She that I spake of, our great captain's captain, Left in the conduct of the bold Iago, Whose footing here anticipates our thoughts A se'nnight's speed. Great Jove, Othello guard, And swell his sail with thine own powerful breath, That he may bless this bay with his tall ship, Make love's quick pants in Desdemona's arms, Give renew'd fire to our extincted spirits And bring all Cyprus comfort! O, behold, The riches of the ship is come on shore! Ye men of Cyprus, let her have your knees. Hail to thee, lady! and the grace of heaven, Before, behind thee, and on every hand, Enwheel thee round!"
         },
         {
             "text": "Enter DESDEMONA, EMILIA, IAGO, RODERIGO, and Attendants"
         },
         {
             "speaker": "desdemona",
-            "text": "I thank you, valiant Cassio. What tidings can you tell me of my lord"
+            "text": "I thank you, valiant Cassio. What tidings can you tell me of my lord?"
         },
         {
             "speaker": "cassio",
-            "text": "He is not yet arrived: nor know I aught But that hes well and will be shortly here."
+            "text": "He is not yet arrived: nor know I aught But that he's well and will be shortly here."
         },
         {
             "speaker": "desdemona",
-            "text": "O, but I fearHow lost you company"
+            "text": "O, but I fear--How lost you company?"
         },
         {
             "speaker": "cassio",
-            "text": "The great contention of the sea and skies Parted our fellowshipBut, hark! a sail. Within A sail, a sail! Guns heard"
+            "text": "The great contention of the sea and skies Parted our fellowship--But, hark! a sail. Within 'A sail, a sail!' Guns heard"
         },
         {
             "speaker": "second gentleman",
-            "text": "They give their greeting to the citadel This likewise is a friend."
+            "text": "They give their greeting to the citadel; This likewise is a friend."
         },
         {
             "speaker": "cassio",
-            "text": "See for the news. Good ancient, you are welcome. Welcome, mistress. Let it not gall your patience, good Iago, That I extend my manners tis my breeding That gives me this bold show of courtesy."
+            "text": "See for the news. Good ancient, you are welcome. Welcome, mistress. Let it not gall your patience, good Iago, That I extend my manners; 'tis my breeding That gives me this bold show of courtesy."
         },
         {
             "text": "Exit Gentleman"
@@ -166,7 +166,7 @@
         },
         {
             "speaker": "iago",
-            "text": "Sir, would she give you so much of her lips As of her tongue she oft bestows on me, Youll have enough."
+            "text": "Sir, would she give you so much of her lips As of her tongue she oft bestows on me, You'll have enough."
         },
         {
             "speaker": "desdemona",
@@ -174,7 +174,7 @@
         },
         {
             "speaker": "iago",
-            "text": "In faith, too much I find it still, when I have list to sleep: Marry, before your ladyship, I grant, She puts her tongue a little in her heart, And chides with thinking."
+            "text": "In faith, too much; I find it still, when I have list to sleep: Marry, before your ladyship, I grant, She puts her tongue a little in her heart, And chides with thinking."
         },
         {
             "speaker": "emilia",
@@ -182,7 +182,7 @@
         },
         {
             "speaker": "iago",
-            "text": "Come on, come on you are pictures out of doors, Bells in your parlors, wildcats in your kitchens, Saints m your injuries, devils being offended, Players in your housewifery, and housewives in your beds."
+            "text": "Come on, come on; you are pictures out of doors, Bells in your parlors, wild-cats in your kitchens, Saints m your injuries, devils being offended, Players in your housewifery, and housewives' in your beds."
         },
         {
             "speaker": "desdemona",
@@ -202,15 +202,15 @@
         },
         {
             "speaker": "desdemona",
-            "text": "What wouldst thou write of me, if thou shouldst praise me"
+            "text": "What wouldst thou write of me, if thou shouldst praise me?"
         },
         {
             "speaker": "iago",
-            "text": "O gentle lady, do not put me tot For I am nothing, if not critical."
+            "text": "O gentle lady, do not put me to't; For I am nothing, if not critical."
         },
         {
             "speaker": "desdemona",
-            "text": "Come on assay. Theres one gone to the harbour"
+            "text": "Come on assay. There's one gone to the harbour?"
         },
         {
             "speaker": "iago",
@@ -218,19 +218,19 @@
         },
         {
             "speaker": "desdemona",
-            "text": "I am not merry but I do beguile The thing I am, by seeming otherwise. Come, how wouldst thou praise me"
+            "text": "I am not merry; but I do beguile The thing I am, by seeming otherwise. Come, how wouldst thou praise me?"
         },
         {
             "speaker": "iago",
-            "text": "I am about it but indeed my invention Comes from my pate as birdlime does from frize It plucks out brains and all: but my Muse labours, And thus she is deliverd. If she be fair and wise, fairness and wit, The ones for use, the other useth it."
+            "text": "I am about it; but indeed my invention Comes from my pate as birdlime does from frize; It plucks out brains and all: but my Muse labours, And thus she is deliver'd. If she be fair and wise, fairness and wit, The one's for use, the other useth it."
         },
         {
             "speaker": "desdemona",
-            "text": "Well praised! How if she be black and witty"
+            "text": "Well praised! How if she be black and witty?"
         },
         {
             "speaker": "iago",
-            "text": "If she be black, and thereto have a wit, Shell find a white that shall her blackness fit."
+            "text": "If she be black, and thereto have a wit, She'll find a white that shall her blackness fit."
         },
         {
             "speaker": "desdemona",
@@ -238,31 +238,31 @@
         },
         {
             "speaker": "emilia",
-            "text": "How if fair and foolish"
+            "text": "How if fair and foolish?"
         },
         {
             "speaker": "iago",
-            "text": "She never yet was foolish that was fair For even her folly helpd her to an heir."
+            "text": "She never yet was foolish that was fair; For even her folly help'd her to an heir."
         },
         {
             "speaker": "desdemona",
-            "text": "These are old fond paradoxes to make fools laugh i the alehouse. What miserable praise hast thou for her thats foul and foolish"
+            "text": "These are old fond paradoxes to make fools laugh i' the alehouse. What miserable praise hast thou for her that's foul and foolish?"
         },
         {
             "speaker": "iago",
-            "text": "Theres none so foul and foolish thereunto, But does foul pranks which fair and wise ones do."
+            "text": "There's none so foul and foolish thereunto, But does foul pranks which fair and wise ones do."
         },
         {
             "speaker": "desdemona",
-            "text": "O heavy ignorance! thou praisest the worst best. But what praise couldst thou bestow on a deserving woman indeed, one that, in the authority of her merit, did justly put on the vouch of very malice itself"
+            "text": "O heavy ignorance! thou praisest the worst best. But what praise couldst thou bestow on a deserving woman indeed, one that, in the authority of her merit, did justly put on the vouch of very malice itself?"
         },
         {
             "speaker": "iago",
-            "text": "She that was ever fair and never proud, Had tongue at will and yet was never loud, Never lackd gold and yet went never gay, Fled from her wish and yet said Now I may, She that being angerd, her revenge being nigh, Bade her wrong stay and her displeasure fly, She that in wisdom never was so frail To change the cods head for the salmons tail She that could think and neer disclose her mind, See suitors following and not look behind, She was a wight, if ever such wight were,"
+            "text": "She that was ever fair and never proud, Had tongue at will and yet was never loud, Never lack'd gold and yet went never gay, Fled from her wish and yet said 'Now I may,' She that being anger'd, her revenge being nigh, Bade her wrong stay and her displeasure fly, She that in wisdom never was so frail To change the cod's head for the salmon's tail; She that could think and ne'er disclose her mind, See suitors following and not look behind, She was a wight, if ever such wight were,--"
         },
         {
             "speaker": "desdemona",
-            "text": "To do what"
+            "text": "To do what?"
         },
         {
             "speaker": "iago",
@@ -270,7 +270,7 @@
         },
         {
             "speaker": "desdemona",
-            "text": "O most lame and impotent conclusion! Do not learn of him, Emilia, though he be thy husband. How say you, Cassio is he not a most profane and liberal counsellor"
+            "text": "O most lame and impotent conclusion! Do not learn of him, Emilia, though he be thy husband. How say you, Cassio? is he not a most profane and liberal counsellor?"
         },
         {
             "speaker": "cassio",
@@ -278,18 +278,18 @@
         },
         {
             "speaker": "iago",
-            "text": "[Aside]  He takes her by the palm: ay, well said, whisper: with as little a web as this will I ensnare as great a fly as Cassio. Ay, smile upon her, do I will gyve thee in thine own courtship. You say true tis so, indeed: if such tricks as these strip you out of your lieutenantry, it had been better you had not kissed your three fingers so oft, which now again you are most apt to play the sir in. Very good well kissed! an excellent courtesy! tis so, indeed. Yet again your fingers to your lips would they were clysterpipes for your sake! The Moor! I know his trumpet."
+            "text": "[Aside]  He takes her by the palm: ay, well said, whisper: with as little a web as this will I ensnare as great a fly as Cassio. Ay, smile upon her, do; I will gyve thee in thine own courtship. You say true; 'tis so, indeed: if such tricks as these strip you out of your lieutenantry, it had been better you had not kissed your three fingers so oft, which now again you are most apt to play the sir in. Very good; well kissed! an excellent courtesy! 'tis so, indeed. Yet again your fingers to your lips? would they were clyster-pipes for your sake! The Moor! I know his trumpet."
         },
         {
             "text": "Trumpet within"
         },
         {
             "speaker": "cassio",
-            "text": "Tis truly so."
+            "text": "'Tis truly so."
         },
         {
             "speaker": "desdemona",
-            "text": "Lets meet him and receive him."
+            "text": "Let's meet him and receive him."
         },
         {
             "speaker": "cassio",
@@ -308,7 +308,7 @@
         },
         {
             "speaker": "othello",
-            "text": "It gives me wonder great as my content To see you here before me. O my souls joy! If after every tempest come such calms, May the winds blow till they have wakend death! And let the labouring bark climb hills of seas Olympushigh and duck again as low As hells from heaven! If it were now to die, Twere now to be most happy for, I fear, My soul hath her content so absolute That not another comfort like to this Succeeds in unknown fate."
+            "text": "It gives me wonder great as my content To see you here before me. O my soul's joy! If after every tempest come such calms, May the winds blow till they have waken'd death! And let the labouring bark climb hills of seas Olympus-high and duck again as low As hell's from heaven! If it were now to die, 'Twere now to be most happy; for, I fear, My soul hath her content so absolute That not another comfort like to this Succeeds in unknown fate."
         },
         {
             "speaker": "desdemona",
@@ -316,49 +316,49 @@
         },
         {
             "speaker": "othello",
-            "text": "Amen to that, sweet powers! I cannot speak enough of this content It stops me here it is too much of joy: And this, and this, the greatest discords be That eer our hearts shall make!"
+            "text": "Amen to that, sweet powers! I cannot speak enough of this content; It stops me here; it is too much of joy: And this, and this, the greatest discords be That e'er our hearts shall make!"
         },
         {
             "text": "Kissing her"
         },
         {
             "speaker": "iago",
-            "text": "[Aside]  O, you are well tuned now! But Ill set down the pegs that make this music, As honest as I am."
+            "text": "[Aside]  O, you are well tuned now! But I'll set down the pegs that make this music, As honest as I am."
         },
         {
             "speaker": "othello",
-            "text": "Come, let us to the castle. News, friends our wars are done, the Turks are drownd. How does my old acquaintance of this isle Honey, you shall be well desired in Cyprus I have found great love amongst them. O my sweet, I prattle out of fashion, and I dote In mine own comforts. I prithee, good Iago, Go to the bay and disembark my coffers: Bring thou the master to the citadel He is a good one, and his worthiness Does challenge much respect. Come, Desdemona, Once more, well met at Cyprus."
+            "text": "Come, let us to the castle. News, friends; our wars are done, the Turks are drown'd. How does my old acquaintance of this isle? Honey, you shall be well desired in Cyprus; I have found great love amongst them. O my sweet, I prattle out of fashion, and I dote In mine own comforts. I prithee, good Iago, Go to the bay and disembark my coffers: Bring thou the master to the citadel; He is a good one, and his worthiness Does challenge much respect. Come, Desdemona, Once more, well met at Cyprus."
         },
         {
             "text": "Exeunt OTHELLO, DESDEMONA, and Attendants"
         },
         {
             "speaker": "iago",
-            "text": "Do thou meet me presently at the harbour. Come hither. If thou best valiant, as, they say, base men being in love have then a nobility in their natures more than is native to themlist me. The lieutenant tonight watches on the court of guard:first, I must tell thee thisDesdemona is directly in love with him."
+            "text": "Do thou meet me presently at the harbour. Come hither. If thou be'st valiant,-- as, they say, base men being in love have then a nobility in their natures more than is native to them--list me. The lieutenant tonight watches on the court of guard:--first, I must tell thee this--Desdemona is directly in love with him."
         },
         {
             "speaker": "roderigo",
-            "text": "With him! why, tis not possible."
+            "text": "With him! why, 'tis not possible."
         },
         {
             "speaker": "iago",
-            "text": "Lay thy finger thus, and let thy soul be instructed. Mark me with what violence she first loved the Moor, but for bragging and telling her fantastical lies: and will she love him still for prating let not thy discreet heart think it. Her eye must be fed and what delight shall she have to look on the devil When the blood is made dull with the act of sport, there should be, again to inflame it and to give satiety a fresh appetite, loveliness in favour, sympathy in years, manners and beauties all which the Moor is defective in: now, for want of these required conveniences, her delicate tenderness will find itself abused, begin to heave the gorge, disrelish and abhor the Moor very nature will instruct her in it and compel her to some second choice. Now, sir, this granted,as it is a most pregnant and unforced positionwho stands so eminent in the degree of this fortune as Cassio does a knave very voluble no further conscionable than in putting on the mere form of civil and humane seeming, for the better compassing of his salt and most hidden loose affection why, none why, none: a slipper and subtle knave, a finder of occasions, that has an eye can stamp and counterfeit advantages, though true advantage never present itself a devilish knave. Besides, the knave is handsome, young, and hath all those requisites in him that folly and green minds look after: a pestilent complete knave and the woman hath found him already."
+            "text": "Lay thy finger thus, and let thy soul be instructed. Mark me with what violence she first loved the Moor, but for bragging and telling her fantastical lies: and will she love him still for prating? let not thy discreet heart think it. Her eye must be fed; and what delight shall she have to look on the devil? When the blood is made dull with the act of sport, there should be, again to inflame it and to give satiety a fresh appetite, loveliness in favour, sympathy in years, manners and beauties; all which the Moor is defective in: now, for want of these required conveniences, her delicate tenderness will find itself abused, begin to heave the gorge, disrelish and abhor the Moor; very nature will instruct her in it and compel her to some second choice. Now, sir, this granted,--as it is a most pregnant and unforced position--who stands so eminent in the degree of this fortune as Cassio does? a knave very voluble; no further conscionable than in putting on the mere form of civil and humane seeming, for the better compassing of his salt and most hidden loose affection? why, none; why, none: a slipper and subtle knave, a finder of occasions, that has an eye can stamp and counterfeit advantages, though true advantage never present itself; a devilish knave. Besides, the knave is handsome, young, and hath all those requisites in him that folly and green minds look after: a pestilent complete knave; and the woman hath found him already."
         },
         {
             "speaker": "roderigo",
-            "text": "I cannot believe that in her shes full of most blessed condition."
+            "text": "I cannot believe that in her; she's full of most blessed condition."
         },
         {
             "speaker": "iago",
-            "text": "Blessed figsend! the wine she drinks is made of grapes: if she had been blessed, she would never have loved the Moor. Blessed pudding! Didst thou not see her paddle with the palm of his hand didst not mark that"
+            "text": "Blessed fig's-end! the wine she drinks is made of grapes: if she had been blessed, she would never have loved the Moor. Blessed pudding! Didst thou not see her paddle with the palm of his hand? didst not mark that?"
         },
         {
             "speaker": "roderigo",
-            "text": "Yes, that I did but that was but courtesy."
+            "text": "Yes, that I did; but that was but courtesy."
         },
         {
             "speaker": "iago",
-            "text": "Lechery, by this hand an index and obscure prologue to the history of lust and foul thoughts. They met so near with their lips that their breaths embraced together. Villanous thoughts, Roderigo! when these mutualities so marshal the way, hard at hand comes the master and main exercise, the incorporate conclusion, Pish! But, sir, be you ruled by me: I have brought you from Venice. Watch you tonight for the command, Ill layt upon you. Cassio knows you not. Ill not be far from you: do you find some occasion to anger Cassio, either by speaking too loud, or tainting his discipline or from what other course you please, which the time shall more favourably minister."
+            "text": "Lechery, by this hand; an index and obscure prologue to the history of lust and foul thoughts. They met so near with their lips that their breaths embraced together. Villanous thoughts, Roderigo! when these mutualities so marshal the way, hard at hand comes the master and main exercise, the incorporate conclusion, Pish! But, sir, be you ruled by me: I have brought you from Venice. Watch you to-night; for the command, I'll lay't upon you. Cassio knows you not. I'll not be far from you: do you find some occasion to anger Cassio, either by speaking too loud, or tainting his discipline; or from what other course you please, which the time shall more favourably minister."
         },
         {
             "speaker": "roderigo",
@@ -366,7 +366,7 @@
         },
         {
             "speaker": "iago",
-            "text": "Sir, he is rash and very sudden in choler, and haply may strike at you: provoke him, that he may for even out of that will I cause these of Cyprus to mutiny whose qualification shall come into no true taste again but by the displanting of Cassio. So shall you have a shorter journey to your desires by the means I shall then have to prefer them and the impediment most profitably removed, without the which there were no expectation of our prosperity."
+            "text": "Sir, he is rash and very sudden in choler, and haply may strike at you: provoke him, that he may; for even out of that will I cause these of Cyprus to mutiny; whose qualification shall come into no true taste again but by the displanting of Cassio. So shall you have a shorter journey to your desires by the means I shall then have to prefer them; and the impediment most profitably removed, without the which there were no expectation of our prosperity."
         },
         {
             "speaker": "roderigo",
@@ -385,7 +385,7 @@
         },
         {
             "speaker": "iago",
-            "text": "That Cassio loves her, I do well believe it That she loves him, tis apt and of great credit: The Moor, howbeit that I endure him not, Is of a constant, loving, noble nature, And I dare think hell prove to Desdemona A most dear husband. Now, I do love her too Not out of absolute lust, though peradventure I stand accountant for as great a sin, But partly led to diet my revenge, For that I do suspect the lusty Moor Hath leapd into my seat the thought whereof Doth, like a poisonous mineral, gnaw my inwards And nothing can or shall content my soul Till I am evend with him, wife for wife, Or failing so, yet that I put the Moor At least into a jealousy so strong That judgment cannot cure. Which thing to do, If this poor trash of Venice, whom I trash For his quick hunting, stand the putting on, Ill have our Michael Cassio on the hip, Abuse him to the Moor in the rank garb For I fear Cassio with my nightcap too Make the Moor thank me, love me and reward me. For making him egregiously an ass And practising upon his peace and quiet Even to madness. Tis here, but yet confused: Knaverys plain face is never seen tin used."
+            "text": "That Cassio loves her, I do well believe it; That she loves him, 'tis apt and of great credit: The Moor, howbeit that I endure him not, Is of a constant, loving, noble nature, And I dare think he'll prove to Desdemona A most dear husband. Now, I do love her too; Not out of absolute lust, though peradventure I stand accountant for as great a sin, But partly led to diet my revenge, For that I do suspect the lusty Moor Hath leap'd into my seat; the thought whereof Doth, like a poisonous mineral, gnaw my inwards; And nothing can or shall content my soul Till I am even'd with him, wife for wife, Or failing so, yet that I put the Moor At least into a jealousy so strong That judgment cannot cure. Which thing to do, If this poor trash of Venice, whom I trash For his quick hunting, stand the putting on, I'll have our Michael Cassio on the hip, Abuse him to the Moor in the rank garb-- For I fear Cassio with my night-cap too-- Make the Moor thank me, love me and reward me. For making him egregiously an ass And practising upon his peace and quiet Even to madness. 'Tis here, but yet confused: Knavery's plain face is never seen tin used."
         },
         {
             "text": "Exit"

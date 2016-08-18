@@ -1,26 +1,26 @@
 {
     "sceneName": "Act 3, scene 1",
     "playName": "a winters tale",
-    "location": "A seaport in Sicilia.",
+    "location": "A sea-port in Sicilia.",
     "lines": [
         {
             "text": "Enter CLEOMENES and DION"
         },
         {
             "speaker": "cleomenes",
-            "text": "The climates delicate, the air most sweet, Fertile the isle, the temple much surpassing The common praise it bears."
+            "text": "The climate's delicate, the air most sweet, Fertile the isle, the temple much surpassing The common praise it bears."
         },
         {
             "speaker": "dion",
-            "text": "I shall report, For most it caught me, the celestial habits, Methinks I so should term them, and the reverence Of the grave wearers. O, the sacrifice! How ceremonious, solemn and unearthly It was i the offering!"
+            "text": "I shall report, For most it caught me, the celestial habits, Methinks I so should term them, and the reverence Of the grave wearers. O, the sacrifice! How ceremonious, solemn and unearthly It was i' the offering!"
         },
         {
             "speaker": "cleomenes",
-            "text": "But of all, the burst And the eardeafening voice o the oracle, Kin to Joves thunder, so surprised my sense. That I was nothing."
+            "text": "But of all, the burst And the ear-deafening voice o' the oracle, Kin to Jove's thunder, so surprised my sense. That I was nothing."
         },
         {
             "speaker": "dion",
-            "text": "If the event o the journey Prove as successful to the queen,O bet so! As it hath been to us rare, pleasant, speedy, The time is worth the use ont."
+            "text": "If the event o' the journey Prove as successful to the queen,--O be't so!-- As it hath been to us rare, pleasant, speedy, The time is worth the use on't."
         },
         {
             "speaker": "cleomenes",
@@ -28,7 +28,7 @@
         },
         {
             "speaker": "dion",
-            "text": "The violent carriage of it Will clear or end the business: when the oracle, Thus by Apollos great divine seald up, Shall the contents discover, something rare Even then will rush to knowledge. Go: fresh horses! And gracious be the issue!"
+            "text": "The violent carriage of it Will clear or end the business: when the oracle, Thus by Apollo's great divine seal'd up, Shall the contents discover, something rare Even then will rush to knowledge. Go: fresh horses! And gracious be the issue!"
         },
         {
             "text": "Exeunt"

@@ -1,18 +1,18 @@
 {
     "sceneName": "Act 3, scene 2",
     "playName": "henry the sixth part 2",
-    "location": "Bury St. Edmunds. A room of state.",
+    "location": "Bury St. Edmund's. A room of state.",
     "lines": [
         {
             "text": "Enter certain Murderers, hastily"
         },
         {
             "speaker": "first murderer",
-            "text": "Run to my Lord of Suffolk let him know We have dispatchd the duke, as he commanded."
+            "text": "Run to my Lord of Suffolk; let him know We have dispatch'd the duke, as he commanded."
         },
         {
             "speaker": "second murderer",
-            "text": "O that it were to do! What have we done Didst ever hear a man so penitent"
+            "text": "O that it were to do! What have we done? Didst ever hear a man so penitent?"
         },
         {
             "text": "Enter SUFFOLK"
@@ -23,19 +23,19 @@
         },
         {
             "speaker": "suffolk",
-            "text": "Now, sirs, have you dispatchd this thing"
+            "text": "Now, sirs, have you dispatch'd this thing?"
         },
         {
             "speaker": "first murderer",
-            "text": "Ay, my good lord, hes dead."
+            "text": "Ay, my good lord, he's dead."
         },
         {
             "speaker": "suffolk",
-            "text": "Why, thats well said. Go, get you to my house I will reward you for this venturous deed. The king and all the peers are here at hand. Have you laid fair the bed Is all things well, According as I gave directions"
+            "text": "Why, that's well said. Go, get you to my house; I will reward you for this venturous deed. The king and all the peers are here at hand. Have you laid fair the bed? Is all things well, According as I gave directions?"
         },
         {
             "speaker": "first murderer",
-            "text": "Tis, my good lord."
+            "text": "'Tis, my good lord."
         },
         {
             "speaker": "suffolk",
@@ -49,18 +49,18 @@
         },
         {
             "speaker": "king henry the sixth",
-            "text": "Go, call our uncle to our presence straight Say we intend to try his grace today. If he be guilty, as tis published."
+            "text": "Go, call our uncle to our presence straight; Say we intend to try his grace to-day. If he be guilty, as 'tis published."
         },
         {
             "speaker": "suffolk",
-            "text": "Ill call him presently, my noble lord."
+            "text": "I'll call him presently, my noble lord."
         },
         {
             "text": "Exit"
         },
         {
             "speaker": "king henry the sixth",
-            "text": "Lords, take your places and, I pray you all, Proceed no straiter gainst our uncle Gloucester Than from true evidence of good esteem He be approved in practise culpable."
+            "text": "Lords, take your places; and, I pray you all, Proceed no straiter 'gainst our uncle Gloucester Than from true evidence of good esteem He be approved in practise culpable."
         },
         {
             "speaker": "queen margaret",
@@ -68,14 +68,14 @@
         },
         {
             "speaker": "king henry the sixth",
-            "text": "I thank thee, Meg these words content me much. How now! why lookst thou pale why tremblest thou Where is our uncle whats the matter, Suffolk"
+            "text": "I thank thee, Meg; these words content me much. How now! why look'st thou pale? why tremblest thou? Where is our uncle? what's the matter, Suffolk?"
         },
         {
-            "text": "Reenter SUFFOLK"
+            "text": "Re-enter SUFFOLK"
         },
         {
             "speaker": "suffolk",
-            "text": "Dead in his bed, my lord Gloucester is dead."
+            "text": "Dead in his bed, my lord; Gloucester is dead."
         },
         {
             "speaker": "queen margaret",
@@ -83,18 +83,18 @@
         },
         {
             "speaker": "cardinal",
-            "text": "Gods secret judgment: I did dream tonight The duke was dumb and could not speak a word."
+            "text": "God's secret judgment: I did dream to-night The duke was dumb and could not speak a word."
         },
         {
             "text": "KING HENRY VI swoons"
         },
         {
             "speaker": "queen margaret",
-            "text": "How fares my lord Help, lords! the king is dead."
+            "text": "How fares my lord? Help, lords! the king is dead."
         },
         {
             "speaker": "somerset",
-            "text": "Rear up his body wring him by the nose."
+            "text": "Rear up his body; wring him by the nose."
         },
         {
             "speaker": "queen margaret",
@@ -110,7 +110,7 @@
         },
         {
             "speaker": "queen margaret",
-            "text": "How fares my gracious lord"
+            "text": "How fares my gracious lord?"
         },
         {
             "speaker": "suffolk",
@@ -118,11 +118,11 @@
         },
         {
             "speaker": "king henry the sixth",
-            "text": "What, doth my Lord of Suffolk comfort me Came he right now to sing a ravens note, Whose dismal tune bereft my vital powers And thinks he that the chirping of a wren, By crying comfort from a hollow breast, Can chase away the firstconceived sound Hide not thy poison with such sugard words Lay not thy hands on me forbear, I say Their touch affrights me as a serpents sting. Thou baleful messenger, out of my sight! Upon thy eyeballs murderous tyranny Sits in grim majesty, to fright the world. Look not upon me, for thine eyes are wounding: Yet do not go away: come, basilisk, And kill the innocent gazer with thy sight For in the shade of death I shall find joy In life but double death, now Gloucesters dead."
+            "text": "What, doth my Lord of Suffolk comfort me? Came he right now to sing a raven's note, Whose dismal tune bereft my vital powers; And thinks he that the chirping of a wren, By crying comfort from a hollow breast, Can chase away the first-conceived sound? Hide not thy poison with such sugar'd words; Lay not thy hands on me; forbear, I say; Their touch affrights me as a serpent's sting. Thou baleful messenger, out of my sight! Upon thy eye-balls murderous tyranny Sits in grim majesty, to fright the world. Look not upon me, for thine eyes are wounding: Yet do not go away: come, basilisk, And kill the innocent gazer with thy sight; For in the shade of death I shall find joy; In life but double death, now Gloucester's dead."
         },
         {
             "speaker": "queen margaret",
-            "text": "Why do you rate my Lord of Suffolk thus Although the duke was enemy to him, Yet he most Christianlike laments his death: And for myself, foe as he was to me, Might liquid tears or heartoffending groans Or bloodconsuming sighs recall his life, I would be blind with weeping, sick with groans, Look pale as primrose with blooddrinking sighs, And all to have the noble duke alive. What know I how the world may deem of me For it is known we were but hollow friends: It may be judged I made the duke away So shall my name with slanders tongue be wounded, And princes courts be filld with my reproach. This get I by his death: ay me, unhappy! To be a queen, and crownd with infamy!"
+            "text": "Why do you rate my Lord of Suffolk thus? Although the duke was enemy to him, Yet he most Christian-like laments his death: And for myself, foe as he was to me, Might liquid tears or heart-offending groans Or blood-consuming sighs recall his life, I would be blind with weeping, sick with groans, Look pale as primrose with blood-drinking sighs, And all to have the noble duke alive. What know I how the world may deem of me? For it is known we were but hollow friends: It may be judged I made the duke away; So shall my name with slander's tongue be wounded, And princes' courts be fill'd with my reproach. This get I by his death: ay me, unhappy! To be a queen, and crown'd with infamy!"
         },
         {
             "speaker": "king henry the sixth",
@@ -130,18 +130,18 @@
         },
         {
             "speaker": "queen margaret",
-            "text": "Be woe for me, more wretched than he is. What, dost thou turn away and hide thy face I am no loathsome leper look on me. What! art thou, like the adder, waxen deaf Be poisonous too and kill thy forlorn queen. Is all thy comfort shut in Gloucesters tomb Why, then, dame Margaret was neer thy joy. Erect his statue and worship it, And make my image but an alehouse sign. Was I for this nigh wreckd upon the sea And twice by awkward wind from Englands bank Drove back again unto my native clime What boded this, but well forewarning wind Did seem to say Seek not a scorpions nest, Nor set no footing on this unkind shore What did I then, but cursed the gentle gusts And he that loosed them forth their brazen caves: And bid them blow towards Englands blessed shore, Or turn our stern upon a dreadful rock Yet AEolus would not be a murderer, But left that hateful office unto thee: The prettyvaulting sea refused to drown me, Knowing that thou wouldst have me drownd on shore, With tears as salt as sea, through thy unkindness: The splitting rocks cowerd in the sinking sands And would not dash me with their ragged sides, Because thy flinty heart, more hard than they, Might in thy palace perish Margaret. As far as I could ken thy chalky cliffs, When from thy shore the tempest beat us back, I stood upon the hatches in the storm, And when the dusky sky began to rob My earnestgaping sight of thy lands view, I took a costly jewel from my neck, A heart it was, bound in with diamonds, And threw it towards thy land: the sea received it, And so I wishd thy body might my heart: And even with this I lost fair Englands view And bid mine eyes be packing with my heart And calld them blind and dusky spectacles, For losing ken of Albions wished coast. How often have I tempted Suffolks tongue, The agent of thy foul inconstancy, To sit and witch me, as Ascanius did When he to madding Dido would unfold His fathers acts commenced in burning Troy! Am I not witchd like her or thou not false like him Ay me, I can no more! die, Margaret! For Henry weeps that thou dost live so long."
+            "text": "Be woe for me, more wretched than he is. What, dost thou turn away and hide thy face? I am no loathsome leper; look on me. What! art thou, like the adder, waxen deaf? Be poisonous too and kill thy forlorn queen. Is all thy comfort shut in Gloucester's tomb? Why, then, dame Margaret was ne'er thy joy. Erect his statue and worship it, And make my image but an alehouse sign. Was I for this nigh wreck'd upon the sea And twice by awkward wind from England's bank Drove back again unto my native clime? What boded this, but well forewarning wind Did seem to say 'Seek not a scorpion's nest, Nor set no footing on this unkind shore'? What did I then, but cursed the gentle gusts And he that loosed them forth their brazen caves: And bid them blow towards England's blessed shore, Or turn our stern upon a dreadful rock Yet AEolus would not be a murderer, But left that hateful office unto thee: The pretty-vaulting sea refused to drown me, Knowing that thou wouldst have me drown'd on shore, With tears as salt as sea, through thy unkindness: The splitting rocks cower'd in the sinking sands And would not dash me with their ragged sides, Because thy flinty heart, more hard than they, Might in thy palace perish Margaret. As far as I could ken thy chalky cliffs, When from thy shore the tempest beat us back, I stood upon the hatches in the storm, And when the dusky sky began to rob My earnest-gaping sight of thy land's view, I took a costly jewel from my neck, A heart it was, bound in with diamonds, And threw it towards thy land: the sea received it, And so I wish'd thy body might my heart: And even with this I lost fair England's view And bid mine eyes be packing with my heart And call'd them blind and dusky spectacles, For losing ken of Albion's wished coast. How often have I tempted Suffolk's tongue, The agent of thy foul inconstancy, To sit and witch me, as Ascanius did When he to madding Dido would unfold His father's acts commenced in burning Troy! Am I not witch'd like her? or thou not false like him? Ay me, I can no more! die, Margaret! For Henry weeps that thou dost live so long."
         },
         {
             "text": "Noise within. Enter WARWICK, SALISBURY, and many Commons"
         },
         {
             "speaker": "warwick",
-            "text": "It is reported, mighty sovereign, That good Duke Humphrey traitorously is murderd By Suffolk and the Cardinal Beauforts means. The commons, like an angry hive of bees That want their leader, scatter up and down And care not who they sting in his revenge. Myself have calmd their spleenful mutiny, Until they hear the order of his death."
+            "text": "It is reported, mighty sovereign, That good Duke Humphrey traitorously is murder'd By Suffolk and the Cardinal Beaufort's means. The commons, like an angry hive of bees That want their leader, scatter up and down And care not who they sting in his revenge. Myself have calm'd their spleenful mutiny, Until they hear the order of his death."
         },
         {
             "speaker": "king henry the sixth",
-            "text": "That he is dead, good Warwick, tis too true But how he died God knows, not Henry: Enter his chamber, view his breathless corpse, And comment then upon his sudden death."
+            "text": "That he is dead, good Warwick, 'tis too true; But how he died God knows, not Henry: Enter his chamber, view his breathless corpse, And comment then upon his sudden death."
         },
         {
             "speaker": "warwick",
@@ -152,10 +152,10 @@
         },
         {
             "speaker": "king henry the sixth",
-            "text": "O Thou that judgest all things, stay my thoughts, My thoughts, that labour to persuade my soul Some violent hands were laid on Humphreys life! If my suspect be false, forgive me, God, For judgment only doth belong to thee. Fain would I go to chafe his paly lips With twenty thousand kisses, and to drain Upon his face an ocean of salt tears, To tell my love unto his dumb deaf trunk, And with my fingers feel his hand unfeeling: But all in vain are these mean obsequies And to survey his dead and earthly image, What were it but to make my sorrow greater"
+            "text": "O Thou that judgest all things, stay my thoughts, My thoughts, that labour to persuade my soul Some violent hands were laid on Humphrey's life! If my suspect be false, forgive me, God, For judgment only doth belong to thee. Fain would I go to chafe his paly lips With twenty thousand kisses, and to drain Upon his face an ocean of salt tears, To tell my love unto his dumb deaf trunk, And with my fingers feel his hand unfeeling: But all in vain are these mean obsequies; And to survey his dead and earthly image, What were it but to make my sorrow greater?"
         },
         {
-            "text": "Reenter WARWICK and others, bearing GLOUCESTERS body on a bed"
+            "text": "Re-enter WARWICK and others, bearing GLOUCESTER'S body on a bed"
         },
         {
             "speaker": "warwick",
@@ -163,50 +163,50 @@
         },
         {
             "speaker": "king henry the sixth",
-            "text": "That is to see how deep my grave is made For with his soul fled all my worldly solace, For seeing him I see my life in death."
+            "text": "That is to see how deep my grave is made; For with his soul fled all my worldly solace, For seeing him I see my life in death."
         },
         {
             "speaker": "warwick",
-            "text": "As surely as my soul intends to live With that dread King that took our state upon him To free us from his fathers wrathful curse, I do believe that violent hands were laid Upon the life of this thricefamed duke."
+            "text": "As surely as my soul intends to live With that dread King that took our state upon him To free us from his father's wrathful curse, I do believe that violent hands were laid Upon the life of this thrice-famed duke."
         },
         {
             "speaker": "suffolk",
-            "text": "A dreadful oath, sworn with a solemn tongue! What instance gives Lord Warwick for his vow"
+            "text": "A dreadful oath, sworn with a solemn tongue! What instance gives Lord Warwick for his vow?"
         },
         {
             "speaker": "warwick",
-            "text": "See how the blood is settled in his face. Oft have I seen a timelyparted ghost, Of ashy semblance, meagre, pale and bloodless, Being all descended to the labouring heart Who, in the conflict that it holds with death, Attracts the same for aidance gainst the enemy Which with the heart there cools and neer returneth To blush and beautify the cheek again. But see, his face is black and full of blood, His eyeballs further out than when he lived, Staring full ghastly like a strangled man His hair upreard, his nostrils stretched with struggling His hands abroad displayd, as one that graspd And tuggd for life and was by strength subdued: Look, on the sheets his hair you see, is sticking His wellproportiond beard made rough and rugged, Like to the summers corn by tempest lodged. It cannot be but he was murderd here The least of all these signs were probable."
+            "text": "See how the blood is settled in his face. Oft have I seen a timely-parted ghost, Of ashy semblance, meagre, pale and bloodless, Being all descended to the labouring heart; Who, in the conflict that it holds with death, Attracts the same for aidance 'gainst the enemy; Which with the heart there cools and ne'er returneth To blush and beautify the cheek again. But see, his face is black and full of blood, His eye-balls further out than when he lived, Staring full ghastly like a strangled man; His hair uprear'd, his nostrils stretched with struggling; His hands abroad display'd, as one that grasp'd And tugg'd for life and was by strength subdued: Look, on the sheets his hair you see, is sticking; His well-proportion'd beard made rough and rugged, Like to the summer's corn by tempest lodged. It cannot be but he was murder'd here; The least of all these signs were probable."
         },
         {
             "speaker": "suffolk",
-            "text": "Why, Warwick, who should do the duke to death Myself and Beaufort had him in protection And we, I hope, sir, are no murderers."
+            "text": "Why, Warwick, who should do the duke to death? Myself and Beaufort had him in protection; And we, I hope, sir, are no murderers."
         },
         {
             "speaker": "warwick",
-            "text": "But both of you were vowd Duke Humphreys foes, And you, forsooth, had the good duke to keep: Tis like you would not feast him like a friend And tis well seen he found an enemy."
+            "text": "But both of you were vow'd Duke Humphrey's foes, And you, forsooth, had the good duke to keep: 'Tis like you would not feast him like a friend; And 'tis well seen he found an enemy."
         },
         {
             "speaker": "queen margaret",
-            "text": "Then you, belike, suspect these noblemen As guilty of Duke Humphreys timeless death."
+            "text": "Then you, belike, suspect these noblemen As guilty of Duke Humphrey's timeless death."
         },
         {
             "speaker": "warwick",
-            "text": "Who finds the heifer dead and bleeding fresh And sees fast by a butcher with an axe, But will suspect twas he that made the slaughter Who finds the partridge in the puttocks nest, But may imagine how the bird was dead, Although the kite soar with unbloodied beak Even so suspicious is this tragedy."
+            "text": "Who finds the heifer dead and bleeding fresh And sees fast by a butcher with an axe, But will suspect 'twas he that made the slaughter? Who finds the partridge in the puttock's nest, But may imagine how the bird was dead, Although the kite soar with unbloodied beak? Even so suspicious is this tragedy."
         },
         {
             "speaker": "queen margaret",
-            "text": "Are you the butcher, Suffolk Wheres your knife Is Beaufort termd a kite Where are his talons"
+            "text": "Are you the butcher, Suffolk? Where's your knife? Is Beaufort term'd a kite? Where are his talons?"
         },
         {
             "speaker": "suffolk",
-            "text": "I wear no knife to slaughter sleeping men But heres a vengeful sword, rusted with ease, That shall be scoured in his rancorous heart That slanders me with murders crimson badge. Say, if thou darest, proud Lord of Warwickshire, That I am faulty in Duke Humphreys death."
+            "text": "I wear no knife to slaughter sleeping men; But here's a vengeful sword, rusted with ease, That shall be scoured in his rancorous heart That slanders me with murder's crimson badge. Say, if thou darest, proud Lord of Warwick-shire, That I am faulty in Duke Humphrey's death."
         },
         {
             "text": "Exeunt CARDINAL, SOMERSET, and others"
         },
         {
             "speaker": "warwick",
-            "text": "What dares not Warwick, if false Suffolk dare him"
+            "text": "What dares not Warwick, if false Suffolk dare him?"
         },
         {
             "speaker": "queen margaret",
@@ -214,15 +214,15 @@
         },
         {
             "speaker": "warwick",
-            "text": "Madam, be still with reverence may I say For every word you speak in his behalf Is slander to your royal dignity."
+            "text": "Madam, be still; with reverence may I say; For every word you speak in his behalf Is slander to your royal dignity."
         },
         {
             "speaker": "suffolk",
-            "text": "Bluntwitted lord, ignoble in demeanor! If ever lady wrongd her lord so much, Thy mother took into her blameful bed Some stern untutord churl, and noble stock Was graft with crabtree slip whose fruit thou art, And never of the Nevils noble race."
+            "text": "Blunt-witted lord, ignoble in demeanor! If ever lady wrong'd her lord so much, Thy mother took into her blameful bed Some stern untutor'd churl, and noble stock Was graft with crab-tree slip; whose fruit thou art, And never of the Nevils' noble race."
         },
         {
             "speaker": "warwick",
-            "text": "But that the guilt of murder bucklers thee And I should rob the deathsman of his fee, Quitting thee thereby of ten thousand shames, And that my sovereigns presence makes me mild, I would, false murderous coward, on thy knee Make thee beg pardon for thy passed speech, And say it was thy mother that thou meantst That thou thyself was born in bastardy And after all this fearful homage done, Give thee thy hire and send thy soul to hell, Pernicious bloodsucker of sleeping men!"
+            "text": "But that the guilt of murder bucklers thee And I should rob the deathsman of his fee, Quitting thee thereby of ten thousand shames, And that my sovereign's presence makes me mild, I would, false murderous coward, on thy knee Make thee beg pardon for thy passed speech, And say it was thy mother that thou meant'st That thou thyself was born in bastardy; And after all this fearful homage done, Give thee thy hire and send thy soul to hell, Pernicious blood-sucker of sleeping men!"
         },
         {
             "speaker": "suffolk",
@@ -230,28 +230,28 @@
         },
         {
             "speaker": "warwick",
-            "text": "Away even now, or I will drag thee hence: Unworthy though thou art, Ill cope with thee And do some service to Duke Humphreys ghost."
+            "text": "Away even now, or I will drag thee hence: Unworthy though thou art, I'll cope with thee And do some service to Duke Humphrey's ghost."
         },
         {
             "text": "Exeunt SUFFOLK and WARWICK"
         },
         {
             "speaker": "king henry the sixth",
-            "text": "What stronger breastplate than a heart untainted! Thrice is he armed that hath his quarrel just, And he but naked, though lockd up in steel Whose conscience with injustice is corrupted."
+            "text": "What stronger breastplate than a heart untainted! Thrice is he armed that hath his quarrel just, And he but naked, though lock'd up in steel Whose conscience with injustice is corrupted."
         },
         {
             "text": "A noise within"
         },
         {
             "speaker": "queen margaret",
-            "text": "What noise is this"
+            "text": "What noise is this?"
         },
         {
-            "text": "Reenter SUFFOLK and WARWICK, with their weapons drawn"
+            "text": "Re-enter SUFFOLK and WARWICK, with their weapons drawn"
         },
         {
             "speaker": "king henry the sixth",
-            "text": "Why, how now, lords! your wrathful weapons drawn Here in our presence! dare you be so bold Why, what tumultuous clamour have we here"
+            "text": "Why, how now, lords! your wrathful weapons drawn Here in our presence! dare you be so bold? Why, what tumultuous clamour have we here?"
         },
         {
             "speaker": "suffolk",
@@ -259,7 +259,7 @@
         },
         {
             "speaker": "salisbury",
-            "text": "[To the Commons, entering]  Sirs, stand apart the king shall know your mind. Dread lord, the commons send you word by me, Unless Lord Suffolk straight be done to death, Or banished fair Englands territories, They will by violence tear him from your palace And torture him with grievous lingering death. They say, by him the good Duke Humphrey died They say, in him they fear your highness death And mere instinct of love and loyalty, Free from a stubborn opposite intent, As being thought to contradict your liking, Makes them thus forward in his banishment. They say, in care of your most royal person, That if your highness should intend to sleep And charge that no man should disturb your rest In pain of your dislike or pain of death, Yet, notwithstanding such a strait edict, Were there a serpent seen, with forked tongue, That slily glided towards your majesty, It were but necessary you were waked, Lest, being sufferd in that harmful slumber, The mortal worm might make the sleep eternal And therefore do they cry, though you forbid, That they will guard you, whether you will or no, From such fell serpents as false Suffolk is, With whose envenomed and fatal sting, Your loving uncle, twenty times his worth, They say, is shamefully bereft of life."
+            "text": "[To the Commons, entering]  Sirs, stand apart; the king shall know your mind. Dread lord, the commons send you word by me, Unless Lord Suffolk straight be done to death, Or banished fair England's territories, They will by violence tear him from your palace And torture him with grievous lingering death. They say, by him the good Duke Humphrey died; They say, in him they fear your highness' death; And mere instinct of love and loyalty, Free from a stubborn opposite intent, As being thought to contradict your liking, Makes them thus forward in his banishment. They say, in care of your most royal person, That if your highness should intend to sleep And charge that no man should disturb your rest In pain of your dislike or pain of death, Yet, notwithstanding such a strait edict, Were there a serpent seen, with forked tongue, That slily glided towards your majesty, It were but necessary you were waked, Lest, being suffer'd in that harmful slumber, The mortal worm might make the sleep eternal; And therefore do they cry, though you forbid, That they will guard you, whether you will or no, From such fell serpents as false Suffolk is, With whose envenomed and fatal sting, Your loving uncle, twenty times his worth, They say, is shamefully bereft of life."
         },
         {
             "speaker": "commons",
@@ -267,7 +267,7 @@
         },
         {
             "speaker": "suffolk",
-            "text": "Tis like the commons, rude unpolishd hinds, Could send such message to their sovereign: But you, my lord, were glad to be employd, To show how quaint an orator you are: But all the honour Salisbury hath won Is, that he was the lord ambassador Sent from a sort of tinkers to the king."
+            "text": "'Tis like the commons, rude unpolish'd hinds, Could send such message to their sovereign: But you, my lord, were glad to be employ'd, To show how quaint an orator you are: But all the honour Salisbury hath won Is, that he was the lord ambassador Sent from a sort of tinkers to the king."
         },
         {
             "speaker": "commons",
@@ -275,7 +275,7 @@
         },
         {
             "speaker": "king henry the sixth",
-            "text": "Go, Salisbury, and tell them all from me. I thank them for their tender loving care And had I not been cited so by them, Yet did I purpose as they do entreat For, sure, my thoughts do hourly prophesy Mischance unto my state by Suffolks means: And therefore, by His majesty I swear, Whose far unworthy deputy I am, He shall not breathe infection in this air But three days longer, on the pain of death."
+            "text": "Go, Salisbury, and tell them all from me. I thank them for their tender loving care; And had I not been cited so by them, Yet did I purpose as they do entreat; For, sure, my thoughts do hourly prophesy Mischance unto my state by Suffolk's means: And therefore, by His majesty I swear, Whose far unworthy deputy I am, He shall not breathe infection in this air But three days longer, on the pain of death."
         },
         {
             "text": "Exit SALISBURY"
@@ -286,14 +286,14 @@
         },
         {
             "speaker": "king henry the sixth",
-            "text": "Ungentle queen, to call him gentle Suffolk! No more, I say: if thou dost plead for him, Thou wilt but add increase unto my wrath. Had I but said, I would have kept my word, But when I swear, it is irrevocable. If, after three days space, thou here best found On any ground that I am ruler of, The world shall not be ransom for thy life. Come, Warwick, come, good Warwick, go with me I have great matters to impart to thee."
+            "text": "Ungentle queen, to call him gentle Suffolk! No more, I say: if thou dost plead for him, Thou wilt but add increase unto my wrath. Had I but said, I would have kept my word, But when I swear, it is irrevocable. If, after three days' space, thou here be'st found On any ground that I am ruler of, The world shall not be ransom for thy life. Come, Warwick, come, good Warwick, go with me; I have great matters to impart to thee."
         },
         {
             "text": "Exeunt all but QUEEN MARGARET and SUFFOLK"
         },
         {
             "speaker": "queen margaret",
-            "text": "Mischance and sorrow go along with you! Hearts discontent and sour affliction Be playfellows to keep you company! Theres two of you the devil make a third! And threefold vengeance tend upon your steps!"
+            "text": "Mischance and sorrow go along with you! Heart's discontent and sour affliction Be playfellows to keep you company! There's two of you; the devil make a third! And threefold vengeance tend upon your steps!"
         },
         {
             "speaker": "suffolk",
@@ -301,53 +301,53 @@
         },
         {
             "speaker": "queen margaret",
-            "text": "Fie, coward woman and softhearted wretch! Hast thou not spirit to curse thine enemy"
+            "text": "Fie, coward woman and soft-hearted wretch! Hast thou not spirit to curse thine enemy?"
         },
         {
             "speaker": "suffolk",
-            "text": "A plague upon them! wherefore should I curse them Would curses kill, as doth the mandrakes groan, I would invent as bittersearching terms, As curst, as harsh and horrible to hear, Deliverd strongly through my fixed teeth, With full as many signs of deadly hate, As leanfaced Envy in her loathsome cave: My tongue should stumble in mine earnest words Mine eyes should sparkle like the beaten flint Mine hair be fixed on end, as one distract Ay, every joint should seem to curse and ban: And even now my burthend heart would break, Should I not curse them. Poison be their drink! Gall, worse than gall, the daintiest that they taste! Their sweetest shade a grove of cypress trees! Their chiefest prospect murdering basilisks! Their softest touch as smart as lizards sting! Their music frightful as the serpents hiss, And boding screechowls make the concert full! All the foul terrors in darkseated hell"
+            "text": "A plague upon them! wherefore should I curse them? Would curses kill, as doth the mandrake's groan, I would invent as bitter-searching terms, As curst, as harsh and horrible to hear, Deliver'd strongly through my fixed teeth, With full as many signs of deadly hate, As lean-faced Envy in her loathsome cave: My tongue should stumble in mine earnest words; Mine eyes should sparkle like the beaten flint; Mine hair be fixed on end, as one distract; Ay, every joint should seem to curse and ban: And even now my burthen'd heart would break, Should I not curse them. Poison be their drink! Gall, worse than gall, the daintiest that they taste! Their sweetest shade a grove of cypress trees! Their chiefest prospect murdering basilisks! Their softest touch as smart as lizards' sting! Their music frightful as the serpent's hiss, And boding screech-owls make the concert full! All the foul terrors in dark-seated hell--"
         },
         {
             "speaker": "queen margaret",
-            "text": "Enough, sweet Suffolk thou tormentst thyself And these dread curses, like the sun gainst glass, Or like an overcharged gun, recoil, And turn the force of them upon thyself."
+            "text": "Enough, sweet Suffolk; thou torment'st thyself; And these dread curses, like the sun 'gainst glass, Or like an overcharged gun, recoil, And turn the force of them upon thyself."
         },
         {
             "speaker": "suffolk",
-            "text": "You bade me ban, and will you bid me leave Now, by the ground that I am banishd from, Well could I curse away a winters night, Though standing naked on a mountain top, Where biting cold would never let grass grow, And think it but a minute spent in sport."
+            "text": "You bade me ban, and will you bid me leave? Now, by the ground that I am banish'd from, Well could I curse away a winter's night, Though standing naked on a mountain top, Where biting cold would never let grass grow, And think it but a minute spent in sport."
         },
         {
             "speaker": "queen margaret",
-            "text": "O, let me entreat thee cease. Give me thy hand, That I may dew it with my mournful tears Nor let the rain of heaven wet this place, To wash away my woful monuments. O, could this kiss be printed in thy hand, That thou mightst think upon these by the seal, Through whom a thousand sighs are breathed for thee! So, get thee gone, that I may know my grief Tis but surmised whiles thou art standing by, As one that surfeits thinking on a want. I will repeal thee, or, be well assured, Adventure to be banished myself: And banished I am, if but from thee. Go speak not to me even now be gone. O, go not yet! Even thus two friends condemnd Embrace and kiss and take ten thousand leaves, Loather a hundred times to part than die. Yet now farewell and farewell life with thee!"
+            "text": "O, let me entreat thee cease. Give me thy hand, That I may dew it with my mournful tears; Nor let the rain of heaven wet this place, To wash away my woful monuments. O, could this kiss be printed in thy hand, That thou mightst think upon these by the seal, Through whom a thousand sighs are breathed for thee! So, get thee gone, that I may know my grief; 'Tis but surmised whiles thou art standing by, As one that surfeits thinking on a want. I will repeal thee, or, be well assured, Adventure to be banished myself: And banished I am, if but from thee. Go; speak not to me; even now be gone. O, go not yet! Even thus two friends condemn'd Embrace and kiss and take ten thousand leaves, Loather a hundred times to part than die. Yet now farewell; and farewell life with thee!"
         },
         {
             "speaker": "suffolk",
-            "text": "Thus is poor Suffolk ten times banished Once by the king, and three times thrice by thee. Tis not the land I care for, wert thou thence A wilderness is populous enough, So Suffolk had thy heavenly company: For where thou art, there is the world itself, With every several pleasure in the world, And where thou art not, desolation. I can no more: live thou to joy thy life Myself no joy in nought but that thou livest."
+            "text": "Thus is poor Suffolk ten times banished; Once by the king, and three times thrice by thee. 'Tis not the land I care for, wert thou thence; A wilderness is populous enough, So Suffolk had thy heavenly company: For where thou art, there is the world itself, With every several pleasure in the world, And where thou art not, desolation. I can no more: live thou to joy thy life; Myself no joy in nought but that thou livest."
         },
         {
             "text": "Enter VAUX"
         },
         {
             "speaker": "queen margaret",
-            "text": "Wither goes Vaux so fast what news, I prithee"
+            "text": "Wither goes Vaux so fast? what news, I prithee?"
         },
         {
             "speaker": "vaux",
-            "text": "To signify unto his majesty That Cardinal Beaufort is at point of death For suddenly a grievous sickness took him, That makes him gasp and stare and catch the air, Blaspheming God and cursing men on earth. Sometimes he talks as if Duke Humphreys ghost Were by his side sometime he calls the king, And whispers to his pillow, as to him, The secrets of his overcharged soul And I am sent to tell his majesty That even now he cries aloud for him."
+            "text": "To signify unto his majesty That Cardinal Beaufort is at point of death; For suddenly a grievous sickness took him, That makes him gasp and stare and catch the air, Blaspheming God and cursing men on earth. Sometimes he talks as if Duke Humphrey's ghost Were by his side; sometime he calls the king, And whispers to his pillow, as to him, The secrets of his overcharged soul; And I am sent to tell his majesty That even now he cries aloud for him."
         },
         {
             "speaker": "queen margaret",
-            "text": "Go tell this heavy message to the king. Ay me! what is this world! what news are these! But wherefore grieve I at an hours poor loss, Omitting Suffolks exile, my souls treasure Why only, Suffolk, mourn I not for thee, And with the southern clouds contend in tears, Theirs for the earths increase, mine for my sorrows Now get thee hence: the king, thou knowst, is coming If thou be found by me, thou art but dead."
+            "text": "Go tell this heavy message to the king. Ay me! what is this world! what news are these! But wherefore grieve I at an hour's poor loss, Omitting Suffolk's exile, my soul's treasure? Why only, Suffolk, mourn I not for thee, And with the southern clouds contend in tears, Theirs for the earth's increase, mine for my sorrows? Now get thee hence: the king, thou know'st, is coming; If thou be found by me, thou art but dead."
         },
         {
             "text": "Exit VAUX"
         },
         {
             "speaker": "suffolk",
-            "text": "If I depart from thee, I cannot live And in thy sight to die, what were it else But like a pleasant slumber in thy lap Here could I breathe my soul into the air, As mild and gentle as the cradlebabe Dying with mothers dug between its lips: Where, from thy sight, I should be raging mad, And cry out for thee to close up mine eyes, To have thee with thy lips to stop my mouth So shouldst thou either turn my flying soul, Or I should breathe it so into thy body, And then it lived in sweet Elysium. To die by thee were but to die in jest From thee to die were torture more than death: O, let me stay, befall what may befall!"
+            "text": "If I depart from thee, I cannot live; And in thy sight to die, what were it else But like a pleasant slumber in thy lap? Here could I breathe my soul into the air, As mild and gentle as the cradle-babe Dying with mother's dug between its lips: Where, from thy sight, I should be raging mad, And cry out for thee to close up mine eyes, To have thee with thy lips to stop my mouth; So shouldst thou either turn my flying soul, Or I should breathe it so into thy body, And then it lived in sweet Elysium. To die by thee were but to die in jest; From thee to die were torture more than death: O, let me stay, befall what may befall!"
         },
         {
             "speaker": "queen margaret",
-            "text": "Away! though parting be a fretful corrosive, It is applied to a deathful wound. To France, sweet Suffolk: let me hear from thee For wheresoeer thou art in this worlds globe, Ill have an Iris that shall find thee out."
+            "text": "Away! though parting be a fretful corrosive, It is applied to a deathful wound. To France, sweet Suffolk: let me hear from thee; For wheresoe'er thou art in this world's globe, I'll have an Iris that shall find thee out."
         },
         {
             "speaker": "suffolk",
@@ -359,7 +359,7 @@
         },
         {
             "speaker": "suffolk",
-            "text": "A jewel, lockd into the wofullst cask That ever did contain a thing of worth. Even as a splitted bark, so sunder we This way fall I to death."
+            "text": "A jewel, lock'd into the wofull'st cask That ever did contain a thing of worth. Even as a splitted bark, so sunder we This way fall I to death."
         },
         {
             "speaker": "queen margaret",

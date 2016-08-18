@@ -1,14 +1,14 @@
 {
     "sceneName": "Act 2, scene 2",
     "playName": "romeo and juliet",
-    "location": "Capulets orchard.",
+    "location": "Capulet's orchard.",
     "lines": [
         {
             "text": "Enter ROMEO"
         },
         {
             "speaker": "romeo",
-            "text": "He jests at scars that never felt a wound. But, soft! what light through yonder window breaks It is the east, and Juliet is the sun. Arise, fair sun, and kill the envious moon, Who is already sick and pale with grief, That thou her maid art far more fair than she: Be not her maid, since she is envious Her vestal livery is but sick and green And none but fools do wear it cast it off. It is my lady, O, it is my love! O, that she knew she were! She speaks yet she says nothing: what of that Her eye discourses I will answer it. I am too bold, tis not to me she speaks: Two of the fairest stars in all the heaven, Having some business, do entreat her eyes To twinkle in their spheres till they return. What if her eyes were there, they in her head The brightness of her cheek would shame those stars, As daylight doth a lamp her eyes in heaven Would through the airy region stream so bright That birds would sing and think it were not night. See, how she leans her cheek upon her hand! O, that I were a glove upon that hand, That I might touch that cheek!"
+            "text": "He jests at scars that never felt a wound. But, soft! what light through yonder window breaks? It is the east, and Juliet is the sun. Arise, fair sun, and kill the envious moon, Who is already sick and pale with grief, That thou her maid art far more fair than she: Be not her maid, since she is envious; Her vestal livery is but sick and green And none but fools do wear it; cast it off. It is my lady, O, it is my love! O, that she knew she were! She speaks yet she says nothing: what of that? Her eye discourses; I will answer it. I am too bold, 'tis not to me she speaks: Two of the fairest stars in all the heaven, Having some business, do entreat her eyes To twinkle in their spheres till they return. What if her eyes were there, they in her head? The brightness of her cheek would shame those stars, As daylight doth a lamp; her eyes in heaven Would through the airy region stream so bright That birds would sing and think it were not night. See, how she leans her cheek upon her hand! O, that I were a glove upon that hand, That I might touch that cheek!"
         },
         {
             "text": "JULIET appears above at a window"
@@ -19,35 +19,35 @@
         },
         {
             "speaker": "romeo",
-            "text": "She speaks: O, speak again, bright angel! for thou art As glorious to this night, being oer my head As is a winged messenger of heaven Unto the whiteupturned wondering eyes Of mortals that fall back to gaze on him When he bestrides the lazypacing clouds And sails upon the bosom of the air."
+            "text": "She speaks: O, speak again, bright angel! for thou art As glorious to this night, being o'er my head As is a winged messenger of heaven Unto the white-upturned wondering eyes Of mortals that fall back to gaze on him When he bestrides the lazy-pacing clouds And sails upon the bosom of the air."
         },
         {
             "speaker": "juliet",
-            "text": "O Romeo, Romeo! wherefore art thou Romeo Deny thy father and refuse thy name Or, if thou wilt not, be but sworn my love, And Ill no longer be a Capulet."
+            "text": "O Romeo, Romeo! wherefore art thou Romeo? Deny thy father and refuse thy name; Or, if thou wilt not, be but sworn my love, And I'll no longer be a Capulet."
         },
         {
             "speaker": "romeo",
-            "text": "[Aside]  Shall I hear more, or shall I speak at this"
+            "text": "[Aside]  Shall I hear more, or shall I speak at this?"
         },
         {
             "speaker": "juliet",
-            "text": "Tis but thy name that is my enemy Thou art thyself, though not a Montague. Whats Montague it is nor hand, nor foot, Nor arm, nor face, nor any other part Belonging to a man. O, be some other name! Whats in a name that which we call a rose By any other name would smell as sweet So Romeo would, were he not Romeo calld, Retain that dear perfection which he owes Without that title. Romeo, doff thy name, And for that name which is no part of thee Take all myself."
+            "text": "'Tis but thy name that is my enemy; Thou art thyself, though not a Montague. What's Montague? it is nor hand, nor foot, Nor arm, nor face, nor any other part Belonging to a man. O, be some other name! What's in a name? that which we call a rose By any other name would smell as sweet; So Romeo would, were he not Romeo call'd, Retain that dear perfection which he owes Without that title. Romeo, doff thy name, And for that name which is no part of thee Take all myself."
         },
         {
             "speaker": "romeo",
-            "text": "I take thee at thy word: Call me but love, and Ill be new baptized Henceforth I never will be Romeo."
+            "text": "I take thee at thy word: Call me but love, and I'll be new baptized; Henceforth I never will be Romeo."
         },
         {
             "speaker": "juliet",
-            "text": "What man art thou that thus bescreend in night So stumblest on my counsel"
+            "text": "What man art thou that thus bescreen'd in night So stumblest on my counsel?"
         },
         {
             "speaker": "romeo",
-            "text": "By a name I know not how to tell thee who I am: My name, dear saint, is hateful to myself, Because it is an enemy to thee Had I it written, I would tear the word."
+            "text": "By a name I know not how to tell thee who I am: My name, dear saint, is hateful to myself, Because it is an enemy to thee; Had I it written, I would tear the word."
         },
         {
             "speaker": "juliet",
-            "text": "My ears have not yet drunk a hundred words Of that tongues utterance, yet I know the sound: Art thou not Romeo and a Montague"
+            "text": "My ears have not yet drunk a hundred words Of that tongue's utterance, yet I know the sound: Art thou not Romeo and a Montague?"
         },
         {
             "speaker": "romeo",
@@ -55,11 +55,11 @@
         },
         {
             "speaker": "juliet",
-            "text": "How camest thou hither, tell me, and wherefore The orchard walls are high and hard to climb, And the place death, considering who thou art, If any of my kinsmen find thee here."
+            "text": "How camest thou hither, tell me, and wherefore? The orchard walls are high and hard to climb, And the place death, considering who thou art, If any of my kinsmen find thee here."
         },
         {
             "speaker": "romeo",
-            "text": "With loves light wings did I oerperch these walls For stony limits cannot hold love out, And what love can do that dares love attempt Therefore thy kinsmen are no let to me."
+            "text": "With love's light wings did I o'er-perch these walls; For stony limits cannot hold love out, And what love can do that dares love attempt; Therefore thy kinsmen are no let to me."
         },
         {
             "speaker": "juliet",
@@ -75,23 +75,23 @@
         },
         {
             "speaker": "romeo",
-            "text": "I have nights cloak to hide me from their sight And but thou love me, let them find me here: My life were better ended by their hate, Than death prorogued, wanting of thy love."
+            "text": "I have night's cloak to hide me from their sight; And but thou love me, let them find me here: My life were better ended by their hate, Than death prorogued, wanting of thy love."
         },
         {
             "speaker": "juliet",
-            "text": "By whose direction foundst thou out this place"
+            "text": "By whose direction found'st thou out this place?"
         },
         {
             "speaker": "romeo",
-            "text": "By love, who first did prompt me to inquire He lent me counsel and I lent him eyes. I am no pilot yet, wert thou as far As that vast shore washd with the farthest sea, I would adventure for such merchandise."
+            "text": "By love, who first did prompt me to inquire; He lent me counsel and I lent him eyes. I am no pilot; yet, wert thou as far As that vast shore wash'd with the farthest sea, I would adventure for such merchandise."
         },
         {
             "speaker": "juliet",
-            "text": "Thou knowst the mask of night is on my face, Else would a maiden blush bepaint my cheek For that which thou hast heard me speak tonight Fain would I dwell on form, fain, fain deny What I have spoke: but farewell compliment! Dost thou love me I know thou wilt say Ay, And I will take thy word: yet if thou swearst, Thou mayst prove false at lovers perjuries Then say, Jove laughs. O gentle Romeo, If thou dost love, pronounce it faithfully: Or if thou thinkst I am too quickly won, Ill frown and be perverse an say thee nay, So thou wilt woo but else, not for the world. In truth, fair Montague, I am too fond, And therefore thou mayst think my havior light: But trust me, gentleman, Ill prove more true Than those that have more cunning to be strange. I should have been more strange, I must confess, But that thou overheardst, ere I was ware, My true loves passion: therefore pardon me, And not impute this yielding to light love, Which the dark night hath so discovered."
+            "text": "Thou know'st the mask of night is on my face, Else would a maiden blush bepaint my cheek For that which thou hast heard me speak to-night Fain would I dwell on form, fain, fain deny What I have spoke: but farewell compliment! Dost thou love me? I know thou wilt say 'Ay,' And I will take thy word: yet if thou swear'st, Thou mayst prove false; at lovers' perjuries Then say, Jove laughs. O gentle Romeo, If thou dost love, pronounce it faithfully: Or if thou think'st I am too quickly won, I'll frown and be perverse an say thee nay, So thou wilt woo; but else, not for the world. In truth, fair Montague, I am too fond, And therefore thou mayst think my 'havior light: But trust me, gentleman, I'll prove more true Than those that have more cunning to be strange. I should have been more strange, I must confess, But that thou overheard'st, ere I was ware, My true love's passion: therefore pardon me, And not impute this yielding to light love, Which the dark night hath so discovered."
         },
         {
             "speaker": "romeo",
-            "text": "Lady, by yonder blessed moon I swear That tips with silver all these fruittree tops"
+            "text": "Lady, by yonder blessed moon I swear That tips with silver all these fruit-tree tops--"
         },
         {
             "speaker": "juliet",
@@ -99,31 +99,31 @@
         },
         {
             "speaker": "romeo",
-            "text": "What shall I swear by"
+            "text": "What shall I swear by?"
         },
         {
             "speaker": "juliet",
-            "text": "Do not swear at all Or, if thou wilt, swear by thy gracious self, Which is the god of my idolatry, And Ill believe thee."
+            "text": "Do not swear at all; Or, if thou wilt, swear by thy gracious self, Which is the god of my idolatry, And I'll believe thee."
         },
         {
             "speaker": "romeo",
-            "text": "If my hearts dear love"
+            "text": "If my heart's dear love--"
         },
         {
             "speaker": "juliet",
-            "text": "Well, do not swear: although I joy in thee, I have no joy of this contract tonight: It is too rash, too unadvised, too sudden Too like the lightning, which doth cease to be Ere one can say It lightens. Sweet, good night! This bud of love, by summers ripening breath, May prove a beauteous flower when next we meet. Good night, good night! as sweet repose and rest Come to thy heart as that within my breast!"
+            "text": "Well, do not swear: although I joy in thee, I have no joy of this contract to-night: It is too rash, too unadvised, too sudden; Too like the lightning, which doth cease to be Ere one can say 'It lightens.' Sweet, good night! This bud of love, by summer's ripening breath, May prove a beauteous flower when next we meet. Good night, good night! as sweet repose and rest Come to thy heart as that within my breast!"
         },
         {
             "speaker": "romeo",
-            "text": "O, wilt thou leave me so unsatisfied"
+            "text": "O, wilt thou leave me so unsatisfied?"
         },
         {
             "speaker": "juliet",
-            "text": "What satisfaction canst thou have tonight"
+            "text": "What satisfaction canst thou have to-night?"
         },
         {
             "speaker": "romeo",
-            "text": "The exchange of thy loves faithful vow for mine."
+            "text": "The exchange of thy love's faithful vow for mine."
         },
         {
             "speaker": "juliet",
@@ -131,11 +131,11 @@
         },
         {
             "speaker": "romeo",
-            "text": "Wouldst thou withdraw it for what purpose, love"
+            "text": "Wouldst thou withdraw it? for what purpose, love?"
         },
         {
             "speaker": "juliet",
-            "text": "But to be frank, and give it thee again. And yet I wish but for the thing I have: My bounty is as boundless as the sea, My love as deep the more I give to thee, The more I have, for both are infinite. I hear some noise within dear love, adieu! Anon, good nurse! Sweet Montague, be true. Stay but a little, I will come again."
+            "text": "But to be frank, and give it thee again. And yet I wish but for the thing I have: My bounty is as boundless as the sea, My love as deep; the more I give to thee, The more I have, for both are infinite. I hear some noise within; dear love, adieu! Anon, good nurse! Sweet Montague, be true. Stay but a little, I will come again."
         },
         {
             "text": "Nurse calls within"
@@ -145,14 +145,14 @@
         },
         {
             "speaker": "romeo",
-            "text": "O blessed, blessed night! I am afeard. Being in night, all this is but a dream, Too flatteringsweet to be substantial."
+            "text": "O blessed, blessed night! I am afeard. Being in night, all this is but a dream, Too flattering-sweet to be substantial."
         },
         {
-            "text": "Reenter JULIET, above"
+            "text": "Re-enter JULIET, above"
         },
         {
             "speaker": "juliet",
-            "text": "Three words, dear Romeo, and good night indeed. If that thy bent of love be honourable, Thy purpose marriage, send me word tomorrow, By one that Ill procure to come to thee, Where and what time thou wilt perform the rite And all my fortunes at thy foot Ill lay And follow thee my lord throughout the world."
+            "text": "Three words, dear Romeo, and good night indeed. If that thy bent of love be honourable, Thy purpose marriage, send me word to-morrow, By one that I'll procure to come to thee, Where and what time thou wilt perform the rite; And all my fortunes at thy foot I'll lay And follow thee my lord throughout the world."
         },
         {
             "speaker": "nurse",
@@ -160,7 +160,7 @@
         },
         {
             "speaker": "juliet",
-            "text": "I come, anon.But if thou meanst not well, I do beseech thee"
+            "text": "I come, anon.--But if thou mean'st not well, I do beseech thee--"
         },
         {
             "speaker": "nurse",
@@ -168,11 +168,11 @@
         },
         {
             "speaker": "juliet",
-            "text": "By and by, I come: To cease thy suit, and leave me to my grief: Tomorrow will I send."
+            "text": "By and by, I come:-- To cease thy suit, and leave me to my grief: To-morrow will I send."
         },
         {
             "speaker": "romeo",
-            "text": "So thrive my soul"
+            "text": "So thrive my soul--"
         },
         {
             "speaker": "juliet",
@@ -189,15 +189,15 @@
             "text": "Retiring"
         },
         {
-            "text": "Reenter JULIET, above"
+            "text": "Re-enter JULIET, above"
         },
         {
             "speaker": "juliet",
-            "text": "Hist! Romeo, hist! O, for a falconers voice, To lure this tasselgentle back again! Bondage is hoarse, and may not speak aloud Else would I tear the cave where Echo lies, And make her airy tongue more hoarse than mine, With repetition of my Romeos name."
+            "text": "Hist! Romeo, hist! O, for a falconer's voice, To lure this tassel-gentle back again! Bondage is hoarse, and may not speak aloud; Else would I tear the cave where Echo lies, And make her airy tongue more hoarse than mine, With repetition of my Romeo's name."
         },
         {
             "speaker": "romeo",
-            "text": "It is my soul that calls upon my name: How silversweet sound lovers tongues by night, Like softest music to attending ears!"
+            "text": "It is my soul that calls upon my name: How silver-sweet sound lovers' tongues by night, Like softest music to attending ears!"
         },
         {
             "speaker": "juliet",
@@ -205,11 +205,11 @@
         },
         {
             "speaker": "romeo",
-            "text": "My dear"
+            "text": "My dear?"
         },
         {
             "speaker": "juliet",
-            "text": "At what oclock tomorrow Shall I send to thee"
+            "text": "At what o'clock to-morrow Shall I send to thee?"
         },
         {
             "speaker": "romeo",
@@ -217,7 +217,7 @@
         },
         {
             "speaker": "juliet",
-            "text": "I will not fail: tis twenty years till then. I have forgot why I did call thee back."
+            "text": "I will not fail: 'tis twenty years till then. I have forgot why I did call thee back."
         },
         {
             "speaker": "romeo",
@@ -229,11 +229,11 @@
         },
         {
             "speaker": "romeo",
-            "text": "And Ill still stay, to have thee still forget, Forgetting any other home but this."
+            "text": "And I'll still stay, to have thee still forget, Forgetting any other home but this."
         },
         {
             "speaker": "juliet",
-            "text": "Tis almost morning I would have thee gone: And yet no further than a wantons bird Who lets it hop a little from her hand, Like a poor prisoner in his twisted gyves, And with a silk thread plucks it back again, So lovingjealous of his liberty."
+            "text": "'Tis almost morning; I would have thee gone: And yet no further than a wanton's bird; Who lets it hop a little from her hand, Like a poor prisoner in his twisted gyves, And with a silk thread plucks it back again, So loving-jealous of his liberty."
         },
         {
             "speaker": "romeo",
@@ -248,7 +248,7 @@
         },
         {
             "speaker": "romeo",
-            "text": "Sleep dwell upon thine eyes, peace in thy breast! Would I were sleep and peace, so sweet to rest! Hence will I to my ghostly fathers cell, His help to crave, and my dear hap to tell."
+            "text": "Sleep dwell upon thine eyes, peace in thy breast! Would I were sleep and peace, so sweet to rest! Hence will I to my ghostly father's cell, His help to crave, and my dear hap to tell."
         },
         {
             "text": "Exit"

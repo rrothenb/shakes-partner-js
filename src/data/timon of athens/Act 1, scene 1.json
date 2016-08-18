@@ -1,7 +1,7 @@
 {
     "sceneName": "Act 1, scene 1",
     "playName": "timon of athens",
-    "location": "Athens. A hall in Timons house.",
+    "location": "Athens. A hall in Timon's house.",
     "lines": [
         {
             "text": "Enter Poet, Painter, Jeweller, Merchant, and others, at several doors"
@@ -12,11 +12,11 @@
         },
         {
             "speaker": "painter",
-            "text": "I am glad youre well."
+            "text": "I am glad you're well."
         },
         {
             "speaker": "poet",
-            "text": "I have not seen you long: how goes the world"
+            "text": "I have not seen you long: how goes the world?"
         },
         {
             "speaker": "painter",
@@ -24,31 +24,31 @@
         },
         {
             "speaker": "poet",
-            "text": "Ay, thats well known: But what particular rarity what strange, Which manifold record not matches See, Magic of bounty! all these spirits thy power Hath conjured to attend. I know the merchant."
+            "text": "Ay, that's well known: But what particular rarity? what strange, Which manifold record not matches? See, Magic of bounty! all these spirits thy power Hath conjured to attend. I know the merchant."
         },
         {
             "speaker": "painter",
-            "text": "I know them both th others a jeweller."
+            "text": "I know them both; th' other's a jeweller."
         },
         {
             "speaker": "merchant",
-            "text": "O, tis a worthy lord."
+            "text": "O, 'tis a worthy lord."
         },
         {
             "speaker": "jeweller",
-            "text": "Nay, thats most fixd."
+            "text": "Nay, that's most fix'd."
         },
         {
             "speaker": "merchant",
-            "text": "A most incomparable man, breathed, as it were, To an untirable and continuate goodness: He passes. Jeweller:I have a jewel here O, pray, lets seet: for the Lord Timon, sir Jeweller:If he will touch the estimate: but, for that"
+            "text": "A most incomparable man, breathed, as it were, To an untirable and continuate goodness: He passes. Jeweller: I have a jewel here-- O, pray, let's see't: for the Lord Timon, sir? Jeweller: If he will touch the estimate: but, for that--"
         },
         {
             "speaker": "poet",
-            "text": "[Reciting to himself]  When we for recompense have praised the vile, It stains the glory in that happy verse Which aptly sings the good."
+            "text": "[Reciting to himself]  'When we for recompense have praised the vile, It stains the glory in that happy verse Which aptly sings the good.'"
         },
         {
             "speaker": "merchant",
-            "text": "Tis a good form."
+            "text": "'Tis a good form."
         },
         {
             "text": "Looking at the jewel"
@@ -63,23 +63,23 @@
         },
         {
             "speaker": "poet",
-            "text": "A thing slippd idly from me. Our poesy is as a gum, which oozes From whence tis nourishd: the fire i the flint Shows not till it be struck our gentle flame Provokes itself and like the current flies Each bound it chafes. What have you there"
+            "text": "A thing slipp'd idly from me. Our poesy is as a gum, which oozes From whence 'tis nourish'd: the fire i' the flint Shows not till it be struck; our gentle flame Provokes itself and like the current flies Each bound it chafes. What have you there?"
         },
         {
             "speaker": "painter",
-            "text": "A picture, sir. When comes your book forth"
+            "text": "A picture, sir. When comes your book forth?"
         },
         {
             "speaker": "poet",
-            "text": "Upon the heels of my presentment, sir. Lets see your piece."
+            "text": "Upon the heels of my presentment, sir. Let's see your piece."
         },
         {
             "speaker": "painter",
-            "text": "Tis a good piece."
+            "text": "'Tis a good piece."
         },
         {
             "speaker": "poet",
-            "text": "So tis: this comes off well and excellent."
+            "text": "So 'tis: this comes off well and excellent."
         },
         {
             "speaker": "painter",
@@ -91,7 +91,7 @@
         },
         {
             "speaker": "painter",
-            "text": "It is a pretty mocking of the life. Here is a touch ist good"
+            "text": "It is a pretty mocking of the life. Here is a touch; is't good?"
         },
         {
             "speaker": "poet",
@@ -102,7 +102,7 @@
         },
         {
             "speaker": "painter",
-            "text": "How this lord is followd!"
+            "text": "How this lord is follow'd!"
         },
         {
             "speaker": "poet",
@@ -114,15 +114,15 @@
         },
         {
             "speaker": "poet",
-            "text": "You see this confluence, this great flood of visitors. I have, in this rough work, shaped out a man, Whom this beneath world doth embrace and hug With amplest entertainment: my free drift Halts not particularly, but moves itself In a wide sea of wax: no levelld malice Infects one comma in the course I hold But flies an eagle flight, bold and forth on, Leaving no tract behind."
+            "text": "You see this confluence, this great flood of visitors. I have, in this rough work, shaped out a man, Whom this beneath world doth embrace and hug With amplest entertainment: my free drift Halts not particularly, but moves itself In a wide sea of wax: no levell'd malice Infects one comma in the course I hold; But flies an eagle flight, bold and forth on, Leaving no tract behind."
         },
         {
             "speaker": "painter",
-            "text": "How shall I understand you"
+            "text": "How shall I understand you?"
         },
         {
             "speaker": "poet",
-            "text": "I will unbolt to you. You see how all conditions, how all minds, As well of glib and slippery creatures as Of grave and austere quality, tender down Their services to Lord Timon: his large fortune Upon his good and gracious nature hanging Subdues and properties to his love and tendance All sorts of hearts yea, from the glassfaced flatterer To Apemantus, that few things loves better Than to abhor himself: even he drops down The knee before him, and returns in peace Most rich in Timons nod."
+            "text": "I will unbolt to you. You see how all conditions, how all minds, As well of glib and slippery creatures as Of grave and austere quality, tender down Their services to Lord Timon: his large fortune Upon his good and gracious nature hanging Subdues and properties to his love and tendance All sorts of hearts; yea, from the glass-faced flatterer To Apemantus, that few things loves better Than to abhor himself: even he drops down The knee before him, and returns in peace Most rich in Timon's nod."
         },
         {
             "speaker": "painter",
@@ -130,11 +130,11 @@
         },
         {
             "speaker": "poet",
-            "text": "Sir, I have upon a high and pleasant hill Feignd Fortune to be throned: the base o the mount Is rankd with all deserts, all kind of natures, That labour on the bosom of this sphere To propagate their states: amongst them all, Whose eyes are on this sovereign lady fixd, One do I personate of Lord Timons frame, Whom Fortune with her ivory hand wafts to her Whose present grace to present slaves and servants Translates his rivals."
+            "text": "Sir, I have upon a high and pleasant hill Feign'd Fortune to be throned: the base o' the mount Is rank'd with all deserts, all kind of natures, That labour on the bosom of this sphere To propagate their states: amongst them all, Whose eyes are on this sovereign lady fix'd, One do I personate of Lord Timon's frame, Whom Fortune with her ivory hand wafts to her; Whose present grace to present slaves and servants Translates his rivals."
         },
         {
             "speaker": "painter",
-            "text": "Tis conceived to scope. This throne, this Fortune, and this hill, methinks, With one man beckond from the rest below, Bowing his head against the sleepy mount To climb his happiness, would be well expressd In our condition."
+            "text": "'Tis conceived to scope. This throne, this Fortune, and this hill, methinks, With one man beckon'd from the rest below, Bowing his head against the sleepy mount To climb his happiness, would be well express'd In our condition."
         },
         {
             "speaker": "poet",
@@ -142,27 +142,27 @@
         },
         {
             "speaker": "painter",
-            "text": "Ay, marry, what of these"
+            "text": "Ay, marry, what of these?"
         },
         {
             "speaker": "poet",
-            "text": "When Fortune in her shift and change of mood Spurns down her late beloved, all his dependants Which labourd after him to the mountains top Even on their knees and hands, let him slip down, Not one accompanying his declining foot."
+            "text": "When Fortune in her shift and change of mood Spurns down her late beloved, all his dependants Which labour'd after him to the mountain's top Even on their knees and hands, let him slip down, Not one accompanying his declining foot."
         },
         {
             "speaker": "painter",
-            "text": "Tis common: A thousand moral paintings I can show That shall demonstrate these quick blows of Fortunes More pregnantly than words. Yet you do well To show Lord Timon that mean eyes have seen The foot above the head. Trumpets sound. Enter TIMON, addressing himself  courteously to every suitor a Messenger from  VENTIDIUS talking with him LUCILIUS and other servants following"
+            "text": "'Tis common: A thousand moral paintings I can show That shall demonstrate these quick blows of Fortune's More pregnantly than words. Yet you do well To show Lord Timon that mean eyes have seen The foot above the head. Trumpets sound. Enter TIMON, addressing himself  courteously to every suitor; a Messenger from  VENTIDIUS talking with him; LUCILIUS and other servants following"
         },
         {
             "speaker": "timon",
-            "text": "Imprisond is he, say you"
+            "text": "Imprison'd is he, say you?"
         },
         {
             "speaker": "messenger",
-            "text": "Ay, my good lord: five talents is his debt, His means most short, his creditors most strait: Your honourable letter he desires To those have shut him up which failing, Periods his comfort."
+            "text": "Ay, my good lord: five talents is his debt, His means most short, his creditors most strait: Your honourable letter he desires To those have shut him up; which failing, Periods his comfort."
         },
         {
             "speaker": "timon",
-            "text": "Noble Ventidius! Well I am not of that feather to shake off My friend when he must need me. I do know him A gentleman that well deserves a help: Which he shall have: Ill pay the debt, and free him."
+            "text": "Noble Ventidius! Well; I am not of that feather to shake off My friend when he must need me. I do know him A gentleman that well deserves a help: Which he shall have: I'll pay the debt, and free him."
         },
         {
             "speaker": "messenger",
@@ -170,7 +170,7 @@
         },
         {
             "speaker": "timon",
-            "text": "Commend me to him: I will send his ransom And being enfranchised, bid him come to me. Tis not enough to help the feeble up, But to support him after. Fare you well."
+            "text": "Commend me to him: I will send his ransom; And being enfranchised, bid him come to me. 'Tis not enough to help the feeble up, But to support him after. Fare you well."
         },
         {
             "speaker": "messenger",
@@ -196,7 +196,7 @@
         },
         {
             "speaker": "timon",
-            "text": "I have so: what of him"
+            "text": "I have so: what of him?"
         },
         {
             "speaker": "old athenian",
@@ -204,23 +204,23 @@
         },
         {
             "speaker": "timon",
-            "text": "Attends he here, or no Lucilius!"
+            "text": "Attends he here, or no? Lucilius!"
         },
         {
             "speaker": "lucilius",
-            "text": "Here, at your lordships service."
+            "text": "Here, at your lordship's service."
         },
         {
             "speaker": "old athenian",
-            "text": "This fellow here, Lord Timon, this thy creature, By night frequents my house. I am a man That from my first have been inclined to thrift And my estate deserves an heir more raised Than one which holds a trencher."
+            "text": "This fellow here, Lord Timon, this thy creature, By night frequents my house. I am a man That from my first have been inclined to thrift; And my estate deserves an heir more raised Than one which holds a trencher."
         },
         {
             "speaker": "timon",
-            "text": "Well what further"
+            "text": "Well; what further?"
         },
         {
             "speaker": "old athenian",
-            "text": "One only daughter have I, no kin else, On whom I may confer what I have got: The maid is fair, o the youngest for a bride, And I have bred her at my dearest cost In qualities of the best. This man of thine Attempts her love: I prithee, noble lord, Join with me to forbid him her resort Myself have spoke in vain."
+            "text": "One only daughter have I, no kin else, On whom I may confer what I have got: The maid is fair, o' the youngest for a bride, And I have bred her at my dearest cost In qualities of the best. This man of thine Attempts her love: I prithee, noble lord, Join with me to forbid him her resort; Myself have spoke in vain."
         },
         {
             "speaker": "timon",
@@ -228,19 +228,19 @@
         },
         {
             "speaker": "old athenian",
-            "text": "Therefore he will be, Timon: His honesty rewards him in itself It must not bear my daughter."
+            "text": "Therefore he will be, Timon: His honesty rewards him in itself; It must not bear my daughter."
         },
         {
             "speaker": "timon",
-            "text": "Does she love him"
+            "text": "Does she love him?"
         },
         {
             "speaker": "old athenian",
-            "text": "She is young and apt: Our own precedent passions do instruct us What levitys in youth."
+            "text": "She is young and apt: Our own precedent passions do instruct us What levity's in youth."
         },
         {
             "speaker": "timon",
-            "text": "[To LUCILIUS]           Love you the maid"
+            "text": "[To LUCILIUS]           Love you the maid?"
         },
         {
             "speaker": "lucilius",
@@ -252,15 +252,15 @@
         },
         {
             "speaker": "timon",
-            "text": "How shall she be endowd, if she be mated with an equal husband"
+            "text": "How shall she be endow'd, if she be mated with an equal husband?"
         },
         {
             "speaker": "old athenian",
-            "text": "Three talents on the present in future, all."
+            "text": "Three talents on the present; in future, all."
         },
         {
             "speaker": "timon",
-            "text": "This gentleman of mine hath served me long: To build his fortune I will strain a little, For tis a bond in men. Give him thy daughter: What you bestow, in him Ill counterpoise, And make him weigh with her."
+            "text": "This gentleman of mine hath served me long: To build his fortune I will strain a little, For 'tis a bond in men. Give him thy daughter: What you bestow, in him I'll counterpoise, And make him weigh with her."
         },
         {
             "speaker": "old athenian",
@@ -268,7 +268,7 @@
         },
         {
             "speaker": "timon",
-            "text": "My hand to thee mine honour on my promise."
+            "text": "My hand to thee; mine honour on my promise."
         },
         {
             "speaker": "lucilius",
@@ -283,7 +283,7 @@
         },
         {
             "speaker": "timon",
-            "text": "I thank you you shall hear from me anon: Go not away. What have you there, my friend"
+            "text": "I thank you; you shall hear from me anon: Go not away. What have you there, my friend?"
         },
         {
             "speaker": "painter",
@@ -291,7 +291,7 @@
         },
         {
             "speaker": "timon",
-            "text": "Painting is welcome. The painting is almost the natural man or since dishonour traffics with mans nature, He is but outside: these pencilld figures are Even such as they give out. I like your work And you shall find I like it: wait attendance Till you hear further from me."
+            "text": "Painting is welcome. The painting is almost the natural man; or since dishonour traffics with man's nature, He is but outside: these pencill'd figures are Even such as they give out. I like your work; And you shall find I like it: wait attendance Till you hear further from me."
         },
         {
             "speaker": "painter",
@@ -299,38 +299,38 @@
         },
         {
             "speaker": "timon",
-            "text": "Well fare you, gentleman: give me your hand We must needs dine together. Sir, your jewel Hath sufferd under praise."
+            "text": "Well fare you, gentleman: give me your hand; We must needs dine together. Sir, your jewel Hath suffer'd under praise."
         },
         {
             "speaker": "jeweller",
-            "text": "What, my lord! dispraise"
+            "text": "What, my lord! dispraise?"
         },
         {
             "speaker": "timon",
-            "text": "A more satiety of commendations. If I should pay you fort as tis extolld, It would unclew me quite."
+            "text": "A more satiety of commendations. If I should pay you for't as 'tis extoll'd, It would unclew me quite."
         },
         {
             "speaker": "jeweller",
-            "text": "My lord, tis rated As those which sell would give: but you well know, Things of like value differing in the owners Are prized by their masters: believet, dear lord, You mend the jewel by the wearing it."
+            "text": "My lord, 'tis rated As those which sell would give: but you well know, Things of like value differing in the owners Are prized by their masters: believe't, dear lord, You mend the jewel by the wearing it."
         },
         {
             "speaker": "timon",
-            "text": "Well mockd."
+            "text": "Well mock'd."
         },
         {
             "speaker": "merchant",
-            "text": "No, my good lord he speaks the common tongue, Which all men speak with him."
+            "text": "No, my good lord; he speaks the common tongue, Which all men speak with him."
         },
         {
             "speaker": "timon",
-            "text": "Look, who comes here: will you be chid Jeweller: Well bear, with your lordship."
+            "text": "Look, who comes here: will you be chid? Jeweller: We'll bear, with your lordship."
         },
         {
             "text": "Enter APEMANTUS"
         },
         {
             "speaker": "merchant",
-            "text": "Hell spare none."
+            "text": "He'll spare none."
         },
         {
             "speaker": "timon",
@@ -338,15 +338,15 @@
         },
         {
             "speaker": "apemantus",
-            "text": "Till I be gentle, stay thou for thy good morrow When thou art Timons dog, and these knaves honest."
+            "text": "Till I be gentle, stay thou for thy good morrow; When thou art Timon's dog, and these knaves honest."
         },
         {
             "speaker": "timon",
-            "text": "Why dost thou call them knaves thou knowst them not."
+            "text": "Why dost thou call them knaves? thou know'st them not."
         },
         {
             "speaker": "apemantus",
-            "text": "Are they not Athenians"
+            "text": "Are they not Athenians?"
         },
         {
             "speaker": "timon",
@@ -354,7 +354,7 @@
         },
         {
             "speaker": "apemantus",
-            "text": "Then I repent not. Jeweller: You know me, Apemantus Thou knowst I do: I calld thee by thy name."
+            "text": "Then I repent not. Jeweller: You know me, Apemantus? Thou know'st I do: I call'd thee by thy name."
         },
         {
             "speaker": "timon",
@@ -366,15 +366,15 @@
         },
         {
             "speaker": "timon",
-            "text": "Whither art going"
+            "text": "Whither art going?"
         },
         {
             "speaker": "apemantus",
-            "text": "To knock out an honest Athenians brains."
+            "text": "To knock out an honest Athenian's brains."
         },
         {
             "speaker": "timon",
-            "text": "Thats a deed thoult die for."
+            "text": "That's a deed thou'lt die for."
         },
         {
             "speaker": "apemantus",
@@ -382,7 +382,7 @@
         },
         {
             "speaker": "timon",
-            "text": "How likest thou this picture, Apemantus"
+            "text": "How likest thou this picture, Apemantus?"
         },
         {
             "speaker": "apemantus",
@@ -390,39 +390,39 @@
         },
         {
             "speaker": "timon",
-            "text": "Wrought he not well that painted it"
+            "text": "Wrought he not well that painted it?"
         },
         {
             "speaker": "apemantus",
-            "text": "He wrought better that made the painter and yet hes but a filthy piece of work."
+            "text": "He wrought better that made the painter; and yet he's but a filthy piece of work."
         },
         {
             "speaker": "painter",
-            "text": "Youre a dog."
+            "text": "You're a dog."
         },
         {
             "speaker": "apemantus",
-            "text": "Thy mothers of my generation: whats she, if I be a dog"
+            "text": "Thy mother's of my generation: what's she, if I be a dog?"
         },
         {
             "speaker": "timon",
-            "text": "Wilt dine with me, Apemantus"
+            "text": "Wilt dine with me, Apemantus?"
         },
         {
             "speaker": "apemantus",
-            "text": "No I eat not lords."
+            "text": "No; I eat not lords."
         },
         {
             "speaker": "timon",
-            "text": "An thou shouldst, thou ldst anger ladies."
+            "text": "An thou shouldst, thou 'ldst anger ladies."
         },
         {
             "speaker": "apemantus",
-            "text": "O, they eat lords so they come by great bellies."
+            "text": "O, they eat lords; so they come by great bellies."
         },
         {
             "speaker": "timon",
-            "text": "Thats a lascivious apprehension."
+            "text": "That's a lascivious apprehension."
         },
         {
             "speaker": "apemantus",
@@ -430,15 +430,15 @@
         },
         {
             "speaker": "timon",
-            "text": "How dost thou like this jewel, Apemantus"
+            "text": "How dost thou like this jewel, Apemantus?"
         },
         {
             "speaker": "apemantus",
-            "text": "Not so well as plaindealing, which will not cost a man a doit."
+            "text": "Not so well as plain-dealing, which will not cost a man a doit."
         },
         {
             "speaker": "timon",
-            "text": "What dost thou think tis worth"
+            "text": "What dost thou think 'tis worth?"
         },
         {
             "speaker": "apemantus",
@@ -454,7 +454,7 @@
         },
         {
             "speaker": "poet",
-            "text": "Art not one"
+            "text": "Art not one?"
         },
         {
             "speaker": "apemantus",
@@ -466,7 +466,7 @@
         },
         {
             "speaker": "apemantus",
-            "text": "Art not a poet"
+            "text": "Art not a poet?"
         },
         {
             "speaker": "poet",
@@ -478,23 +478,23 @@
         },
         {
             "speaker": "poet",
-            "text": "Thats not feigned he is so."
+            "text": "That's not feigned; he is so."
         },
         {
             "speaker": "apemantus",
-            "text": "Yes, he is worthy of thee, and to pay thee for thy labour: he that loves to be flattered is worthy o the flatterer. Heavens, that I were a lord!"
+            "text": "Yes, he is worthy of thee, and to pay thee for thy labour: he that loves to be flattered is worthy o' the flatterer. Heavens, that I were a lord!"
         },
         {
             "speaker": "timon",
-            "text": "What wouldst do then, Apemantus"
+            "text": "What wouldst do then, Apemantus?"
         },
         {
             "speaker": "apemantus",
-            "text": "Een as Apemantus does now hate a lord with my heart."
+            "text": "E'en as Apemantus does now; hate a lord with my heart."
         },
         {
             "speaker": "timon",
-            "text": "What, thyself"
+            "text": "What, thyself?"
         },
         {
             "speaker": "apemantus",
@@ -502,11 +502,11 @@
         },
         {
             "speaker": "timon",
-            "text": "Wherefore"
+            "text": "Wherefore?"
         },
         {
             "speaker": "apemantus",
-            "text": "That I had no angry wit to be a lord. Art not thou a merchant"
+            "text": "That I had no angry wit to be a lord. Art not thou a merchant?"
         },
         {
             "speaker": "merchant",
@@ -522,22 +522,22 @@
         },
         {
             "speaker": "apemantus",
-            "text": "Traffics thy god and thy god confound thee!"
+            "text": "Traffic's thy god; and thy god confound thee!"
         },
         {
             "text": "Trumpet sounds. Enter a Messenger"
         },
         {
             "speaker": "timon",
-            "text": "What trumpets that"
+            "text": "What trumpet's that?"
         },
         {
             "speaker": "messenger",
-            "text": "Tis Alcibiades, and some twenty horse, All of companionship."
+            "text": "'Tis Alcibiades, and some twenty horse, All of companionship."
         },
         {
             "speaker": "timon",
-            "text": "Pray, entertain them give them guide to us. You must needs dine with me: go not you hence Till I have thankd you: when dinners done, Show me this piece. I am joyful of your sights. Most welcome, sir!"
+            "text": "Pray, entertain them; give them guide to us. You must needs dine with me: go not you hence Till I have thank'd you: when dinner's done, Show me this piece. I am joyful of your sights. Most welcome, sir!"
         },
         {
             "text": "Exeunt some Attendants"
@@ -547,7 +547,7 @@
         },
         {
             "speaker": "apemantus",
-            "text": "So, so, there! Aches contract and starve your supple joints! That there should be small love mongst these sweet knaves, And all this courtesy! The strain of mans bred out Into baboon and monkey."
+            "text": "So, so, there! Aches contract and starve your supple joints! That there should be small love 'mongst these sweet knaves, And all this courtesy! The strain of man's bred out Into baboon and monkey."
         },
         {
             "speaker": "alcibiades",
@@ -555,7 +555,7 @@
         },
         {
             "speaker": "timon",
-            "text": "Right welcome, sir! Ere we depart, well share a bounteous time In different pleasures. Pray you, let us in."
+            "text": "Right welcome, sir! Ere we depart, we'll share a bounteous time In different pleasures. Pray you, let us in."
         },
         {
             "text": "Exeunt all except APEMANTUS"
@@ -565,7 +565,7 @@
         },
         {
             "speaker": "first lord",
-            "text": "What time o day ist, Apemantus"
+            "text": "What time o' day is't, Apemantus?"
         },
         {
             "speaker": "apemantus",
@@ -577,11 +577,11 @@
         },
         {
             "speaker": "apemantus",
-            "text": "The more accursed thou, that still omittst it."
+            "text": "The more accursed thou, that still omitt'st it."
         },
         {
             "speaker": "second lord",
-            "text": "Thou art going to Lord Timons feast"
+            "text": "Thou art going to Lord Timon's feast?"
         },
         {
             "speaker": "apemantus",
@@ -597,7 +597,7 @@
         },
         {
             "speaker": "second lord",
-            "text": "Why, Apemantus"
+            "text": "Why, Apemantus?"
         },
         {
             "speaker": "apemantus",
@@ -613,34 +613,34 @@
         },
         {
             "speaker": "second lord",
-            "text": "Away, unpeaceable dog, or Ill spurn thee hence!"
+            "text": "Away, unpeaceable dog, or I'll spurn thee hence!"
         },
         {
             "speaker": "apemantus",
-            "text": "I will fly, like a dog, the heels o the ass."
+            "text": "I will fly, like a dog, the heels o' the ass."
         },
         {
             "text": "Exit"
         },
         {
             "speaker": "first lord",
-            "text": "Hes opposite to humanity. Come, shall we in, And taste Lord Timons bounty he outgoes The very heart of kindness."
+            "text": "He's opposite to humanity. Come, shall we in, And taste Lord Timon's bounty? he outgoes The very heart of kindness."
         },
         {
             "speaker": "second lord",
-            "text": "He pours it out Plutus, the god of gold, Is but his steward: no meed, but he repays Sevenfold above itself no gift to him, But breeds the giver a return exceeding All use of quittance."
+            "text": "He pours it out; Plutus, the god of gold, Is but his steward: no meed, but he repays Sevenfold above itself; no gift to him, But breeds the giver a return exceeding All use of quittance."
         },
         {
             "speaker": "first lord",
-            "text": "The noblest mind he carries That ever governd man."
+            "text": "The noblest mind he carries That ever govern'd man."
         },
         {
             "speaker": "second lord",
-            "text": "Long may he live in fortunes! Shall we in"
+            "text": "Long may he live in fortunes! Shall we in?"
         },
         {
             "speaker": "first lord",
-            "text": "Ill keep you company."
+            "text": "I'll keep you company."
         },
         {
             "text": "Exeunt"

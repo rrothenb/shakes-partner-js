@@ -1,14 +1,14 @@
 {
     "sceneName": "Act 2, scene 2",
     "playName": "king lear",
-    "location": "Before Gloucesters castle.",
+    "location": "Before Gloucester's castle.",
     "lines": [
         {
             "text": "Enter KENT and OSWALD, severally"
         },
         {
             "speaker": "oswald",
-            "text": "Good dawning to thee, friend: art of this house"
+            "text": "Good dawning to thee, friend: art of this house?"
         },
         {
             "speaker": "kent",
@@ -16,11 +16,11 @@
         },
         {
             "speaker": "oswald",
-            "text": "Where may we set our horses"
+            "text": "Where may we set our horses?"
         },
         {
             "speaker": "kent",
-            "text": "I the mire."
+            "text": "I' the mire."
         },
         {
             "speaker": "oswald",
@@ -40,7 +40,7 @@
         },
         {
             "speaker": "oswald",
-            "text": "Why dost thou use me thus I know thee not."
+            "text": "Why dost thou use me thus? I know thee not."
         },
         {
             "speaker": "kent",
@@ -48,11 +48,11 @@
         },
         {
             "speaker": "oswald",
-            "text": "What dost thou know me for"
+            "text": "What dost thou know me for?"
         },
         {
             "speaker": "kent",
-            "text": "A knave a rascal an eater of broken meats a base, proud, shallow, beggarly, threesuited, hundredpound, filthy, worstedstocking knave a lilylivered, actiontaking knave, a whoreson, glassgazing, superserviceable finical rogue onetrunkinheriting slave one that wouldst be a bawd, in way of good service, and art nothing but the composition of a knave, beggar, coward, pandar, and the son and heir of a mongrel bitch: one whom I will beat into clamorous whining, if thou deniest the least syllable of thy addition."
+            "text": "A knave; a rascal; an eater of broken meats; a base, proud, shallow, beggarly, three-suited, hundred-pound, filthy, worsted-stocking knave; a lily-livered, action-taking knave, a whoreson, glass-gazing, super-serviceable finical rogue; one-trunk-inheriting slave; one that wouldst be a bawd, in way of good service, and art nothing but the composition of a knave, beggar, coward, pandar, and the son and heir of a mongrel bitch: one whom I will beat into clamorous whining, if thou deniest the least syllable of thy addition."
         },
         {
             "speaker": "oswald",
@@ -60,7 +60,7 @@
         },
         {
             "speaker": "kent",
-            "text": "What a brazenfaced varlet art thou, to deny thou knowest me! Is it two days ago since I tripped up thy heels, and beat thee before the king Draw, you rogue: for, though it be night, yet the moon shines Ill make a sop o the moonshine of you: draw, you whoreson cullionly barbermonger, draw."
+            "text": "What a brazen-faced varlet art thou, to deny thou knowest me! Is it two days ago since I tripped up thy heels, and beat thee before the king? Draw, you rogue: for, though it be night, yet the moon shines; I'll make a sop o' the moonshine of you: draw, you whoreson cullionly barber-monger, draw."
         },
         {
             "text": "Drawing his sword"
@@ -71,7 +71,7 @@
         },
         {
             "speaker": "kent",
-            "text": "Draw, you rascal: you come with letters against the king and take vanity the puppets part against the royalty of her father: draw, you rogue, or Ill so carbonado your shanks: draw, you rascal come your ways."
+            "text": "Draw, you rascal: you come with letters against the king; and take vanity the puppet's part against the royalty of her father: draw, you rogue, or I'll so carbonado your shanks: draw, you rascal; come your ways."
         },
         {
             "speaker": "oswald",
@@ -79,7 +79,7 @@
         },
         {
             "speaker": "kent",
-            "text": "Strike, you slave stand, rogue, stand you neat slave, strike."
+            "text": "Strike, you slave; stand, rogue, stand; you neat slave, strike."
         },
         {
             "text": "Beating him"
@@ -93,19 +93,19 @@
         },
         {
             "speaker": "edmund",
-            "text": "How now! Whats the matter"
+            "text": "How now! What's the matter?"
         },
         {
             "speaker": "kent",
-            "text": "With you, goodman boy, an you please: come, Ill flesh ye come on, young master."
+            "text": "With you, goodman boy, an you please: come, I'll flesh ye; come on, young master."
         },
         {
             "speaker": "gloucester",
-            "text": "Weapons! arms! What s the matter here"
+            "text": "Weapons! arms! What 's the matter here?"
         },
         {
             "speaker": "cornwall",
-            "text": "Keep peace, upon your lives: He dies that strikes again. What is the matter"
+            "text": "Keep peace, upon your lives: He dies that strikes again. What is the matter?"
         },
         {
             "speaker": "regan",
@@ -113,7 +113,7 @@
         },
         {
             "speaker": "cornwall",
-            "text": "What is your difference speak."
+            "text": "What is your difference? speak."
         },
         {
             "speaker": "oswald",
@@ -125,47 +125,47 @@
         },
         {
             "speaker": "cornwall",
-            "text": "Thou art a strange fellow: a tailor make a man"
+            "text": "Thou art a strange fellow: a tailor make a man?"
         },
         {
             "speaker": "kent",
-            "text": "Ay, a tailor, sir: a stonecutter or painter could not have made him so ill, though he had been but two hours at the trade."
+            "text": "Ay, a tailor, sir: a stone-cutter or painter could not have made him so ill, though he had been but two hours at the trade."
         },
         {
             "speaker": "cornwall",
-            "text": "Speak yet, how grew your quarrel"
+            "text": "Speak yet, how grew your quarrel?"
         },
         {
             "speaker": "oswald",
-            "text": "This ancient ruffian, sir, whose life I have spared at suit of his gray beard,"
+            "text": "This ancient ruffian, sir, whose life I have spared at suit of his gray beard,--"
         },
         {
             "speaker": "kent",
-            "text": "Thou whoreson zed! thou unnecessary letter! My lord, if you will give me leave, I will tread this unbolted villain into mortar, and daub the wall of a jakes with him. Spare my gray beard, you wagtail"
+            "text": "Thou whoreson zed! thou unnecessary letter! My lord, if you will give me leave, I will tread this unbolted villain into mortar, and daub the wall of a jakes with him. Spare my gray beard, you wagtail?"
         },
         {
             "speaker": "cornwall",
-            "text": "Peace, sirrah! You beastly knave, know you no reverence"
+            "text": "Peace, sirrah! You beastly knave, know you no reverence?"
         },
         {
             "speaker": "kent",
-            "text": "Yes, sir but anger hath a privilege."
+            "text": "Yes, sir; but anger hath a privilege."
         },
         {
             "speaker": "cornwall",
-            "text": "Why art thou angry"
+            "text": "Why art thou angry?"
         },
         {
             "speaker": "kent",
-            "text": "That such a slave as this should wear a sword, Who wears no honesty. Such smiling rogues as these, Like rats, oft bite the holy cords atwain Which are too intrinse t unloose smooth every passion That in the natures of their lords rebel Bring oil to fire, snow to their colder moods Renege, affirm, and turn their halcyon beaks With every gale and vary of their masters, Knowing nought, like dogs, but following. A plague upon your epileptic visage! Smile you my speeches, as I were a fool Goose, if I had you upon Sarum plain, Ild drive ye cackling home to Camelot."
+            "text": "That such a slave as this should wear a sword, Who wears no honesty. Such smiling rogues as these, Like rats, oft bite the holy cords a-twain Which are too intrinse t' unloose; smooth every passion That in the natures of their lords rebel; Bring oil to fire, snow to their colder moods; Renege, affirm, and turn their halcyon beaks With every gale and vary of their masters, Knowing nought, like dogs, but following. A plague upon your epileptic visage! Smile you my speeches, as I were a fool? Goose, if I had you upon Sarum plain, I'ld drive ye cackling home to Camelot."
         },
         {
             "speaker": "cornwall",
-            "text": "Why, art thou mad, old fellow"
+            "text": "Why, art thou mad, old fellow?"
         },
         {
             "speaker": "gloucester",
-            "text": "How fell you out say that."
+            "text": "How fell you out? say that."
         },
         {
             "speaker": "kent",
@@ -173,7 +173,7 @@
         },
         {
             "speaker": "cornwall",
-            "text": "Why dost thou call him a knave  Whats his offence"
+            "text": "Why dost thou call him a knave?  What's his offence?"
         },
         {
             "speaker": "kent",
@@ -185,31 +185,31 @@
         },
         {
             "speaker": "kent",
-            "text": "Sir, tis my occupation to be plain: I have seen better faces in my time Than stands on any shoulder that I see Before me at this instant."
+            "text": "Sir, 'tis my occupation to be plain: I have seen better faces in my time Than stands on any shoulder that I see Before me at this instant."
         },
         {
             "speaker": "cornwall",
-            "text": "This is some fellow, Who, having been praised for bluntness, doth affect A saucy roughness, and constrains the garb Quite from his nature: he cannot flatter, he, An honest mind and plain, he must speak truth! An they will take it, so if not, hes plain. These kind of knaves I know, which in this plainness Harbour more craft and more corrupter ends Than twenty silly ducking observants That stretch their duties nicely."
+            "text": "This is some fellow, Who, having been praised for bluntness, doth affect A saucy roughness, and constrains the garb Quite from his nature: he cannot flatter, he, An honest mind and plain, he must speak truth! An they will take it, so; if not, he's plain. These kind of knaves I know, which in this plainness Harbour more craft and more corrupter ends Than twenty silly ducking observants That stretch their duties nicely."
         },
         {
             "speaker": "kent",
-            "text": "Sir, in good sooth, in sincere verity, Under the allowance of your great aspect, Whose influence, like the wreath of radiant fire On flickering Phoebus front,"
+            "text": "Sir, in good sooth, in sincere verity, Under the allowance of your great aspect, Whose influence, like the wreath of radiant fire On flickering Phoebus' front,--"
         },
         {
             "speaker": "cornwall",
-            "text": "What meanst by this"
+            "text": "What mean'st by this?"
         },
         {
             "speaker": "kent",
-            "text": "To go out of my dialect, which you discommend so much. I know, sir, I am no flatterer: he that beguiled you in a plain accent was a plain knave which for my part I will not be, though I should win your displeasure to entreat me to t."
+            "text": "To go out of my dialect, which you discommend so much. I know, sir, I am no flatterer: he that beguiled you in a plain accent was a plain knave; which for my part I will not be, though I should win your displeasure to entreat me to 't."
         },
         {
             "speaker": "cornwall",
-            "text": "What was the offence you gave him"
+            "text": "What was the offence you gave him?"
         },
         {
             "speaker": "oswald",
-            "text": "I never gave him any: It pleased the king his master very late To strike at me, upon his misconstruction When he, conjunct and flattering his displeasure, Trippd me behind being down, insulted, raild, And put upon him such a deal of man, That worthied him, got praises of the king For him attempting who was selfsubdued And, in the fleshment of this dread exploit, Drew on me here again."
+            "text": "I never gave him any: It pleased the king his master very late To strike at me, upon his misconstruction; When he, conjunct and flattering his displeasure, Tripp'd me behind; being down, insulted, rail'd, And put upon him such a deal of man, That worthied him, got praises of the king For him attempting who was self-subdued; And, in the fleshment of this dread exploit, Drew on me here again."
         },
         {
             "speaker": "kent",
@@ -217,11 +217,11 @@
         },
         {
             "speaker": "cornwall",
-            "text": "Fetch forth the stocks! You stubborn ancient knave, you reverend braggart, Well teach you"
+            "text": "Fetch forth the stocks! You stubborn ancient knave, you reverend braggart, We'll teach you--"
         },
         {
             "speaker": "kent",
-            "text": "Sir, I am too old to learn: Call not your stocks for me: I serve the king On whose employment I was sent to you: You shall do small respect, show too bold malice Against the grace and person of my master, Stocking his messenger."
+            "text": "Sir, I am too old to learn: Call not your stocks for me: I serve the king; On whose employment I was sent to you: You shall do small respect, show too bold malice Against the grace and person of my master, Stocking his messenger."
         },
         {
             "speaker": "cornwall",
@@ -229,11 +229,11 @@
         },
         {
             "speaker": "regan",
-            "text": "Till noon! till night, my lord and all night too."
+            "text": "Till noon! till night, my lord; and all night too."
         },
         {
             "speaker": "kent",
-            "text": "Why, madam, if I were your fathers dog, You should not use me so."
+            "text": "Why, madam, if I were your father's dog, You should not use me so."
         },
         {
             "speaker": "regan",
@@ -241,18 +241,18 @@
         },
         {
             "speaker": "cornwall",
-            "text": "This is a fellow of the selfsame colour Our sister speaks of. Come, bring away the stocks!"
+            "text": "This is a fellow of the self-same colour Our sister speaks of. Come, bring away the stocks!"
         },
         {
             "text": "Stocks brought out"
         },
         {
             "speaker": "gloucester",
-            "text": "Let me beseech your grace not to do so: His fault is much, and the good king his master Will cheque him for t: your purposed low correction Is such as basest and contemnedst wretches For pilferings and most common trespasses Are punishd with: the king must take it ill, That hes so slightly valued in his messenger, Should have him thus restraind."
+            "text": "Let me beseech your grace not to do so: His fault is much, and the good king his master Will cheque him for 't: your purposed low correction Is such as basest and contemned'st wretches For pilferings and most common trespasses Are punish'd with: the king must take it ill, That he's so slightly valued in his messenger, Should have him thus restrain'd."
         },
         {
             "speaker": "cornwall",
-            "text": "Ill answer that."
+            "text": "I'll answer that."
         },
         {
             "speaker": "regan",
@@ -266,22 +266,22 @@
         },
         {
             "speaker": "gloucester",
-            "text": "I am sorry for thee, friend tis the dukes pleasure, Whose disposition, all the world well knows, Will not be rubbd nor stoppd: Ill entreat for thee."
+            "text": "I am sorry for thee, friend; 'tis the duke's pleasure, Whose disposition, all the world well knows, Will not be rubb'd nor stopp'd: I'll entreat for thee."
         },
         {
             "speaker": "kent",
-            "text": "Pray, do not, sir: I have watched and travelld hard Some time I shall sleep out, the rest Ill whistle. A good mans fortune may grow out at heels: Give you good morrow!"
+            "text": "Pray, do not, sir: I have watched and travell'd hard; Some time I shall sleep out, the rest I'll whistle. A good man's fortune may grow out at heels: Give you good morrow!"
         },
         {
             "speaker": "gloucester",
-            "text": "The dukes to blame in this twill be ill taken."
+            "text": "The duke's to blame in this; 'twill be ill taken."
         },
         {
             "text": "Exit"
         },
         {
             "speaker": "kent",
-            "text": "Good king, that must approve the common saw, Thou out of heavens benediction comest To the warm sun! Approach, thou beacon to this under globe, That by thy comfortable beams I may Peruse this letter! Nothing almost sees miracles But misery: I know tis from Cordelia, Who hath most fortunately been informd Of my obscured course and shall find time From this enormous state, seeking to give Losses their remedies. All weary and oerwatchd, Take vantage, heavy eyes, not to behold This shameful lodging. Fortune, good night: smile once more: turn thy wheel!"
+            "text": "Good king, that must approve the common saw, Thou out of heaven's benediction comest To the warm sun! Approach, thou beacon to this under globe, That by thy comfortable beams I may Peruse this letter! Nothing almost sees miracles But misery: I know 'tis from Cordelia, Who hath most fortunately been inform'd Of my obscured course; and shall find time From this enormous state, seeking to give Losses their remedies. All weary and o'erwatch'd, Take vantage, heavy eyes, not to behold This shameful lodging. Fortune, good night: smile once more: turn thy wheel!"
         },
         {
             "text": "Sleeps"

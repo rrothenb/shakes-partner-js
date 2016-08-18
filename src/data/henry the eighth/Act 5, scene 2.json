@@ -1,32 +1,32 @@
 {
     "sceneName": "Act 5, scene 2",
     "playName": "henry the eighth",
-    "location": "Before the councilchamber. Pursuivants, Pages,  and c.",
+    "location": "Before the council-chamber. Pursuivants, Pages,  and c.",
     "lines": [
         {
             "text": "Enter CRANMER"
         },
         {
             "speaker": "cranmer",
-            "text": "I hope I am not too late and yet the gentleman, That was sent to me from the council, prayd me To make great haste. All fast what means this Ho! Who waits there Sure, you know me"
+            "text": "I hope I am not too late; and yet the gentleman, That was sent to me from the council, pray'd me To make great haste. All fast? what means this? Ho! Who waits there? Sure, you know me?"
         },
         {
             "text": "Enter Keeper"
         },
         {
             "speaker": "keeper",
-            "text": "Yes, my lord But yet I cannot help you."
+            "text": "Yes, my lord; But yet I cannot help you."
         },
         {
             "speaker": "cranmer",
-            "text": "Why"
+            "text": "Why?"
         },
         {
             "text": "Enter DOCTOR BUTTS"
         },
         {
             "speaker": "keeper",
-            "text": "Your grace must wait till you be calld for."
+            "text": "Your grace must wait till you be call'd for."
         },
         {
             "speaker": "cranmer",
@@ -41,18 +41,18 @@
         },
         {
             "speaker": "cranmer",
-            "text": "[Aside]Tis Butts, The kings physician: as he passd along, How earnestly he cast his eyes upon me! Pray heaven, he sound not my disgrace! For certain, This is of purpose laid by some that hate me God turn their hearts! I never sought their malice To quench mine honour: they would shame to make me Wait else at door, a fellowcounsellor, Mong boys, grooms, and lackeys. But their pleasures Must be fulfilld, and I attend with patience."
+            "text": "[Aside] 'Tis Butts, The king's physician: as he pass'd along, How earnestly he cast his eyes upon me! Pray heaven, he sound not my disgrace! For certain, This is of purpose laid by some that hate me-- God turn their hearts! I never sought their malice-- To quench mine honour: they would shame to make me Wait else at door, a fellow-counsellor, 'Mong boys, grooms, and lackeys. But their pleasures Must be fulfill'd, and I attend with patience."
         },
         {
             "text": "Enter the KING HENRY VIII and DOCTOR BUTTS at a window above"
         },
         {
             "speaker": "doctor butts",
-            "text": "Ill show your grace the strangest sight"
+            "text": "I'll show your grace the strangest sight--"
         },
         {
             "speaker": "king henry the eighth",
-            "text": "Whats that, Butts"
+            "text": "What's that, Butts?"
         },
         {
             "speaker": "doctor butts",
@@ -60,15 +60,15 @@
         },
         {
             "speaker": "king henry the eighth",
-            "text": "Body o me, where is it"
+            "text": "Body o' me, where is it?"
         },
         {
             "speaker": "doctor butts",
-            "text": "There, my lord: The high promotion of his grace of Canterbury Who holds his state at door, mongst pursuivants, Pages, and footboys."
+            "text": "There, my lord: The high promotion of his grace of Canterbury; Who holds his state at door, 'mongst pursuivants, Pages, and footboys."
         },
         {
             "speaker": "king henry the eighth",
-            "text": "Ha! tis he, indeed: Is this the honour they do one another Tis well theres one above em yet. I had thought They had parted so much honesty among em At least, good manners, as not thus to suffer A man of his place, and so near our favour, To dance attendance on their lordships pleasures, And at the door too, like a post with packets. By holy Mary, Butts, theres knavery: Let em alone, and draw the curtain close: We shall hear more anon."
+            "text": "Ha! 'tis he, indeed: Is this the honour they do one another? 'Tis well there's one above 'em yet. I had thought They had parted so much honesty among 'em At least, good manners, as not thus to suffer A man of his place, and so near our favour, To dance attendance on their lordships' pleasures, And at the door too, like a post with packets. By holy Mary, Butts, there's knavery: Let 'em alone, and draw the curtain close: We shall hear more anon."
         },
         {
             "text": "Exeunt"

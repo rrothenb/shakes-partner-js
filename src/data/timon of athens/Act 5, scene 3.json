@@ -1,14 +1,14 @@
 {
     "sceneName": "Act 5, scene 3",
     "playName": "timon of athens",
-    "location": "The woods. Timons cave, and a rude tomb seen.",
+    "location": "The woods. Timon's cave, and a rude tomb seen.",
     "lines": [
         {
             "text": "Enter a Soldier, seeking TIMON"
         },
         {
             "speaker": "soldier",
-            "text": "By all description this should be the place. Whos here speak, ho! No answer! What is this Timon is dead, who hath outstretchd his span: Some beast reard this there does not live a man. Dead, sure and this his grave. Whats on this tomb I cannot read the character Ill take with wax: Our captain hath in every figure skill, An aged interpreter, though young in days: Before proud Athens hes set down by this, Whose fall the mark of his ambition is."
+            "text": "By all description this should be the place. Who's here? speak, ho! No answer! What is this? Timon is dead, who hath outstretch'd his span: Some beast rear'd this; there does not live a man. Dead, sure; and this his grave. What's on this tomb I cannot read; the character I'll take with wax: Our captain hath in every figure skill, An aged interpreter, though young in days: Before proud Athens he's set down by this, Whose fall the mark of his ambition is."
         },
         {
             "text": "Exit"

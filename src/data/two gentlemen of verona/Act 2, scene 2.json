@@ -1,7 +1,7 @@
 {
     "sceneName": "Act 2, scene 2",
     "playName": "two gentlemen of verona",
-    "location": "Verona. JULIAS house.",
+    "location": "Verona. JULIA'S house.",
     "lines": [
         {
             "text": "Enter PROTEUS and JULIA"
@@ -20,14 +20,14 @@
         },
         {
             "speaker": "julia",
-            "text": "If you turn not, you will return the sooner. Keep this remembrance for thy Julias sake."
+            "text": "If you turn not, you will return the sooner. Keep this remembrance for thy Julia's sake."
         },
         {
             "text": "Giving a ring"
         },
         {
             "speaker": "proteus",
-            "text": "Why then, well make exchange here, take you this."
+            "text": "Why then, we'll make exchange; here, take you this."
         },
         {
             "speaker": "julia",
@@ -35,7 +35,7 @@
         },
         {
             "speaker": "proteus",
-            "text": "Here is my hand for my true constancy And when that hour oerslips me in the day Wherein I sigh not, Julia, for thy sake, The next ensuing hour some foul mischance Torment me for my loves forgetfulness! My father stays my coming answer not The tide is now: nay, not thy tide of tears That tide will stay me longer than I should. Julia, farewell! What, gone without a word Ay, so true love should do: it cannot speak For truth hath better deeds than words to grace it."
+            "text": "Here is my hand for my true constancy; And when that hour o'erslips me in the day Wherein I sigh not, Julia, for thy sake, The next ensuing hour some foul mischance Torment me for my love's forgetfulness! My father stays my coming; answer not; The tide is now: nay, not thy tide of tears; That tide will stay me longer than I should. Julia, farewell! What, gone without a word? Ay, so true love should do: it cannot speak; For truth hath better deeds than words to grace it."
         },
         {
             "text": "Exit JULIA"
@@ -45,11 +45,11 @@
         },
         {
             "speaker": "panthino",
-            "text": "Sir Proteus, you are stayd for."
+            "text": "Sir Proteus, you are stay'd for."
         },
         {
             "speaker": "proteus",
-            "text": "Go I come, I come. Alas! this parting strikes poor lovers dumb."
+            "text": "Go; I come, I come. Alas! this parting strikes poor lovers dumb."
         },
         {
             "text": "Exeunt"

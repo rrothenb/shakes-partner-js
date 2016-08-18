@@ -1,14 +1,14 @@
 {
     "sceneName": "Act 1, scene 2",
     "playName": "much ado about nothing",
-    "location": "A room in LEONATOs house.",
+    "location": "A room in LEONATO's house.",
     "lines": [
         {
             "text": "Enter LEONATO and ANTONIO, meeting"
         },
         {
             "speaker": "leonato",
-            "text": "How now, brother! Where is my cousin, your son hath he provided this music"
+            "text": "How now, brother! Where is my cousin, your son? hath he provided this music?"
         },
         {
             "speaker": "antonio",
@@ -16,23 +16,23 @@
         },
         {
             "speaker": "leonato",
-            "text": "Are they good"
+            "text": "Are they good?"
         },
         {
             "speaker": "antonio",
-            "text": "As the event stamps them: but they have a good cover they show well outward. The prince and Count Claudio, walking in a thickpleached alley in mine orchard, were thus much overheard by a man of mine: the prince discovered to Claudio that he loved my niece your daughter and meant to acknowledge it this night in a dance: and if he found her accordant, he meant to take the present time by the top and instantly break with you of it."
+            "text": "As the event stamps them: but they have a good cover; they show well outward. The prince and Count Claudio, walking in a thick-pleached alley in mine orchard, were thus much overheard by a man of mine: the prince discovered to Claudio that he loved my niece your daughter and meant to acknowledge it this night in a dance: and if he found her accordant, he meant to take the present time by the top and instantly break with you of it."
         },
         {
             "speaker": "leonato",
-            "text": "Hath the fellow any wit that told you this"
+            "text": "Hath the fellow any wit that told you this?"
         },
         {
             "speaker": "antonio",
-            "text": "A good sharp fellow: I will send for him and question him yourself."
+            "text": "A good sharp fellow: I will send for him; and question him yourself."
         },
         {
             "speaker": "leonato",
-            "text": "No, no we will hold it as a dream till it appear itself: but I will acquaint my daughter withal, that she may be the better prepared for an answer, if peradventure this be true. Go you and tell her of it. Cousins, you know what you have to do. O, I cry you mercy, friend go you with me, and I will use your skill. Good cousin, have a care this busy time."
+            "text": "No, no; we will hold it as a dream till it appear itself: but I will acquaint my daughter withal, that she may be the better prepared for an answer, if peradventure this be true. Go you and tell her of it. Cousins, you know what you have to do. O, I cry you mercy, friend; go you with me, and I will use your skill. Good cousin, have a care this busy time."
         },
         {
             "text": "Enter Attendants"

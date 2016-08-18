@@ -1,10 +1,10 @@
 {
     "sceneName": "Act 5, scene 1",
     "playName": "timon of athens",
-    "location": "The woods. Before Timons cave.",
+    "location": "The woods. Before Timon's cave.",
     "lines": [
         {
-            "text": "Enter Poet and Painter TIMON watching them from his cave"
+            "text": "Enter Poet and Painter; TIMON watching them from his cave"
         },
         {
             "speaker": "painter",
@@ -12,11 +12,11 @@
         },
         {
             "speaker": "poet",
-            "text": "Whats to be thought of him does the rumour hold for true, that hes so full of gold"
+            "text": "What's to be thought of him? does the rumour hold for true, that he's so full of gold?"
         },
         {
             "speaker": "painter",
-            "text": "Certain: Alcibiades reports it Phrynia and Timandra had gold of him: he likewise enriched poor straggling soldiers with great quantity: tis said he gave unto his steward a mighty sum."
+            "text": "Certain: Alcibiades reports it; Phrynia and Timandra had gold of him: he likewise enriched poor straggling soldiers with great quantity: 'tis said he gave unto his steward a mighty sum."
         },
         {
             "speaker": "poet",
@@ -24,11 +24,11 @@
         },
         {
             "speaker": "painter",
-            "text": "Nothing else: you shall see him a palm in Athens again, and flourish with the highest. Therefore tis not amiss we tender our loves to him, in this supposed distress of his: it will show honestly in us and is very likely to load our purposes with what they travail for, if it be a just true report that goes of his having."
+            "text": "Nothing else: you shall see him a palm in Athens again, and flourish with the highest. Therefore 'tis not amiss we tender our loves to him, in this supposed distress of his: it will show honestly in us; and is very likely to load our purposes with what they travail for, if it be a just true report that goes of his having."
         },
         {
             "speaker": "poet",
-            "text": "What have you now to present unto him"
+            "text": "What have you now to present unto him?"
         },
         {
             "speaker": "painter",
@@ -36,11 +36,11 @@
         },
         {
             "speaker": "poet",
-            "text": "I must serve him so too, tell him of an intent thats coming toward him."
+            "text": "I must serve him so too, tell him of an intent that's coming toward him."
         },
         {
             "speaker": "painter",
-            "text": "Good as the best. Promising is the very air o the time: it opens the eyes of expectation: performance is ever the duller for his act and, but in the plainer and simpler kind of people, the deed of saying is quite out of use. To promise is most courtly and fashionable: performance is a kind of will or testament which argues a great sickness in his judgment that makes it."
+            "text": "Good as the best. Promising is the very air o' the time: it opens the eyes of expectation: performance is ever the duller for his act; and, but in the plainer and simpler kind of people, the deed of saying is quite out of use. To promise is most courtly and fashionable: performance is a kind of will or testament which argues a great sickness in his judgment that makes it."
         },
         {
             "text": "TIMON comes from his cave, behind"
@@ -51,23 +51,23 @@
         },
         {
             "speaker": "poet",
-            "text": "I am thinking what I shall say I have provided for him: it must be a personating of himself a satire against the softness of prosperity, with a discovery of the infinite flatteries that follow youth and opulency."
+            "text": "I am thinking what I shall say I have provided for him: it must be a personating of himself; a satire against the softness of prosperity, with a discovery of the infinite flatteries that follow youth and opulency."
         },
         {
             "speaker": "timon",
-            "text": "[Aside]  Must thou needs stand for a villain in thine own work wilt thou whip thine own faults in other men Do so, I have gold for thee."
+            "text": "[Aside]  Must thou needs stand for a villain in thine own work? wilt thou whip thine own faults in other men? Do so, I have gold for thee."
         },
         {
             "speaker": "poet",
-            "text": "Nay, lets seek him: Then do we sin against our own estate, When we may profit meet, and come too late."
+            "text": "Nay, let's seek him: Then do we sin against our own estate, When we may profit meet, and come too late."
         },
         {
             "speaker": "painter",
-            "text": "True When the day serves, before blackcornerd night, Find what thou wantst by free and offerd light. Come."
+            "text": "True; When the day serves, before black-corner'd night, Find what thou want'st by free and offer'd light. Come."
         },
         {
             "speaker": "timon",
-            "text": "[Aside]  Ill meet you at the turn. What a gods gold, That he is worshippd in a baser temple Than where swine feed! Tis thou that riggst the bark and ploughst the foam, Settlest admired reverence in a slave: To thee be worship! and thy saints for aye Be crownd with plagues that thee alone obey! Fit I meet them."
+            "text": "[Aside]  I'll meet you at the turn. What a god's gold, That he is worshipp'd in a baser temple Than where swine feed! 'Tis thou that rigg'st the bark and plough'st the foam, Settlest admired reverence in a slave: To thee be worship! and thy saints for aye Be crown'd with plagues that thee alone obey! Fit I meet them."
         },
         {
             "text": "Coming forward"
@@ -82,19 +82,19 @@
         },
         {
             "speaker": "timon",
-            "text": "Have I once lived to see two honest men"
+            "text": "Have I once lived to see two honest men?"
         },
         {
             "speaker": "poet",
-            "text": "Sir, Having often of your open bounty tasted, Hearing you were retired, your friends falln off, Whose thankless naturesO abhorred spirits! Not all the whips of heaven are large enough: What! to you, Whose starlike nobleness gave life and influence To their whole being! I am rapt and cannot cover The monstrous bulk of this ingratitude With any size of words."
+            "text": "Sir, Having often of your open bounty tasted, Hearing you were retired, your friends fall'n off, Whose thankless natures--O abhorred spirits!-- Not all the whips of heaven are large enough: What! to you, Whose star-like nobleness gave life and influence To their whole being! I am rapt and cannot cover The monstrous bulk of this ingratitude With any size of words."
         },
         {
             "speaker": "timon",
-            "text": "Let it go naked, men may seet the better: You that are honest, by being what you are, Make them best seen and known."
+            "text": "Let it go naked, men may see't the better: You that are honest, by being what you are, Make them best seen and known."
         },
         {
             "speaker": "painter",
-            "text": "He and myself Have travaild in the great shower of your gifts, And sweetly felt it."
+            "text": "He and myself Have travail'd in the great shower of your gifts, And sweetly felt it."
         },
         {
             "speaker": "timon",
@@ -106,23 +106,23 @@
         },
         {
             "speaker": "timon",
-            "text": "Most honest men! Why, how shall I requite you Can you eat roots, and drink cold water no."
+            "text": "Most honest men! Why, how shall I requite you? Can you eat roots, and drink cold water? no."
         },
         {
             "speaker": "both",
-            "text": "What we can do, well do, to do you service."
+            "text": "What we can do, we'll do, to do you service."
         },
         {
             "speaker": "timon",
-            "text": "Yere honest men: yeve heard that I have gold I am sure you have: speak truth yere honest men."
+            "text": "Ye're honest men: ye've heard that I have gold; I am sure you have: speak truth; ye're honest men."
         },
         {
             "speaker": "painter",
-            "text": "So it is said, my noble lord but therefore Came not my friend nor I."
+            "text": "So it is said, my noble lord; but therefore Came not my friend nor I."
         },
         {
             "speaker": "timon",
-            "text": "Good honest men! Thou drawst a counterfeit Best in all Athens: thourt, indeed, the best Thou counterfeitst most lively."
+            "text": "Good honest men! Thou draw'st a counterfeit Best in all Athens: thou'rt, indeed, the best; Thou counterfeit'st most lively."
         },
         {
             "speaker": "painter",
@@ -130,7 +130,7 @@
         },
         {
             "speaker": "timon",
-            "text": "Een so, sir, as I say. And, for thy fiction, Why, thy verse swells with stuff so fine and smooth That thou art even natural in thine art. But, for all this, my honestnatured friends, I must needs say you have a little fault: Marry, tis not monstrous in you, neither wish I You take much pains to mend."
+            "text": "E'en so, sir, as I say. And, for thy fiction, Why, thy verse swells with stuff so fine and smooth That thou art even natural in thine art. But, for all this, my honest-natured friends, I must needs say you have a little fault: Marry, 'tis not monstrous in you, neither wish I You take much pains to mend."
         },
         {
             "speaker": "both",
@@ -138,7 +138,7 @@
         },
         {
             "speaker": "timon",
-            "text": "Youll take it ill."
+            "text": "You'll take it ill."
         },
         {
             "speaker": "both",
@@ -146,7 +146,7 @@
         },
         {
             "speaker": "timon",
-            "text": "Will you, indeed"
+            "text": "Will you, indeed?"
         },
         {
             "speaker": "both",
@@ -154,15 +154,15 @@
         },
         {
             "speaker": "timon",
-            "text": "Theres never a one of you but trusts a knave, That mightily deceives you."
+            "text": "There's never a one of you but trusts a knave, That mightily deceives you."
         },
         {
             "speaker": "both",
-            "text": "Do we, my lord"
+            "text": "Do we, my lord?"
         },
         {
             "speaker": "timon",
-            "text": "Ay, and you hear him cog, see him dissemble, Know his gross patchery, love him, feed him, Keep in your bosom: yet remain assured That hes a madeup villain."
+            "text": "Ay, and you hear him cog, see him dissemble, Know his gross patchery, love him, feed him, Keep in your bosom: yet remain assured That he's a made-up villain."
         },
         {
             "speaker": "painter",
@@ -174,15 +174,15 @@
         },
         {
             "speaker": "timon",
-            "text": "Look you, I love you well Ill give you gold, Rid me these villains from your companies: Hang them or stab them, drown them in a draught, Confound them by some course, and come to me, Ill give you gold enough."
+            "text": "Look you, I love you well; I'll give you gold, Rid me these villains from your companies: Hang them or stab them, drown them in a draught, Confound them by some course, and come to me, I'll give you gold enough."
         },
         {
             "speaker": "both",
-            "text": "Name them, my lord, lets know them."
+            "text": "Name them, my lord, let's know them."
         },
         {
             "speaker": "timon",
-            "text": "You that way and you this, but two in company Each man apart, all single and alone, Yet an archvillain keeps him company. If where thou art two villains shall not be, Come not near him. If thou wouldst not reside But where one villain is, then him abandon. Hence, pack! theres gold you came for gold, ye slaves: You have workd for me theres payment for you: hence! You are an alchemist make gold of that. Out, rascal dogs!"
+            "text": "You that way and you this, but two in company; Each man apart, all single and alone, Yet an arch-villain keeps him company. If where thou art two villains shall not be, Come not near him. If thou wouldst not reside But where one villain is, then him abandon. Hence, pack! there's gold; you came for gold, ye slaves: You have work'd for me; there's payment for you: hence! You are an alchemist; make gold of that. Out, rascal dogs!"
         },
         {
             "text": "To Painter"
@@ -198,7 +198,7 @@
         },
         {
             "speaker": "flavius",
-            "text": "It is in vain that you would speak with Timon For he is set so only to himself That nothing but himself which looks like man Is friendly with him."
+            "text": "It is in vain that you would speak with Timon; For he is set so only to himself That nothing but himself which looks like man Is friendly with him."
         },
         {
             "speaker": "first senator",
@@ -206,7 +206,7 @@
         },
         {
             "speaker": "second senator",
-            "text": "At all times alike Men are not still the same: twas time and griefs That framed him thus: time, with his fairer hand, Offering the fortunes of his former days, The former man may make him. Bring us to him, And chance it as it may."
+            "text": "At all times alike Men are not still the same: 'twas time and griefs That framed him thus: time, with his fairer hand, Offering the fortunes of his former days, The former man may make him. Bring us to him, And chance it as it may."
         },
         {
             "speaker": "flavius",
@@ -217,11 +217,11 @@
         },
         {
             "speaker": "timon",
-            "text": "Thou sun, that comfortst, burn! Speak, and be hangd: For each true word, a blister! and each false Be as cauterizing to the root o the tongue, Consuming it with speaking!"
+            "text": "Thou sun, that comfort'st, burn! Speak, and be hang'd: For each true word, a blister! and each false Be as cauterizing to the root o' the tongue, Consuming it with speaking!"
         },
         {
             "speaker": "first senator",
-            "text": "Worthy Timon,"
+            "text": "Worthy Timon,--"
         },
         {
             "speaker": "timon",
@@ -233,23 +233,23 @@
         },
         {
             "speaker": "timon",
-            "text": "I thank them and would send them back the plague, Could I but catch it for them."
+            "text": "I thank them; and would send them back the plague, Could I but catch it for them."
         },
         {
             "speaker": "first senator",
-            "text": "O, forget What we are sorry for ourselves in thee. The senators with one consent of love Entreat thee back to Athens who have thought On special dignities, which vacant lie For thy best use and wearing."
+            "text": "O, forget What we are sorry for ourselves in thee. The senators with one consent of love Entreat thee back to Athens; who have thought On special dignities, which vacant lie For thy best use and wearing."
         },
         {
             "speaker": "second senator",
-            "text": "They confess Toward thee forgetfulness too general, gross: Which now the public body, which doth seldom Play the recanter, feeling in itself A lack of Timons aid, hath sense withal Of its own fail, restraining aid to Timon And send forth us, to make their sorrowd render, Together with a recompense more fruitful Than their offence can weigh down by the dram Ay, even such heaps and sums of love and wealth As shall to thee blot out what wrongs were theirs And write in thee the figures of their love, Ever to read them thine."
+            "text": "They confess Toward thee forgetfulness too general, gross: Which now the public body, which doth seldom Play the recanter, feeling in itself A lack of Timon's aid, hath sense withal Of its own fail, restraining aid to Timon; And send forth us, to make their sorrow'd render, Together with a recompense more fruitful Than their offence can weigh down by the dram; Ay, even such heaps and sums of love and wealth As shall to thee blot out what wrongs were theirs And write in thee the figures of their love, Ever to read them thine."
         },
         {
             "speaker": "timon",
-            "text": "You witch me in it Surprise me to the very brink of tears: Lend me a fools heart and a womans eyes, And Ill beweep these comforts, worthy senators."
+            "text": "You witch me in it; Surprise me to the very brink of tears: Lend me a fool's heart and a woman's eyes, And I'll beweep these comforts, worthy senators."
         },
         {
             "speaker": "first senator",
-            "text": "Therefore, so please thee to return with us And of our Athens, thine and ours, to take The captainship, thou shalt be met with thanks, Allowd with absolute power and thy good name Live with authority: so soon we shall drive back Of Alcibiades the approaches wild, Who, like a boar too savage, doth root up His countrys peace."
+            "text": "Therefore, so please thee to return with us And of our Athens, thine and ours, to take The captainship, thou shalt be met with thanks, Allow'd with absolute power and thy good name Live with authority: so soon we shall drive back Of Alcibiades the approaches wild, Who, like a boar too savage, doth root up His country's peace."
         },
         {
             "speaker": "second senator",
@@ -257,19 +257,19 @@
         },
         {
             "speaker": "first senator",
-            "text": "Therefore, Timon,"
+            "text": "Therefore, Timon,--"
         },
         {
             "speaker": "timon",
-            "text": "Well, sir, I will therefore, I will, sir thus: If Alcibiades kill my countrymen, Let Alcibiades know this of Timon, That Timon cares not. But if be sack fair Athens, And take our goodly aged men by the beards, Giving our holy virgins to the stain Of contumelious, beastly, madbraind war, Then let him know, and tell him Timon speaks it, In pity of our aged and our youth, I cannot choose but tell him, that I care not, And let him taket at worst for their knives care not, While you have throats to answer: for myself, Theres not a whittle in the unruly camp But I do prize it at my love before The reverendst throat in Athens. So I leave you To the protection of the prosperous gods, As thieves to keepers."
+            "text": "Well, sir, I will; therefore, I will, sir; thus: If Alcibiades kill my countrymen, Let Alcibiades know this of Timon, That Timon cares not. But if be sack fair Athens, And take our goodly aged men by the beards, Giving our holy virgins to the stain Of contumelious, beastly, mad-brain'd war, Then let him know, and tell him Timon speaks it, In pity of our aged and our youth, I cannot choose but tell him, that I care not, And let him take't at worst; for their knives care not, While you have throats to answer: for myself, There's not a whittle in the unruly camp But I do prize it at my love before The reverend'st throat in Athens. So I leave you To the protection of the prosperous gods, As thieves to keepers."
         },
         {
             "speaker": "flavius",
-            "text": "Stay not, alls in vain."
+            "text": "Stay not, all's in vain."
         },
         {
             "speaker": "timon",
-            "text": "Why, I was writing of my epitaph it will be seen tomorrow: my long sickness Of health and living now begins to mend, And nothing brings me all things. Go, live still Be Alcibiades your plague, you his, And last so long enough!"
+            "text": "Why, I was writing of my epitaph; it will be seen to-morrow: my long sickness Of health and living now begins to mend, And nothing brings me all things. Go, live still; Be Alcibiades your plague, you his, And last so long enough!"
         },
         {
             "speaker": "first senator",
@@ -281,11 +281,11 @@
         },
         {
             "speaker": "first senator",
-            "text": "Thats well spoke."
+            "text": "That's well spoke."
         },
         {
             "speaker": "timon",
-            "text": "Commend me to my loving countrymen,"
+            "text": "Commend me to my loving countrymen,--"
         },
         {
             "speaker": "first senator",
@@ -297,11 +297,11 @@
         },
         {
             "speaker": "timon",
-            "text": "Commend me to them, And tell them that, to ease them of their griefs, Their fears of hostile strokes, their aches, losses, Their pangs of love, with other incident throes That natures fragile vessel doth sustain In lifes uncertain voyage, I will some kindness do them: Ill teach them to prevent wild Alcibiades wrath."
+            "text": "Commend me to them, And tell them that, to ease them of their griefs, Their fears of hostile strokes, their aches, losses, Their pangs of love, with other incident throes That nature's fragile vessel doth sustain In life's uncertain voyage, I will some kindness do them: I'll teach them to prevent wild Alcibiades' wrath."
         },
         {
             "speaker": "first senator",
-            "text": "I like this well he will return again."
+            "text": "I like this well; he will return again."
         },
         {
             "speaker": "timon",
@@ -309,11 +309,11 @@
         },
         {
             "speaker": "flavius",
-            "text": "Trouble him no further thus you still shall find him."
+            "text": "Trouble him no further; thus you still shall find him."
         },
         {
             "speaker": "timon",
-            "text": "Come not to me again: but say to Athens, Timon hath made his everlasting mansion Upon the beached verge of the salt flood Who once a day with his embossed froth The turbulent surge shall cover: thither come, And let my gravestone be your oracle. Lips, let sour words go by and language end: What is amiss plague and infection mend! Graves only be mens works and death their gain! Sun, hide thy beams! Timon hath done his reign."
+            "text": "Come not to me again: but say to Athens, Timon hath made his everlasting mansion Upon the beached verge of the salt flood; Who once a day with his embossed froth The turbulent surge shall cover: thither come, And let my grave-stone be your oracle. Lips, let sour words go by and language end: What is amiss plague and infection mend! Graves only be men's works and death their gain! Sun, hide thy beams! Timon hath done his reign."
         },
         {
             "text": "Retires to his cave"
@@ -328,7 +328,7 @@
         },
         {
             "speaker": "first senator",
-            "text": "It requires swift foot. Thou hast painfully discoverd: are his files As full as thy report"
+            "text": "It requires swift foot. Thou hast painfully discover'd: are his files As full as thy report?"
         },
         {
             "text": "Exeunt"

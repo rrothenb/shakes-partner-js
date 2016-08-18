@@ -8,7 +8,7 @@
         },
         {
             "speaker": "portia",
-            "text": "I prithee, boy, run to the senatehouse Stay not to answer me, but get thee gone: Why dost thou stay"
+            "text": "I prithee, boy, run to the senate-house; Stay not to answer me, but get thee gone: Why dost thou stay?"
         },
         {
             "speaker": "lucius",
@@ -16,15 +16,15 @@
         },
         {
             "speaker": "portia",
-            "text": "I would have had thee there, and here again, Ere I can tell thee what thou shouldst do there. O constancy, be strong upon my side, Set a huge mountain tween my heart and tongue! I have a mans mind, but a womans might. How hard it is for women to keep counsel! Art thou here yet"
+            "text": "I would have had thee there, and here again, Ere I can tell thee what thou shouldst do there. O constancy, be strong upon my side, Set a huge mountain 'tween my heart and tongue! I have a man's mind, but a woman's might. How hard it is for women to keep counsel! Art thou here yet?"
         },
         {
             "speaker": "lucius",
-            "text": "Madam, what should I do Run to the Capitol, and nothing else And so return to you, and nothing else"
+            "text": "Madam, what should I do? Run to the Capitol, and nothing else? And so return to you, and nothing else?"
         },
         {
             "speaker": "portia",
-            "text": "Yes, bring me word, boy, if thy lord look well, For he went sickly forth: and take good note What Caesar doth, what suitors press to him. Hark, boy! what noise is that"
+            "text": "Yes, bring me word, boy, if thy lord look well, For he went sickly forth: and take good note What Caesar doth, what suitors press to him. Hark, boy! what noise is that?"
         },
         {
             "speaker": "lucius",
@@ -32,7 +32,7 @@
         },
         {
             "speaker": "portia",
-            "text": "Prithee, listen well I heard a bustling rumour, like a fray, And the wind brings it from the Capitol."
+            "text": "Prithee, listen well; I heard a bustling rumour, like a fray, And the wind brings it from the Capitol."
         },
         {
             "speaker": "lucius",
@@ -43,7 +43,7 @@
         },
         {
             "speaker": "portia",
-            "text": "Come hither, fellow: which way hast thou been"
+            "text": "Come hither, fellow: which way hast thou been?"
         },
         {
             "speaker": "soothsayer",
@@ -51,7 +51,7 @@
         },
         {
             "speaker": "portia",
-            "text": "What ist oclock"
+            "text": "What is't o'clock?"
         },
         {
             "speaker": "soothsayer",
@@ -59,7 +59,7 @@
         },
         {
             "speaker": "portia",
-            "text": "Is Caesar yet gone to the Capitol"
+            "text": "Is Caesar yet gone to the Capitol?"
         },
         {
             "speaker": "soothsayer",
@@ -67,7 +67,7 @@
         },
         {
             "speaker": "portia",
-            "text": "Thou hast some suit to Caesar, hast thou not"
+            "text": "Thou hast some suit to Caesar, hast thou not?"
         },
         {
             "speaker": "soothsayer",
@@ -75,18 +75,18 @@
         },
         {
             "speaker": "portia",
-            "text": "Why, knowst thou any harms intended towards him"
+            "text": "Why, know'st thou any harm's intended towards him?"
         },
         {
             "speaker": "soothsayer",
-            "text": "None that I know will be, much that I fear may chance. Good morrow to you. Here the street is narrow: The throng that follows Caesar at the heels, Of senators, of praetors, common suitors, Will crowd a feeble man almost to death: Ill get me to a place more void, and there Speak to great Caesar as he comes along."
+            "text": "None that I know will be, much that I fear may chance. Good morrow to you. Here the street is narrow: The throng that follows Caesar at the heels, Of senators, of praetors, common suitors, Will crowd a feeble man almost to death: I'll get me to a place more void, and there Speak to great Caesar as he comes along."
         },
         {
             "text": "Exit"
         },
         {
             "speaker": "portia",
-            "text": "I must go in. Ay me, how weak a thing The heart of woman is! O Brutus, The heavens speed thee in thine enterprise! Sure, the boy heard me: Brutus hath a suit That Caesar will not grant. O, I grow faint. Run, Lucius, and commend me to my lord Say I am merry: come to me again, And bring me word what he doth say to thee."
+            "text": "I must go in. Ay me, how weak a thing The heart of woman is! O Brutus, The heavens speed thee in thine enterprise! Sure, the boy heard me: Brutus hath a suit That Caesar will not grant. O, I grow faint. Run, Lucius, and commend me to my lord; Say I am merry: come to me again, And bring me word what he doth say to thee."
         },
         {
             "text": "Exeunt severally"

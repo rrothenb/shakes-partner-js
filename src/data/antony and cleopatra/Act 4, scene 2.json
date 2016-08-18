@@ -1,7 +1,7 @@
 {
     "sceneName": "Act 4, scene 2",
     "playName": "antony and cleopatra",
-    "location": "Alexandria. CLEOPATRAs palace.",
+    "location": "Alexandria. CLEOPATRA's palace.",
     "lines": [
         {
             "text": "Enter MARK ANTONY, CLEOPATRA, DOMITIUS ENOBARBUS, CHARMIAN, IRAS, ALEXAS, with others"
@@ -16,7 +16,7 @@
         },
         {
             "speaker": "mark antony",
-            "text": "Why should he not"
+            "text": "Why should he not?"
         },
         {
             "speaker": "domitius enobarbus",
@@ -24,30 +24,30 @@
         },
         {
             "speaker": "mark antony",
-            "text": "Tomorrow, soldier, By sea and land Ill fight: or I will live, Or bathe my dying honour in the blood Shall make it live again. Woot thou fight well"
+            "text": "To-morrow, soldier, By sea and land I'll fight: or I will live, Or bathe my dying honour in the blood Shall make it live again. Woo't thou fight well?"
         },
         {
             "speaker": "domitius enobarbus",
-            "text": "Ill strike, and cry Take all."
+            "text": "I'll strike, and cry 'Take all.'"
         },
         {
             "speaker": "mark antony",
-            "text": "Well said come on. Call forth my household servants: lets tonight Be bounteous at our meal. Give me thy hand, Thou hast been rightly honestso hast thou Thou,and thou,and thou:you have served me well, And kings have been your fellows."
+            "text": "Well said; come on. Call forth my household servants: let's to-night Be bounteous at our meal. Give me thy hand, Thou hast been rightly honest;--so hast thou;-- Thou,--and thou,--and thou:--you have served me well, And kings have been your fellows."
         },
         {
             "text": "Enter three or four Servitors"
         },
         {
             "speaker": "cleopatra",
-            "text": "[Aside to DOMITIUS ENOBARBUS]  What means this"
+            "text": "[Aside to DOMITIUS ENOBARBUS]  What means this?"
         },
         {
             "speaker": "domitius enobarbus",
-            "text": "[Aside to CLEOPATRA]  Tis one of those odd tricks which sorrow shoots Out of the mind."
+            "text": "[Aside to CLEOPATRA]  'Tis one of those odd tricks which sorrow shoots Out of the mind."
         },
         {
             "speaker": "mark antony",
-            "text": "And thou art honest too. I wish I could be made so many men, And all of you clappd up together in An Antony, that I might do you service So good as you have done."
+            "text": "And thou art honest too. I wish I could be made so many men, And all of you clapp'd up together in An Antony, that I might do you service So good as you have done."
         },
         {
             "speaker": "all",
@@ -55,11 +55,11 @@
         },
         {
             "speaker": "mark antony",
-            "text": "Well, my good fellows, wait on me tonight: Scant not my cups and make as much of me As when mine empire was your fellow too, And sufferd my command."
+            "text": "Well, my good fellows, wait on me to-night: Scant not my cups; and make as much of me As when mine empire was your fellow too, And suffer'd my command."
         },
         {
             "speaker": "cleopatra",
-            "text": "[Aside to DOMITIUS ENOBARBUS]  What does he mean"
+            "text": "[Aside to DOMITIUS ENOBARBUS]  What does he mean?"
         },
         {
             "speaker": "domitius enobarbus",
@@ -67,15 +67,15 @@
         },
         {
             "speaker": "mark antony",
-            "text": "Tend me tonight May be it is the period of your duty: Haply you shall not see me more or if, A mangled shadow: perchance tomorrow Youll serve another master. I look on you As one that takes his leave. Mine honest friends, I turn you not away but, like a master Married to your good service, stay till death: Tend me tonight two hours, I ask no more, And the gods yield you fort!"
+            "text": "Tend me to-night; May be it is the period of your duty: Haply you shall not see me more; or if, A mangled shadow: perchance to-morrow You'll serve another master. I look on you As one that takes his leave. Mine honest friends, I turn you not away; but, like a master Married to your good service, stay till death: Tend me to-night two hours, I ask no more, And the gods yield you for't!"
         },
         {
             "speaker": "domitius enobarbus",
-            "text": "What mean you, sir, To give them this discomfort Look, they weep And I, an ass, am onioneyed: for shame, Transform us not to women."
+            "text": "What mean you, sir, To give them this discomfort? Look, they weep; And I, an ass, am onion-eyed: for shame, Transform us not to women."
         },
         {
             "speaker": "mark antony",
-            "text": "Ho, ho, ho! Now the witch take me, if I meant it thus! Grace grow where those drops fall! My hearty friends, You take me in too dolorous a sense For I spake to you for your comfort did desire you To burn this night with torches: know, my hearts, I hope well of tomorrow and will lead you Where rather Ill expect victorious life Than death and honour. Lets to supper, come, And drown consideration."
+            "text": "Ho, ho, ho! Now the witch take me, if I meant it thus! Grace grow where those drops fall! My hearty friends, You take me in too dolorous a sense; For I spake to you for your comfort; did desire you To burn this night with torches: know, my hearts, I hope well of to-morrow; and will lead you Where rather I'll expect victorious life Than death and honour. Let's to supper, come, And drown consideration."
         },
         {
             "text": "Exeunt"

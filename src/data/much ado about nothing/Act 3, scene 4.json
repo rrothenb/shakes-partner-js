@@ -1,7 +1,7 @@
 {
     "sceneName": "Act 3, scene 4",
     "playName": "much ado about nothing",
-    "location": "HEROs apartment.",
+    "location": "HERO's apartment.",
     "lines": [
         {
             "text": "Enter HERO, MARGARET, and URSULA"
@@ -31,19 +31,19 @@
         },
         {
             "speaker": "hero",
-            "text": "No, pray thee, good Meg, Ill wear this."
+            "text": "No, pray thee, good Meg, I'll wear this."
         },
         {
             "speaker": "margaret",
-            "text": "By my troth, s not so good and I warrant your cousin will say so."
+            "text": "By my troth, 's not so good; and I warrant your cousin will say so."
         },
         {
             "speaker": "hero",
-            "text": "My cousins a fool, and thou art another: Ill wear none but this."
+            "text": "My cousin's a fool, and thou art another: I'll wear none but this."
         },
         {
             "speaker": "margaret",
-            "text": "I like the new tire within excellently, if the hair were a thought browner and your gowns a most rare fashion, i faith. I saw the Duchess of Milans gown that they praise so."
+            "text": "I like the new tire within excellently, if the hair were a thought browner; and your gown's a most rare fashion, i' faith. I saw the Duchess of Milan's gown that they praise so."
         },
         {
             "speaker": "hero",
@@ -51,7 +51,7 @@
         },
         {
             "speaker": "margaret",
-            "text": "By my troth, s but a nightgown in respect of yours: cloth o gold, and cuts, and laced with silver, set with pearls, down sleeves, side sleeves, and skirts, round underborne with a bluish tinsel: but for a fine, quaint, graceful and excellent fashion, yours is worth ten on t."
+            "text": "By my troth, 's but a night-gown in respect of yours: cloth o' gold, and cuts, and laced with silver, set with pearls, down sleeves, side sleeves, and skirts, round underborne with a bluish tinsel: but for a fine, quaint, graceful and excellent fashion, yours is worth ten on 't."
         },
         {
             "speaker": "hero",
@@ -59,15 +59,15 @@
         },
         {
             "speaker": "margaret",
-            "text": "Twill be heavier soon by the weight of a man."
+            "text": "'Twill be heavier soon by the weight of a man."
         },
         {
             "speaker": "hero",
-            "text": "Fie upon thee! art not ashamed"
+            "text": "Fie upon thee! art not ashamed?"
         },
         {
             "speaker": "margaret",
-            "text": "Of what, lady of speaking honourably Is not marriage honourable in a beggar Is not your lord honourable without marriage I think you would have me say, saving your reverence, a husband: and bad thinking do not wrest true speaking, Ill offend nobody: is there any harm in the heavier for a husband None, I think, and it be the right husband and the right wife otherwise tis light, and not heavy: ask my Lady Beatrice else here she comes."
+            "text": "Of what, lady? of speaking honourably? Is not marriage honourable in a beggar? Is not your lord honourable without marriage? I think you would have me say, 'saving your reverence, a husband:' and bad thinking do not wrest true speaking, I'll offend nobody: is there any harm in 'the heavier for a husband'? None, I think, and it be the right husband and the right wife; otherwise 'tis light, and not heavy: ask my Lady Beatrice else; here she comes."
         },
         {
             "text": "Enter BEATRICE"
@@ -82,7 +82,7 @@
         },
         {
             "speaker": "hero",
-            "text": "Why how now do you speak in the sick tune"
+            "text": "Why how now? do you speak in the sick tune?"
         },
         {
             "speaker": "beatrice",
@@ -90,11 +90,11 @@
         },
         {
             "speaker": "margaret",
-            "text": "Claps into Light o love that goes without a burden: do you sing it, and Ill dance it."
+            "text": "Clap's into 'Light o' love;' that goes without a burden: do you sing it, and I'll dance it."
         },
         {
             "speaker": "beatrice",
-            "text": "Ye light o love, with your heels! then, if your husband have stables enough, youll see he shall lack no barns."
+            "text": "Ye light o' love, with your heels! then, if your husband have stables enough, you'll see he shall lack no barns."
         },
         {
             "speaker": "margaret",
@@ -102,11 +102,11 @@
         },
         {
             "speaker": "beatrice",
-            "text": "Tis almost five oclock, cousin tis time you were ready. By my troth, I am exceeding ill: heighho!"
+            "text": "'Tis almost five o'clock, cousin; tis time you were ready. By my troth, I am exceeding ill: heigh-ho!"
         },
         {
             "speaker": "margaret",
-            "text": "For a hawk, a horse, or a husband"
+            "text": "For a hawk, a horse, or a husband?"
         },
         {
             "speaker": "beatrice",
@@ -114,35 +114,35 @@
         },
         {
             "speaker": "margaret",
-            "text": "Well, and you be not turned Turk, theres no more sailing by the star."
+            "text": "Well, and you be not turned Turk, there's no more sailing by the star."
         },
         {
             "speaker": "beatrice",
-            "text": "What means the fool, trow"
+            "text": "What means the fool, trow?"
         },
         {
             "speaker": "margaret",
-            "text": "Nothing I but God send every one their hearts desire!"
+            "text": "Nothing I; but God send every one their heart's desire!"
         },
         {
             "speaker": "hero",
-            "text": "These gloves the count sent me they are an excellent perfume."
+            "text": "These gloves the count sent me; they are an excellent perfume."
         },
         {
             "speaker": "beatrice",
-            "text": "I am stuffed, cousin I cannot smell."
+            "text": "I am stuffed, cousin; I cannot smell."
         },
         {
             "speaker": "margaret",
-            "text": "A maid, and stuffed! theres goodly catching of cold."
+            "text": "A maid, and stuffed! there's goodly catching of cold."
         },
         {
             "speaker": "beatrice",
-            "text": "O, God help me! God help me! how long have you professed apprehension"
+            "text": "O, God help me! God help me! how long have you professed apprehension?"
         },
         {
             "speaker": "margaret",
-            "text": "Even since you left it. Doth not my wit become me rarely"
+            "text": "Even since you left it. Doth not my wit become me rarely?"
         },
         {
             "speaker": "beatrice",
@@ -158,22 +158,22 @@
         },
         {
             "speaker": "beatrice",
-            "text": "Benedictus! why Benedictus you have some moral in this Benedictus."
+            "text": "Benedictus! why Benedictus? you have some moral in this Benedictus."
         },
         {
             "speaker": "margaret",
-            "text": "Moral! no, by my troth, I have no moral meaning I meant, plain holythistle. You may think perchance that I think you are in love: nay, byr lady, I am not such a fool to think what I list, nor I list not to think what I can, nor indeed I cannot think, if I would think my heart out of thinking, that you are in love or that you will be in love or that you can be in love. Yet Benedick was such another, and now is he become a man: he swore he would never marry, and yet now, in despite of his heart, he eats his meat without grudging: and how you may be converted I know not, but methinks you look with your eyes as other women do."
+            "text": "Moral! no, by my troth, I have no moral meaning; I meant, plain holy-thistle. You may think perchance that I think you are in love: nay, by'r lady, I am not such a fool to think what I list, nor I list not to think what I can, nor indeed I cannot think, if I would think my heart out of thinking, that you are in love or that you will be in love or that you can be in love. Yet Benedick was such another, and now is he become a man: he swore he would never marry, and yet now, in despite of his heart, he eats his meat without grudging: and how you may be converted I know not, but methinks you look with your eyes as other women do."
         },
         {
             "speaker": "beatrice",
-            "text": "What pace is this that thy tongue keeps"
+            "text": "What pace is this that thy tongue keeps?"
         },
         {
             "speaker": "margaret",
             "text": "Not a false gallop."
         },
         {
-            "text": "Reenter URSULA"
+            "text": "Re-enter URSULA"
         },
         {
             "speaker": "ursula",

@@ -1,22 +1,22 @@
 {
     "sceneName": "Act 1, scene 3",
     "playName": "coriolanus",
-    "location": "Rome. A room in Marcius house.",
+    "location": "Rome. A room in Marcius' house.",
     "lines": [
         {
-            "text": "Enter VOLUMNIA and VIRGILIAthey set them down on two low stools, and sew"
+            "text": "Enter VOLUMNIA and VIRGILIA they set them down on two low stools, and sew"
         },
         {
             "speaker": "volumnia",
-            "text": "I pray you, daughter, sing or express yourself in a more comfortable sort: if my son were my husband, I should freelier rejoice in that absence wherein he won honour than in the embracements of his bed where he would show most love. When yet he was but tenderbodied and the only son of my womb, when youth with comeliness plucked all gaze his way, when for a day of kings entreaties a mother should not sell him an hour from her beholding, I, considering how honour would become such a person. that it was no better than picturelike to hang by the wall, if renown made it not stir, was pleased to let him seek danger where he was like to find fame. To a cruel war I sent him from whence he returned, his brows bound with oak. I tell thee, daughter, I sprang not more in joy at first hearing he was a manchild than now in first seeing he had proved himself a man."
+            "text": "I pray you, daughter, sing; or express yourself in a more comfortable sort: if my son were my husband, I should freelier rejoice in that absence wherein he won honour than in the embracements of his bed where he would show most love. When yet he was but tender-bodied and the only son of my womb, when youth with comeliness plucked all gaze his way, when for a day of kings' entreaties a mother should not sell him an hour from her beholding, I, considering how honour would become such a person. that it was no better than picture-like to hang by the wall, if renown made it not stir, was pleased to let him seek danger where he was like to find fame. To a cruel war I sent him; from whence he returned, his brows bound with oak. I tell thee, daughter, I sprang not more in joy at first hearing he was a man-child than now in first seeing he had proved himself a man."
         },
         {
             "speaker": "virgilia",
-            "text": "But had he died in the business, madam how then"
+            "text": "But had he died in the business, madam; how then?"
         },
         {
             "speaker": "volumnia",
-            "text": "Then his good report should have been my son I therein would have found issue. Hear me profess sincerely: had I a dozen sons, each in my love alike and none less dear than thine and my good Marcius, I had rather had eleven die nobly for their country than one voluptuously surfeit out of action."
+            "text": "Then his good report should have been my son; I therein would have found issue. Hear me profess sincerely: had I a dozen sons, each in my love alike and none less dear than thine and my good Marcius, I had rather had eleven die nobly for their country than one voluptuously surfeit out of action."
         },
         {
             "text": "Enter a Gentlewoman"
@@ -31,7 +31,7 @@
         },
         {
             "speaker": "volumnia",
-            "text": "Indeed, you shall not. Methinks I hear hither your husbands drum, See him pluck Aufidius down by the hair, As children from a bear, the Volsces shunning him: Methinks I see him stamp thus, and call thus: Come on, you cowards! you were got in fear, Though you were born in Rome: his bloody brow With his maild hand then wiping, forth he goes, Like to a harvestman thats taskd to mow Or all or lose his hire."
+            "text": "Indeed, you shall not. Methinks I hear hither your husband's drum, See him pluck Aufidius down by the hair, As children from a bear, the Volsces shunning him: Methinks I see him stamp thus, and call thus: 'Come on, you cowards! you were got in fear, Though you were born in Rome:' his bloody brow With his mail'd hand then wiping, forth he goes, Like to a harvest-man that's task'd to mow Or all or lose his hire."
         },
         {
             "speaker": "virgilia",
@@ -39,7 +39,7 @@
         },
         {
             "speaker": "volumnia",
-            "text": "Away, you fool! it more becomes a man Than gilt his trophy: the breasts of Hecuba, When she did suckle Hector, lookd not lovelier Than Hectors forehead when it spit forth blood At Grecian sword, contemning. Tell Valeria, We are fit to bid her welcome."
+            "text": "Away, you fool! it more becomes a man Than gilt his trophy: the breasts of Hecuba, When she did suckle Hector, look'd not lovelier Than Hector's forehead when it spit forth blood At Grecian sword, contemning. Tell Valeria, We are fit to bid her welcome."
         },
         {
             "text": "Exit Gentlewoman"
@@ -50,7 +50,7 @@
         },
         {
             "speaker": "volumnia",
-            "text": "Hell beat Aufidius head below his knee And tread upon his neck."
+            "text": "He'll beat Aufidius 'head below his knee And tread upon his neck."
         },
         {
             "text": "Enter VALERIA, with an Usher and Gentlewoman"
@@ -69,27 +69,27 @@
         },
         {
             "speaker": "valeria",
-            "text": "How do you both you are manifest housekeepers. What are you sewing here A fine spot, in good faith. How does your little son"
+            "text": "How do you both? you are manifest house-keepers. What are you sewing here? A fine spot, in good faith. How does your little son?"
         },
         {
             "speaker": "virgilia",
-            "text": "I thank your ladyship well, good madam."
+            "text": "I thank your ladyship; well, good madam."
         },
         {
             "speaker": "volumnia",
-            "text": "He had rather see the swords, and hear a drum, than look upon his schoolmaster."
+            "text": "He had rather see the swords, and hear a drum, than look upon his school-master."
         },
         {
             "speaker": "valeria",
-            "text": "O my word, the fathers son: Ill swear,tis a very pretty boy. O my troth, I looked upon him o Wednesday half an hour together: has such a confirmed countenance. I saw him run after a gilded butterfly: and when he caught it, he let it go again and after it again and over and over he comes, and again catched it again or whether his fall enraged him, or how twas, he did so set his teeth and tear it O, I warrant it, how he mammocked it!"
+            "text": "O' my word, the father's son: I'll swear,'tis a very pretty boy. O' my troth, I looked upon him o' Wednesday half an hour together: has such a confirmed countenance. I saw him run after a gilded butterfly: and when he caught it, he let it go again; and after it again; and over and over he comes, and again; catched it again; or whether his fall enraged him, or how 'twas, he did so set his teeth and tear it; O, I warrant it, how he mammocked it!"
         },
         {
             "speaker": "volumnia",
-            "text": "One on s fathers moods."
+            "text": "One on 's father's moods."
         },
         {
             "speaker": "valeria",
-            "text": "Indeed, la, tis a noble child."
+            "text": "Indeed, la, 'tis a noble child."
         },
         {
             "speaker": "virgilia",
@@ -97,11 +97,11 @@
         },
         {
             "speaker": "valeria",
-            "text": "Come, lay aside your stitchery I must have you play the idle husewife with me this afternoon."
+            "text": "Come, lay aside your stitchery; I must have you play the idle husewife with me this afternoon."
         },
         {
             "speaker": "virgilia",
-            "text": "No, good madam I will not out of doors."
+            "text": "No, good madam; I will not out of doors."
         },
         {
             "speaker": "valeria",
@@ -113,7 +113,7 @@
         },
         {
             "speaker": "virgilia",
-            "text": "Indeed, no, by your patience Ill not over the threshold till my lord return from the wars."
+            "text": "Indeed, no, by your patience; I'll not over the threshold till my lord return from the wars."
         },
         {
             "speaker": "valeria",
@@ -121,27 +121,27 @@
         },
         {
             "speaker": "virgilia",
-            "text": "I will wish her speedy strength, and visit her with my prayers but I cannot go thither."
+            "text": "I will wish her speedy strength, and visit her with my prayers; but I cannot go thither."
         },
         {
             "speaker": "volumnia",
-            "text": "Why, I pray you"
+            "text": "Why, I pray you?"
         },
         {
             "speaker": "virgilia",
-            "text": "Tis not to save labour, nor that I want love."
+            "text": "'Tis not to save labour, nor that I want love."
         },
         {
             "speaker": "valeria",
-            "text": "You would be another Penelope: yet, they say, all the yarn she spun in Ulysses absence did but fill Ithaca full of moths. Come I would your cambric were sensible as your finger, that you might leave pricking it for pity. Come, you shall go with us."
+            "text": "You would be another Penelope: yet, they say, all the yarn she spun in Ulysses' absence did but fill Ithaca full of moths. Come; I would your cambric were sensible as your finger, that you might leave pricking it for pity. Come, you shall go with us."
         },
         {
             "speaker": "virgilia",
-            "text": "No, good madam, pardon me indeed, I will not forth."
+            "text": "No, good madam, pardon me; indeed, I will not forth."
         },
         {
             "speaker": "valeria",
-            "text": "In truth, la, go with me and Ill tell you excellent news of your husband."
+            "text": "In truth, la, go with me; and I'll tell you excellent news of your husband."
         },
         {
             "speaker": "virgilia",
@@ -149,19 +149,19 @@
         },
         {
             "speaker": "valeria",
-            "text": "Verily, I do not jest with you there came news from him last night."
+            "text": "Verily, I do not jest with you; there came news from him last night."
         },
         {
             "speaker": "virgilia",
-            "text": "Indeed, madam"
+            "text": "Indeed, madam?"
         },
         {
             "speaker": "valeria",
-            "text": "In earnest, its true I heard a senator speak it. Thus it is: the Volsces have an army forth against whom Cominius the general is gone, with one part of our Roman power: your lord and Titus Lartius are set down before their city Corioli they nothing doubt prevailing and to make it brief wars. This is true, on mine honour and so, I pray, go with us."
+            "text": "In earnest, it's true; I heard a senator speak it. Thus it is: the Volsces have an army forth; against whom Cominius the general is gone, with one part of our Roman power: your lord and Titus Lartius are set down before their city Corioli; they nothing doubt prevailing and to make it brief wars. This is true, on mine honour; and so, I pray, go with us."
         },
         {
             "speaker": "virgilia",
-            "text": "Give me excuse, good madam I will obey you in every thing hereafter."
+            "text": "Give me excuse, good madam; I will obey you in every thing hereafter."
         },
         {
             "speaker": "volumnia",
@@ -169,11 +169,11 @@
         },
         {
             "speaker": "valeria",
-            "text": "In troth, I think she would. Fare you well, then. Come, good sweet lady. Prithee, Virgilia, turn thy solemness out o door. and go along with us."
+            "text": "In troth, I think she would. Fare you well, then. Come, good sweet lady. Prithee, Virgilia, turn thy solemness out o' door. and go along with us."
         },
         {
             "speaker": "virgilia",
-            "text": "No, at a word, madam indeed, I must not. I wish you much mirth."
+            "text": "No, at a word, madam; indeed, I must not. I wish you much mirth."
         },
         {
             "speaker": "valeria",

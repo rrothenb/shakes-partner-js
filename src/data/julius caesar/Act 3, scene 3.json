@@ -8,26 +8,26 @@
         },
         {
             "speaker": "cinna the poet",
-            "text": "I dreamt tonight that I did feast with Caesar, And things unlucky charge my fantasy: I have no will to wander forth of doors, Yet something leads me forth."
+            "text": "I dreamt to-night that I did feast with Caesar, And things unlucky charge my fantasy: I have no will to wander forth of doors, Yet something leads me forth."
         },
         {
             "text": "Enter Citizens"
         },
         {
             "speaker": "first citizen",
-            "text": "What is your name"
+            "text": "What is your name?"
         },
         {
             "speaker": "second citizen",
-            "text": "Whither are you going"
+            "text": "Whither are you going?"
         },
         {
             "speaker": "third citizen",
-            "text": "Where do you dwell"
+            "text": "Where do you dwell?"
         },
         {
             "speaker": "fourth citizen",
-            "text": "Are you a married man or a bachelor"
+            "text": "Are you a married man or a bachelor?"
         },
         {
             "speaker": "second citizen",
@@ -47,19 +47,19 @@
         },
         {
             "speaker": "cinna the poet",
-            "text": "What is my name Whither am I going Where do I dwell Am I a married man or a bachelor Then, to answer every man directly and briefly, wisely and truly: wisely I say, I am a bachelor."
+            "text": "What is my name? Whither am I going? Where do I dwell? Am I a married man or a bachelor? Then, to answer every man directly and briefly, wisely and truly: wisely I say, I am a bachelor."
         },
         {
             "speaker": "second citizen",
-            "text": "Thats as much as to say, they are fools that marry: youll bear me a bang for that, I fear. Proceed directly."
+            "text": "That's as much as to say, they are fools that marry: you'll bear me a bang for that, I fear. Proceed; directly."
         },
         {
             "speaker": "cinna the poet",
-            "text": "Directly, I am going to Caesars funeral."
+            "text": "Directly, I am going to Caesar's funeral."
         },
         {
             "speaker": "first citizen",
-            "text": "As a friend or an enemy"
+            "text": "As a friend or an enemy?"
         },
         {
             "speaker": "cinna the poet",
@@ -71,7 +71,7 @@
         },
         {
             "speaker": "fourth citizen",
-            "text": "For your dwelling,briefly."
+            "text": "For your dwelling,--briefly."
         },
         {
             "speaker": "cinna the poet",
@@ -87,7 +87,7 @@
         },
         {
             "speaker": "first citizen",
-            "text": "Tear him to pieces hes a conspirator."
+            "text": "Tear him to pieces; he's a conspirator."
         },
         {
             "speaker": "cinna the poet",
@@ -103,11 +103,11 @@
         },
         {
             "speaker": "fourth citizen",
-            "text": "It is no matter, his names Cinna pluck but his name out of his heart, and turn him going."
+            "text": "It is no matter, his name's Cinna; pluck but his name out of his heart, and turn him going."
         },
         {
             "speaker": "third citizen",
-            "text": "Tear him, tear him! Come, brands ho! firebrands: to Brutus, to Cassius burn all: some to Decius house, and some to Cascas some to Ligarius: away, go!"
+            "text": "Tear him, tear him! Come, brands ho! fire-brands: to Brutus', to Cassius'; burn all: some to Decius' house, and some to Casca's; some to Ligarius': away, go!"
         },
         {
             "text": "Exeunt"

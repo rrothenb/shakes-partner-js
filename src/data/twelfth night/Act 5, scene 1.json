@@ -1,7 +1,7 @@
 {
     "sceneName": "Act 5, scene 1",
     "playName": "twelfth night",
-    "location": "Before OLIVIAs house.",
+    "location": "Before OLIVIA's house.",
     "lines": [
         {
             "text": "Enter Clown and FABIAN"
@@ -31,15 +31,15 @@
         },
         {
             "speaker": "duke orsino",
-            "text": "Belong you to the Lady Olivia, friends"
+            "text": "Belong you to the Lady Olivia, friends?"
         },
         {
             "speaker": "clown",
-            "text": "Ay, sir we are some of her trappings."
+            "text": "Ay, sir; we are some of her trappings."
         },
         {
             "speaker": "duke orsino",
-            "text": "I know thee well how dost thou, my good fellow"
+            "text": "I know thee well; how dost thou, my good fellow?"
         },
         {
             "speaker": "clown",
@@ -47,7 +47,7 @@
         },
         {
             "speaker": "duke orsino",
-            "text": "Just the contrary the better for thy friends."
+            "text": "Just the contrary; the better for thy friends."
         },
         {
             "speaker": "clown",
@@ -55,11 +55,11 @@
         },
         {
             "speaker": "duke orsino",
-            "text": "How can that be"
+            "text": "How can that be?"
         },
         {
             "speaker": "clown",
-            "text": "Marry, sir, they praise me and make an ass of me now my foes tell me plainly I am an ass: so that by my foes, sir I profit in the knowledge of myself, and by my friends, I am abused: so that, conclusions to be as kisses, if your four negatives make your two affirmatives why then, the worse for my friends and the better for my foes."
+            "text": "Marry, sir, they praise me and make an ass of me; now my foes tell me plainly I am an ass: so that by my foes, sir I profit in the knowledge of myself, and by my friends, I am abused: so that, conclusions to be as kisses, if your four negatives make your two affirmatives why then, the worse for my friends and the better for my foes."
         },
         {
             "speaker": "duke orsino",
@@ -67,15 +67,15 @@
         },
         {
             "speaker": "clown",
-            "text": "By my troth, sir, no though it please you to be one of my friends."
+            "text": "By my troth, sir, no; though it please you to be one of my friends."
         },
         {
             "speaker": "duke orsino",
-            "text": "Thou shalt not be the worse for me: theres gold."
+            "text": "Thou shalt not be the worse for me: there's gold."
         },
         {
             "speaker": "clown",
-            "text": "But that it would be doubledealing, sir, I would you could make it another."
+            "text": "But that it would be double-dealing, sir, I would you could make it another."
         },
         {
             "speaker": "duke orsino",
@@ -87,11 +87,11 @@
         },
         {
             "speaker": "duke orsino",
-            "text": "Well, I will be so much a sinner, to be a doubledealer: theres another."
+            "text": "Well, I will be so much a sinner, to be a double-dealer: there's another."
         },
         {
             "speaker": "clown",
-            "text": "Primo, secundo, tertio, is a good play and the old saying is, the third pays for all: the triplex, sir, is a good tripping measure or the bells of Saint Bennet, sir, may put you in mind one, two, three."
+            "text": "Primo, secundo, tertio, is a good play; and the old saying is, the third pays for all: the triplex, sir, is a good tripping measure; or the bells of Saint Bennet, sir, may put you in mind; one, two, three."
         },
         {
             "speaker": "duke orsino",
@@ -99,7 +99,7 @@
         },
         {
             "speaker": "clown",
-            "text": "Marry, sir, lullaby to your bounty till I come again. I go, sir but I would not have you to think that my desire of having is the sin of covetousness: but, as you say, sir, let your bounty take a nap, I will awake it anon."
+            "text": "Marry, sir, lullaby to your bounty till I come again. I go, sir; but I would not have you to think that my desire of having is the sin of covetousness: but, as you say, sir, let your bounty take a nap, I will awake it anon."
         },
         {
             "text": "Exit"
@@ -113,46 +113,46 @@
         },
         {
             "speaker": "duke orsino",
-            "text": "That face of his I do remember well Yet, when I saw it last, it was besmeard As black as Vulcan in the smoke of war: A bawbling vessel was he captain of, For shallow draught and bulk unprizable With which such scathful grapple did he make With the most noble bottom of our fleet, That very envy and the tongue of loss Cried fame and honour on him. Whats the matter"
+            "text": "That face of his I do remember well; Yet, when I saw it last, it was besmear'd As black as Vulcan in the smoke of war: A bawbling vessel was he captain of, For shallow draught and bulk unprizable; With which such scathful grapple did he make With the most noble bottom of our fleet, That very envy and the tongue of loss Cried fame and honour on him. What's the matter?"
         },
         {
             "speaker": "first officer",
-            "text": "Orsino, this is that Antonio That took the Phoenix and her fraught from Candy And this is he that did the Tiger board, When your young nephew Titus lost his leg: Here in the streets, desperate of shame and state, In private brabble did we apprehend him."
+            "text": "Orsino, this is that Antonio That took the Phoenix and her fraught from Candy; And this is he that did the Tiger board, When your young nephew Titus lost his leg: Here in the streets, desperate of shame and state, In private brabble did we apprehend him."
         },
         {
             "speaker": "viola",
-            "text": "He did me kindness, sir, drew on my side But in conclusion put strange speech upon me: I know not what twas but distraction."
+            "text": "He did me kindness, sir, drew on my side; But in conclusion put strange speech upon me: I know not what 'twas but distraction."
         },
         {
             "speaker": "duke orsino",
-            "text": "Notable pirate! thou saltwater thief! What foolish boldness brought thee to their mercies, Whom thou, in terms so bloody and so dear, Hast made thine enemies"
+            "text": "Notable pirate! thou salt-water thief! What foolish boldness brought thee to their mercies, Whom thou, in terms so bloody and so dear, Hast made thine enemies?"
         },
         {
             "speaker": "antonio",
-            "text": "Orsino, noble sir, Be pleased that I shake off these names you give me: Antonio never yet was thief or pirate, Though I confess, on base and ground enough, Orsinos enemy. A witchcraft drew me hither: That most ingrateful boy there by your side, From the rude seas enraged and foamy mouth Did I redeem a wreck past hope he was: His life I gave him and did thereto add My love, without retention or restraint, All his in dedication for his sake Did I expose myself, pure for his love, Into the danger of this adverse town Drew to defend him when he was beset: Where being apprehended, his false cunning, Not meaning to partake with me in danger, Taught him to face me out of his acquaintance, And grew a twenty years removed thing While one would wink denied me mine own purse, Which I had recommended to his use Not half an hour before."
+            "text": "Orsino, noble sir, Be pleased that I shake off these names you give me: Antonio never yet was thief or pirate, Though I confess, on base and ground enough, Orsino's enemy. A witchcraft drew me hither: That most ingrateful boy there by your side, From the rude sea's enraged and foamy mouth Did I redeem; a wreck past hope he was: His life I gave him and did thereto add My love, without retention or restraint, All his in dedication; for his sake Did I expose myself, pure for his love, Into the danger of this adverse town; Drew to defend him when he was beset: Where being apprehended, his false cunning, Not meaning to partake with me in danger, Taught him to face me out of his acquaintance, And grew a twenty years removed thing While one would wink; denied me mine own purse, Which I had recommended to his use Not half an hour before."
         },
         {
             "speaker": "viola",
-            "text": "How can this be"
+            "text": "How can this be?"
         },
         {
             "speaker": "duke orsino",
-            "text": "When came he to this town"
+            "text": "When came he to this town?"
         },
         {
             "speaker": "antonio",
-            "text": "Today, my lord and for three months before, No interim, not a minutes vacancy, Both day and night did we keep company."
+            "text": "To-day, my lord; and for three months before, No interim, not a minute's vacancy, Both day and night did we keep company."
         },
         {
             "text": "Enter OLIVIA and Attendants"
         },
         {
             "speaker": "duke orsino",
-            "text": "Here comes the countess: now heaven walks on earth. But for thee, fellow fellow, thy words are madness: Three months this youth hath tended upon me But more of that anon. Take him aside."
+            "text": "Here comes the countess: now heaven walks on earth. But for thee, fellow; fellow, thy words are madness: Three months this youth hath tended upon me; But more of that anon. Take him aside."
         },
         {
             "speaker": "olivia",
-            "text": "What would my lord, but that he may not have, Wherein Olivia may seem serviceable Cesario, you do not keep promise with me."
+            "text": "What would my lord, but that he may not have, Wherein Olivia may seem serviceable? Cesario, you do not keep promise with me."
         },
         {
             "speaker": "viola",
@@ -160,15 +160,15 @@
         },
         {
             "speaker": "duke orsino",
-            "text": "Gracious Olivia,"
+            "text": "Gracious Olivia,--"
         },
         {
             "speaker": "olivia",
-            "text": "What do you say, Cesario Good my lord,"
+            "text": "What do you say, Cesario? Good my lord,--"
         },
         {
             "speaker": "viola",
-            "text": "My lord would speak my duty hushes me."
+            "text": "My lord would speak; my duty hushes me."
         },
         {
             "speaker": "olivia",
@@ -176,7 +176,7 @@
         },
         {
             "speaker": "duke orsino",
-            "text": "Still so cruel"
+            "text": "Still so cruel?"
         },
         {
             "speaker": "olivia",
@@ -184,7 +184,7 @@
         },
         {
             "speaker": "duke orsino",
-            "text": "What, to perverseness you uncivil lady, To whose ingrate and unauspicious altars My soul the faithfullst offerings hath breathed out That eer devotion tenderd! What shall I do"
+            "text": "What, to perverseness? you uncivil lady, To whose ingrate and unauspicious altars My soul the faithfull'st offerings hath breathed out That e'er devotion tender'd! What shall I do?"
         },
         {
             "speaker": "olivia",
@@ -192,7 +192,7 @@
         },
         {
             "speaker": "duke orsino",
-            "text": "Why should I not, had I the heart to do it, Like to the Egyptian thief at point of death, Kill what I lovea savage jealousy That sometimes savours nobly. But hear me this: Since you to nonregardance cast my faith, And that I partly know the instrument That screws me from my true place in your favour, Live you the marblebreasted tyrant still But this your minion, whom I know you love, And whom, by heaven I swear, I tender dearly, Him will I tear out of that cruel eye, Where he sits crowned in his masters spite. Come, boy, with me my thoughts are ripe in mischief: Ill sacrifice the lamb that I do love, To spite a ravens heart within a dove."
+            "text": "Why should I not, had I the heart to do it, Like to the Egyptian thief at point of death, Kill what I love?--a savage jealousy That sometimes savours nobly. But hear me this: Since you to non-regardance cast my faith, And that I partly know the instrument That screws me from my true place in your favour, Live you the marble-breasted tyrant still; But this your minion, whom I know you love, And whom, by heaven I swear, I tender dearly, Him will I tear out of that cruel eye, Where he sits crowned in his master's spite. Come, boy, with me; my thoughts are ripe in mischief: I'll sacrifice the lamb that I do love, To spite a raven's heart within a dove."
         },
         {
             "speaker": "viola",
@@ -200,11 +200,11 @@
         },
         {
             "speaker": "olivia",
-            "text": "Where goes Cesario"
+            "text": "Where goes Cesario?"
         },
         {
             "speaker": "viola",
-            "text": "After him I love More than I love these eyes, more than my life, More, by all mores, than eer I shall love wife. If I do feign, you witnesses above Punish my life for tainting of my love!"
+            "text": "After him I love More than I love these eyes, more than my life, More, by all mores, than e'er I shall love wife. If I do feign, you witnesses above Punish my life for tainting of my love!"
         },
         {
             "speaker": "olivia",
@@ -212,11 +212,11 @@
         },
         {
             "speaker": "viola",
-            "text": "Who does beguile you who does do you wrong"
+            "text": "Who does beguile you? who does do you wrong?"
         },
         {
             "speaker": "olivia",
-            "text": "Hast thou forgot thyself is it so long Call forth the holy father."
+            "text": "Hast thou forgot thyself? is it so long? Call forth the holy father."
         },
         {
             "speaker": "duke orsino",
@@ -224,7 +224,7 @@
         },
         {
             "speaker": "olivia",
-            "text": "Whither, my lord Cesario, husband, stay."
+            "text": "Whither, my lord? Cesario, husband, stay."
         },
         {
             "speaker": "duke orsino",
@@ -232,7 +232,7 @@
         },
         {
             "speaker": "olivia",
-            "text": "Ay, husband: can he that deny"
+            "text": "Ay, husband: can he that deny?"
         },
         {
             "speaker": "duke orsino",
@@ -244,22 +244,22 @@
         },
         {
             "speaker": "olivia",
-            "text": "Alas, it is the baseness of thy fear That makes thee strangle thy propriety: Fear not, Cesario take thy fortunes up Be that thou knowst thou art, and then thou art As great as that thou fearst. O, welcome, father! Father, I charge thee, by thy reverence, Here to unfold, though lately we intended To keep in darkness what occasion now Reveals before tis ripe, what thou dost know Hath newly passd between this youth and me."
+            "text": "Alas, it is the baseness of thy fear That makes thee strangle thy propriety: Fear not, Cesario; take thy fortunes up; Be that thou know'st thou art, and then thou art As great as that thou fear'st. O, welcome, father! Father, I charge thee, by thy reverence, Here to unfold, though lately we intended To keep in darkness what occasion now Reveals before 'tis ripe, what thou dost know Hath newly pass'd between this youth and me."
         },
         {
             "text": "Enter Priest"
         },
         {
             "speaker": "priest",
-            "text": "A contract of eternal bond of love, Confirmd by mutual joinder of your hands, Attested by the holy close of lips, Strengthend by interchangement of your rings And all the ceremony of this compact Seald in my function, by my testimony: Since when, my watch hath told me, toward my grave I have travelld but two hours."
+            "text": "A contract of eternal bond of love, Confirm'd by mutual joinder of your hands, Attested by the holy close of lips, Strengthen'd by interchangement of your rings; And all the ceremony of this compact Seal'd in my function, by my testimony: Since when, my watch hath told me, toward my grave I have travell'd but two hours."
         },
         {
             "speaker": "duke orsino",
-            "text": "O thou dissembling cub! what wilt thou be When time hath sowd a grizzle on thy case Or will not else thy craft so quickly grow, That thine own trip shall be thine overthrow Farewell, and take her but direct thy feet Where thou and I henceforth may never meet."
+            "text": "O thou dissembling cub! what wilt thou be When time hath sow'd a grizzle on thy case? Or will not else thy craft so quickly grow, That thine own trip shall be thine overthrow? Farewell, and take her; but direct thy feet Where thou and I henceforth may never meet."
         },
         {
             "speaker": "viola",
-            "text": "My lord, I do protest"
+            "text": "My lord, I do protest--"
         },
         {
             "speaker": "olivia",
@@ -274,7 +274,7 @@
         },
         {
             "speaker": "olivia",
-            "text": "Whats the matter"
+            "text": "What's the matter?"
         },
         {
             "speaker": "sir andrew",
@@ -282,62 +282,62 @@
         },
         {
             "speaker": "olivia",
-            "text": "Who has done this, Sir Andrew"
+            "text": "Who has done this, Sir Andrew?"
         },
         {
             "speaker": "sir andrew",
-            "text": "The counts gentleman, one Cesario: we took him for a coward, but hes the very devil incardinate."
+            "text": "The count's gentleman, one Cesario: we took him for a coward, but he's the very devil incardinate."
         },
         {
             "speaker": "duke orsino",
-            "text": "My gentleman, Cesario"
+            "text": "My gentleman, Cesario?"
         },
         {
             "speaker": "sir andrew",
-            "text": "Ods lifelings, here he is! You broke my head for nothing and that that I did, I was set on to dot by Sir Toby."
+            "text": "'Od's lifelings, here he is! You broke my head for nothing; and that that I did, I was set on to do't by Sir Toby."
         },
         {
             "speaker": "viola",
-            "text": "Why do you speak to me I never hurt you: You drew your sword upon me without cause But I bespoke you fair, and hurt you not."
+            "text": "Why do you speak to me? I never hurt you: You drew your sword upon me without cause; But I bespoke you fair, and hurt you not."
         },
         {
             "speaker": "sir andrew",
-            "text": "If a bloody coxcomb be a hurt, you have hurt me: I think you set nothing by a bloody coxcomb. Here comes Sir Toby halting you shall hear more: but if he had not been in drink, he would have tickled you othergates than he did."
+            "text": "If a bloody coxcomb be a hurt, you have hurt me: I think you set nothing by a bloody coxcomb. Here comes Sir Toby halting; you shall hear more: but if he had not been in drink, he would have tickled you othergates than he did."
         },
         {
             "text": "Enter SIR TOBY BELCH and Clown"
         },
         {
             "speaker": "duke orsino",
-            "text": "How now, gentleman! how ist with you"
+            "text": "How now, gentleman! how is't with you?"
         },
         {
             "speaker": "sir toby belch",
-            "text": "Thats all one: has hurt me, and theres the end ont. Sot, didst see Dick surgeon, sot"
+            "text": "That's all one: has hurt me, and there's the end on't. Sot, didst see Dick surgeon, sot?"
         },
         {
             "speaker": "clown",
-            "text": "O, hes drunk, Sir Toby, an hour agone his eyes were set at eight i the morning."
+            "text": "O, he's drunk, Sir Toby, an hour agone; his eyes were set at eight i' the morning."
         },
         {
             "speaker": "sir toby belch",
-            "text": "Then hes a rogue, and a passy measures panyn: I hate a drunken rogue."
+            "text": "Then he's a rogue, and a passy measures panyn: I hate a drunken rogue."
         },
         {
             "speaker": "olivia",
-            "text": "Away with him! Who hath made this havoc with them"
+            "text": "Away with him! Who hath made this havoc with them?"
         },
         {
             "speaker": "sir andrew",
-            "text": "Ill help you, Sir Toby, because well be dressed together."
+            "text": "I'll help you, Sir Toby, because well be dressed together."
         },
         {
             "speaker": "sir toby belch",
-            "text": "Will you help an asshead and a coxcomb and a knave, a thinfaced knave, a gull!"
+            "text": "Will you help? an ass-head and a coxcomb and a knave, a thin-faced knave, a gull!"
         },
         {
             "speaker": "olivia",
-            "text": "Get him to bed, and let his hurt be lookd to."
+            "text": "Get him to bed, and let his hurt be look'd to."
         },
         {
             "text": "Exeunt Clown, FABIAN, SIR TOBY BELCH, and SIR ANDREW"
@@ -355,19 +355,19 @@
         },
         {
             "speaker": "sebastian",
-            "text": "Antonio, O my dear Antonio! How have the hours rackd and tortured me, Since I have lost thee!"
+            "text": "Antonio, O my dear Antonio! How have the hours rack'd and tortured me, Since I have lost thee!"
         },
         {
             "speaker": "antonio",
-            "text": "Sebastian are you"
+            "text": "Sebastian are you?"
         },
         {
             "speaker": "sebastian",
-            "text": "Fearst thou that, Antonio"
+            "text": "Fear'st thou that, Antonio?"
         },
         {
             "speaker": "antonio",
-            "text": "How have you made division of yourself An apple, cleft in two, is not more twin Than these two creatures. Which is Sebastian"
+            "text": "How have you made division of yourself? An apple, cleft in two, is not more twin Than these two creatures. Which is Sebastian?"
         },
         {
             "speaker": "olivia",
@@ -375,15 +375,15 @@
         },
         {
             "speaker": "sebastian",
-            "text": "Do I stand there I never had a brother Nor can there be that deity in my nature, Of here and every where. I had a sister, Whom the blind waves and surges have devourd. Of charity, what kin are you to me What countryman what name what parentage"
+            "text": "Do I stand there? I never had a brother; Nor can there be that deity in my nature, Of here and every where. I had a sister, Whom the blind waves and surges have devour'd. Of charity, what kin are you to me? What countryman? what name? what parentage?"
         },
         {
             "speaker": "viola",
-            "text": "Of Messaline: Sebastian was my father Such a Sebastian was my brother too, So went he suited to his watery tomb: If spirits can assume both form and suit You come to fright us."
+            "text": "Of Messaline: Sebastian was my father; Such a Sebastian was my brother too, So went he suited to his watery tomb: If spirits can assume both form and suit You come to fright us."
         },
         {
             "speaker": "sebastian",
-            "text": "A spirit I am indeed But am in that dimension grossly clad Which from the womb I did participate. Were you a woman, as the rest goes even, I should my tears let fall upon your cheek, And say Thricewelcome, drowned Viola!"
+            "text": "A spirit I am indeed; But am in that dimension grossly clad Which from the womb I did participate. Were you a woman, as the rest goes even, I should my tears let fall upon your cheek, And say 'Thrice-welcome, drowned Viola!'"
         },
         {
             "speaker": "viola",
@@ -395,7 +395,7 @@
         },
         {
             "speaker": "viola",
-            "text": "And died that day when Viola from her birth Had numberd thirteen years."
+            "text": "And died that day when Viola from her birth Had number'd thirteen years."
         },
         {
             "speaker": "sebastian",
@@ -403,56 +403,56 @@
         },
         {
             "speaker": "viola",
-            "text": "If nothing lets to make us happy both But this my masculine usurpd attire, Do not embrace me till each circumstance Of place, time, fortune, do cohere and jump That I am Viola: which to confirm, Ill bring you to a captain in this town, Where lie my maiden weeds by whose gentle help I was preserved to serve this noble count. All the occurrence of my fortune since Hath been between this lady and this lord."
+            "text": "If nothing lets to make us happy both But this my masculine usurp'd attire, Do not embrace me till each circumstance Of place, time, fortune, do cohere and jump That I am Viola: which to confirm, I'll bring you to a captain in this town, Where lie my maiden weeds; by whose gentle help I was preserved to serve this noble count. All the occurrence of my fortune since Hath been between this lady and this lord."
         },
         {
             "speaker": "sebastian",
-            "text": "[To OLIVIA]  So comes it, lady, you have been mistook: But nature to her bias drew in that. You would have been contracted to a maid Nor are you therein, by my life, deceived, You are betrothd both to a maid and man."
+            "text": "[To OLIVIA]  So comes it, lady, you have been mistook: But nature to her bias drew in that. You would have been contracted to a maid; Nor are you therein, by my life, deceived, You are betroth'd both to a maid and man."
         },
         {
             "speaker": "duke orsino",
-            "text": "Be not amazed right noble is his blood. If this be so, as yet the glass seems true, I shall have share in this most happy wreck. Boy, thou hast said to me a thousand times Thou never shouldst love woman like to me."
+            "text": "Be not amazed; right noble is his blood. If this be so, as yet the glass seems true, I shall have share in this most happy wreck. Boy, thou hast said to me a thousand times Thou never shouldst love woman like to me."
         },
         {
             "text": "To VIOLA"
         },
         {
             "speaker": "viola",
-            "text": "And all those sayings will I overswear And those swearings keep as true in soul As doth that orbed continent the fire That severs day from night."
+            "text": "And all those sayings will I overswear; And those swearings keep as true in soul As doth that orbed continent the fire That severs day from night."
         },
         {
             "speaker": "duke orsino",
-            "text": "Give me thy hand And let me see thee in thy womans weeds."
+            "text": "Give me thy hand; And let me see thee in thy woman's weeds."
         },
         {
             "speaker": "viola",
-            "text": "The captain that did bring me first on shore Hath my maids garments: he upon some action Is now in durance, at Malvolios suit, A gentleman, and follower of my ladys."
+            "text": "The captain that did bring me first on shore Hath my maid's garments: he upon some action Is now in durance, at Malvolio's suit, A gentleman, and follower of my lady's."
         },
         {
             "speaker": "olivia",
-            "text": "He shall enlarge him: fetch Malvolio hither: And yet, alas, now I remember me, They say, poor gentleman, hes much distract. A most extracting frenzy of mine own From my remembrance clearly banishd his. How does he, sirrah"
+            "text": "He shall enlarge him: fetch Malvolio hither: And yet, alas, now I remember me, They say, poor gentleman, he's much distract. A most extracting frenzy of mine own From my remembrance clearly banish'd his. How does he, sirrah?"
         },
         {
-            "text": "Reenter Clown with a letter, and FABIAN"
+            "text": "Re-enter Clown with a letter, and FABIAN"
         },
         {
             "speaker": "clown",
-            "text": "Truly, madam, he holds Belzebub at the stavess end as well as a man in his case may do: has here writ a letter to you I should have givent you today morning, but as a madmans epistles are no gospels, so it skills not much when they are delivered."
+            "text": "Truly, madam, he holds Belzebub at the staves's end as well as a man in his case may do: has here writ a letter to you; I should have given't you to-day morning, but as a madman's epistles are no gospels, so it skills not much when they are delivered."
         },
         {
             "speaker": "olivia",
-            "text": "Opent, and read it."
+            "text": "Open't, and read it."
         },
         {
             "speaker": "clown",
-            "text": "Look then to be well edified when the fool delivers the madman. By the Lord, madam,"
+            "text": "Look then to be well edified when the fool delivers the madman. 'By the Lord, madam,'--"
         },
         {
             "text": "Reads"
         },
         {
             "speaker": "olivia",
-            "text": "How now! art thou mad"
+            "text": "How now! art thou mad?"
         },
         {
             "speaker": "clown",
@@ -460,11 +460,11 @@
         },
         {
             "speaker": "olivia",
-            "text": "Prithee, read i thy right wits."
+            "text": "Prithee, read i' thy right wits."
         },
         {
             "speaker": "clown",
-            "text": "So I do, madonna but to read his right wits is to read thus: therefore perpend, my princess, and give ear."
+            "text": "So I do, madonna; but to read his right wits is to read thus: therefore perpend, my princess, and give ear."
         },
         {
             "speaker": "olivia",
@@ -475,11 +475,11 @@
         },
         {
             "speaker": "fabian",
-            "text": "[Reads]  By the Lord, madam, you wrong me, and the world shall know it: though you have put me into darkness and given your drunken cousin rule over me, yet have I the benefit of my senses as well as your ladyship. I have your own letter that induced me to the semblance I put on with the which I doubt not but to do myself much right, or you much shame. Think of me as you please. I leave my duty a little unthought of and speak out of my injury. THE MADLYUSED MALVOLIO."
+            "text": "[Reads]  'By the Lord, madam, you wrong me, and the world shall know it: though you have put me into darkness and given your drunken cousin rule over me, yet have I the benefit of my senses as well as your ladyship. I have your own letter that induced me to the semblance I put on; with the which I doubt not but to do myself much right, or you much shame. Think of me as you please. I leave my duty a little unthought of and speak out of my injury. THE MADLY-USED MALVOLIO.'"
         },
         {
             "speaker": "olivia",
-            "text": "Did he write this"
+            "text": "Did he write this?"
         },
         {
             "speaker": "clown",
@@ -491,14 +491,14 @@
         },
         {
             "speaker": "olivia",
-            "text": "See him deliverd, Fabian bring him hither. My lord so please you, these things further thought on, To think me as well a sister as a wife, One day shall crown the alliance ont, so please you, Here at my house and at my proper cost."
+            "text": "See him deliver'd, Fabian; bring him hither. My lord so please you, these things further thought on, To think me as well a sister as a wife, One day shall crown the alliance on't, so please you, Here at my house and at my proper cost."
         },
         {
             "text": "Exit FABIAN"
         },
         {
             "speaker": "duke orsino",
-            "text": "Madam, I am most apt to embrace your offer. Your master quits you and for your service done him, So much against the mettle of your sex, So far beneath your soft and tender breeding, And since you calld me master for so long, Here is my hand: you shall from this time be Your masters mistress."
+            "text": "Madam, I am most apt to embrace your offer. Your master quits you; and for your service done him, So much against the mettle of your sex, So far beneath your soft and tender breeding, And since you call'd me master for so long, Here is my hand: you shall from this time be Your master's mistress."
         },
         {
             "text": "To VIOLA"
@@ -508,11 +508,11 @@
             "text": "A sister! you are she."
         },
         {
-            "text": "Reenter FABIAN, with MALVOLIO"
+            "text": "Re-enter FABIAN, with MALVOLIO"
         },
         {
             "speaker": "duke orsino",
-            "text": "Is this the madman"
+            "text": "Is this the madman?"
         },
         {
             "speaker": "olivia",
@@ -524,19 +524,19 @@
         },
         {
             "speaker": "olivia",
-            "text": "Have I, Malvolio no."
+            "text": "Have I, Malvolio? no."
         },
         {
             "speaker": "malvolio",
-            "text": "Lady, you have. Pray you, peruse that letter. You must not now deny it is your hand: Write from it, if you can, in hand or phrase Or say tis not your seal, nor your invention: You can say none of this: well, grant it then And tell me, in the modesty of honour, Why you have given me such clear lights of favour, Bade me come smiling and crossgarterd to you, To put on yellow stockings and to frown Upon Sir Toby and the lighter people And, acting this in an obedient hope, Why have you sufferd me to be imprisond, Kept in a dark house, visited by the priest, And made the most notorious geck and gull That eer invention playd on tell me why."
+            "text": "Lady, you have. Pray you, peruse that letter. You must not now deny it is your hand: Write from it, if you can, in hand or phrase; Or say 'tis not your seal, nor your invention: You can say none of this: well, grant it then And tell me, in the modesty of honour, Why you have given me such clear lights of favour, Bade me come smiling and cross-garter'd to you, To put on yellow stockings and to frown Upon Sir Toby and the lighter people; And, acting this in an obedient hope, Why have you suffer'd me to be imprison'd, Kept in a dark house, visited by the priest, And made the most notorious geck and gull That e'er invention play'd on? tell me why."
         },
         {
             "speaker": "olivia",
-            "text": "Alas, Malvolio, this is not my writing, Though, I confess, much like the character But out of question tis Marias hand. And now I do bethink me, it was she First told me thou wast mad then camest in smiling, And in such forms which here were presupposed Upon thee in the letter. Prithee, be content: This practise hath most shrewdly passd upon thee But when we know the grounds and authors of it, Thou shalt be both the plaintiff and the judge Of thine own cause."
+            "text": "Alas, Malvolio, this is not my writing, Though, I confess, much like the character But out of question 'tis Maria's hand. And now I do bethink me, it was she First told me thou wast mad; then camest in smiling, And in such forms which here were presupposed Upon thee in the letter. Prithee, be content: This practise hath most shrewdly pass'd upon thee; But when we know the grounds and authors of it, Thou shalt be both the plaintiff and the judge Of thine own cause."
         },
         {
             "speaker": "fabian",
-            "text": "Good madam, hear me speak, And let no quarrel nor no brawl to come Taint the condition of this present hour, Which I have wonderd at. In hope it shall not, Most freely I confess, myself and Toby Set this device against Malvolio here, Upon some stubborn and uncourteous parts We had conceived against him: Maria writ The letter at Sir Tobys great importance In recompense whereof he hath married her. How with a sportful malice it was followd, May rather pluck on laughter than revenge If that the injuries be justly weighd That have on both sides passd."
+            "text": "Good madam, hear me speak, And let no quarrel nor no brawl to come Taint the condition of this present hour, Which I have wonder'd at. In hope it shall not, Most freely I confess, myself and Toby Set this device against Malvolio here, Upon some stubborn and uncourteous parts We had conceived against him: Maria writ The letter at Sir Toby's great importance; In recompense whereof he hath married her. How with a sportful malice it was follow'd, May rather pluck on laughter than revenge; If that the injuries be justly weigh'd That have on both sides pass'd."
         },
         {
             "speaker": "olivia",
@@ -544,11 +544,11 @@
         },
         {
             "speaker": "clown",
-            "text": "Why, some are born great, some achieve greatness, and some have greatness thrown upon them. I was one, sir, in this interlude one Sir Topas, sir but thats all one. By the Lord, fool, I am not mad. But do you remember Madam, why laugh you at such a barren rascal an you smile not, hes gagged: and thus the whirligig of time brings in his revenges."
+            "text": "Why, 'some are born great, some achieve greatness, and some have greatness thrown upon them.' I was one, sir, in this interlude; one Sir Topas, sir; but that's all one. 'By the Lord, fool, I am not mad.' But do you remember? 'Madam, why laugh you at such a barren rascal? an you smile not, he's gagged:' and thus the whirligig of time brings in his revenges."
         },
         {
             "speaker": "malvolio",
-            "text": "Ill be revenged on the whole pack of you."
+            "text": "I'll be revenged on the whole pack of you."
         },
         {
             "text": "Exit"
@@ -559,14 +559,14 @@
         },
         {
             "speaker": "duke orsino",
-            "text": "Pursue him and entreat him to a peace: He hath not told us of the captain yet: When that is known and golden time convents, A solemn combination shall be made Of our dear souls. Meantime, sweet sister, We will not part from hence. Cesario, come For so you shall be, while you are a man But when in other habits you are seen, Orsinos mistress and his fancys queen."
+            "text": "Pursue him and entreat him to a peace: He hath not told us of the captain yet: When that is known and golden time convents, A solemn combination shall be made Of our dear souls. Meantime, sweet sister, We will not part from hence. Cesario, come; For so you shall be, while you are a man; But when in other habits you are seen, Orsino's mistress and his fancy's queen."
         },
         {
             "text": "Exeunt all, except Clown"
         },
         {
             "speaker": "clown",
-            "text": "[Sings] When that I was and a little tiny boy, With hey, ho, the wind and the rain, A foolish thing was but a toy, For the rain it raineth every day. But when I came to mans estate, With hey, ho,  and c. Gainst knaves and thieves men shut their gate, For the rain,  and c. But when I came, alas! to wive, With hey, ho,  and c. By swaggering could I never thrive, For the rain,  and c. But when I came unto my beds, With hey, ho,  and c. With tosspots still had drunken heads, For the rain,  and c. A great while ago the world begun, With hey, ho,  and c. But thats all one, our play is done, And well strive to please you every day."
+            "text": "[Sings] When that I was and a little tiny boy, With hey, ho, the wind and the rain, A foolish thing was but a toy, For the rain it raineth every day. But when I came to man's estate, With hey, ho,  and c. 'Gainst knaves and thieves men shut their gate, For the rain,  and c. But when I came, alas! to wive, With hey, ho,  and c. By swaggering could I never thrive, For the rain,  and c. But when I came unto my beds, With hey, ho,  and c. With toss-pots still had drunken heads, For the rain,  and c. A great while ago the world begun, With hey, ho,  and c. But that's all one, our play is done, And we'll strive to please you every day."
         },
         {
             "text": "Exit"

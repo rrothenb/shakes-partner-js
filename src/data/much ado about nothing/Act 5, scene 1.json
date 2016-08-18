@@ -1,18 +1,18 @@
 {
     "sceneName": "Act 5, scene 1",
     "playName": "much ado about nothing",
-    "location": "Before LEONATOS house.",
+    "location": "Before LEONATO'S house.",
     "lines": [
         {
             "text": "Enter LEONATO and ANTONIO"
         },
         {
             "speaker": "antonio",
-            "text": "If you go on thus, you will kill yourself: And tis not wisdom thus to second grief Against yourself."
+            "text": "If you go on thus, you will kill yourself: And 'tis not wisdom thus to second grief Against yourself."
         },
         {
             "speaker": "leonato",
-            "text": "I pray thee, cease thy counsel, Which falls into mine ears as profitless As water in a sieve: give not me counsel Nor let no comforter delight mine ear But such a one whose wrongs do suit with mine. Bring me a father that so loved his child, Whose joy of her is overwhelmd like mine, And bid him speak of patience Measure his woe the length and breadth of mine And let it answer every strain for strain, As thus for thus and such a grief for such, In every lineament, branch, shape, and form: If such a one will smile and stroke his beard, Bid sorrow wag, cry hem! when he should groan, Patch grief with proverbs, make misfortune drunk With candlewasters bring him yet to me, And I of him will gather patience. But there is no such man: for, brother, men Can counsel and speak comfort to that grief Which they themselves not feel but, tasting it, Their counsel turns to passion, which before Would give preceptial medicine to rage, Fetter strong madness in a silken thread, Charm ache with air and agony with words: No, no tis all mens office to speak patience To those that wring under the load of sorrow, But no mans virtue nor sufficiency To be so moral when he shall endure The like himself. Therefore give me no counsel: My griefs cry louder than advertisement."
+            "text": "I pray thee, cease thy counsel, Which falls into mine ears as profitless As water in a sieve: give not me counsel; Nor let no comforter delight mine ear But such a one whose wrongs do suit with mine. Bring me a father that so loved his child, Whose joy of her is overwhelm'd like mine, And bid him speak of patience; Measure his woe the length and breadth of mine And let it answer every strain for strain, As thus for thus and such a grief for such, In every lineament, branch, shape, and form: If such a one will smile and stroke his beard, Bid sorrow wag, cry 'hem!' when he should groan, Patch grief with proverbs, make misfortune drunk With candle-wasters; bring him yet to me, And I of him will gather patience. But there is no such man: for, brother, men Can counsel and speak comfort to that grief Which they themselves not feel; but, tasting it, Their counsel turns to passion, which before Would give preceptial medicine to rage, Fetter strong madness in a silken thread, Charm ache with air and agony with words: No, no; 'tis all men's office to speak patience To those that wring under the load of sorrow, But no man's virtue nor sufficiency To be so moral when he shall endure The like himself. Therefore give me no counsel: My griefs cry louder than advertisement."
         },
         {
             "speaker": "antonio",
@@ -20,15 +20,15 @@
         },
         {
             "speaker": "leonato",
-            "text": "I pray thee, peace. I will be flesh and blood For there was never yet philosopher That could endure the toothache patiently, However they have writ the style of gods And made a push at chance and sufferance."
+            "text": "I pray thee, peace. I will be flesh and blood; For there was never yet philosopher That could endure the toothache patiently, However they have writ the style of gods And made a push at chance and sufferance."
         },
         {
             "speaker": "antonio",
-            "text": "Yet bend not all the harm upon yourself Make those that do offend you suffer too."
+            "text": "Yet bend not all the harm upon yourself; Make those that do offend you suffer too."
         },
         {
             "speaker": "leonato",
-            "text": "There thou speakst reason: nay, I will do so. My soul doth tell me Hero is belied And that shall Claudio know so shall the prince And all of them that thus dishonour her."
+            "text": "There thou speak'st reason: nay, I will do so. My soul doth tell me Hero is belied; And that shall Claudio know; so shall the prince And all of them that thus dishonour her."
         },
         {
             "speaker": "antonio",
@@ -47,7 +47,7 @@
         },
         {
             "speaker": "leonato",
-            "text": "Hear you. my lords,"
+            "text": "Hear you. my lords,--"
         },
         {
             "speaker": "don pedro",
@@ -55,7 +55,7 @@
         },
         {
             "speaker": "leonato",
-            "text": "Some haste, my lord! well, fare you well, my lord: Are you so hasty now well, all is one."
+            "text": "Some haste, my lord! well, fare you well, my lord: Are you so hasty now? well, all is one."
         },
         {
             "speaker": "don pedro",
@@ -67,11 +67,11 @@
         },
         {
             "speaker": "claudio",
-            "text": "Who wrongs him"
+            "text": "Who wrongs him?"
         },
         {
             "speaker": "leonato",
-            "text": "Marry, thou dost wrong me thou dissembler, thou: Nay, never lay thy hand upon thy sword I fear thee not."
+            "text": "Marry, thou dost wrong me; thou dissembler, thou:-- Nay, never lay thy hand upon thy sword; I fear thee not."
         },
         {
             "speaker": "claudio",
@@ -79,15 +79,15 @@
         },
         {
             "speaker": "leonato",
-            "text": "Tush, tush, man never fleer and jest at me: I speak not like a dotard nor a fool, As under privilege of age to brag What I have done being young, or what would do Were I not old. Know, Claudio, to thy head, Thou hast so wrongd mine innocent child and me That I am forced to lay my reverence by And, with grey hairs and bruise of many days, Do challenge thee to trial of a man. I say thou hast belied mine innocent child Thy slander hath gone through and through her heart, And she lies buried with her ancestors O, in a tomb where never scandal slept, Save this of hers, framed by thy villany!"
+            "text": "Tush, tush, man; never fleer and jest at me: I speak not like a dotard nor a fool, As under privilege of age to brag What I have done being young, or what would do Were I not old. Know, Claudio, to thy head, Thou hast so wrong'd mine innocent child and me That I am forced to lay my reverence by And, with grey hairs and bruise of many days, Do challenge thee to trial of a man. I say thou hast belied mine innocent child; Thy slander hath gone through and through her heart, And she lies buried with her ancestors; O, in a tomb where never scandal slept, Save this of hers, framed by thy villany!"
         },
         {
             "speaker": "claudio",
-            "text": "My villany"
+            "text": "My villany?"
         },
         {
             "speaker": "leonato",
-            "text": "Thine, Claudio thine, I say."
+            "text": "Thine, Claudio; thine, I say."
         },
         {
             "speaker": "don pedro",
@@ -95,7 +95,7 @@
         },
         {
             "speaker": "leonato",
-            "text": "My lord, my lord, Ill prove it on his body, if he dare, Despite his nice fence and his active practise, His May of youth and bloom of lustihood."
+            "text": "My lord, my lord, I'll prove it on his body, if he dare, Despite his nice fence and his active practise, His May of youth and bloom of lustihood."
         },
         {
             "speaker": "claudio",
@@ -103,43 +103,43 @@
         },
         {
             "speaker": "leonato",
-            "text": "Canst thou so daff me Thou hast killd my child: If thou killst me, boy, thou shalt kill a man."
+            "text": "Canst thou so daff me? Thou hast kill'd my child: If thou kill'st me, boy, thou shalt kill a man."
         },
         {
             "speaker": "antonio",
-            "text": "He shall kill two of us, and men indeed: But thats no matter let him kill one first Win me and wear me let him answer me. Come, follow me, boy come, sir boy, come, follow me: Sir boy, Ill whip you from your foining fence Nay, as I am a gentleman, I will."
+            "text": "He shall kill two of us, and men indeed: But that's no matter; let him kill one first; Win me and wear me; let him answer me. Come, follow me, boy; come, sir boy, come, follow me: Sir boy, I'll whip you from your foining fence; Nay, as I am a gentleman, I will."
         },
         {
             "speaker": "leonato",
-            "text": "Brother,"
+            "text": "Brother,--"
         },
         {
             "speaker": "antonio",
-            "text": "Content yourself. God knows I loved my niece And she is dead, slanderd to death by villains, That dare as well answer a man indeed As I dare take a serpent by the tongue: Boys, apes, braggarts, Jacks, milksops!"
+            "text": "Content yourself. God knows I loved my niece; And she is dead, slander'd to death by villains, That dare as well answer a man indeed As I dare take a serpent by the tongue: Boys, apes, braggarts, Jacks, milksops!"
         },
         {
             "speaker": "leonato",
-            "text": "Brother Antony,"
+            "text": "Brother Antony,--"
         },
         {
             "speaker": "antonio",
-            "text": "Hold you content. What, man! I know them, yea, And what they weigh, even to the utmost scruple, Scrambling, outfacing, fashionmonging boys, That lie and cog and flout, deprave and slander, Go anticly, show outward hideousness, And speak off half a dozen dangerous words, How they might hurt their enemies, if they durst And this is all."
+            "text": "Hold you content. What, man! I know them, yea, And what they weigh, even to the utmost scruple,-- Scrambling, out-facing, fashion-monging boys, That lie and cog and flout, deprave and slander, Go anticly, show outward hideousness, And speak off half a dozen dangerous words, How they might hurt their enemies, if they durst; And this is all."
         },
         {
             "speaker": "leonato",
-            "text": "But, brother Antony,"
+            "text": "But, brother Antony,--"
         },
         {
             "speaker": "antonio",
-            "text": "Come, tis no matter: Do not you meddle let me deal in this."
+            "text": "Come, 'tis no matter: Do not you meddle; let me deal in this."
         },
         {
             "speaker": "don pedro",
-            "text": "Gentlemen both, we will not wake your patience. My heart is sorry for your daughters death: But, on my honour, she was charged with nothing But what was true and very full of proof."
+            "text": "Gentlemen both, we will not wake your patience. My heart is sorry for your daughter's death: But, on my honour, she was charged with nothing But what was true and very full of proof."
         },
         {
             "speaker": "leonato",
-            "text": "My lord, my lord,"
+            "text": "My lord, my lord,--"
         },
         {
             "speaker": "don pedro",
@@ -147,7 +147,7 @@
         },
         {
             "speaker": "leonato",
-            "text": "No Come, brother away! I will be heard."
+            "text": "No? Come, brother; away! I will be heard."
         },
         {
             "speaker": "antonio",
@@ -158,14 +158,14 @@
         },
         {
             "speaker": "don pedro",
-            "text": "See, see here comes the man we went to seek."
+            "text": "See, see; here comes the man we went to seek."
         },
         {
             "text": "Enter BENEDICK"
         },
         {
             "speaker": "claudio",
-            "text": "Now, signior, what news"
+            "text": "Now, signior, what news?"
         },
         {
             "speaker": "benedick",
@@ -181,7 +181,7 @@
         },
         {
             "speaker": "don pedro",
-            "text": "Leonato and his brother. What thinkest thou Had we fought, I doubt we should have been too young for them."
+            "text": "Leonato and his brother. What thinkest thou? Had we fought, I doubt we should have been too young for them."
         },
         {
             "speaker": "benedick",
@@ -189,23 +189,23 @@
         },
         {
             "speaker": "claudio",
-            "text": "We have been up and down to seek thee for we are highproof melancholy and would fain have it beaten away. Wilt thou use thy wit"
+            "text": "We have been up and down to seek thee; for we are high-proof melancholy and would fain have it beaten away. Wilt thou use thy wit?"
         },
         {
             "speaker": "benedick",
-            "text": "It is in my scabbard: shall I draw it"
+            "text": "It is in my scabbard: shall I draw it?"
         },
         {
             "speaker": "don pedro",
-            "text": "Dost thou wear thy wit by thy side"
+            "text": "Dost thou wear thy wit by thy side?"
         },
         {
             "speaker": "claudio",
-            "text": "Never any did so, though very many have been beside their wit. I will bid thee draw, as we do the minstrels draw, to pleasure us."
+            "text": "Never any did so, though very many have been beside their wit. I will bid thee draw, as we do the minstrels; draw, to pleasure us."
         },
         {
             "speaker": "don pedro",
-            "text": "As I am an honest man, he looks pale. Art thou sick, or angry"
+            "text": "As I am an honest man, he looks pale. Art thou sick, or angry?"
         },
         {
             "speaker": "claudio",
@@ -229,7 +229,7 @@
         },
         {
             "speaker": "benedick",
-            "text": "Shall I speak a word in your ear"
+            "text": "Shall I speak a word in your ear?"
         },
         {
             "speaker": "claudio",
@@ -237,7 +237,7 @@
         },
         {
             "speaker": "benedick",
-            "text": "[Aside to CLAUDIO]  You are a villain I jest not: I will make it good how you dare, with what you dare, and when you dare. Do me right, or I will protest your cowardice. You have killed a sweet lady, and her death shall fall heavy on you. Let me hear from you."
+            "text": "[Aside to CLAUDIO]  You are a villain; I jest not: I will make it good how you dare, with what you dare, and when you dare. Do me right, or I will protest your cowardice. You have killed a sweet lady, and her death shall fall heavy on you. Let me hear from you."
         },
         {
             "speaker": "claudio",
@@ -245,19 +245,19 @@
         },
         {
             "speaker": "don pedro",
-            "text": "What, a feast, a feast"
+            "text": "What, a feast, a feast?"
         },
         {
             "speaker": "claudio",
-            "text": "I faith, I thank him he hath bid me to a calfs head and a capon the which if I do not carve most curiously, say my knifes naught. Shall I not find a woodcock too"
+            "text": "I' faith, I thank him; he hath bid me to a calf's head and a capon; the which if I do not carve most curiously, say my knife's naught. Shall I not find a woodcock too?"
         },
         {
             "speaker": "benedick",
-            "text": "Sir, your wit ambles well it goes easily."
+            "text": "Sir, your wit ambles well; it goes easily."
         },
         {
             "speaker": "don pedro",
-            "text": "Ill tell thee how Beatrice praised thy wit the other day. I said, thou hadst a fine wit: True, said she, a fine little one. No, said I, a great wit: Right, says she, a great gross one. Nay, said I, a good wit: Just, said she, it hurts nobody. Nay, said I, the gentleman is wise: Certain, said she, a wise gentleman. Nay, said I, he hath the tongues: That I believe, said she, for he swore a thing to me on Monday night, which he forswore on Tuesday morning theres a double tongue theres two tongues. Thus did she, an hour together, transshape thy particular virtues: yet at last she concluded with a sigh, thou wast the properest man in Italy."
+            "text": "I'll tell thee how Beatrice praised thy wit the other day. I said, thou hadst a fine wit: 'True,' said she, 'a fine little one.' 'No,' said I, 'a great wit:' 'Right,' says she, 'a great gross one.' 'Nay,' said I, 'a good wit:' 'Just,' said she, 'it hurts nobody.' 'Nay,' said I, 'the gentleman is wise:' 'Certain,' said she, 'a wise gentleman.' 'Nay,' said I, 'he hath the tongues:' 'That I believe,' said she, 'for he swore a thing to me on Monday night, which he forswore on Tuesday morning; there's a double tongue; there's two tongues.' Thus did she, an hour together, transshape thy particular virtues: yet at last she concluded with a sigh, thou wast the properest man in Italy."
         },
         {
             "speaker": "claudio",
@@ -265,23 +265,23 @@
         },
         {
             "speaker": "don pedro",
-            "text": "Yea, that she did: but yet, for all that, an if she did not hate him deadly, she would love him dearly: the old mans daughter told us all."
+            "text": "Yea, that she did: but yet, for all that, an if she did not hate him deadly, she would love him dearly: the old man's daughter told us all."
         },
         {
             "speaker": "claudio",
-            "text": "All, all and, moreover, God saw him when he was hid in the garden."
+            "text": "All, all; and, moreover, God saw him when he was hid in the garden."
         },
         {
             "speaker": "don pedro",
-            "text": "But when shall we set the savage bulls horns on the sensible Benedicks head"
+            "text": "But when shall we set the savage bull's horns on the sensible Benedick's head?"
         },
         {
             "speaker": "claudio",
-            "text": "Yea, and text underneath, Here dwells Benedick the married man"
+            "text": "Yea, and text underneath, 'Here dwells Benedick the married man'?"
         },
         {
             "speaker": "benedick",
-            "text": "Fare you well, boy: you know my mind. I will leave you now to your gossiplike humour: you break jests as braggarts do their blades, which God be thanked, hurt not. My lord, for your many courtesies I thank you: I must discontinue your company: your brother the bastard is fled from Messina: you have among you killed a sweet and innocent lady. For my Lord Lackbeard there, he and I shall meet: and, till then, peace be with him."
+            "text": "Fare you well, boy: you know my mind. I will leave you now to your gossip-like humour: you break jests as braggarts do their blades, which God be thanked, hurt not. My lord, for your many courtesies I thank you: I must discontinue your company: your brother the bastard is fled from Messina: you have among you killed a sweet and innocent lady. For my Lord Lackbeard there, he and I shall meet: and, till then, peace be with him."
         },
         {
             "text": "Exit"
@@ -292,7 +292,7 @@
         },
         {
             "speaker": "claudio",
-            "text": "In most profound earnest and, Ill warrant you, for the love of Beatrice."
+            "text": "In most profound earnest; and, I'll warrant you, for the love of Beatrice."
         },
         {
             "speaker": "don pedro",
@@ -308,22 +308,22 @@
         },
         {
             "speaker": "claudio",
-            "text": "He is then a giant to an ape but then is an ape a doctor to such a man."
+            "text": "He is then a giant to an ape; but then is an ape a doctor to such a man."
         },
         {
             "speaker": "don pedro",
-            "text": "But, soft you, let me be: pluck up, my heart, and be sad. Did he not say, my brother was fled"
+            "text": "But, soft you, let me be: pluck up, my heart, and be sad. Did he not say, my brother was fled?"
         },
         {
             "text": "Enter DOGBERRY, VERGES, and the Watch, with CONRADE and BORACHIO"
         },
         {
             "speaker": "dogberry",
-            "text": "Come you, sir: if justice cannot tame you, she shall neer weigh more reasons in her balance: nay, an you be a cursing hypocrite once, you must be looked to."
+            "text": "Come you, sir: if justice cannot tame you, she shall ne'er weigh more reasons in her balance: nay, an you be a cursing hypocrite once, you must be looked to."
         },
         {
             "speaker": "don pedro",
-            "text": "How now two of my brothers men bound! Borachio one!"
+            "text": "How now? two of my brother's men bound! Borachio one!"
         },
         {
             "speaker": "claudio",
@@ -331,39 +331,39 @@
         },
         {
             "speaker": "don pedro",
-            "text": "Officers, what offence have these men done"
+            "text": "Officers, what offence have these men done?"
         },
         {
             "speaker": "dogberry",
-            "text": "Marry, sir, they have committed false report moreover, they have spoken untruths secondarily, they are slanders sixth and lastly, they have belied a lady thirdly, they have verified unjust things and, to conclude, they are lying knaves."
+            "text": "Marry, sir, they have committed false report; moreover, they have spoken untruths; secondarily, they are slanders; sixth and lastly, they have belied a lady; thirdly, they have verified unjust things; and, to conclude, they are lying knaves."
         },
         {
             "speaker": "don pedro",
-            "text": "First, I ask thee what they have done thirdly, I ask thee whats their offence sixth and lastly, why they are committed and, to conclude, what you lay to their charge."
+            "text": "First, I ask thee what they have done; thirdly, I ask thee what's their offence; sixth and lastly, why they are committed; and, to conclude, what you lay to their charge."
         },
         {
             "speaker": "claudio",
-            "text": "Rightly reasoned, and in his own division: and, by my troth, theres one meaning well suited."
+            "text": "Rightly reasoned, and in his own division: and, by my troth, there's one meaning well suited."
         },
         {
             "speaker": "don pedro",
-            "text": "Who have you offended, masters, that you are thus bound to your answer this learned constable is too cunning to be understood: whats your offence"
+            "text": "Who have you offended, masters, that you are thus bound to your answer? this learned constable is too cunning to be understood: what's your offence?"
         },
         {
             "speaker": "borachio",
-            "text": "Sweet prince, let me go no farther to mine answer: do you hear me, and let this count kill me. I have deceived even your very eyes: what your wisdoms could not discover, these shallow fools have brought to light: who in the night overheard me confessing to this man how Don John your brother incensed me to slander the Lady Hero, how you were brought into the orchard and saw me court Margaret in Heros garments, how you disgraced her, when you should marry her: my villany they have upon record which I had rather seal with my death than repeat over to my shame. The lady is dead upon mine and my masters false accusation and, briefly, I desire nothing but the reward of a villain."
+            "text": "Sweet prince, let me go no farther to mine answer: do you hear me, and let this count kill me. I have deceived even your very eyes: what your wisdoms could not discover, these shallow fools have brought to light: who in the night overheard me confessing to this man how Don John your brother incensed me to slander the Lady Hero, how you were brought into the orchard and saw me court Margaret in Hero's garments, how you disgraced her, when you should marry her: my villany they have upon record; which I had rather seal with my death than repeat over to my shame. The lady is dead upon mine and my master's false accusation; and, briefly, I desire nothing but the reward of a villain."
         },
         {
             "speaker": "don pedro",
-            "text": "Runs not this speech like iron through your blood"
+            "text": "Runs not this speech like iron through your blood?"
         },
         {
             "speaker": "claudio",
-            "text": "I have drunk poison whiles he utterd it."
+            "text": "I have drunk poison whiles he utter'd it."
         },
         {
             "speaker": "don pedro",
-            "text": "But did my brother set thee on to this"
+            "text": "But did my brother set thee on to this?"
         },
         {
             "speaker": "borachio",
@@ -386,11 +386,11 @@
             "text": "Here, here comes master Signior Leonato, and the Sexton too."
         },
         {
-            "text": "Reenter LEONATO and ANTONIO, with the Sexton"
+            "text": "Re-enter LEONATO and ANTONIO, with the Sexton"
         },
         {
             "speaker": "leonato",
-            "text": "Which is the villain let me see his eyes, That, when I note another man like him, I may avoid him: which of these is he"
+            "text": "Which is the villain? let me see his eyes, That, when I note another man like him, I may avoid him: which of these is he?"
         },
         {
             "speaker": "borachio",
@@ -398,7 +398,7 @@
         },
         {
             "speaker": "leonato",
-            "text": "Art thou the slave that with thy breath hast killd Mine innocent child"
+            "text": "Art thou the slave that with thy breath hast kill'd Mine innocent child?"
         },
         {
             "speaker": "borachio",
@@ -406,27 +406,27 @@
         },
         {
             "speaker": "leonato",
-            "text": "No, not so, villain thou beliest thyself: Here stand a pair of honourable men A third is fled, that had a hand in it. I thank you, princes, for my daughters death: Record it with your high and worthy deeds: Twas bravely done, if you bethink you of it."
+            "text": "No, not so, villain; thou beliest thyself: Here stand a pair of honourable men; A third is fled, that had a hand in it. I thank you, princes, for my daughter's death: Record it with your high and worthy deeds: 'Twas bravely done, if you bethink you of it."
         },
         {
             "speaker": "claudio",
-            "text": "I know not how to pray your patience Yet I must speak. Choose your revenge yourself Impose me to what penance your invention Can lay upon my sin: yet sinnd I not But in mistaking."
+            "text": "I know not how to pray your patience; Yet I must speak. Choose your revenge yourself; Impose me to what penance your invention Can lay upon my sin: yet sinn'd I not But in mistaking."
         },
         {
             "speaker": "don pedro",
-            "text": "By my soul, nor I: And yet, to satisfy this good old man, I would bend under any heavy weight That hell enjoin me to."
+            "text": "By my soul, nor I: And yet, to satisfy this good old man, I would bend under any heavy weight That he'll enjoin me to."
         },
         {
             "speaker": "leonato",
-            "text": "I cannot bid you bid my daughter live That were impossible: but, I pray you both, Possess the people in Messina here How innocent she died and if your love Can labour ought in sad invention, Hang her an epitaph upon her tomb And sing it to her bones, sing it tonight: Tomorrow morning come you to my house, And since you could not be my soninlaw, Be yet my nephew: my brother hath a daughter, Almost the copy of my child thats dead, And she alone is heir to both of us: Give her the right you should have given her cousin, And so dies my revenge."
+            "text": "I cannot bid you bid my daughter live; That were impossible: but, I pray you both, Possess the people in Messina here How innocent she died; and if your love Can labour ought in sad invention, Hang her an epitaph upon her tomb And sing it to her bones, sing it to-night: To-morrow morning come you to my house, And since you could not be my son-in-law, Be yet my nephew: my brother hath a daughter, Almost the copy of my child that's dead, And she alone is heir to both of us: Give her the right you should have given her cousin, And so dies my revenge."
         },
         {
             "speaker": "claudio",
-            "text": "O noble sir, Your overkindness doth wring tears from me! I do embrace your offer and dispose For henceforth of poor Claudio."
+            "text": "O noble sir, Your over-kindness doth wring tears from me! I do embrace your offer; and dispose For henceforth of poor Claudio."
         },
         {
             "speaker": "leonato",
-            "text": "Tomorrow then I will expect your coming Tonight I take my leave. This naughty man Shall face to face be brought to Margaret, Who I believe was packd in all this wrong, Hired to it by your brother."
+            "text": "To-morrow then I will expect your coming; To-night I take my leave. This naughty man Shall face to face be brought to Margaret, Who I believe was pack'd in all this wrong, Hired to it by your brother."
         },
         {
             "speaker": "borachio",
@@ -434,7 +434,7 @@
         },
         {
             "speaker": "dogberry",
-            "text": "Moreover, sir, which indeed is not under white and black, this plaintiff here, the offender, did call me ass: I beseech you, let it be remembered in his punishment. And also, the watch heard them talk of one Deformed: they say be wears a key in his ear and a lock hanging by it, and borrows money in Gods name, the which he hath used so long and never paid that now men grow hardhearted and will lend nothing for Gods sake: pray you, examine him upon that point."
+            "text": "Moreover, sir, which indeed is not under white and black, this plaintiff here, the offender, did call me ass: I beseech you, let it be remembered in his punishment. And also, the watch heard them talk of one Deformed: they say be wears a key in his ear and a lock hanging by it, and borrows money in God's name, the which he hath used so long and never paid that now men grow hard-hearted and will lend nothing for God's sake: pray you, examine him upon that point."
         },
         {
             "speaker": "leonato",
@@ -442,11 +442,11 @@
         },
         {
             "speaker": "dogberry",
-            "text": "Your worship speaks like a most thankful and reverend youth and I praise God for you."
+            "text": "Your worship speaks like a most thankful and reverend youth; and I praise God for you."
         },
         {
             "speaker": "leonato",
-            "text": "Theres for thy pains."
+            "text": "There's for thy pains."
         },
         {
             "speaker": "dogberry",
@@ -458,18 +458,18 @@
         },
         {
             "speaker": "dogberry",
-            "text": "I leave an arrant knave with your worship which I beseech your worship to correct yourself, for the example of others. God keep your worship! I wish your worship well God restore you to health! I humbly give you leave to depart and if a merry meeting may be wished, God prohibit it! Come, neighbour."
+            "text": "I leave an arrant knave with your worship; which I beseech your worship to correct yourself, for the example of others. God keep your worship! I wish your worship well; God restore you to health! I humbly give you leave to depart; and if a merry meeting may be wished, God prohibit it! Come, neighbour."
         },
         {
             "text": "Exeunt DOGBERRY and VERGES"
         },
         {
             "speaker": "leonato",
-            "text": "Until tomorrow morning, lords, farewell."
+            "text": "Until to-morrow morning, lords, farewell."
         },
         {
             "speaker": "antonio",
-            "text": "Farewell, my lords: we look for you tomorrow."
+            "text": "Farewell, my lords: we look for you to-morrow."
         },
         {
             "speaker": "don pedro",
@@ -477,11 +477,11 @@
         },
         {
             "speaker": "claudio",
-            "text": "Tonight Ill mourn with Hero."
+            "text": "To-night I'll mourn with Hero."
         },
         {
             "speaker": "leonato",
-            "text": "[To the Watch]  Bring you these fellows on. Well talk with Margaret, How her acquaintance grew with this lewd fellow."
+            "text": "[To the Watch]  Bring you these fellows on. We'll talk with Margaret, How her acquaintance grew with this lewd fellow."
         },
         {
             "text": "Exeunt, severally"

@@ -12,13 +12,13 @@
         },
         {
             "speaker": "first sentinel",
-            "text": "Sergeant, you shall. Thus are poor servitors, When others sleep upon their quiet beds, Constraind to watch in darkness, rain and cold."
+            "text": "Sergeant, you shall. Thus are poor servitors, When others sleep upon their quiet beds, Constrain'd to watch in darkness, rain and cold."
         },
         {
             "text": "Exit Sergeant"
         },
         {
-            "text": "Enter TALBOT, BEDFORD, BURGUNDY, and Forces, with scalingladders, their drums beating a dead march"
+            "text": "Enter TALBOT, BEDFORD, BURGUNDY, and Forces, with scaling-ladders, their drums beating a dead march"
         },
         {
             "speaker": "talbot",
@@ -26,11 +26,11 @@
         },
         {
             "speaker": "bedford",
-            "text": "Coward of France! how much he wrongs his fame, Despairing of his own arms fortitude, To join with witches and the help of hell!"
+            "text": "Coward of France! how much he wrongs his fame, Despairing of his own arm's fortitude, To join with witches and the help of hell!"
         },
         {
             "speaker": "burgundy",
-            "text": "Traitors have never other company. But whats that Pucelle whom they term so pure"
+            "text": "Traitors have never other company. But what's that Pucelle whom they term so pure?"
         },
         {
             "speaker": "talbot",
@@ -50,15 +50,15 @@
         },
         {
             "speaker": "bedford",
-            "text": "Ascend, brave Talbot we will follow thee."
+            "text": "Ascend, brave Talbot; we will follow thee."
         },
         {
             "speaker": "talbot",
-            "text": "Not all together: better far, I guess, That we do make our entrance several ways That, if it chance the one of us do fail, The other yet may rise against their force."
+            "text": "Not all together: better far, I guess, That we do make our entrance several ways; That, if it chance the one of us do fail, The other yet may rise against their force."
         },
         {
             "speaker": "bedford",
-            "text": "Agreed: Ill to yond corner."
+            "text": "Agreed: I'll to yond corner."
         },
         {
             "speaker": "burgundy",
@@ -70,26 +70,26 @@
         },
         {
             "speaker": "sentinels",
-            "text": "Arm! arm! the enemy doth make assault! Cry: St. George, A Talbot."
+            "text": "Arm! arm! the enemy doth make assault! Cry: 'St. George,' 'A Talbot.'"
         },
         {
             "text": "The French leap over the walls in their shirts.  Enter, several ways, the BASTARD OF ORLEANS, ALENCON, and REIGNIER, half ready, and half unready"
         },
         {
             "speaker": "alencon",
-            "text": "How now, my lords! what, all unready so"
+            "text": "How now, my lords! what, all unready so?"
         },
         {
             "speaker": "bastard of orleans",
-            "text": "Unready! ay, and glad we scaped so well."
+            "text": "Unready! ay, and glad we 'scaped so well."
         },
         {
             "speaker": "reignier",
-            "text": "Twas time, I trow, to wake and leave our beds, Hearing alarums at our chamberdoors."
+            "text": "'Twas time, I trow, to wake and leave our beds, Hearing alarums at our chamber-doors."
         },
         {
             "speaker": "alencon",
-            "text": "Of all exploits since first I followd arms, Neer heard I of a warlike enterprise More venturous or desperate than this."
+            "text": "Of all exploits since first I follow'd arms, Ne'er heard I of a warlike enterprise More venturous or desperate than this."
         },
         {
             "speaker": "bastard of orleans",
@@ -112,15 +112,15 @@
         },
         {
             "speaker": "charles",
-            "text": "Is this thy cunning, thou deceitful dame Didst thou at first, to flatter us withal, Make us partakers of a little gain, That now our loss might be ten times so much"
+            "text": "Is this thy cunning, thou deceitful dame? Didst thou at first, to flatter us withal, Make us partakers of a little gain, That now our loss might be ten times so much?"
         },
         {
             "speaker": "joan la pucelle",
-            "text": "Wherefore is Charles impatient with his friend! At all times will you have my power alike Sleeping or waking must I still prevail, Or will you blame and lay the fault on me Improvident soldiers! had your watch been good, This sudden mischief never could have falln."
+            "text": "Wherefore is Charles impatient with his friend! At all times will you have my power alike? Sleeping or waking must I still prevail, Or will you blame and lay the fault on me? Improvident soldiers! had your watch been good, This sudden mischief never could have fall'n."
         },
         {
             "speaker": "charles",
-            "text": "Duke of Alencon, this was your default, That, being captain of the watch tonight, Did look no better to that weighty charge."
+            "text": "Duke of Alencon, this was your default, That, being captain of the watch to-night, Did look no better to that weighty charge."
         },
         {
             "speaker": "alencon",
@@ -136,15 +136,15 @@
         },
         {
             "speaker": "charles",
-            "text": "And, for myself, most part of all this night, Within her quarter and mine own precinct I was employd in passing to and fro, About relieving of the sentinels: Then how or which way should they first break in"
+            "text": "And, for myself, most part of all this night, Within her quarter and mine own precinct I was employ'd in passing to and fro, About relieving of the sentinels: Then how or which way should they first break in?"
         },
         {
             "speaker": "joan la pucelle",
-            "text": "Question, my lords, no further of the case, How or which way: tis sure they found some place But weakly guarded, where the breach was made. And now there rests no other shift but this To gather our soldiers, scatterd and dispersed, And lay new platforms to endamage them. Alarum. Enter an English Soldier, crying A  Talbot! a Talbot! They fly, leaving their clothes behind"
+            "text": "Question, my lords, no further of the case, How or which way: 'tis sure they found some place But weakly guarded, where the breach was made. And now there rests no other shift but this; To gather our soldiers, scatter'd and dispersed, And lay new platforms to endamage them. Alarum. Enter an English Soldier, crying 'A  Talbot! a Talbot!' They fly, leaving their clothes behind"
         },
         {
             "speaker": "soldier",
-            "text": "Ill be so bold to take what they have left. The cry of Talbot serves me for a sword For I have loaden me with many spoils, Using no other weapon but his name."
+            "text": "I'll be so bold to take what they have left. The cry of Talbot serves me for a sword; For I have loaden me with many spoils, Using no other weapon but his name."
         },
         {
             "text": "Exit"

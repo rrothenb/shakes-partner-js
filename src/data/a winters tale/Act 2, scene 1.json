@@ -1,46 +1,46 @@
 {
     "sceneName": "Act 2, scene 1",
     "playName": "a winters tale",
-    "location": "A room in LEONTES palace.",
+    "location": "A room in LEONTES' palace.",
     "lines": [
         {
             "text": "Enter HERMIONE, MAMILLIUS, and Ladies"
         },
         {
             "speaker": "hermione",
-            "text": "Take the boy to you: he so troubles me, Tis past enduring."
+            "text": "Take the boy to you: he so troubles me, 'Tis past enduring."
         },
         {
             "speaker": "first lady",
-            "text": "Come, my gracious lord, Shall I be your playfellow"
+            "text": "Come, my gracious lord, Shall I be your playfellow?"
         },
         {
             "speaker": "mamillius",
-            "text": "No, Ill none of you."
+            "text": "No, I'll none of you."
         },
         {
             "speaker": "first lady",
-            "text": "Why, my sweet lord"
+            "text": "Why, my sweet lord?"
         },
         {
             "speaker": "mamillius",
-            "text": "Youll kiss me hard and speak to me as if I were a baby still. I love you better."
+            "text": "You'll kiss me hard and speak to me as if I were a baby still. I love you better."
         },
         {
             "speaker": "second lady",
-            "text": "And why so, my lord"
+            "text": "And why so, my lord?"
         },
         {
             "speaker": "mamillius",
-            "text": "Not for because Your brows are blacker yet black brows, they say, Become some women best, so that there be not Too much hair there, but in a semicircle Or a halfmoon made with a pen."
+            "text": "Not for because Your brows are blacker; yet black brows, they say, Become some women best, so that there be not Too much hair there, but in a semicircle Or a half-moon made with a pen."
         },
         {
             "speaker": "second lady",
-            "text": "Who taught you this"
+            "text": "Who taught you this?"
         },
         {
             "speaker": "mamillius",
-            "text": "I learnt it out of womens faces. Pray now What colour are your eyebrows"
+            "text": "I learnt it out of women's faces. Pray now What colour are your eyebrows?"
         },
         {
             "speaker": "first lady",
@@ -48,11 +48,11 @@
         },
         {
             "speaker": "mamillius",
-            "text": "Nay, thats a mock: I have seen a ladys nose That has been blue, but not her eyebrows."
+            "text": "Nay, that's a mock: I have seen a lady's nose That has been blue, but not her eyebrows."
         },
         {
             "speaker": "first lady",
-            "text": "Hark ye The queen your mother rounds apace: we shall Present our services to a fine new prince One of these days and then yould wanton with us, If we would have you."
+            "text": "Hark ye; The queen your mother rounds apace: we shall Present our services to a fine new prince One of these days; and then you'ld wanton with us, If we would have you."
         },
         {
             "speaker": "second lady",
@@ -60,11 +60,11 @@
         },
         {
             "speaker": "hermione",
-            "text": "What wisdom stirs amongst you Come, sir, now I am for you again: pray you, sit by us, And tell s a tale."
+            "text": "What wisdom stirs amongst you? Come, sir, now I am for you again: pray you, sit by us, And tell 's a tale."
         },
         {
             "speaker": "mamillius",
-            "text": "Merry or sad shallt be"
+            "text": "Merry or sad shall't be?"
         },
         {
             "speaker": "hermione",
@@ -72,98 +72,98 @@
         },
         {
             "speaker": "mamillius",
-            "text": "A sad tales best for winter: I have one Of sprites and goblins."
+            "text": "A sad tale's best for winter: I have one Of sprites and goblins."
         },
         {
             "speaker": "hermione",
-            "text": "Lets have that, good sir. Come on, sit down: come on, and do your best To fright me with your sprites youre powerful at it."
+            "text": "Let's have that, good sir. Come on, sit down: come on, and do your best To fright me with your sprites; you're powerful at it."
         },
         {
             "speaker": "mamillius",
-            "text": "There was a man"
+            "text": "There was a man--"
         },
         {
             "speaker": "hermione",
-            "text": "Nay, come, sit down then on."
+            "text": "Nay, come, sit down; then on."
         },
         {
             "speaker": "mamillius",
-            "text": "Dwelt by a churchyard: I will tell it softly Yond crickets shall not hear it."
+            "text": "Dwelt by a churchyard: I will tell it softly; Yond crickets shall not hear it."
         },
         {
             "speaker": "hermione",
-            "text": "Come on, then, And givet me in mine ear."
+            "text": "Come on, then, And give't me in mine ear."
         },
         {
             "text": "Enter LEONTES, with ANTIGONUS, Lords and others"
         },
         {
             "speaker": "leontes",
-            "text": "Was he met there his train Camillo with him"
+            "text": "Was he met there? his train? Camillo with him?"
         },
         {
             "speaker": "first lord",
-            "text": "Behind the tuft of pines I met them never Saw I men scour so on their way: I eyed them Even to their ships."
+            "text": "Behind the tuft of pines I met them; never Saw I men scour so on their way: I eyed them Even to their ships."
         },
         {
             "speaker": "leontes",
-            "text": "How blest am I In my just censure, in my true opinion! Alack, for lesser knowledge! how accursed In being so blest! There may be in the cup A spider steepd, and one may drink, depart, And yet partake no venom, for his knowledge Is not infected: but if one present The abhorrd ingredient to his eye, make known How he hath drunk, he cracks his gorge, his sides, With violent hefts. I have drunk, and seen the spider. Camillo was his help in this, his pander: There is a plot against my life, my crown Alls true that is mistrusted: that false villain Whom I employd was preemployd by him: He has discoverd my design, and I Remain a pinchd thing yea, a very trick For them to play at will. How came the posterns So easily open"
+            "text": "How blest am I In my just censure, in my true opinion! Alack, for lesser knowledge! how accursed In being so blest! There may be in the cup A spider steep'd, and one may drink, depart, And yet partake no venom, for his knowledge Is not infected: but if one present The abhorr'd ingredient to his eye, make known How he hath drunk, he cracks his gorge, his sides, With violent hefts. I have drunk, and seen the spider. Camillo was his help in this, his pander: There is a plot against my life, my crown; All's true that is mistrusted: that false villain Whom I employ'd was pre-employ'd by him: He has discover'd my design, and I Remain a pinch'd thing; yea, a very trick For them to play at will. How came the posterns So easily open?"
         },
         {
             "speaker": "first lord",
-            "text": "By his great authority Which often hath no less prevaild than so On your command."
+            "text": "By his great authority; Which often hath no less prevail'd than so On your command."
         },
         {
             "speaker": "leontes",
-            "text": "I knowt too well. Give me the boy: I am glad you did not nurse him: Though he does bear some signs of me, yet you Have too much blood in him."
+            "text": "I know't too well. Give me the boy: I am glad you did not nurse him: Though he does bear some signs of me, yet you Have too much blood in him."
         },
         {
             "speaker": "hermione",
-            "text": "What is this sport"
+            "text": "What is this? sport?"
         },
         {
             "speaker": "leontes",
-            "text": "Bear the boy hence he shall not come about her Away with him! and let her sport herself With that shes big with for tis Polixenes Has made thee swell thus."
+            "text": "Bear the boy hence; he shall not come about her; Away with him! and let her sport herself With that she's big with; for 'tis Polixenes Has made thee swell thus."
         },
         {
             "speaker": "hermione",
-            "text": "But Ild say he had not, And Ill be sworn you would believe my saying, Howeer you lean to the nayward."
+            "text": "But I'ld say he had not, And I'll be sworn you would believe my saying, Howe'er you lean to the nayward."
         },
         {
             "speaker": "leontes",
-            "text": "You, my lords, Look on her, mark her well be but about To say she is a goodly lady, and The justice of your bearts will thereto add Tis pity shes not honest, honourable: Praise her but for this her withoutdoor form, Which on my faith deserves high speech, and straight The shrug, the hum or ha, these petty brands That calumny doth useO, I am out That mercy does, for calumny will sear Virtue itself: these shrugs, these hums and has, When you have said shes goodly, come between Ere you can say shes honest: but be t known, From him that has most cause to grieve it should be, Shes an adulteress."
+            "text": "You, my lords, Look on her, mark her well; be but about To say 'she is a goodly lady,' and The justice of your bearts will thereto add 'Tis pity she's not honest, honourable:' Praise her but for this her without-door form, Which on my faith deserves high speech, and straight The shrug, the hum or ha, these petty brands That calumny doth use--O, I am out-- That mercy does, for calumny will sear Virtue itself: these shrugs, these hums and ha's, When you have said 'she's goodly,' come between Ere you can say 'she's honest:' but be 't known, From him that has most cause to grieve it should be, She's an adulteress."
         },
         {
             "speaker": "hermione",
-            "text": "Should a villain say so, The most replenishd villain in the world, He were as much more villain: you, my lord, Do but mistake."
+            "text": "Should a villain say so, The most replenish'd villain in the world, He were as much more villain: you, my lord, Do but mistake."
         },
         {
             "speaker": "leontes",
-            "text": "You have mistook, my lady, Polixenes for Leontes: O thou thing! Which Ill not call a creature of thy place, Lest barbarism, making me the precedent, Should a like language use to all degrees And mannerly distinguishment leave out Betwixt the prince and beggar: I have said Shes an adulteress I have said with whom: More, shes a traitor and Camillo is A federary with her, and one that knows What she should shame to know herself But with her most vile principal, that shes A bedswerver, even as bad as those That vulgars give boldst titles, ay, and privy To this their late escape."
+            "text": "You have mistook, my lady, Polixenes for Leontes: O thou thing! Which I'll not call a creature of thy place, Lest barbarism, making me the precedent, Should a like language use to all degrees And mannerly distinguishment leave out Betwixt the prince and beggar: I have said She's an adulteress; I have said with whom: More, she's a traitor and Camillo is A federary with her, and one that knows What she should shame to know herself But with her most vile principal, that she's A bed-swerver, even as bad as those That vulgars give bold'st titles, ay, and privy To this their late escape."
         },
         {
             "speaker": "hermione",
-            "text": "No, by my life. Privy to none of this. How will this grieve you, When you shall come to clearer knowledge, that You thus have publishd me! Gentle my lord, You scarce can right me throughly then to say You did mistake."
+            "text": "No, by my life. Privy to none of this. How will this grieve you, When you shall come to clearer knowledge, that You thus have publish'd me! Gentle my lord, You scarce can right me throughly then to say You did mistake."
         },
         {
             "speaker": "leontes",
-            "text": "No if I mistake In those foundations which I build upon, The centre is not big enough to bear A schoolboys top. Away with her! to prison! He who shall speak for her is afar off guilty But that he speaks."
+            "text": "No; if I mistake In those foundations which I build upon, The centre is not big enough to bear A school-boy's top. Away with her! to prison! He who shall speak for her is afar off guilty But that he speaks."
         },
         {
             "speaker": "hermione",
-            "text": "Theres some ill planet reigns: I must be patient till the heavens look With an aspect more favourable. Good my lords, I am not prone to weeping, as our sex Commonly are the want of which vain dew Perchance shall dry your pities: but I have That honourable grief lodged here which burns Worse than tears drown: beseech you all, my lords, With thoughts so qualified as your charities Shall best instruct you, measure me and so The kings will be performd!"
+            "text": "There's some ill planet reigns: I must be patient till the heavens look With an aspect more favourable. Good my lords, I am not prone to weeping, as our sex Commonly are; the want of which vain dew Perchance shall dry your pities: but I have That honourable grief lodged here which burns Worse than tears drown: beseech you all, my lords, With thoughts so qualified as your charities Shall best instruct you, measure me; and so The king's will be perform'd!"
         },
         {
             "speaker": "leontes",
-            "text": "Shall I be heard"
+            "text": "Shall I be heard?"
         },
         {
             "speaker": "hermione",
-            "text": "Who ist that goes with me Beseech your highness, My women may be with me for you see My plight requires it. Do not weep, good fools There is no cause: when you shall know your mistress Has deserved prison, then abound in tears As I come out: this action I now go on Is for my better grace. Adieu, my lord: I never wishd to see you sorry now I trust I shall. My women, come you have leave."
+            "text": "Who is't that goes with me? Beseech your highness, My women may be with me; for you see My plight requires it. Do not weep, good fools; There is no cause: when you shall know your mistress Has deserved prison, then abound in tears As I come out: this action I now go on Is for my better grace. Adieu, my lord: I never wish'd to see you sorry; now I trust I shall. My women, come; you have leave."
         },
         {
             "speaker": "leontes",
-            "text": "Go, do our bidding hence! Exit HERMIONE, guarded with Ladies"
+            "text": "Go, do our bidding; hence! Exit HERMIONE, guarded; with Ladies"
         },
         {
             "speaker": "first lord",
@@ -171,15 +171,15 @@
         },
         {
             "speaker": "antigonus",
-            "text": "Be certain what you do, sir, lest your justice Prove violence in the which three great ones suffer, Yourself, your queen, your son."
+            "text": "Be certain what you do, sir, lest your justice Prove violence; in the which three great ones suffer, Yourself, your queen, your son."
         },
         {
             "speaker": "first lord",
-            "text": "For her, my lord, I dare my life lay down and will dot, sir, Please you to accept it, that the queen is spotless I the eyes of heaven and to you I mean, In this which you accuse her."
+            "text": "For her, my lord, I dare my life lay down and will do't, sir, Please you to accept it, that the queen is spotless I' the eyes of heaven and to you; I mean, In this which you accuse her."
         },
         {
             "speaker": "antigonus",
-            "text": "If it prove Shes otherwise, Ill keep my stables where I lodge my wife Ill go in couples with her Than when I feel and see her no farther trust her For every inch of woman in the world, Ay, every dram of womans flesh is false, If she be."
+            "text": "If it prove She's otherwise, I'll keep my stables where I lodge my wife; I'll go in couples with her; Than when I feel and see her no farther trust her; For every inch of woman in the world, Ay, every dram of woman's flesh is false, If she be."
         },
         {
             "speaker": "leontes",
@@ -187,31 +187,31 @@
         },
         {
             "speaker": "first lord",
-            "text": "Good my lord,"
+            "text": "Good my lord,--"
         },
         {
             "speaker": "antigonus",
-            "text": "It is for you we speak, not for ourselves: You are abused and by some putteron That will be damnd fort would I knew the villain, I would landdamn him. Be she honourflawd, I have three daughters the eldest is eleven The second and the third, nine, and some five If this prove true, theyll pay fort: by mine honour, Ill geld em all fourteen they shall not see, To bring false generations: they are coheirs And I had rather glib myself than they Should not produce fair issue."
+            "text": "It is for you we speak, not for ourselves: You are abused and by some putter-on That will be damn'd for't; would I knew the villain, I would land-damn him. Be she honour-flaw'd, I have three daughters; the eldest is eleven The second and the third, nine, and some five; If this prove true, they'll pay for't: by mine honour, I'll geld 'em all; fourteen they shall not see, To bring false generations: they are co-heirs; And I had rather glib myself than they Should not produce fair issue."
         },
         {
             "speaker": "leontes",
-            "text": "Cease no more. You smell this business with a sense as cold As is a dead mans nose: but I do seet and feelt As you feel doing thus and see withal The instruments that feel."
+            "text": "Cease; no more. You smell this business with a sense as cold As is a dead man's nose: but I do see't and feel't As you feel doing thus; and see withal The instruments that feel."
         },
         {
             "speaker": "antigonus",
-            "text": "If it be so, We need no grave to bury honesty: Theres not a grain of it the face to sweeten Of the whole dungy earth."
+            "text": "If it be so, We need no grave to bury honesty: There's not a grain of it the face to sweeten Of the whole dungy earth."
         },
         {
             "speaker": "leontes",
-            "text": "What! lack I credit"
+            "text": "What! lack I credit?"
         },
         {
             "speaker": "first lord",
-            "text": "I had rather you did lack than I, my lord, Upon this ground and more it would content me To have her honour true than your suspicion, Be blamed fort how you might."
+            "text": "I had rather you did lack than I, my lord, Upon this ground; and more it would content me To have her honour true than your suspicion, Be blamed for't how you might."
         },
         {
             "speaker": "leontes",
-            "text": "Why, what need we Commune with you of this, but rather follow Our forceful instigation Our prerogative Calls not your counsels, but our natural goodness Imparts this which if you, or stupefied Or seeming so in skill, cannot or will not Relish a truth like us, inform yourselves We need no more of your advice: the matter, The loss, the gain, the ordering ont, is all Properly ours."
+            "text": "Why, what need we Commune with you of this, but rather follow Our forceful instigation? Our prerogative Calls not your counsels, but our natural goodness Imparts this; which if you, or stupefied Or seeming so in skill, cannot or will not Relish a truth like us, inform yourselves We need no more of your advice: the matter, The loss, the gain, the ordering on't, is all Properly ours."
         },
         {
             "speaker": "antigonus",
@@ -219,7 +219,7 @@
         },
         {
             "speaker": "leontes",
-            "text": "How could that be Either thou art most ignorant by age, Or thou wert born a fool. Camillos flight, Added to their familiarity, Which was as gross as ever touchd conjecture, That lackd sight only, nought for approbation But only seeing, all other circumstances Made up to the deed, doth push on this proceeding: Yet, for a greater confirmation, For in an act of this importance twere Most piteous to be wild, I have dispatchd in post To sacred Delphos, to Apollos temple, Cleomenes and Dion, whom you know Of stuffd sufficiency: now from the oracle They will bring all whose spiritual counsel had, Shall stop or spur me. Have I done well"
+            "text": "How could that be? Either thou art most ignorant by age, Or thou wert born a fool. Camillo's flight, Added to their familiarity, Which was as gross as ever touch'd conjecture, That lack'd sight only, nought for approbation But only seeing, all other circumstances Made up to the deed, doth push on this proceeding: Yet, for a greater confirmation, For in an act of this importance 'twere Most piteous to be wild, I have dispatch'd in post To sacred Delphos, to Apollo's temple, Cleomenes and Dion, whom you know Of stuff'd sufficiency: now from the oracle They will bring all; whose spiritual counsel had, Shall stop or spur me. Have I done well?"
         },
         {
             "speaker": "first lord",
@@ -227,7 +227,7 @@
         },
         {
             "speaker": "leontes",
-            "text": "Though I am satisfied and need no more Than what I know, yet shall the oracle Give rest to the minds of others, such as he Whose ignorant credulity will not Come up to the truth. So have we thought it good From our free person she should be confined, Lest that the treachery of the two fled hence Be left her to perform. Come, follow us We are to speak in public for this business Will raise us all."
+            "text": "Though I am satisfied and need no more Than what I know, yet shall the oracle Give rest to the minds of others, such as he Whose ignorant credulity will not Come up to the truth. So have we thought it good From our free person she should be confined, Lest that the treachery of the two fled hence Be left her to perform. Come, follow us; We are to speak in public; for this business Will raise us all."
         },
         {
             "speaker": "antigonus",

@@ -1,3 +1,5 @@
+"use strict";
+
 var APP_ID = undefined;//replace with 'amzn1.echo-sdk-ams.app.[your-unique-value-here]';
 
 var AlexaSkill = require('./AlexaSkill');
@@ -78,7 +80,7 @@ ShakesPartnerSkill.prototype.eventHandlers.onIntent = function (intentRequest, s
         if (playNames == null) {
             return newAskResponse(
                 response,
-                character + " is not a character that I recognize.  The closest matches I have are " + Characters.getClosestCharacters(character) + ".  Please try saying your character again.",
+                character + " is not a character that I recognize.  The closest matches I have are " + getClosestCharacters(character) + ".  Please try saying your character again.",
                 "I don't recognize that.  You need to pick a character for whom you'll be reading.");
         }
         else if (playNames.length > 1) {
@@ -205,7 +207,8 @@ ShakesPartnerSkill.prototype.eventHandlers.onIntent = function (intentRequest, s
         console.log("length: " + yourLineDM.length);
         var percentDistance = distance*100/yourLineDM.length;
         percentDistance = percentDistance/(1.0/yourLineDM.length+1);
-        if (percentDistance < 25) {
+        console.log("percentDistance: " + percentDistance);
+        if (percentDistance < 20) {
             session.attributes.lineNumber = lineNumber+1;
             var nextLines = [];
             if (collectLines(session, nextLines)) {
@@ -384,6 +387,19 @@ function collectLines(session, collectedLines) {
     }
     console.log(collectedLines.length);
     return true;
+}
+
+function getClosestCharacters(character) {
+    var doubleMetaphone = require('double-metaphone');
+    var characterDM = doubleMetaphone(character).join("");
+    var characters = Object.keys(require("./data/charactersToPlays"));
+    var levenshtein = require('fast-levenshtein');
+    var sortedCharacters = characters.sort(function (a, b) {
+        var aDistance = levenshtein.get(characterDM, doubleMetaphone(a).join(""));
+        var bDistance = levenshtein.get(characterDM, doubleMetaphone(b).join(""));
+        return aDistance - bDistance;
+    });
+    return sortedCharacters[0] + ", " + sortedCharacters[1] + ", and " + sortedCharacters[2];
 }
 
 exports.handler = function (event, context) {

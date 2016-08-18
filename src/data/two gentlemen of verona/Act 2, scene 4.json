@@ -1,7 +1,7 @@
 {
     "sceneName": "Act 2, scene 4",
     "playName": "two gentlemen of verona",
-    "location": "Milan. The DUKEs palace.",
+    "location": "Milan. The DUKE's palace.",
     "lines": [
         {
             "text": "Enter SILVIA, VALENTINE, THURIO, and SPEED"
@@ -12,7 +12,7 @@
         },
         {
             "speaker": "valentine",
-            "text": "Mistress"
+            "text": "Mistress?"
         },
         {
             "speaker": "speed",
@@ -20,7 +20,7 @@
         },
         {
             "speaker": "valentine",
-            "text": "Ay, boy, its for love."
+            "text": "Ay, boy, it's for love."
         },
         {
             "speaker": "speed",
@@ -32,7 +32,7 @@
         },
         {
             "speaker": "speed",
-            "text": "Twere good you knocked him."
+            "text": "'Twere good you knocked him."
         },
         {
             "text": "Exit"
@@ -47,7 +47,7 @@
         },
         {
             "speaker": "thurio",
-            "text": "Seem you that you are not"
+            "text": "Seem you that you are not?"
         },
         {
             "speaker": "valentine",
@@ -63,7 +63,7 @@
         },
         {
             "speaker": "thurio",
-            "text": "What seem I that I am not"
+            "text": "What seem I that I am not?"
         },
         {
             "speaker": "valentine",
@@ -71,7 +71,7 @@
         },
         {
             "speaker": "thurio",
-            "text": "What instance of the contrary"
+            "text": "What instance of the contrary?"
         },
         {
             "speaker": "valentine",
@@ -79,7 +79,7 @@
         },
         {
             "speaker": "thurio",
-            "text": "And how quote you my folly"
+            "text": "And how quote you my folly?"
         },
         {
             "speaker": "valentine",
@@ -91,19 +91,19 @@
         },
         {
             "speaker": "valentine",
-            "text": "Well, then, Ill double your folly."
+            "text": "Well, then, I'll double your folly."
         },
         {
             "speaker": "thurio",
-            "text": "How"
+            "text": "How?"
         },
         {
             "speaker": "silvia",
-            "text": "What, angry, Sir Thurio! do you change colour"
+            "text": "What, angry, Sir Thurio! do you change colour?"
         },
         {
             "speaker": "valentine",
-            "text": "Give him leave, madam he is a kind of chameleon."
+            "text": "Give him leave, madam; he is a kind of chameleon."
         },
         {
             "speaker": "thurio",
@@ -119,7 +119,7 @@
         },
         {
             "speaker": "valentine",
-            "text": "I know it well, sir you always end ere you begin."
+            "text": "I know it well, sir; you always end ere you begin."
         },
         {
             "speaker": "silvia",
@@ -127,15 +127,15 @@
         },
         {
             "speaker": "valentine",
-            "text": "Tis indeed, madam we thank the giver."
+            "text": "'Tis indeed, madam; we thank the giver."
         },
         {
             "speaker": "silvia",
-            "text": "Who is that, servant"
+            "text": "Who is that, servant?"
         },
         {
             "speaker": "valentine",
-            "text": "Yourself, sweet lady for you gave the fire. Sir Thurio borrows his wit from your ladyships looks, and spends what he borrows kindly in your company."
+            "text": "Yourself, sweet lady; for you gave the fire. Sir Thurio borrows his wit from your ladyship's looks, and spends what he borrows kindly in your company."
         },
         {
             "speaker": "thurio",
@@ -143,18 +143,18 @@
         },
         {
             "speaker": "valentine",
-            "text": "I know it well, sir you have an exchequer of words, and, I think, no other treasure to give your followers, for it appears by their bare liveries, that they live by your bare words."
+            "text": "I know it well, sir; you have an exchequer of words, and, I think, no other treasure to give your followers, for it appears by their bare liveries, that they live by your bare words."
         },
         {
             "speaker": "silvia",
-            "text": "No more, gentlemen, no more:here comes my father."
+            "text": "No more, gentlemen, no more:--here comes my father."
         },
         {
             "text": "Enter DUKE"
         },
         {
             "speaker": "duke",
-            "text": "Now, daughter Silvia, you are hard beset. Sir Valentine, your fathers in good health: What say you to a letter from your friends Of much good news"
+            "text": "Now, daughter Silvia, you are hard beset. Sir Valentine, your father's in good health: What say you to a letter from your friends Of much good news?"
         },
         {
             "speaker": "valentine",
@@ -162,7 +162,7 @@
         },
         {
             "speaker": "duke",
-            "text": "Know ye Don Antonio, your countryman"
+            "text": "Know ye Don Antonio, your countryman?"
         },
         {
             "speaker": "valentine",
@@ -170,38 +170,38 @@
         },
         {
             "speaker": "duke",
-            "text": "Hath he not a son"
+            "text": "Hath he not a son?"
         },
         {
             "speaker": "valentine",
-            "text": "Ay, my good lord a son that well deserves The honour and regard of such a father."
+            "text": "Ay, my good lord; a son that well deserves The honour and regard of such a father."
         },
         {
             "speaker": "duke",
-            "text": "You know him well"
+            "text": "You know him well?"
         },
         {
             "speaker": "valentine",
-            "text": "I know him as myself for from our infancy We have conversed and spent our hours together: And though myself have been an idle truant, Omitting the sweet benefit of time To clothe mine age with angellike perfection, Yet hath Sir Proteus, for thats his name, Made use and fair advantage of his days His years but young, but his experience old His head unmellowd, but his judgment ripe And, in a word, for far behind his worth Comes all the praises that I now bestow, He is complete in feature and in mind With all good grace to grace a gentleman."
+            "text": "I know him as myself; for from our infancy We have conversed and spent our hours together: And though myself have been an idle truant, Omitting the sweet benefit of time To clothe mine age with angel-like perfection, Yet hath Sir Proteus, for that's his name, Made use and fair advantage of his days; His years but young, but his experience old; His head unmellow'd, but his judgment ripe; And, in a word, for far behind his worth Comes all the praises that I now bestow, He is complete in feature and in mind With all good grace to grace a gentleman."
         },
         {
             "speaker": "duke",
-            "text": "Beshrew me, sir, but if he make this good, He is as worthy for an empress love As meet to be an emperors counsellor. Well, sir, this gentleman is come to me, With commendation from great potentates And here he means to spend his time awhile: I think tis no unwelcome news to you."
+            "text": "Beshrew me, sir, but if he make this good, He is as worthy for an empress' love As meet to be an emperor's counsellor. Well, sir, this gentleman is come to me, With commendation from great potentates; And here he means to spend his time awhile: I think 'tis no unwelcome news to you."
         },
         {
             "speaker": "valentine",
-            "text": "Should I have wishd a thing, it had been he."
+            "text": "Should I have wish'd a thing, it had been he."
         },
         {
             "speaker": "duke",
-            "text": "Welcome him then according to his worth. Silvia, I speak to you, and you, Sir Thurio For Valentine, I need not cite him to it: I will send him hither to you presently."
+            "text": "Welcome him then according to his worth. Silvia, I speak to you, and you, Sir Thurio; For Valentine, I need not cite him to it: I will send him hither to you presently."
         },
         {
             "text": "Exit"
         },
         {
             "speaker": "valentine",
-            "text": "This is the gentleman I told your ladyship Had come along with me, but that his mistress Did hold his eyes lockd in her crystal looks."
+            "text": "This is the gentleman I told your ladyship Had come along with me, but that his mistress Did hold his eyes lock'd in her crystal looks."
         },
         {
             "speaker": "silvia",
@@ -213,7 +213,7 @@
         },
         {
             "speaker": "silvia",
-            "text": "Nay, then he should be blind and, being blind How could he see his way to seek out you"
+            "text": "Nay, then he should be blind; and, being blind How could he see his way to seek out you?"
         },
         {
             "speaker": "valentine",
@@ -229,7 +229,7 @@
         },
         {
             "speaker": "silvia",
-            "text": "Have done, have done here comes the gentleman."
+            "text": "Have done, have done; here comes the gentleman."
         },
         {
             "text": "Exit THURIO"
@@ -243,11 +243,11 @@
         },
         {
             "speaker": "silvia",
-            "text": "His worth is warrant for his welcome hither, If this be he you oft have wishd to hear from."
+            "text": "His worth is warrant for his welcome hither, If this be he you oft have wish'd to hear from."
         },
         {
             "speaker": "valentine",
-            "text": "Mistress, it is: sweet lady, entertain him To be my fellowservant to your ladyship."
+            "text": "Mistress, it is: sweet lady, entertain him To be my fellow-servant to your ladyship."
         },
         {
             "speaker": "silvia",
@@ -263,7 +263,7 @@
         },
         {
             "speaker": "proteus",
-            "text": "My duty will I boast of nothing else."
+            "text": "My duty will I boast of; nothing else."
         },
         {
             "speaker": "silvia",
@@ -271,18 +271,18 @@
         },
         {
             "speaker": "proteus",
-            "text": "Ill die on him that says so but yourself."
+            "text": "I'll die on him that says so but yourself."
         },
         {
             "speaker": "silvia",
-            "text": "That you are welcome"
+            "text": "That you are welcome?"
         },
         {
             "speaker": "proteus",
             "text": "That you are worthless."
         },
         {
-            "text": "Reenter THURIO"
+            "text": "Re-enter THURIO"
         },
         {
             "speaker": "thurio",
@@ -290,18 +290,18 @@
         },
         {
             "speaker": "silvia",
-            "text": "I wait upon his pleasure. Come, Sir Thurio, Go with me. Once more, new servant, welcome: Ill leave you to confer of home affairs When you have done, we look to hear from you."
+            "text": "I wait upon his pleasure. Come, Sir Thurio, Go with me. Once more, new servant, welcome: I'll leave you to confer of home affairs; When you have done, we look to hear from you."
         },
         {
             "speaker": "proteus",
-            "text": "Well both attend upon your ladyship."
+            "text": "We'll both attend upon your ladyship."
         },
         {
             "text": "Exeunt SILVIA and THURIO"
         },
         {
             "speaker": "valentine",
-            "text": "Now, tell me, how do all from whence you came"
+            "text": "Now, tell me, how do all from whence you came?"
         },
         {
             "speaker": "proteus",
@@ -309,7 +309,7 @@
         },
         {
             "speaker": "valentine",
-            "text": "And how do yours"
+            "text": "And how do yours?"
         },
         {
             "speaker": "proteus",
@@ -317,27 +317,27 @@
         },
         {
             "speaker": "valentine",
-            "text": "How does your lady and how thrives your love"
+            "text": "How does your lady? and how thrives your love?"
         },
         {
             "speaker": "proteus",
-            "text": "My tales of love were wont to weary you I know you joy not in a love discourse."
+            "text": "My tales of love were wont to weary you; I know you joy not in a love discourse."
         },
         {
             "speaker": "valentine",
-            "text": "Ay, Proteus, but that life is alterd now: I have done penance for contemning Love, Whose high imperious thoughts have punishd me With bitter fasts, with penitential groans, With nightly tears and daily heartsore sighs For in revenge of my contempt of love, Love hath chased sleep from my enthralled eyes And made them watchers of mine own hearts sorrow. O gentle Proteus, Loves a mighty lord, And hath so humbled me, as, I confess, There is no woe to his correction, Nor to his service no such joy on earth. Now no discourse, except it be of love Now can I break my fast, dine, sup and sleep, Upon the very naked name of love."
+            "text": "Ay, Proteus, but that life is alter'd now: I have done penance for contemning Love, Whose high imperious thoughts have punish'd me With bitter fasts, with penitential groans, With nightly tears and daily heart-sore sighs; For in revenge of my contempt of love, Love hath chased sleep from my enthralled eyes And made them watchers of mine own heart's sorrow. O gentle Proteus, Love's a mighty lord, And hath so humbled me, as, I confess, There is no woe to his correction, Nor to his service no such joy on earth. Now no discourse, except it be of love; Now can I break my fast, dine, sup and sleep, Upon the very naked name of love."
         },
         {
             "speaker": "proteus",
-            "text": "Enough I read your fortune in your eye. Was this the idol that you worship so"
+            "text": "Enough; I read your fortune in your eye. Was this the idol that you worship so?"
         },
         {
             "speaker": "valentine",
-            "text": "Even she and is she not a heavenly saint"
+            "text": "Even she; and is she not a heavenly saint?"
         },
         {
             "speaker": "proteus",
-            "text": "No but she is an earthly paragon."
+            "text": "No; but she is an earthly paragon."
         },
         {
             "speaker": "valentine",
@@ -349,7 +349,7 @@
         },
         {
             "speaker": "valentine",
-            "text": "O, flatter me for love delights in praises."
+            "text": "O, flatter me; for love delights in praises."
         },
         {
             "speaker": "proteus",
@@ -357,7 +357,7 @@
         },
         {
             "speaker": "valentine",
-            "text": "Then speak the truth by her if not divine, Yet let her be a principality, Sovereign to all the creatures on the earth."
+            "text": "Then speak the truth by her; if not divine, Yet let her be a principality, Sovereign to all the creatures on the earth."
         },
         {
             "speaker": "proteus",
@@ -365,23 +365,23 @@
         },
         {
             "speaker": "valentine",
-            "text": "Sweet, except not any Except thou wilt except against my love."
+            "text": "Sweet, except not any; Except thou wilt except against my love."
         },
         {
             "speaker": "proteus",
-            "text": "Have I not reason to prefer mine own"
+            "text": "Have I not reason to prefer mine own?"
         },
         {
             "speaker": "valentine",
-            "text": "And I will help thee to prefer her too: She shall be dignified with this high honour To bear my ladys train, lest the base earth Should from her vesture chance to steal a kiss And, of so great a favour growing proud, Disdain to root the summerswelling flower And make rough winter everlastingly."
+            "text": "And I will help thee to prefer her too: She shall be dignified with this high honour-- To bear my lady's train, lest the base earth Should from her vesture chance to steal a kiss And, of so great a favour growing proud, Disdain to root the summer-swelling flower And make rough winter everlastingly."
         },
         {
             "speaker": "proteus",
-            "text": "Why, Valentine, what braggardism is this"
+            "text": "Why, Valentine, what braggardism is this?"
         },
         {
             "speaker": "valentine",
-            "text": "Pardon me, Proteus: all I can is nothing To her whose worth makes other worthies nothing She is alone."
+            "text": "Pardon me, Proteus: all I can is nothing To her whose worth makes other worthies nothing; She is alone."
         },
         {
             "speaker": "proteus",
@@ -389,27 +389,27 @@
         },
         {
             "speaker": "valentine",
-            "text": "Not for the world: why, man, she is mine own, And I as rich in having such a jewel As twenty seas, if all their sand were pearl, The water nectar and the rocks pure gold. Forgive me that I do not dream on thee, Because thou seest me dote upon my love. My foolish rival, that her father likes Only for his possessions are so huge, Is gone with her along, and I must after, For love, thou knowst, is full of jealousy."
+            "text": "Not for the world: why, man, she is mine own, And I as rich in having such a jewel As twenty seas, if all their sand were pearl, The water nectar and the rocks pure gold. Forgive me that I do not dream on thee, Because thou see'st me dote upon my love. My foolish rival, that her father likes Only for his possessions are so huge, Is gone with her along, and I must after, For love, thou know'st, is full of jealousy."
         },
         {
             "speaker": "proteus",
-            "text": "But she loves you"
+            "text": "But she loves you?"
         },
         {
             "speaker": "valentine",
-            "text": "Ay, and we are betrothd: nay, more, our, marriagehour, With all the cunning manner of our flight, Determined of how I must climb her window, The ladder made of cords, and all the means Plotted and greed on for my happiness. Good Proteus, go with me to my chamber, In these affairs to aid me with thy counsel."
+            "text": "Ay, and we are betroth'd: nay, more, our, marriage-hour, With all the cunning manner of our flight, Determined of; how I must climb her window, The ladder made of cords, and all the means Plotted and 'greed on for my happiness. Good Proteus, go with me to my chamber, In these affairs to aid me with thy counsel."
         },
         {
             "speaker": "proteus",
-            "text": "Go on before I shall inquire you forth: I must unto the road, to disembark Some necessaries that I needs must use, And then Ill presently attend you."
+            "text": "Go on before; I shall inquire you forth: I must unto the road, to disembark Some necessaries that I needs must use, And then I'll presently attend you."
         },
         {
             "speaker": "valentine",
-            "text": "Will you make haste"
+            "text": "Will you make haste?"
         },
         {
             "speaker": "proteus",
-            "text": "I will. Even as one heat another heat expels, Or as one nail by strength drives out another, So the remembrance of my former love Is by a newer object quite forgotten. Is it mine, or Valentines praise, Her true perfection, or my false transgression, That makes me reasonless to reason thus She is fair and so is Julia that I love That I did love, for now my love is thawd Which, like a waxen image, gainst a fire, Bears no impression of the thing it was. Methinks my zeal to Valentine is cold, And that I love him not as I was wont. O, but I love his lady too too much, And thats the reason I love him so little. How shall I dote on her with more advice, That thus without advice begin to love her! Tis but her picture I have yet beheld, And that hath dazzled my reasons light But when I look on her perfections, There is no reason but I shall be blind. If I can cheque my erring love, I will If not, to compass her Ill use my skill."
+            "text": "I will. Even as one heat another heat expels, Or as one nail by strength drives out another, So the remembrance of my former love Is by a newer object quite forgotten. Is it mine, or Valentine's praise, Her true perfection, or my false transgression, That makes me reasonless to reason thus? She is fair; and so is Julia that I love-- That I did love, for now my love is thaw'd; Which, like a waxen image, 'gainst a fire, Bears no impression of the thing it was. Methinks my zeal to Valentine is cold, And that I love him not as I was wont. O, but I love his lady too too much, And that's the reason I love him so little. How shall I dote on her with more advice, That thus without advice begin to love her! 'Tis but her picture I have yet beheld, And that hath dazzled my reason's light; But when I look on her perfections, There is no reason but I shall be blind. If I can cheque my erring love, I will; If not, to compass her I'll use my skill."
         },
         {
             "text": "Exit VALENTINE"

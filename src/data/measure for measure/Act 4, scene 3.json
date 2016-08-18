@@ -8,7 +8,7 @@
         },
         {
             "speaker": "pompey",
-            "text": "I am as well acquainted here as I was in our house of profession: one would think it were Mistress Overdones own house, for here be many of her old customers. First, heres young Master Rash hes in for a commodity of brown paper and old ginger, ninescore and seventeen pounds of which he made five marks, ready money: marry, then ginger was not much in request, for the old women were all dead. Then is there here one Master Caper, at the suit of Master Threepile the mercer, for some four suits of peachcoloured satin, which now peaches him a beggar. Then have we here young Dizy, and young Master Deepvow, and Master Copperspur, and Master Starvelackey the rapier and dagger man, and young Dropheir that killed lusty Pudding, and Master Forthlight the tilter, and brave Master Shooty the great traveller, and wild Halfcan that stabbed Pots, and, I think, forty more all great doers in our trade, and are now for the Lords sake."
+            "text": "I am as well acquainted here as I was in our house of profession: one would think it were Mistress Overdone's own house, for here be many of her old customers. First, here's young Master Rash; he's in for a commodity of brown paper and old ginger, ninescore and seventeen pounds; of which he made five marks, ready money: marry, then ginger was not much in request, for the old women were all dead. Then is there here one Master Caper, at the suit of Master Three-pile the mercer, for some four suits of peach-coloured satin, which now peaches him a beggar. Then have we here young Dizy, and young Master Deep-vow, and Master Copperspur, and Master Starve-lackey the rapier and dagger man, and young Drop-heir that killed lusty Pudding, and Master Forthlight the tilter, and brave Master Shooty the great traveller, and wild Half-can that stabbed Pots, and, I think, forty more; all great doers in our trade, and are now 'for the Lord's sake.'"
         },
         {
             "text": "Enter ABHORSON"
@@ -27,11 +27,11 @@
         },
         {
             "speaker": "barnardine",
-            "text": "[Within]  A pox o your throats! Who makes that noise there What are you"
+            "text": "[Within]  A pox o' your throats! Who makes that noise there? What are you?"
         },
         {
             "speaker": "pompey",
-            "text": "Your friends, sir the hangman. You must be so good, sir, to rise and be put to death."
+            "text": "Your friends, sir; the hangman. You must be so good, sir, to rise and be put to death."
         },
         {
             "speaker": "barnardine",
@@ -51,11 +51,11 @@
         },
         {
             "speaker": "pompey",
-            "text": "He is coming, sir, he is coming I hear his straw rustle."
+            "text": "He is coming, sir, he is coming; I hear his straw rustle."
         },
         {
             "speaker": "abhorson",
-            "text": "Is the axe upon the block, sirrah"
+            "text": "Is the axe upon the block, sirrah?"
         },
         {
             "speaker": "pompey",
@@ -66,23 +66,23 @@
         },
         {
             "speaker": "barnardine",
-            "text": "How now, Abhorson whats the news with you"
+            "text": "How now, Abhorson? what's the news with you?"
         },
         {
             "speaker": "abhorson",
-            "text": "Truly, sir, I would desire you to clap into your prayers for, look you, the warrants come."
+            "text": "Truly, sir, I would desire you to clap into your prayers; for, look you, the warrant's come."
         },
         {
             "speaker": "barnardine",
-            "text": "You rogue, I have been drinking all night I am not fitted for t."
+            "text": "You rogue, I have been drinking all night; I am not fitted for 't."
         },
         {
             "speaker": "pompey",
-            "text": "O, the better, sir for he that drinks all night, and is hanged betimes in the morning, may sleep the sounder all the next day."
+            "text": "O, the better, sir; for he that drinks all night, and is hanged betimes in the morning, may sleep the sounder all the next day."
         },
         {
             "speaker": "abhorson",
-            "text": "Look you, sir here comes your ghostly father: do we jest now, think you"
+            "text": "Look you, sir; here comes your ghostly father: do we jest now, think you?"
         },
         {
             "text": "Enter DUKE VINCENTIO disguised as before"
@@ -93,7 +93,7 @@
         },
         {
             "speaker": "barnardine",
-            "text": "Friar, not II have been drinking hard all night, and I will have more time to prepare me, or they shall beat out my brains with billets: I will not consent to die this day, thats certain."
+            "text": "Friar, not I I have been drinking hard all night, and I will have more time to prepare me, or they shall beat out my brains with billets: I will not consent to die this day, that's certain."
         },
         {
             "speaker": "duke vincentio",
@@ -101,7 +101,7 @@
         },
         {
             "speaker": "barnardine",
-            "text": "I swear I will not die today for any mans persuasion."
+            "text": "I swear I will not die to-day for any man's persuasion."
         },
         {
             "speaker": "duke vincentio",
@@ -109,40 +109,40 @@
         },
         {
             "speaker": "barnardine",
-            "text": "Not a word: if you have any thing to say to me, come to my ward for thence will not I today."
+            "text": "Not a word: if you have any thing to say to me, come to my ward; for thence will not I to-day."
         },
         {
             "text": "Exit"
         },
         {
             "speaker": "duke vincentio",
-            "text": "Unfit to live or die: O gravel heart! After him, fellows bring him to the block."
+            "text": "Unfit to live or die: O gravel heart! After him, fellows; bring him to the block."
         },
         {
             "text": "Exeunt ABHORSON and POMPEY"
         },
         {
-            "text": "Reenter Provost"
+            "text": "Re-enter Provost"
         },
         {
             "speaker": "provost",
-            "text": "Now, sir, how do you find the prisoner"
+            "text": "Now, sir, how do you find the prisoner?"
         },
         {
             "speaker": "duke vincentio",
-            "text": "A creature unprepared, unmeet for death And to transport him in the mind he is Were damnable."
+            "text": "A creature unprepared, unmeet for death; And to transport him in the mind he is Were damnable."
         },
         {
             "speaker": "provost",
-            "text": "Here in the prison, father, There died this morning of a cruel fever One Ragozine, a most notorious pirate, A man of Claudios years his beard and head Just of his colour. What if we do omit This reprobate till he were well inclined And satisfy the deputy with the visage Of Ragozine, more like to Claudio"
+            "text": "Here in the prison, father, There died this morning of a cruel fever One Ragozine, a most notorious pirate, A man of Claudio's years; his beard and head Just of his colour. What if we do omit This reprobate till he were well inclined; And satisfy the deputy with the visage Of Ragozine, more like to Claudio?"
         },
         {
             "speaker": "duke vincentio",
-            "text": "O, tis an accident that heaven provides! Dispatch it presently the hour draws on Prefixd by Angelo: see this be done, And sent according to command whiles I Persuade this rude wretch willingly to die."
+            "text": "O, 'tis an accident that heaven provides! Dispatch it presently; the hour draws on Prefix'd by Angelo: see this be done, And sent according to command; whiles I Persuade this rude wretch willingly to die."
         },
         {
             "speaker": "provost",
-            "text": "This shall be done, good father, presently. But Barnardine must die this afternoon: And how shall we continue Claudio, To save me from the danger that might come If he were known alive"
+            "text": "This shall be done, good father, presently. But Barnardine must die this afternoon: And how shall we continue Claudio, To save me from the danger that might come If he were known alive?"
         },
         {
             "speaker": "duke vincentio",
@@ -154,25 +154,25 @@
         },
         {
             "speaker": "duke vincentio",
-            "text": "Quick, dispatch, and send the head to Angelo. Now will I write letters to Angelo, The provost, he shall bear them, whose contents Shall witness to him I am near at home, And that, by great injunctions, I am bound To enter publicly: him Ill desire To meet me at the consecrated fount A league below the city and from thence, By cold gradation and wellbalanced form, We shall proceed with Angelo."
+            "text": "Quick, dispatch, and send the head to Angelo. Now will I write letters to Angelo,-- The provost, he shall bear them, whose contents Shall witness to him I am near at home, And that, by great injunctions, I am bound To enter publicly: him I'll desire To meet me at the consecrated fount A league below the city; and from thence, By cold gradation and well-balanced form, We shall proceed with Angelo."
         },
         {
             "text": "Exit Provost"
         },
         {
-            "text": "Reenter Provost"
+            "text": "Re-enter Provost"
         },
         {
             "speaker": "provost",
-            "text": "Here is the head Ill carry it myself."
+            "text": "Here is the head; I'll carry it myself."
         },
         {
             "speaker": "duke vincentio",
-            "text": "Convenient is it. Make a swift return For I would commune with you of such things That want no ear but yours."
+            "text": "Convenient is it. Make a swift return; For I would commune with you of such things That want no ear but yours."
         },
         {
             "speaker": "provost",
-            "text": "Ill make all speed."
+            "text": "I'll make all speed."
         },
         {
             "text": "Exit"
@@ -183,7 +183,7 @@
         },
         {
             "speaker": "duke vincentio",
-            "text": "The tongue of Isabel. Shes come to know If yet her brothers pardon be come hither: But I will keep her ignorant of her good, To make her heavenly comforts of despair, When it is least expected."
+            "text": "The tongue of Isabel. She's come to know If yet her brother's pardon be come hither: But I will keep her ignorant of her good, To make her heavenly comforts of despair, When it is least expected."
         },
         {
             "text": "Enter ISABELLA"
@@ -198,7 +198,7 @@
         },
         {
             "speaker": "isabella",
-            "text": "The better, given me by so holy a man. Hath yet the deputy sent my brothers pardon"
+            "text": "The better, given me by so holy a man. Hath yet the deputy sent my brother's pardon?"
         },
         {
             "speaker": "duke vincentio",
@@ -226,7 +226,7 @@
         },
         {
             "speaker": "duke vincentio",
-            "text": "This nor hurts him nor profits you a jot Forbear it therefore give your cause to heaven. Mark what I say, which you shall find By every syllable a faithful verity: The duke comes home tomorrow nay, dry your eyes One of our convent, and his confessor, Gives me this instance: already he hath carried Notice to Escalus and Angelo, Who do prepare to meet him at the gates, There to give up their power. If you can, pace your wisdom In that good path that I would wish it go, And you shall have your bosom on this wretch, Grace of the duke, revenges to your heart, And general honour."
+            "text": "This nor hurts him nor profits you a jot; Forbear it therefore; give your cause to heaven. Mark what I say, which you shall find By every syllable a faithful verity: The duke comes home to-morrow; nay, dry your eyes; One of our convent, and his confessor, Gives me this instance: already he hath carried Notice to Escalus and Angelo, Who do prepare to meet him at the gates, There to give up their power. If you can, pace your wisdom In that good path that I would wish it go, And you shall have your bosom on this wretch, Grace of the duke, revenges to your heart, And general honour."
         },
         {
             "speaker": "isabella",
@@ -234,14 +234,14 @@
         },
         {
             "speaker": "duke vincentio",
-            "text": "This letter, then, to Friar Peter give Tis that he sent me of the dukes return: Say, by this token, I desire his company At Marianas house tonight. Her cause and yours Ill perfect him withal, and he shall bring you Before the duke, and to the head of Angelo Accuse him home and home. For my poor self, I am combined by a sacred vow And shall be absent. Wend you with this letter: Command these fretting waters from your eyes With a light heart trust not my holy order, If I pervert your course. Whos here"
+            "text": "This letter, then, to Friar Peter give; 'Tis that he sent me of the duke's return: Say, by this token, I desire his company At Mariana's house to-night. Her cause and yours I'll perfect him withal, and he shall bring you Before the duke, and to the head of Angelo Accuse him home and home. For my poor self, I am combined by a sacred vow And shall be absent. Wend you with this letter: Command these fretting waters from your eyes With a light heart; trust not my holy order, If I pervert your course. Who's here?"
         },
         {
             "text": "Enter LUCIO"
         },
         {
             "speaker": "lucio",
-            "text": "Good even. Friar, wheres the provost"
+            "text": "Good even. Friar, where's the provost?"
         },
         {
             "speaker": "duke vincentio",
@@ -249,30 +249,30 @@
         },
         {
             "speaker": "lucio",
-            "text": "O pretty Isabella, I am pale at mine heart to see thine eyes so red: thou must be patient. I am fain to dine and sup with water and bran I dare not for my head fill my belly one fruitful meal would set me to t. But they say the duke will be here tomorrow. By my troth, Isabel, I loved thy brother: if the old fantastical duke of dark corners had been at home, he had lived."
+            "text": "O pretty Isabella, I am pale at mine heart to see thine eyes so red: thou must be patient. I am fain to dine and sup with water and bran; I dare not for my head fill my belly; one fruitful meal would set me to 't. But they say the duke will be here to-morrow. By my troth, Isabel, I loved thy brother: if the old fantastical duke of dark corners had been at home, he had lived."
         },
         {
             "text": "Exit ISABELLA"
         },
         {
             "speaker": "duke vincentio",
-            "text": "Sir, the duke is marvellous little beholding to your reports but the best is, he lives not in them."
+            "text": "Sir, the duke is marvellous little beholding to your reports; but the best is, he lives not in them."
         },
         {
             "speaker": "lucio",
-            "text": "Friar, thou knowest not the duke so well as I do: hes a better woodman than thou takest him for."
+            "text": "Friar, thou knowest not the duke so well as I do: he's a better woodman than thou takest him for."
         },
         {
             "speaker": "duke vincentio",
-            "text": "Well, youll answer this one day. Fare ye well."
+            "text": "Well, you'll answer this one day. Fare ye well."
         },
         {
             "speaker": "lucio",
-            "text": "Nay, tarry Ill go along with thee I can tell thee pretty tales of the duke."
+            "text": "Nay, tarry; I'll go along with thee I can tell thee pretty tales of the duke."
         },
         {
             "speaker": "duke vincentio",
-            "text": "You have told me too many of him already, sir, if they be true if not true, none were enough."
+            "text": "You have told me too many of him already, sir, if they be true; if not true, none were enough."
         },
         {
             "speaker": "lucio",
@@ -280,11 +280,11 @@
         },
         {
             "speaker": "duke vincentio",
-            "text": "Did you such a thing"
+            "text": "Did you such a thing?"
         },
         {
             "speaker": "lucio",
-            "text": "Yes, marry, did Ibut I was fain to forswear it they would else have married me to the rotten medlar."
+            "text": "Yes, marry, did I but I was fain to forswear it; they would else have married me to the rotten medlar."
         },
         {
             "speaker": "duke vincentio",
@@ -292,7 +292,7 @@
         },
         {
             "speaker": "lucio",
-            "text": "By my troth, Ill go with thee to the lanes end: if bawdy talk offend you, well have very little of it. Nay, friar, I am a kind of burr I shall stick."
+            "text": "By my troth, I'll go with thee to the lane's end: if bawdy talk offend you, we'll have very little of it. Nay, friar, I am a kind of burr; I shall stick."
         },
         {
             "text": "Exeunt"

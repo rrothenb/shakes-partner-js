@@ -1,14 +1,14 @@
 {
     "sceneName": "Act 2, scene 7",
     "playName": "two gentlemen of verona",
-    "location": "Verona. JULIAS house.",
+    "location": "Verona. JULIA'S house.",
     "lines": [
         {
             "text": "Enter JULIA and LUCETTA"
         },
         {
             "speaker": "julia",
-            "text": "Counsel, Lucetta gentle girl, assist me And even in kind love I do conjure thee, Who art the table wherein all my thoughts Are visibly characterd and engraved, To lesson me and tell me some good mean How, with my honour, I may undertake A journey to my loving Proteus."
+            "text": "Counsel, Lucetta; gentle girl, assist me; And even in kind love I do conjure thee, Who art the table wherein all my thoughts Are visibly character'd and engraved, To lesson me and tell me some good mean How, with my honour, I may undertake A journey to my loving Proteus."
         },
         {
             "speaker": "lucetta",
@@ -16,7 +16,7 @@
         },
         {
             "speaker": "julia",
-            "text": "A truedevoted pilgrim is not weary To measure kingdoms with his feeble steps Much less shall she that hath Loves wings to fly, And when the flight is made to one so dear, Of such divine perfection, as Sir Proteus."
+            "text": "A true-devoted pilgrim is not weary To measure kingdoms with his feeble steps; Much less shall she that hath Love's wings to fly, And when the flight is made to one so dear, Of such divine perfection, as Sir Proteus."
         },
         {
             "speaker": "lucetta",
@@ -24,23 +24,23 @@
         },
         {
             "speaker": "julia",
-            "text": "O, knowst thou not his looks are my souls food Pity the dearth that I have pined in, By longing for that food so long a time. Didst thou but know the inly touch of love, Thou wouldst as soon go kindle fire with snow As seek to quench the fire of love with words."
+            "text": "O, know'st thou not his looks are my soul's food? Pity the dearth that I have pined in, By longing for that food so long a time. Didst thou but know the inly touch of love, Thou wouldst as soon go kindle fire with snow As seek to quench the fire of love with words."
         },
         {
             "speaker": "lucetta",
-            "text": "I do not seek to quench your loves hot fire, But qualify the fires extreme rage, Lest it should burn above the bounds of reason."
+            "text": "I do not seek to quench your love's hot fire, But qualify the fire's extreme rage, Lest it should burn above the bounds of reason."
         },
         {
             "speaker": "julia",
-            "text": "The more thou dammst it up, the more it burns. The current that with gentle murmur glides, Thou knowst, being stoppd, impatiently doth rage But when his fair course is not hindered, He makes sweet music with the enamelled stones, Giving a gentle kiss to every sedge He overtaketh in his pilgrimage, And so by many winding nooks he strays With willing sport to the wild ocean. Then let me go and hinder not my course Ill be as patient as a gentle stream And make a pastime of each weary step, Till the last step have brought me to my love And there Ill rest, as after much turmoil A blessed soul doth in Elysium."
+            "text": "The more thou damm'st it up, the more it burns. The current that with gentle murmur glides, Thou know'st, being stopp'd, impatiently doth rage; But when his fair course is not hindered, He makes sweet music with the enamell'ed stones, Giving a gentle kiss to every sedge He overtaketh in his pilgrimage, And so by many winding nooks he strays With willing sport to the wild ocean. Then let me go and hinder not my course I'll be as patient as a gentle stream And make a pastime of each weary step, Till the last step have brought me to my love; And there I'll rest, as after much turmoil A blessed soul doth in Elysium."
         },
         {
             "speaker": "lucetta",
-            "text": "But in what habit will you go along"
+            "text": "But in what habit will you go along?"
         },
         {
             "speaker": "julia",
-            "text": "Not like a woman for I would prevent The loose encounters of lascivious men: Gentle Lucetta, fit me with such weeds As may beseem some wellreputed page."
+            "text": "Not like a woman; for I would prevent The loose encounters of lascivious men: Gentle Lucetta, fit me with such weeds As may beseem some well-reputed page."
         },
         {
             "speaker": "lucetta",
@@ -48,15 +48,15 @@
         },
         {
             "speaker": "julia",
-            "text": "No, girl, Ill knit it up in silken strings With twenty oddconceited truelove knots. To be fantastic may become a youth Of greater time than I shall show to be."
+            "text": "No, girl, I'll knit it up in silken strings With twenty odd-conceited true-love knots. To be fantastic may become a youth Of greater time than I shall show to be."
         },
         {
             "speaker": "lucetta",
-            "text": "What fashion, madam shall I make your breeches"
+            "text": "What fashion, madam shall I make your breeches?"
         },
         {
             "speaker": "julia",
-            "text": "That fits as well as Tell me, good my lord, What compass will you wear your farthingale Why even what fashion thou best likest, Lucetta."
+            "text": "That fits as well as 'Tell me, good my lord, What compass will you wear your farthingale?' Why even what fashion thou best likest, Lucetta."
         },
         {
             "speaker": "lucetta",
@@ -64,15 +64,15 @@
         },
         {
             "speaker": "julia",
-            "text": "Out, out, Lucetta! that would be illfavourd."
+            "text": "Out, out, Lucetta! that would be ill-favour'd."
         },
         {
             "speaker": "lucetta",
-            "text": "A round hose, madam, nows not worth a pin, Unless you have a codpiece to stick pins on."
+            "text": "A round hose, madam, now's not worth a pin, Unless you have a codpiece to stick pins on."
         },
         {
             "speaker": "julia",
-            "text": "Lucetta, as thou lovest me, let me have What thou thinkest meet and is most mannerly. But tell me, wench, how will the world repute me For undertaking so unstaid a journey I fear me, it will make me scandalized."
+            "text": "Lucetta, as thou lovest me, let me have What thou thinkest meet and is most mannerly. But tell me, wench, how will the world repute me For undertaking so unstaid a journey? I fear me, it will make me scandalized."
         },
         {
             "speaker": "lucetta",
@@ -84,7 +84,7 @@
         },
         {
             "speaker": "lucetta",
-            "text": "Then never dream on infamy, but go. If Proteus like your journey when you come, No matter whos displeased when you are gone: I fear me, he will scarce be pleased withal."
+            "text": "Then never dream on infamy, but go. If Proteus like your journey when you come, No matter who's displeased when you are gone: I fear me, he will scarce be pleased withal."
         },
         {
             "speaker": "julia",
@@ -96,7 +96,7 @@
         },
         {
             "speaker": "julia",
-            "text": "Base men, that use them to so base effect! But truer stars did govern Proteus birth His words are bonds, his oaths are oracles, His love sincere, his thoughts immaculate, His tears pure messengers sent from his heart, His heart as far from fraud as heaven from earth."
+            "text": "Base men, that use them to so base effect! But truer stars did govern Proteus' birth His words are bonds, his oaths are oracles, His love sincere, his thoughts immaculate, His tears pure messengers sent from his heart, His heart as far from fraud as heaven from earth."
         },
         {
             "speaker": "lucetta",
@@ -104,7 +104,7 @@
         },
         {
             "speaker": "julia",
-            "text": "Now, as thou lovest me, do him not that wrong To bear a hard opinion of his truth: Only deserve my love by loving him And presently go with me to my chamber, To take a note of what I stand in need of, To furnish me upon my longing journey. All that is mine I leave at thy dispose, My goods, my lands, my reputation Only, in lieu thereof, dispatch me hence. Come, answer not, but to it presently! I am impatient of my tarriance."
+            "text": "Now, as thou lovest me, do him not that wrong To bear a hard opinion of his truth: Only deserve my love by loving him; And presently go with me to my chamber, To take a note of what I stand in need of, To furnish me upon my longing journey. All that is mine I leave at thy dispose, My goods, my lands, my reputation; Only, in lieu thereof, dispatch me hence. Come, answer not, but to it presently! I am impatient of my tarriance."
         },
         {
             "text": "Exeunt"

@@ -1,30 +1,30 @@
 {
     "sceneName": "Act 4, scene 3",
     "playName": "taming of the shrew",
-    "location": "A room in PETRUCHIOS house.",
+    "location": "A room in PETRUCHIO'S house.",
     "lines": [
         {
             "text": "Enter KATHARINA and GRUMIO"
         },
         {
             "speaker": "grumio",
-            "text": "No, no, forsooth I dare not for my life."
+            "text": "No, no, forsooth; I dare not for my life."
         },
         {
             "speaker": "katharina",
-            "text": "The more my wrong, the more his spite appears: What, did he marry me to famish me Beggars, that come unto my fathers door, Upon entreaty have a present aims If not, elsewhere they meet with charity: But I, who never knew how to entreat, Nor never needed that I should entreat, Am starved for meat, giddy for lack of sleep, With oath kept waking and with brawling fed: And that which spites me more than all these wants, He does it under name of perfect love As who should say, if I should sleep or eat, Twere deadly sickness or else present death. I prithee go and get me some repast I care not what, so it be wholesome food."
+            "text": "The more my wrong, the more his spite appears: What, did he marry me to famish me? Beggars, that come unto my father's door, Upon entreaty have a present aims; If not, elsewhere they meet with charity: But I, who never knew how to entreat, Nor never needed that I should entreat, Am starved for meat, giddy for lack of sleep, With oath kept waking and with brawling fed: And that which spites me more than all these wants, He does it under name of perfect love; As who should say, if I should sleep or eat, 'Twere deadly sickness or else present death. I prithee go and get me some repast; I care not what, so it be wholesome food."
         },
         {
             "speaker": "grumio",
-            "text": "What say you to a neats foot"
+            "text": "What say you to a neat's foot?"
         },
         {
             "speaker": "katharina",
-            "text": "Tis passing good: I prithee let me have it."
+            "text": "'Tis passing good: I prithee let me have it."
         },
         {
             "speaker": "grumio",
-            "text": "I fear it is too choleric a meat. How say you to a fat tripe finely broild"
+            "text": "I fear it is too choleric a meat. How say you to a fat tripe finely broil'd?"
         },
         {
             "speaker": "katharina",
@@ -32,7 +32,7 @@
         },
         {
             "speaker": "grumio",
-            "text": "I cannot tell I fear tis choleric. What say you to a piece of beef and mustard"
+            "text": "I cannot tell; I fear 'tis choleric. What say you to a piece of beef and mustard?"
         },
         {
             "speaker": "katharina",
@@ -60,7 +60,7 @@
         },
         {
             "speaker": "katharina",
-            "text": "Go, get thee gone, thou false deluding slave, That feedst me with the very name of meat: Sorrow on thee and all the pack of you, That triumph thus upon my misery! Go, get thee gone, I say."
+            "text": "Go, get thee gone, thou false deluding slave, That feed'st me with the very name of meat: Sorrow on thee and all the pack of you, That triumph thus upon my misery! Go, get thee gone, I say."
         },
         {
             "text": "Beats him"
@@ -70,11 +70,11 @@
         },
         {
             "speaker": "petruchio",
-            "text": "How fares my Kate What, sweeting, all amort"
+            "text": "How fares my Kate? What, sweeting, all amort?"
         },
         {
             "speaker": "hortensio",
-            "text": "Mistress, what cheer"
+            "text": "Mistress, what cheer?"
         },
         {
             "speaker": "katharina",
@@ -82,7 +82,7 @@
         },
         {
             "speaker": "petruchio",
-            "text": "Pluck up thy spirits look cheerfully upon me. Here love thou seest how diligent I am To dress thy meat myself and bring it thee: I am sure, sweet Kate, this kindness merits thanks. What, not a word Nay, then thou lovest it not And all my pains is sorted to no proof. Here, take away this dish."
+            "text": "Pluck up thy spirits; look cheerfully upon me. Here love; thou see'st how diligent I am To dress thy meat myself and bring it thee: I am sure, sweet Kate, this kindness merits thanks. What, not a word? Nay, then thou lovest it not; And all my pains is sorted to no proof. Here, take away this dish."
         },
         {
             "speaker": "katharina",
@@ -90,7 +90,7 @@
         },
         {
             "speaker": "petruchio",
-            "text": "The poorest service is repaid with thanks And so shall mine, before you touch the meat."
+            "text": "The poorest service is repaid with thanks; And so shall mine, before you touch the meat."
         },
         {
             "speaker": "katharina",
@@ -98,11 +98,11 @@
         },
         {
             "speaker": "hortensio",
-            "text": "Signior Petruchio, fie! you are to blame. Come, mistress Kate, Ill bear you company."
+            "text": "Signior Petruchio, fie! you are to blame. Come, mistress Kate, I'll bear you company."
         },
         {
             "speaker": "petruchio",
-            "text": "[Aside]  Eat it up all, Hortensio, if thou lovest me. Much good do it unto thy gentle heart! Kate, eat apace: and now, my honey love, Will we return unto thy fathers house And revel it as bravely as the best, With silken coats and caps and golden rings, With ruffs and cuffs and fardingales and things With scarfs and fans and double change of bravery, With amber bracelets, beads and all this knavery. What, hast thou dined The tailor stays thy leisure, To deck thy body with his ruffling treasure. Come, tailor, let us see these ornaments Lay forth the gown. What news with you, sir"
+            "text": "[Aside]  Eat it up all, Hortensio, if thou lovest me. Much good do it unto thy gentle heart! Kate, eat apace: and now, my honey love, Will we return unto thy father's house And revel it as bravely as the best, With silken coats and caps and golden rings, With ruffs and cuffs and fardingales and things; With scarfs and fans and double change of bravery, With amber bracelets, beads and all this knavery. What, hast thou dined? The tailor stays thy leisure, To deck thy body with his ruffling treasure. Come, tailor, let us see these ornaments; Lay forth the gown. What news with you, sir?"
         },
         {
             "text": "Enter Tailor"
@@ -116,11 +116,11 @@
         },
         {
             "speaker": "petruchio",
-            "text": "Why, this was moulded on a porringer A velvet dish: fie, fie! tis lewd and filthy: Why, tis a cockle or a walnutshell, A knack, a toy, a trick, a babys cap: Away with it! come, let me have a bigger."
+            "text": "Why, this was moulded on a porringer; A velvet dish: fie, fie! 'tis lewd and filthy: Why, 'tis a cockle or a walnut-shell, A knack, a toy, a trick, a baby's cap: Away with it! come, let me have a bigger."
         },
         {
             "speaker": "katharina",
-            "text": "Ill have no bigger: this doth fit the time, And gentlewomen wear such caps as these"
+            "text": "I'll have no bigger: this doth fit the time, And gentlewomen wear such caps as these"
         },
         {
             "speaker": "petruchio",
@@ -132,26 +132,26 @@
         },
         {
             "speaker": "katharina",
-            "text": "Why, sir, I trust I may have leave to speak And speak I will I am no child, no babe: Your betters have endured me say my mind, And if you cannot, best you stop your ears. My tongue will tell the anger of my heart, Or else my heart concealing it will break, And rather than it shall, I will be free Even to the uttermost, as I please, in words."
+            "text": "Why, sir, I trust I may have leave to speak; And speak I will; I am no child, no babe: Your betters have endured me say my mind, And if you cannot, best you stop your ears. My tongue will tell the anger of my heart, Or else my heart concealing it will break, And rather than it shall, I will be free Even to the uttermost, as I please, in words."
         },
         {
             "speaker": "petruchio",
-            "text": "Why, thou sayst true it is a paltry cap, A custardcoffin, a bauble, a silken pie: I love thee well, in that thou likest it not."
+            "text": "Why, thou say'st true; it is a paltry cap, A custard-coffin, a bauble, a silken pie: I love thee well, in that thou likest it not."
         },
         {
             "speaker": "katharina",
-            "text": "Love me or love me not, I like the cap And it I will have, or I will have none."
+            "text": "Love me or love me not, I like the cap; And it I will have, or I will have none."
         },
         {
             "text": "Exit Haberdasher"
         },
         {
             "speaker": "petruchio",
-            "text": "Thy gown why, ay: come, tailor, let us seet. O mercy, God! what masquing stuff is here Whats this a sleeve tis like a demicannon: What, up and down, carved like an appletart Heres snip and nip and cut and slish and slash, Like to a censer in a barbers shop: Why, what, i devils name, tailor, callst thou this"
+            "text": "Thy gown? why, ay: come, tailor, let us see't. O mercy, God! what masquing stuff is here? What's this? a sleeve? 'tis like a demi-cannon: What, up and down, carved like an apple-tart? Here's snip and nip and cut and slish and slash, Like to a censer in a barber's shop: Why, what, i' devil's name, tailor, call'st thou this?"
         },
         {
             "speaker": "hortensio",
-            "text": "[Aside]  I see shes like to have neither cap nor gown."
+            "text": "[Aside]  I see she's like to have neither cap nor gown."
         },
         {
             "speaker": "tailor",
@@ -159,15 +159,15 @@
         },
         {
             "speaker": "petruchio",
-            "text": "Marry, and did but if you be rememberd, I did not bid you mar it to the time. Go, hop me over every kennel home, For you shall hop without my custom, sir: Ill none of it: hence! make your best of it."
+            "text": "Marry, and did; but if you be remember'd, I did not bid you mar it to the time. Go, hop me over every kennel home, For you shall hop without my custom, sir: I'll none of it: hence! make your best of it."
         },
         {
             "speaker": "katharina",
-            "text": "I never saw a betterfashiond gown, More quaint, more pleasing, nor more commendable: Belike you mean to make a puppet of me."
+            "text": "I never saw a better-fashion'd gown, More quaint, more pleasing, nor more commendable: Belike you mean to make a puppet of me."
         },
         {
             "speaker": "petruchio",
-            "text": "Why, true he means to make a puppet of thee."
+            "text": "Why, true; he means to make a puppet of thee."
         },
         {
             "speaker": "tailor",
@@ -175,19 +175,19 @@
         },
         {
             "speaker": "petruchio",
-            "text": "O monstrous arrogance! Thou liest, thou thread, thou thimble, Thou yard, threequarters, halfyard, quarter, nail! Thou flea, thou nit, thou wintercricket thou! Braved in mine own house with a skein of thread Away, thou rag, thou quantity, thou remnant Or I shall so bemete thee with thy yard As thou shalt think on prating whilst thou livest! I tell thee, I, that thou hast marrd her gown."
+            "text": "O monstrous arrogance! Thou liest, thou thread, thou thimble, Thou yard, three-quarters, half-yard, quarter, nail! Thou flea, thou nit, thou winter-cricket thou! Braved in mine own house with a skein of thread? Away, thou rag, thou quantity, thou remnant; Or I shall so be-mete thee with thy yard As thou shalt think on prating whilst thou livest! I tell thee, I, that thou hast marr'd her gown."
         },
         {
             "speaker": "tailor",
-            "text": "Your worship is deceived the gown is made Just as my master had direction: Grumio gave order how it should be done."
+            "text": "Your worship is deceived; the gown is made Just as my master had direction: Grumio gave order how it should be done."
         },
         {
             "speaker": "grumio",
-            "text": "I gave him no order I gave him the stuff."
+            "text": "I gave him no order; I gave him the stuff."
         },
         {
             "speaker": "tailor",
-            "text": "But how did you desire it should be made"
+            "text": "But how did you desire it should be made?"
         },
         {
             "speaker": "grumio",
@@ -195,7 +195,7 @@
         },
         {
             "speaker": "tailor",
-            "text": "But did you not request to have it cut"
+            "text": "But did you not request to have it cut?"
         },
         {
             "speaker": "grumio",
@@ -207,7 +207,7 @@
         },
         {
             "speaker": "grumio",
-            "text": "Face not me: thou hast braved many men brave not me I will neither be faced nor braved. I say unto thee, I bid thy master cut out the gown but I did not bid him cut it to pieces: ergo, thou liest."
+            "text": "Face not me: thou hast braved many men; brave not me; I will neither be faced nor braved. I say unto thee, I bid thy master cut out the gown; but I did not bid him cut it to pieces: ergo, thou liest."
         },
         {
             "speaker": "tailor",
@@ -219,15 +219,15 @@
         },
         {
             "speaker": "grumio",
-            "text": "The note lies ins throat, if he say I said so."
+            "text": "The note lies in's throat, if he say I said so."
         },
         {
             "speaker": "tailor",
-            "text": "[Reads]  Imprimis, a loosebodied gown:"
+            "text": "[Reads]  'Imprimis, a loose-bodied gown:'"
         },
         {
             "speaker": "grumio",
-            "text": "Master, if ever I said loosebodied gown, sew me in the skirts of it, and beat me to death with a bottom of brown thread: I said a gown."
+            "text": "Master, if ever I said loose-bodied gown, sew me in the skirts of it, and beat me to death with a bottom of brown thread: I said a gown."
         },
         {
             "speaker": "petruchio",
@@ -235,7 +235,7 @@
         },
         {
             "speaker": "tailor",
-            "text": "[Reads]  With a small compassed cape:"
+            "text": "[Reads]  'With a small compassed cape:'"
         },
         {
             "speaker": "grumio",
@@ -243,7 +243,7 @@
         },
         {
             "speaker": "tailor",
-            "text": "[Reads]  With a trunk sleeve:"
+            "text": "[Reads]  'With a trunk sleeve:'"
         },
         {
             "speaker": "grumio",
@@ -251,15 +251,15 @@
         },
         {
             "speaker": "tailor",
-            "text": "[Reads]  The sleeves curiously cut."
+            "text": "[Reads]  'The sleeves curiously cut.'"
         },
         {
             "speaker": "petruchio",
-            "text": "Ay, theres the villany."
+            "text": "Ay, there's the villany."
         },
         {
             "speaker": "grumio",
-            "text": "Error i the bill, sir error i the bill. I commanded the sleeves should be cut out and sewed up again and that Ill prove upon thee, though thy little finger be armed in a thimble."
+            "text": "Error i' the bill, sir; error i' the bill. I commanded the sleeves should be cut out and sewed up again; and that I'll prove upon thee, though thy little finger be armed in a thimble."
         },
         {
             "speaker": "tailor",
@@ -267,11 +267,11 @@
         },
         {
             "speaker": "grumio",
-            "text": "I am for thee straight: take thou the bill, give me thy meteyard, and spare not me."
+            "text": "I am for thee straight: take thou the bill, give me thy mete-yard, and spare not me."
         },
         {
             "speaker": "hortensio",
-            "text": "Godamercy, Grumio! then he shall have no odds."
+            "text": "God-a-mercy, Grumio! then he shall have no odds."
         },
         {
             "speaker": "petruchio",
@@ -279,46 +279,46 @@
         },
         {
             "speaker": "grumio",
-            "text": "You are i the right, sir: tis for my mistress."
+            "text": "You are i' the right, sir: 'tis for my mistress."
         },
         {
             "speaker": "petruchio",
-            "text": "Go, take it up unto thy masters use."
+            "text": "Go, take it up unto thy master's use."
         },
         {
             "speaker": "grumio",
-            "text": "Villain, not for thy life: take up my mistress gown for thy masters use!"
+            "text": "Villain, not for thy life: take up my mistress' gown for thy master's use!"
         },
         {
             "speaker": "petruchio",
-            "text": "Why, sir, whats your conceit in that"
+            "text": "Why, sir, what's your conceit in that?"
         },
         {
             "speaker": "grumio",
-            "text": "O, sir, the conceit is deeper than you think for: Take up my mistress gown to his masters use! O, fie, fie, fie!"
+            "text": "O, sir, the conceit is deeper than you think for: Take up my mistress' gown to his master's use! O, fie, fie, fie!"
         },
         {
             "speaker": "petruchio",
-            "text": "[Aside]  Hortensio, say thou wilt see the tailor paid. Go take it hence be gone, and say no more."
+            "text": "[Aside]  Hortensio, say thou wilt see the tailor paid. Go take it hence; be gone, and say no more."
         },
         {
             "speaker": "hortensio",
-            "text": "Tailor, Ill pay thee for thy gown tomorrow: Take no unkindness of his hasty words: Away! I say commend me to thy master."
+            "text": "Tailor, I'll pay thee for thy gown tomorrow: Take no unkindness of his hasty words: Away! I say; commend me to thy master."
         },
         {
             "text": "Exit Tailor"
         },
         {
             "speaker": "petruchio",
-            "text": "Well, come, my Kate we will unto your fathers Even in these honest mean habiliments: Our purses shall be proud, our garments poor For tis the mind that makes the body rich And as the sun breaks through the darkest clouds, So honour peereth in the meanest habit. What is the jay more precious than the lark, Because his fathers are more beautiful Or is the adder better than the eel, Because his painted skin contents the eye O, no, good Kate neither art thou the worse For this poor furniture and mean array. if thou accountst it shame. lay it on me And therefore frolic: we will hence forthwith, To feast and sport us at thy fathers house. Go, call my men, and let us straight to him And bring our horses unto Longlane end There will we mount, and thither walk on foot Lets see I think tis now some seven oclock, And well we may come there by dinnertime."
+            "text": "Well, come, my Kate; we will unto your father's Even in these honest mean habiliments: Our purses shall be proud, our garments poor; For 'tis the mind that makes the body rich; And as the sun breaks through the darkest clouds, So honour peereth in the meanest habit. What is the jay more precious than the lark, Because his fathers are more beautiful? Or is the adder better than the eel, Because his painted skin contents the eye? O, no, good Kate; neither art thou the worse For this poor furniture and mean array. if thou account'st it shame. lay it on me; And therefore frolic: we will hence forthwith, To feast and sport us at thy father's house. Go, call my men, and let us straight to him; And bring our horses unto Long-lane end; There will we mount, and thither walk on foot Let's see; I think 'tis now some seven o'clock, And well we may come there by dinner-time."
         },
         {
             "speaker": "katharina",
-            "text": "I dare assure you, sir, tis almost two And twill be suppertime ere you come there."
+            "text": "I dare assure you, sir, 'tis almost two; And 'twill be supper-time ere you come there."
         },
         {
             "speaker": "petruchio",
-            "text": "It shall be seven ere I go to horse: Look, what I speak, or do, or think to do, You are still crossing it. Sirs, lett alone: I will not go today and ere I do, It shall be what oclock I say it is."
+            "text": "It shall be seven ere I go to horse: Look, what I speak, or do, or think to do, You are still crossing it. Sirs, let't alone: I will not go to-day; and ere I do, It shall be what o'clock I say it is."
         },
         {
             "speaker": "hortensio",

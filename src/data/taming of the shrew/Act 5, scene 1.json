@@ -1,22 +1,22 @@
 {
     "sceneName": "Act 5, scene 1",
     "playName": "taming of the shrew",
-    "location": "Padua. Before LUCENTIOS house.",
+    "location": "Padua. Before LUCENTIO'S house.",
     "lines": [
         {
             "text": "GREMIO discovered. Enter behind BIONDELLO, LUCENTIO, and BIANCA"
         },
         {
             "speaker": "biondello",
-            "text": "Softly and swiftly, sir for the priest is ready."
+            "text": "Softly and swiftly, sir; for the priest is ready."
         },
         {
             "speaker": "lucentio",
-            "text": "I fly, Biondello: but they may chance to need thee at home therefore leave us."
+            "text": "I fly, Biondello: but they may chance to need thee at home; therefore leave us."
         },
         {
             "speaker": "biondello",
-            "text": "Nay, faith, Ill see the church o your back and then come back to my masters as soon as I can."
+            "text": "Nay, faith, I'll see the church o' your back; and then come back to my master's as soon as I can."
         },
         {
             "text": "Exeunt LUCENTIO, BIANCA, and BIONDELLO"
@@ -30,7 +30,7 @@
         },
         {
             "speaker": "petruchio",
-            "text": "Sir, heres the door, this is Lucentios house: My fathers bears more toward the marketplace Thither must I, and here I leave you, sir."
+            "text": "Sir, here's the door, this is Lucentio's house: My father's bears more toward the market-place; Thither must I, and here I leave you, sir."
         },
         {
             "speaker": "vincentio",
@@ -41,26 +41,26 @@
         },
         {
             "speaker": "gremio",
-            "text": "Theyre busy within you were best knock louder."
+            "text": "They're busy within; you were best knock louder."
         },
         {
             "text": "Pedant looks out of the window"
         },
         {
             "speaker": "pedant",
-            "text": "Whats he that knocks as he would beat down the gate"
+            "text": "What's he that knocks as he would beat down the gate?"
         },
         {
             "speaker": "vincentio",
-            "text": "Is Signior Lucentio within, sir"
+            "text": "Is Signior Lucentio within, sir?"
         },
         {
             "speaker": "pedant",
-            "text": "Hes within, sir, but not to be spoken withal."
+            "text": "He's within, sir, but not to be spoken withal."
         },
         {
             "speaker": "vincentio",
-            "text": "What if a man bring him a hundred pound or two, to make merry withal"
+            "text": "What if a man bring him a hundred pound or two, to make merry withal?"
         },
         {
             "speaker": "pedant",
@@ -68,7 +68,7 @@
         },
         {
             "speaker": "petruchio",
-            "text": "Nay, I told you your son was well beloved in Padua. Do you hear, sir To leave frivolous circumstances, I pray you, tell Signior Lucentio that his father is come from Pisa, and is here at the door to speak with him."
+            "text": "Nay, I told you your son was well beloved in Padua. Do you hear, sir? To leave frivolous circumstances, I pray you, tell Signior Lucentio that his father is come from Pisa, and is here at the door to speak with him."
         },
         {
             "speaker": "pedant",
@@ -76,30 +76,30 @@
         },
         {
             "speaker": "vincentio",
-            "text": "Art thou his father"
+            "text": "Art thou his father?"
         },
         {
             "speaker": "pedant",
-            "text": "Ay, sir so his mother says, if I may believe her."
+            "text": "Ay, sir; so his mother says, if I may believe her."
         },
         {
             "speaker": "petruchio",
-            "text": "[To VINCENTIO]  Why, how now, gentleman! why, this is flat knavery, to take upon you another mans name."
+            "text": "[To VINCENTIO]  Why, how now, gentleman! why, this is flat knavery, to take upon you another man's name."
         },
         {
             "speaker": "pedant",
-            "text": "Lay hands on the villain: I believe a means to cozen somebody in this city under my countenance."
+            "text": "Lay hands on the villain: I believe a' means to cozen somebody in this city under my countenance."
         },
         {
-            "text": "Reenter BIONDELLO"
+            "text": "Re-enter BIONDELLO"
         },
         {
             "speaker": "biondello",
-            "text": "I have seen them in the church together: God send em good shipping! But who is here mine old master Vincentio! now we are undone and brought to nothing."
+            "text": "I have seen them in the church together: God send 'em good shipping! But who is here? mine old master Vincentio! now we are undone and brought to nothing."
         },
         {
             "speaker": "vincentio",
-            "text": "[Seeing BIONDELLO] Come hither, crackhemp."
+            "text": "[Seeing BIONDELLO] Come hither, crack-hemp."
         },
         {
             "speaker": "biondello",
@@ -107,7 +107,7 @@
         },
         {
             "speaker": "vincentio",
-            "text": "Come hither, you rogue. What, have you forgot me"
+            "text": "Come hither, you rogue. What, have you forgot me?"
         },
         {
             "speaker": "biondello",
@@ -115,22 +115,22 @@
         },
         {
             "speaker": "vincentio",
-            "text": "What, you notorious villain, didst thou never see thy masters father, Vincentio"
+            "text": "What, you notorious villain, didst thou never see thy master's father, Vincentio?"
         },
         {
             "speaker": "biondello",
-            "text": "What, my old worshipful old master yes, marry, sir: see where he looks out of the window."
+            "text": "What, my old worshipful old master? yes, marry, sir: see where he looks out of the window."
         },
         {
             "speaker": "vincentio",
-            "text": "Ist so, indeed."
+            "text": "Is't so, indeed."
         },
         {
             "text": "Beats BIONDELLO"
         },
         {
             "speaker": "biondello",
-            "text": "Help, help, help! heres a madman will murder me."
+            "text": "Help, help, help! here's a madman will murder me."
         },
         {
             "text": "Exit"
@@ -144,33 +144,33 @@
         },
         {
             "speaker": "petruchio",
-            "text": "Prithee, Kate, lets stand aside and see the end of this controversy."
+            "text": "Prithee, Kate, let's stand aside and see the end of this controversy."
         },
         {
             "text": "They retire"
         },
         {
-            "text": "Reenter Pedant below TRANIO, BAPTISTA, and Servants"
+            "text": "Re-enter Pedant below; TRANIO, BAPTISTA, and Servants"
         },
         {
             "speaker": "tranio",
-            "text": "Sir, what are you that offer to beat my servant"
+            "text": "Sir, what are you that offer to beat my servant?"
         },
         {
             "speaker": "vincentio",
-            "text": "What am I, sir! nay, what are you, sir O immortal gods! O fine villain! A silken doublet! a velvet hose! a scarlet cloak! and a copatain hat! O, I am undone! I am undone! while I play the good husband at home, my son and my servant spend all at the university."
+            "text": "What am I, sir! nay, what are you, sir? O immortal gods! O fine villain! A silken doublet! a velvet hose! a scarlet cloak! and a copatain hat! O, I am undone! I am undone! while I play the good husband at home, my son and my servant spend all at the university."
         },
         {
             "speaker": "tranio",
-            "text": "How now! whats the matter"
+            "text": "How now! what's the matter?"
         },
         {
             "speaker": "baptista",
-            "text": "What, is the man lunatic"
+            "text": "What, is the man lunatic?"
         },
         {
             "speaker": "tranio",
-            "text": "Sir, you seem a sober ancient gentleman by your habit, but your words show you a madman. Why, sir, what cerns it you if I wear pearl and gold I thank my good father, I am able to maintain it."
+            "text": "Sir, you seem a sober ancient gentleman by your habit, but your words show you a madman. Why, sir, what 'cerns it you if I wear pearl and gold? I thank my good father, I am able to maintain it."
         },
         {
             "speaker": "vincentio",
@@ -178,7 +178,7 @@
         },
         {
             "speaker": "baptista",
-            "text": "You mistake, sir, you mistake, sir. Pray, what do you think is his name"
+            "text": "You mistake, sir, you mistake, sir. Pray, what do you think is his name?"
         },
         {
             "speaker": "vincentio",
@@ -190,7 +190,7 @@
         },
         {
             "speaker": "vincentio",
-            "text": "Lucentio! O, he hath murdered his master! Lay hold on him, I charge you, in the dukes name. O, my son, my son! Tell me, thou villain, where is my son Lucentio"
+            "text": "Lucentio! O, he hath murdered his master! Lay hold on him, I charge you, in the duke's name. O, my son, my son! Tell me, thou villain, where is my son Lucentio?"
         },
         {
             "speaker": "tranio",
@@ -213,7 +213,7 @@
         },
         {
             "speaker": "gremio",
-            "text": "Take heed, Signior Baptista, lest you be conycatched in this business: I dare swear this is the right Vincentio."
+            "text": "Take heed, Signior Baptista, lest you be cony-catched in this business: I dare swear this is the right Vincentio."
         },
         {
             "speaker": "pedant",
@@ -240,11 +240,11 @@
             "text": "Thus strangers may be hailed and abused: O monstrous villain!"
         },
         {
-            "text": "Reenter BIONDELLO, with LUCENTIO and BIANCA"
+            "text": "Re-enter BIONDELLO, with LUCENTIO and BIANCA"
         },
         {
             "speaker": "biondello",
-            "text": "O! we are spoiled andyonder he is: deny him, forswear him, or else we are all undone."
+            "text": "O! we are spoiled and--yonder he is: deny him, forswear him, or else we are all undone."
         },
         {
             "speaker": "lucentio",
@@ -252,7 +252,7 @@
         },
         {
             "speaker": "vincentio",
-            "text": "Lives my sweet son"
+            "text": "Lives my sweet son?"
         },
         {
             "text": "Exeunt BIONDELLO, TRANIO, and Pedant, as fast as may be"
@@ -263,23 +263,23 @@
         },
         {
             "speaker": "baptista",
-            "text": "How hast thou offended Where is Lucentio"
+            "text": "How hast thou offended? Where is Lucentio?"
         },
         {
             "speaker": "lucentio",
-            "text": "Heres Lucentio, Right son to the right Vincentio That have by marriage made thy daughter mine, While counterfeit supposes bleared thine eyne."
+            "text": "Here's Lucentio, Right son to the right Vincentio; That have by marriage made thy daughter mine, While counterfeit supposes bleared thine eyne."
         },
         {
             "speaker": "gremio",
-            "text": "Heres packing, with a witness to deceive us all!"
+            "text": "Here's packing, with a witness to deceive us all!"
         },
         {
             "speaker": "vincentio",
-            "text": "Where is that damned villain Tranio, That faced and braved me in this matter so"
+            "text": "Where is that damned villain Tranio, That faced and braved me in this matter so?"
         },
         {
             "speaker": "baptista",
-            "text": "Why, tell me, is not this my Cambio"
+            "text": "Why, tell me, is not this my Cambio?"
         },
         {
             "speaker": "bianca",
@@ -287,19 +287,19 @@
         },
         {
             "speaker": "lucentio",
-            "text": "Love wrought these miracles. Biancas love Made me exchange my state with Tranio, While he did bear my countenance in the town And happily I have arrived at the last Unto the wished haven of my bliss. What Tranio did, myself enforced him to Then pardon him, sweet father, for my sake."
+            "text": "Love wrought these miracles. Bianca's love Made me exchange my state with Tranio, While he did bear my countenance in the town; And happily I have arrived at the last Unto the wished haven of my bliss. What Tranio did, myself enforced him to; Then pardon him, sweet father, for my sake."
         },
         {
             "speaker": "vincentio",
-            "text": "Ill slit the villains nose, that would have sent me to the gaol."
+            "text": "I'll slit the villain's nose, that would have sent me to the gaol."
         },
         {
             "speaker": "baptista",
-            "text": "But do you hear, sir have you married my daughter without asking my good will"
+            "text": "But do you hear, sir? have you married my daughter without asking my good will?"
         },
         {
             "speaker": "vincentio",
-            "text": "Fear not, Baptista we will content you, go to: but I will in, to be revenged for this villany."
+            "text": "Fear not, Baptista; we will content you, go to: but I will in, to be revenged for this villany."
         },
         {
             "text": "Exit"
@@ -313,21 +313,21 @@
         },
         {
             "speaker": "lucentio",
-            "text": "Look not pale, Bianca thy father will not frown."
+            "text": "Look not pale, Bianca; thy father will not frown."
         },
         {
             "text": "Exeunt LUCENTIO and BIANCA"
         },
         {
             "speaker": "gremio",
-            "text": "My cake is dough but Ill in among the rest, Out of hope of all, but my share of the feast."
+            "text": "My cake is dough; but I'll in among the rest, Out of hope of all, but my share of the feast."
         },
         {
             "text": "Exit"
         },
         {
             "speaker": "katharina",
-            "text": "Husband, lets follow, to see the end of this ado."
+            "text": "Husband, let's follow, to see the end of this ado."
         },
         {
             "speaker": "petruchio",
@@ -335,19 +335,19 @@
         },
         {
             "speaker": "katharina",
-            "text": "What, in the midst of the street"
+            "text": "What, in the midst of the street?"
         },
         {
             "speaker": "petruchio",
-            "text": "What, art thou ashamed of me"
+            "text": "What, art thou ashamed of me?"
         },
         {
             "speaker": "katharina",
-            "text": "No, sir, God forbid but ashamed to kiss."
+            "text": "No, sir, God forbid; but ashamed to kiss."
         },
         {
             "speaker": "petruchio",
-            "text": "Why, then lets home again. Come, sirrah, lets away."
+            "text": "Why, then let's home again. Come, sirrah, let's away."
         },
         {
             "speaker": "katharina",
@@ -355,7 +355,7 @@
         },
         {
             "speaker": "petruchio",
-            "text": "Is not this well Come, my sweet Kate: Better once than never, for never too late."
+            "text": "Is not this well? Come, my sweet Kate: Better once than never, for never too late."
         },
         {
             "text": "Exeunt"

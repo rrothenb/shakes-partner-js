@@ -1,14 +1,14 @@
 {
     "sceneName": "Act 5, scene 4",
     "playName": "much ado about nothing",
-    "location": "A room in LEONATOS house.",
+    "location": "A room in LEONATO'S house.",
     "lines": [
         {
             "text": "Enter LEONATO, ANTONIO, BENEDICK, BEATRICE, MARGARET, URSULA, FRIAR FRANCIS, and HERO"
         },
         {
             "speaker": "friar francis",
-            "text": "Did I not tell you she was innocent"
+            "text": "Did I not tell you she was innocent?"
         },
         {
             "speaker": "leonato",
@@ -24,14 +24,14 @@
         },
         {
             "speaker": "leonato",
-            "text": "Well, daughter, and you gentlewomen all, Withdraw into a chamber by yourselves, And when I send for you, come hither maskd. The prince and Claudio promised by this hour To visit me. You know your office, brother: You must be father to your brothers daughter And give her to young Claudio."
+            "text": "Well, daughter, and you gentle-women all, Withdraw into a chamber by yourselves, And when I send for you, come hither mask'd. The prince and Claudio promised by this hour To visit me. You know your office, brother: You must be father to your brother's daughter And give her to young Claudio."
         },
         {
             "text": "Exeunt Ladies"
         },
         {
             "speaker": "antonio",
-            "text": "Which I will do with confirmd countenance."
+            "text": "Which I will do with confirm'd countenance."
         },
         {
             "speaker": "benedick",
@@ -39,15 +39,15 @@
         },
         {
             "speaker": "friar francis",
-            "text": "To do what, signior"
+            "text": "To do what, signior?"
         },
         {
             "speaker": "benedick",
-            "text": "To bind me, or undo me one of them. Signior Leonato, truth it is, good signior, Your niece regards me with an eye of favour."
+            "text": "To bind me, or undo me; one of them. Signior Leonato, truth it is, good signior, Your niece regards me with an eye of favour."
         },
         {
             "speaker": "leonato",
-            "text": "That eye my daughter lent her: tis most true."
+            "text": "That eye my daughter lent her: 'tis most true."
         },
         {
             "speaker": "benedick",
@@ -55,11 +55,11 @@
         },
         {
             "speaker": "leonato",
-            "text": "The sight whereof I think you had from me, From Claudio and the prince: but whats your will"
+            "text": "The sight whereof I think you had from me, From Claudio and the prince: but what's your will?"
         },
         {
             "speaker": "benedick",
-            "text": "Your answer, sir, is enigmatical: But, for my will, my will is your good will May stand with ours, this day to be conjoind In the state of honourable marriage: In which, good friar, I shall desire your help."
+            "text": "Your answer, sir, is enigmatical: But, for my will, my will is your good will May stand with ours, this day to be conjoin'd In the state of honourable marriage: In which, good friar, I shall desire your help."
         },
         {
             "speaker": "leonato",
@@ -78,37 +78,37 @@
         },
         {
             "speaker": "leonato",
-            "text": "Good morrow, prince good morrow, Claudio: We here attend you. Are you yet determined Today to marry with my brothers daughter"
+            "text": "Good morrow, prince; good morrow, Claudio: We here attend you. Are you yet determined To-day to marry with my brother's daughter?"
         },
         {
             "speaker": "claudio",
-            "text": "Ill hold my mind, were she an Ethiope."
+            "text": "I'll hold my mind, were she an Ethiope."
         },
         {
             "speaker": "leonato",
-            "text": "Call her forth, brother heres the friar ready."
+            "text": "Call her forth, brother; here's the friar ready."
         },
         {
             "text": "Exit ANTONIO"
         },
         {
             "speaker": "don pedro",
-            "text": "Good morrow, Benedick. Why, whats the matter, That you have such a February face, So full of frost, of storm and cloudiness"
+            "text": "Good morrow, Benedick. Why, what's the matter, That you have such a February face, So full of frost, of storm and cloudiness?"
         },
         {
             "speaker": "claudio",
-            "text": "I think he thinks upon the savage bull. Tush, fear not, man well tip thy horns with gold And all Europa shall rejoice at thee, As once Europa did at lusty Jove, When he would play the noble beast in love."
+            "text": "I think he thinks upon the savage bull. Tush, fear not, man; we'll tip thy horns with gold And all Europa shall rejoice at thee, As once Europa did at lusty Jove, When he would play the noble beast in love."
         },
         {
             "speaker": "benedick",
-            "text": "Bull Jove, sir, had an amiable low And some such strange bull leapd your fathers cow, And got a calf in that same noble feat Much like to you, for you have just his bleat."
+            "text": "Bull Jove, sir, had an amiable low; And some such strange bull leap'd your father's cow, And got a calf in that same noble feat Much like to you, for you have just his bleat."
         },
         {
             "speaker": "claudio",
-            "text": "For this I owe you: here comes other reckonings. Which is the lady I must seize upon"
+            "text": "For this I owe you: here comes other reckonings. Which is the lady I must seize upon?"
         },
         {
-            "text": "Reenter ANTONIO, with the Ladies masked"
+            "text": "Re-enter ANTONIO, with the Ladies masked"
         },
         {
             "speaker": "antonio",
@@ -116,7 +116,7 @@
         },
         {
             "speaker": "claudio",
-            "text": "Why, then shes mine. Sweet, let me see your face."
+            "text": "Why, then she's mine. Sweet, let me see your face."
         },
         {
             "speaker": "leonato",
@@ -151,39 +151,39 @@
         },
         {
             "speaker": "friar francis",
-            "text": "All this amazement can I qualify: When after that the holy rites are ended, Ill tell you largely of fair Heros death: Meantime let wonder seem familiar, And to the chapel let us presently."
+            "text": "All this amazement can I qualify: When after that the holy rites are ended, I'll tell you largely of fair Hero's death: Meantime let wonder seem familiar, And to the chapel let us presently."
         },
         {
             "speaker": "benedick",
-            "text": "Soft and fair, friar. Which is Beatrice"
+            "text": "Soft and fair, friar. Which is Beatrice?"
         },
         {
             "speaker": "beatrice",
-            "text": "[Unmasking]  I answer to that name. What is your will"
+            "text": "[Unmasking]  I answer to that name. What is your will?"
         },
         {
             "speaker": "benedick",
-            "text": "Do not you love me"
+            "text": "Do not you love me?"
         },
         {
             "speaker": "beatrice",
-            "text": "Why, no no more than reason."
+            "text": "Why, no; no more than reason."
         },
         {
             "speaker": "benedick",
-            "text": "Why, then your uncle and the prince and Claudio Have been deceived they swore you did."
+            "text": "Why, then your uncle and the prince and Claudio Have been deceived; they swore you did."
         },
         {
             "speaker": "beatrice",
-            "text": "Do not you love me"
+            "text": "Do not you love me?"
         },
         {
             "speaker": "benedick",
-            "text": "Troth, no no more than reason."
+            "text": "Troth, no; no more than reason."
         },
         {
             "speaker": "beatrice",
-            "text": "Why, then my cousin Margaret and Ursula Are much deceived for they did swear you did."
+            "text": "Why, then my cousin Margaret and Ursula Are much deceived; for they did swear you did."
         },
         {
             "speaker": "benedick",
@@ -191,11 +191,11 @@
         },
         {
             "speaker": "beatrice",
-            "text": "They swore that you were wellnigh dead for me."
+            "text": "They swore that you were well-nigh dead for me."
         },
         {
             "speaker": "benedick",
-            "text": "Tis no such matter. Then you do not love me"
+            "text": "'Tis no such matter. Then you do not love me?"
         },
         {
             "speaker": "beatrice",
@@ -207,19 +207,19 @@
         },
         {
             "speaker": "claudio",
-            "text": "And Ill be sworn upont that he loves her For heres a paper written in his hand, A halting sonnet of his own pure brain, Fashiond to Beatrice."
+            "text": "And I'll be sworn upon't that he loves her; For here's a paper written in his hand, A halting sonnet of his own pure brain, Fashion'd to Beatrice."
         },
         {
             "speaker": "hero",
-            "text": "And heres another Writ in my cousins hand, stolen from her pocket, Containing her affection unto Benedick."
+            "text": "And here's another Writ in my cousin's hand, stolen from her pocket, Containing her affection unto Benedick."
         },
         {
             "speaker": "benedick",
-            "text": "A miracle! heres our own hands against our hearts. Come, I will have thee but, by this light, I take thee for pity."
+            "text": "A miracle! here's our own hands against our hearts. Come, I will have thee; but, by this light, I take thee for pity."
         },
         {
             "speaker": "beatrice",
-            "text": "I would not deny you but, by this good day, I yield upon great persuasion and partly to save your life, for I was told you were in a consumption."
+            "text": "I would not deny you; but, by this good day, I yield upon great persuasion; and partly to save your life, for I was told you were in a consumption."
         },
         {
             "speaker": "benedick",
@@ -230,38 +230,38 @@
         },
         {
             "speaker": "don pedro",
-            "text": "How dost thou, Benedick, the married man"
+            "text": "How dost thou, Benedick, the married man?"
         },
         {
             "speaker": "benedick",
-            "text": "Ill tell thee what, prince a college of witcrackers cannot flout me out of my humour. Dost thou think I  care for a satire or an epigram No: if a man will be beaten with brains, a shall wear nothing handsome about him. In brief, since I do purpose to marry, I will think nothing to any purpose that the world can say against it and therefore never flout at me for what I have said against it for man is a giddy thing, and this is my conclusion. For thy part, Claudio, I did think to have beaten thee, but in that thou art like to be my kinsman, live unbruised and love my cousin."
+            "text": "I'll tell thee what, prince; a college of wit-crackers cannot flout me out of my humour. Dost thou think I  care for a satire or an epigram? No: if a man will be beaten with brains, a' shall wear nothing handsome about him. In brief, since I do purpose to marry, I will think nothing to any purpose that the world can say against it; and therefore never flout at me for what I have said against it; for man is a giddy thing, and this is my conclusion. For thy part, Claudio, I did think to have beaten thee, but in that thou art like to be my kinsman, live unbruised and love my cousin."
         },
         {
             "speaker": "claudio",
-            "text": "I had well hoped thou wouldst have denied Beatrice, that I might have cudgelled thee out of thy single life, to make thee a doubledealer which, out of question, thou wilt be, if my cousin do not look exceedingly narrowly to thee."
+            "text": "I had well hoped thou wouldst have denied Beatrice, that I might have cudgelled thee out of thy single life, to make thee a double-dealer; which, out of question, thou wilt be, if my cousin do not look exceedingly narrowly to thee."
         },
         {
             "speaker": "benedick",
-            "text": "Come, come, we are friends: lets have a dance ere we are married, that we may lighten our own hearts and our wives heels."
+            "text": "Come, come, we are friends: let's have a dance ere we are married, that we may lighten our own hearts and our wives' heels."
         },
         {
             "speaker": "leonato",
-            "text": "Well have dancing afterward."
+            "text": "We'll have dancing afterward."
         },
         {
             "speaker": "benedick",
-            "text": "First, of my word therefore play, music. Prince, thou art sad get thee a wife, get thee a wife: there is no staff more reverend than one tipped with horn."
+            "text": "First, of my word; therefore play, music. Prince, thou art sad; get thee a wife, get thee a wife: there is no staff more reverend than one tipped with horn."
         },
         {
             "text": "Enter a Messenger"
         },
         {
             "speaker": "messenger",
-            "text": "My lord, your brother John is taen in flight, And brought with armed men back to Messina."
+            "text": "My lord, your brother John is ta'en in flight, And brought with armed men back to Messina."
         },
         {
             "speaker": "benedick",
-            "text": "Think not on him till tomorrow: Ill devise thee brave punishments for him. Strike up, pipers."
+            "text": "Think not on him till to-morrow: I'll devise thee brave punishments for him. Strike up, pipers."
         },
         {
             "text": "Dance"

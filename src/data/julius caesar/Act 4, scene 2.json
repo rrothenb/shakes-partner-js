@@ -1,10 +1,10 @@
 {
     "sceneName": "Act 4, scene 2",
     "playName": "julius caesar",
-    "location": "Camp near Sardis. Before BRUTUSs tent.",
+    "location": "Camp near Sardis. Before BRUTUS's tent.",
     "lines": [
         {
-            "text": "Drum. Enter BRUTUS, LUCILIUS, LUCIUS, and Soldiers TITINIUS and PINDARUS meeting them"
+            "text": "Drum. Enter BRUTUS, LUCILIUS, LUCIUS, and Soldiers; TITINIUS and PINDARUS meeting them"
         },
         {
             "speaker": "brutus",
@@ -16,11 +16,11 @@
         },
         {
             "speaker": "brutus",
-            "text": "What now, Lucilius! is Cassius near"
+            "text": "What now, Lucilius! is Cassius near?"
         },
         {
             "speaker": "lucilius",
-            "text": "He is at hand and Pindarus is come To do you salutation from his master."
+            "text": "He is at hand; and Pindarus is come To do you salutation from his master."
         },
         {
             "speaker": "brutus",
@@ -32,19 +32,19 @@
         },
         {
             "speaker": "brutus",
-            "text": "He is not doubted. A word, Lucilius How he received you, let me be resolved."
+            "text": "He is not doubted. A word, Lucilius; How he received you, let me be resolved."
         },
         {
             "speaker": "lucilius",
-            "text": "With courtesy and with respect enough But not with such familiar instances, Nor with such free and friendly conference, As he hath used of old."
+            "text": "With courtesy and with respect enough; But not with such familiar instances, Nor with such free and friendly conference, As he hath used of old."
         },
         {
             "speaker": "brutus",
-            "text": "Thou hast described A hot friend cooling: ever note, Lucilius, When love begins to sicken and decay, It useth an enforced ceremony. There are no tricks in plain and simple faith But hollow men, like horses hot at hand, Make gallant show and promise of their mettle But when they should endure the bloody spur, They fall their crests, and, like deceitful jades, Sink in the trial. Comes his army on"
+            "text": "Thou hast described A hot friend cooling: ever note, Lucilius, When love begins to sicken and decay, It useth an enforced ceremony. There are no tricks in plain and simple faith; But hollow men, like horses hot at hand, Make gallant show and promise of their mettle; But when they should endure the bloody spur, They fall their crests, and, like deceitful jades, Sink in the trial. Comes his army on?"
         },
         {
             "speaker": "lucilius",
-            "text": "They mean this night in Sardis to be quarterd The greater part, the horse in general, Are come with Cassius."
+            "text": "They mean this night in Sardis to be quarter'd; The greater part, the horse in general, Are come with Cassius."
         },
         {
             "speaker": "brutus",
@@ -82,15 +82,15 @@
         },
         {
             "speaker": "brutus",
-            "text": "Judge me, you gods! wrong I mine enemies And, if not so, how should I wrong a brother"
+            "text": "Judge me, you gods! wrong I mine enemies? And, if not so, how should I wrong a brother?"
         },
         {
             "speaker": "cassius",
-            "text": "Brutus, this sober form of yours hides wrongs And when you do them"
+            "text": "Brutus, this sober form of yours hides wrongs; And when you do them--"
         },
         {
             "speaker": "brutus",
-            "text": "Cassius, be content. Speak your griefs softly: I do know you well. Before the eyes of both our armies here, Which should perceive nothing but love from us, Let us not wrangle: bid them move away Then in my tent, Cassius, enlarge your griefs, And I will give you audience."
+            "text": "Cassius, be content. Speak your griefs softly: I do know you well. Before the eyes of both our armies here, Which should perceive nothing but love from us, Let us not wrangle: bid them move away; Then in my tent, Cassius, enlarge your griefs, And I will give you audience."
         },
         {
             "speaker": "cassius",
@@ -98,7 +98,7 @@
         },
         {
             "speaker": "brutus",
-            "text": "Lucilius, do you the like and let no man Come to our tent till we have done our conference. Let Lucius and Titinius guard our door."
+            "text": "Lucilius, do you the like; and let no man Come to our tent till we have done our conference. Let Lucius and Titinius guard our door."
         },
         {
             "text": "Exeunt"

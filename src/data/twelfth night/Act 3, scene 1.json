@@ -1,14 +1,14 @@
 {
     "sceneName": "Act 3, scene 1",
     "playName": "twelfth night",
-    "location": "OLIVIAs garden.",
+    "location": "OLIVIA's garden.",
     "lines": [
         {
             "text": "Enter VIOLA, and Clown with a tabour"
         },
         {
             "speaker": "viola",
-            "text": "Save thee, friend, and thy music: dost thou live by thy tabour"
+            "text": "Save thee, friend, and thy music: dost thou live by thy tabour?"
         },
         {
             "speaker": "clown",
@@ -16,15 +16,15 @@
         },
         {
             "speaker": "viola",
-            "text": "Art thou a churchman"
+            "text": "Art thou a churchman?"
         },
         {
             "speaker": "clown",
-            "text": "No such matter, sir: I do live by the church for I do live at my house, and my house doth stand by the church."
+            "text": "No such matter, sir: I do live by the church; for I do live at my house, and my house doth stand by the church."
         },
         {
             "speaker": "viola",
-            "text": "So thou mayst say, the king lies by a beggar, if a beggar dwell near him or, the church stands by thy tabour, if thy tabour stand by the church."
+            "text": "So thou mayst say, the king lies by a beggar, if a beggar dwell near him; or, the church stands by thy tabour, if thy tabour stand by the church."
         },
         {
             "speaker": "clown",
@@ -32,7 +32,7 @@
         },
         {
             "speaker": "viola",
-            "text": "Nay, thats certain they that dally nicely with words may quickly make them wanton."
+            "text": "Nay, that's certain; they that dally nicely with words may quickly make them wanton."
         },
         {
             "speaker": "clown",
@@ -40,19 +40,19 @@
         },
         {
             "speaker": "viola",
-            "text": "Why, man"
+            "text": "Why, man?"
         },
         {
             "speaker": "clown",
-            "text": "Why, sir, her names a word and to dally with that word might make my sister wanton. But indeed words are very rascals since bonds disgraced them."
+            "text": "Why, sir, her name's a word; and to dally with that word might make my sister wanton. But indeed words are very rascals since bonds disgraced them."
         },
         {
             "speaker": "viola",
-            "text": "Thy reason, man"
+            "text": "Thy reason, man?"
         },
         {
             "speaker": "clown",
-            "text": "Troth, sir, I can yield you none without words and words are grown so false, I am loath to prove reason with them."
+            "text": "Troth, sir, I can yield you none without words; and words are grown so false, I am loath to prove reason with them."
         },
         {
             "speaker": "viola",
@@ -60,19 +60,19 @@
         },
         {
             "speaker": "clown",
-            "text": "Not so, sir, I do care for something but in my conscience, sir, I do not care for you: if that be to care for nothing, sir, I would it would make you invisible."
+            "text": "Not so, sir, I do care for something; but in my conscience, sir, I do not care for you: if that be to care for nothing, sir, I would it would make you invisible."
         },
         {
             "speaker": "viola",
-            "text": "Art not thou the Lady Olivias fool"
+            "text": "Art not thou the Lady Olivia's fool?"
         },
         {
             "speaker": "clown",
-            "text": "No, indeed, sir the Lady Olivia has no folly: she will keep no fool, sir, till she be married and fools are as like husbands as pilchards are to herrings the husbands the bigger: I am indeed not her fool, but her corrupter of words."
+            "text": "No, indeed, sir; the Lady Olivia has no folly: she will keep no fool, sir, till she be married; and fools are as like husbands as pilchards are to herrings; the husband's the bigger: I am indeed not her fool, but her corrupter of words."
         },
         {
             "speaker": "viola",
-            "text": "I saw thee late at the Count Orsinos."
+            "text": "I saw thee late at the Count Orsino's."
         },
         {
             "speaker": "clown",
@@ -80,7 +80,7 @@
         },
         {
             "speaker": "viola",
-            "text": "Nay, an thou pass upon me, Ill no more with thee. Hold, theres expenses for thee."
+            "text": "Nay, an thou pass upon me, I'll no more with thee. Hold, there's expenses for thee."
         },
         {
             "speaker": "clown",
@@ -88,14 +88,14 @@
         },
         {
             "speaker": "viola",
-            "text": "By my troth, Ill tell thee, I am almost sick for one though I would not have it grow on my chin. Is thy lady within"
+            "text": "By my troth, I'll tell thee, I am almost sick for one; though I would not have it grow on my chin. Is thy lady within?"
         },
         {
             "text": "Aside"
         },
         {
             "speaker": "clown",
-            "text": "Would not a pair of these have bred, sir"
+            "text": "Would not a pair of these have bred, sir?"
         },
         {
             "speaker": "viola",
@@ -107,18 +107,18 @@
         },
         {
             "speaker": "viola",
-            "text": "I understand you, sir tis well begged."
+            "text": "I understand you, sir; 'tis well begged."
         },
         {
             "speaker": "clown",
-            "text": "The matter, I hope, is not great, sir, begging but a beggar: Cressida was a beggar. My lady is within, sir. I will construe to them whence you come who you are and what you would are out of my welkin, I might say element, but the word is overworn."
+            "text": "The matter, I hope, is not great, sir, begging but a beggar: Cressida was a beggar. My lady is within, sir. I will construe to them whence you come; who you are and what you would are out of my welkin, I might say 'element,' but the word is over-worn."
         },
         {
             "text": "Exit"
         },
         {
             "speaker": "viola",
-            "text": "This fellow is wise enough to play the fool And to do that well craves a kind of wit: He must observe their mood on whom he jests, The quality of persons, and the time, And, like the haggard, cheque at every feather That comes before his eye. This is a practise As full of labour as a wise mans art For folly that he wisely shows is fit But wise men, follyfalln, quite taint their wit."
+            "text": "This fellow is wise enough to play the fool; And to do that well craves a kind of wit: He must observe their mood on whom he jests, The quality of persons, and the time, And, like the haggard, cheque at every feather That comes before his eye. This is a practise As full of labour as a wise man's art For folly that he wisely shows is fit; But wise men, folly-fall'n, quite taint their wit."
         },
         {
             "text": "Enter SIR TOBY BELCH, and SIR ANDREW"
@@ -137,23 +137,23 @@
         },
         {
             "speaker": "viola",
-            "text": "Et vous aussi votre serviteur."
+            "text": "Et vous aussi; votre serviteur."
         },
         {
             "speaker": "sir andrew",
-            "text": "I hope, sir, you are and I am yours."
+            "text": "I hope, sir, you are; and I am yours."
         },
         {
             "speaker": "sir toby belch",
-            "text": "Will you encounter the house my niece is desirous you should enter, if your trade be to her."
+            "text": "Will you encounter the house? my niece is desirous you should enter, if your trade be to her."
         },
         {
             "speaker": "viola",
-            "text": "I am bound to your niece, sir I mean, she is the list of my voyage."
+            "text": "I am bound to your niece, sir; I mean, she is the list of my voyage."
         },
         {
             "speaker": "sir toby belch",
-            "text": "Taste your legs, sir put them to motion."
+            "text": "Taste your legs, sir; put them to motion."
         },
         {
             "speaker": "viola",
@@ -172,7 +172,7 @@
         },
         {
             "speaker": "sir andrew",
-            "text": "That youths a rare courtier: Rain odours well."
+            "text": "That youth's a rare courtier: 'Rain odours;' well."
         },
         {
             "speaker": "viola",
@@ -180,7 +180,7 @@
         },
         {
             "speaker": "sir andrew",
-            "text": "Odours, pregnant and vouchsafed: Ill get em all three all ready."
+            "text": "'Odours,' 'pregnant' and 'vouchsafed:' I'll get 'em all three all ready."
         },
         {
             "speaker": "olivia",
@@ -195,23 +195,23 @@
         },
         {
             "speaker": "olivia",
-            "text": "What is your name"
+            "text": "What is your name?"
         },
         {
             "speaker": "viola",
-            "text": "Cesario is your servants name, fair princess."
+            "text": "Cesario is your servant's name, fair princess."
         },
         {
             "speaker": "olivia",
-            "text": "My servant, sir! Twas never merry world Since lowly feigning was calld compliment: Youre servant to the Count Orsino, youth."
+            "text": "My servant, sir! 'Twas never merry world Since lowly feigning was call'd compliment: You're servant to the Count Orsino, youth."
         },
         {
             "speaker": "viola",
-            "text": "And he is yours, and his must needs be yours: Your servants servant is your servant, madam."
+            "text": "And he is yours, and his must needs be yours: Your servant's servant is your servant, madam."
         },
         {
             "speaker": "olivia",
-            "text": "For him, I think not on him: for his thoughts, Would they were blanks, rather than filld with me!"
+            "text": "For him, I think not on him: for his thoughts, Would they were blanks, rather than fill'd with me!"
         },
         {
             "speaker": "viola",
@@ -223,11 +223,11 @@
         },
         {
             "speaker": "viola",
-            "text": "Dear lady,"
+            "text": "Dear lady,--"
         },
         {
             "speaker": "olivia",
-            "text": "Give me leave, beseech you. I did send, After the last enchantment you did here, A ring in chase of you: so did I abuse Myself, my servant and, I fear me, you: Under your hard construction must I sit, To force that on you, in a shameful cunning, Which you knew none of yours: what might you think Have you not set mine honour at the stake And baited it with all the unmuzzled thoughts That tyrannous heart can think To one of your receiving Enough is shown: a cypress, not a bosom, Hideth my heart. So, let me hear you speak."
+            "text": "Give me leave, beseech you. I did send, After the last enchantment you did here, A ring in chase of you: so did I abuse Myself, my servant and, I fear me, you: Under your hard construction must I sit, To force that on you, in a shameful cunning, Which you knew none of yours: what might you think? Have you not set mine honour at the stake And baited it with all the unmuzzled thoughts That tyrannous heart can think? To one of your receiving Enough is shown: a cypress, not a bosom, Hideth my heart. So, let me hear you speak."
         },
         {
             "speaker": "viola",
@@ -235,22 +235,22 @@
         },
         {
             "speaker": "olivia",
-            "text": "Thats a degree to love."
+            "text": "That's a degree to love."
         },
         {
             "speaker": "viola",
-            "text": "No, not a grize for tis a vulgar proof, That very oft we pity enemies."
+            "text": "No, not a grize; for 'tis a vulgar proof, That very oft we pity enemies."
         },
         {
             "speaker": "olivia",
-            "text": "Why, then, methinks tis time to smile again. O, world, how apt the poor are to be proud! If one should be a prey, how much the better To fall before the lion than the wolf! The clock upbraids me with the waste of time. Be not afraid, good youth, I will not have you: And yet, when wit and youth is come to harvest, Your were is alike to reap a proper man: There lies your way, due west."
+            "text": "Why, then, methinks 'tis time to smile again. O, world, how apt the poor are to be proud! If one should be a prey, how much the better To fall before the lion than the wolf! The clock upbraids me with the waste of time. Be not afraid, good youth, I will not have you: And yet, when wit and youth is come to harvest, Your were is alike to reap a proper man: There lies your way, due west."
         },
         {
             "text": "Clock strikes"
         },
         {
             "speaker": "viola",
-            "text": "Then westwardho! Grace and good disposition Attend your ladyship! Youll nothing, madam, to my lord by me"
+            "text": "Then westward-ho! Grace and good disposition Attend your ladyship! You'll nothing, madam, to my lord by me?"
         },
         {
             "speaker": "olivia",
@@ -274,19 +274,19 @@
         },
         {
             "speaker": "viola",
-            "text": "Would it be better, madam, than I am I wish it might, for now I am your fool."
+            "text": "Would it be better, madam, than I am? I wish it might, for now I am your fool."
         },
         {
             "speaker": "olivia",
-            "text": "O, what a deal of scorn looks beautiful In the contempt and anger of his lip! A murderous guilt shows not itself more soon Than love that would seem hid: loves night is noon. Cesario, by the roses of the spring, By maidhood, honour, truth and every thing, I love thee so, that, maugre all thy pride, Nor wit nor reason can my passion hide. Do not extort thy reasons from this clause, For that I woo, thou therefore hast no cause, But rather reason thus with reason fetter, Love sought is good, but given unsought better."
+            "text": "O, what a deal of scorn looks beautiful In the contempt and anger of his lip! A murderous guilt shows not itself more soon Than love that would seem hid: love's night is noon. Cesario, by the roses of the spring, By maidhood, honour, truth and every thing, I love thee so, that, maugre all thy pride, Nor wit nor reason can my passion hide. Do not extort thy reasons from this clause, For that I woo, thou therefore hast no cause, But rather reason thus with reason fetter, Love sought is good, but given unsought better."
         },
         {
             "speaker": "viola",
-            "text": "By innocence I swear, and by my youth I have one heart, one bosom and one truth, And that no woman has nor never none Shall mistress be of it, save I alone. And so adieu, good madam: never more Will I my masters tears to you deplore."
+            "text": "By innocence I swear, and by my youth I have one heart, one bosom and one truth, And that no woman has; nor never none Shall mistress be of it, save I alone. And so adieu, good madam: never more Will I my master's tears to you deplore."
         },
         {
             "speaker": "olivia",
-            "text": "Yet come again for thou perhaps mayst move That heart, which now abhors, to like his love."
+            "text": "Yet come again; for thou perhaps mayst move That heart, which now abhors, to like his love."
         },
         {
             "text": "Exeunt"

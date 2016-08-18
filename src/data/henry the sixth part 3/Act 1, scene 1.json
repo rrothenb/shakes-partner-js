@@ -1,33 +1,33 @@
 {
     "sceneName": "Act 1, scene 1",
     "playName": "henry the sixth part 3",
-    "location": "London. The Parliamenthouse.",
+    "location": "London. The Parliament-house.",
     "lines": [
         {
             "text": "Alarum. Enter YORK, EDWARD, RICHARD, NORFOLK, MONTAGUE, WARWICK, and Soldiers"
         },
         {
             "speaker": "york",
-            "text": "While we pursued the horsemen of the north, He slily stole away and left his men: Whereat the great Lord of Northumberland, Whose warlike ears could never brook retreat, Cheerd up the drooping army and himself, Lord Clifford and Lord Stafford, all abreast, Charged our main battles front, and breaking in Were by the swords of common soldiers slain."
+            "text": "While we pursued the horsemen of the north, He slily stole away and left his men: Whereat the great Lord of Northumberland, Whose warlike ears could never brook retreat, Cheer'd up the drooping army; and himself, Lord Clifford and Lord Stafford, all abreast, Charged our main battle's front, and breaking in Were by the swords of common soldiers slain."
         },
         {
             "speaker": "edward",
-            "text": "Lord Staffords father, Duke of Buckingham, Is either slain or wounded dangerously I cleft his beaver with a downright blow: That this is true, father, behold his blood."
+            "text": "Lord Stafford's father, Duke of Buckingham, Is either slain or wounded dangerously; I cleft his beaver with a downright blow: That this is true, father, behold his blood."
         },
         {
             "speaker": "montague",
-            "text": "And, brother, heres the Earl of Wiltshires blood, Whom I encounterd as the battles joind."
+            "text": "And, brother, here's the Earl of Wiltshire's blood, Whom I encounter'd as the battles join'd."
         },
         {
             "speaker": "richard",
             "text": "Speak thou for me and tell them what I did."
         },
         {
-            "text": "Throwing down SOMERSETs head"
+            "text": "Throwing down SOMERSET's head"
         },
         {
             "speaker": "york",
-            "text": "Richard hath best deserved of all my sons. But is your grace dead, my Lord of Somerset"
+            "text": "Richard hath best deserved of all my sons. But is your grace dead, my Lord of Somerset?"
         },
         {
             "speaker": "norfolk",
@@ -35,23 +35,23 @@
         },
         {
             "speaker": "richard",
-            "text": "Thus do I hope to shake King Henrys head."
+            "text": "Thus do I hope to shake King Henry's head."
         },
         {
             "speaker": "warwick",
-            "text": "And so do I. Victorious Prince of York, Before I see thee seated in that throne Which now the house of Lancaster usurps, I vow by heaven these eyes shall never close. This is the palace of the fearful king, And this the regal seat: possess it, York For this is thine and not King Henrys heirs"
+            "text": "And so do I. Victorious Prince of York, Before I see thee seated in that throne Which now the house of Lancaster usurps, I vow by heaven these eyes shall never close. This is the palace of the fearful king, And this the regal seat: possess it, York; For this is thine and not King Henry's heirs'"
         },
         {
             "speaker": "york",
-            "text": "Assist me, then, sweet Warwick, and I will For hither we have broken in by force."
+            "text": "Assist me, then, sweet Warwick, and I will; For hither we have broken in by force."
         },
         {
             "speaker": "norfolk",
-            "text": "Well all assist you he that flies shall die."
+            "text": "We'll all assist you; he that flies shall die."
         },
         {
             "speaker": "york",
-            "text": "Thanks, gentle Norfolk: stay by me, my lords And, soldiers, stay and lodge by me this night."
+            "text": "Thanks, gentle Norfolk: stay by me, my lords; And, soldiers, stay and lodge by me this night."
         },
         {
             "text": "They go up"
@@ -66,26 +66,26 @@
         },
         {
             "speaker": "richard",
-            "text": "Armd as we are, lets stay within this house."
+            "text": "Arm'd as we are, let's stay within this house."
         },
         {
             "speaker": "warwick",
-            "text": "The bloody parliament shall this be calld, Unless Plantagenet, Duke of York, be king, And bashful Henry deposed, whose cowardice Hath made us bywords to our enemies."
+            "text": "The bloody parliament shall this be call'd, Unless Plantagenet, Duke of York, be king, And bashful Henry deposed, whose cowardice Hath made us by-words to our enemies."
         },
         {
             "speaker": "york",
-            "text": "Then leave me not, my lords be resolute I mean to take possession of my right."
+            "text": "Then leave me not, my lords; be resolute; I mean to take possession of my right."
         },
         {
             "speaker": "warwick",
-            "text": "Neither the king, nor he that loves him best, The proudest he that holds up Lancaster, Dares stir a wing, if Warwick shake his bells. Ill plant Plantagenet, root him up who dares: Resolve thee, Richard claim the English crown."
+            "text": "Neither the king, nor he that loves him best, The proudest he that holds up Lancaster, Dares stir a wing, if Warwick shake his bells. I'll plant Plantagenet, root him up who dares: Resolve thee, Richard; claim the English crown."
         },
         {
             "text": "Flourish. Enter KING HENRY VI, CLIFFORD, NORTHUMBERLAND, WESTMORELAND, EXETER, and the rest"
         },
         {
             "speaker": "king henry the sixth",
-            "text": "My lords, look where the sturdy rebel sits, Even in the chair of state: belike he means, Backd by the power of Warwick, that false peer, To aspire unto the crown and reign as king. Earl of Northumberland, he slew thy father. And thine, Lord Clifford and you both have vowd revenge On him, his sons, his favourites and his friends."
+            "text": "My lords, look where the sturdy rebel sits, Even in the chair of state: belike he means, Back'd by the power of Warwick, that false peer, To aspire unto the crown and reign as king. Earl of Northumberland, he slew thy father. And thine, Lord Clifford; and you both have vow'd revenge On him, his sons, his favourites and his friends."
         },
         {
             "speaker": "northumberland",
@@ -97,7 +97,7 @@
         },
         {
             "speaker": "westmoreland",
-            "text": "What, shall we suffer this lets pluck him down: My heart for anger burns I cannot brook it."
+            "text": "What, shall we suffer this? let's pluck him down: My heart for anger burns; I cannot brook it."
         },
         {
             "speaker": "king henry the sixth",
@@ -113,15 +113,15 @@
         },
         {
             "speaker": "king henry the sixth",
-            "text": "Ah, know you not the city favours them, And they have troops of soldiers at their beck"
+            "text": "Ah, know you not the city favours them, And they have troops of soldiers at their beck?"
         },
         {
             "speaker": "exeter",
-            "text": "But when the duke is slain, theyll quickly fly."
+            "text": "But when the duke is slain, they'll quickly fly."
         },
         {
             "speaker": "king henry the sixth",
-            "text": "Far be the thought of this from Henrys heart, To make a shambles of the parliamenthouse! Cousin of Exeter, frowns, words and threats Shall be the war that Henry means to use. Thou factious Duke of York, descend my throne, and kneel for grace and mercy at my feet I am thy sovereign."
+            "text": "Far be the thought of this from Henry's heart, To make a shambles of the parliament-house! Cousin of Exeter, frowns, words and threats Shall be the war that Henry means to use. Thou factious Duke of York, descend my throne, and kneel for grace and mercy at my feet; I am thy sovereign."
         },
         {
             "speaker": "york",
@@ -133,7 +133,7 @@
         },
         {
             "speaker": "york",
-            "text": "Twas my inheritance, as the earldom was."
+            "text": "'Twas my inheritance, as the earldom was."
         },
         {
             "speaker": "exeter",
@@ -145,15 +145,15 @@
         },
         {
             "speaker": "clifford",
-            "text": "Whom should he follow but his natural king"
+            "text": "Whom should he follow but his natural king?"
         },
         {
             "speaker": "warwick",
-            "text": "True, Clifford and thats Richard Duke of York."
+            "text": "True, Clifford; and that's Richard Duke of York."
         },
         {
             "speaker": "king henry the sixth",
-            "text": "And shall I stand, and thou sit in my throne"
+            "text": "And shall I stand, and thou sit in my throne?"
         },
         {
             "speaker": "york",
@@ -161,27 +161,27 @@
         },
         {
             "speaker": "warwick",
-            "text": "Be Duke of Lancaster let him be king."
+            "text": "Be Duke of Lancaster; let him be king."
         },
         {
             "speaker": "westmoreland",
-            "text": "He is both king and Duke of Lancaster And that the Lord of Westmoreland shall maintain."
+            "text": "He is both king and Duke of Lancaster; And that the Lord of Westmoreland shall maintain."
         },
         {
             "speaker": "warwick",
-            "text": "And Warwick shall disprove it. You forget That we are those which chased you from the field And slew your fathers, and with colours spread Marchd through the city to the palace gates."
+            "text": "And Warwick shall disprove it. You forget That we are those which chased you from the field And slew your fathers, and with colours spread March'd through the city to the palace gates."
         },
         {
             "speaker": "northumberland",
-            "text": "Yes, Warwick, I remember it to my grief And, by his soul, thou and thy house shall rue it."
+            "text": "Yes, Warwick, I remember it to my grief; And, by his soul, thou and thy house shall rue it."
         },
         {
             "speaker": "westmoreland",
-            "text": "Plantagenet, of thee and these thy sons, Thy kinsman and thy friends, Ill have more lives Than drops of blood were in my fathers veins."
+            "text": "Plantagenet, of thee and these thy sons, Thy kinsman and thy friends, I'll have more lives Than drops of blood were in my father's veins."
         },
         {
             "speaker": "clifford",
-            "text": "Urge it no more lest that, instead of words, I send thee, Warwick, such a messenger As shall revenge his death before I stir."
+            "text": "Urge it no more; lest that, instead of words, I send thee, Warwick, such a messenger As shall revenge his death before I stir."
         },
         {
             "speaker": "warwick",
@@ -189,11 +189,11 @@
         },
         {
             "speaker": "york",
-            "text": "Will you we show our title to the crown If not, our swords shall plead it in the field."
+            "text": "Will you we show our title to the crown? If not, our swords shall plead it in the field."
         },
         {
             "speaker": "king henry the sixth",
-            "text": "What title hast thou, traitor, to the crown Thy father was, as thou art, Duke of York Thy grandfather, Roger Mortimer, Earl of March: I am the son of Henry the Fifth, Who made the Dauphin and the French to stoop And seized upon their towns and provinces."
+            "text": "What title hast thou, traitor, to the crown? Thy father was, as thou art, Duke of York; Thy grandfather, Roger Mortimer, Earl of March: I am the son of Henry the Fifth, Who made the Dauphin and the French to stoop And seized upon their towns and provinces."
         },
         {
             "speaker": "warwick",
@@ -201,19 +201,19 @@
         },
         {
             "speaker": "king henry the sixth",
-            "text": "The lord protector lost it, and not I: When I was crownd I was but nine months old."
+            "text": "The lord protector lost it, and not I: When I was crown'd I was but nine months old."
         },
         {
             "speaker": "richard",
-            "text": "You are old enough now, and yet, methinks, you lose. Father, tear the crown from the usurpers head."
+            "text": "You are old enough now, and yet, methinks, you lose. Father, tear the crown from the usurper's head."
         },
         {
             "speaker": "edward",
-            "text": "Sweet father, do so set it on your head."
+            "text": "Sweet father, do so; set it on your head."
         },
         {
             "speaker": "montague",
-            "text": "Good brother, as thou lovest and honourest arms, Lets fight it out and not stand cavilling thus."
+            "text": "Good brother, as thou lovest and honourest arms, Let's fight it out and not stand cavilling thus."
         },
         {
             "speaker": "richard",
@@ -229,11 +229,11 @@
         },
         {
             "speaker": "warwick",
-            "text": "Plantagenet shall speak first: hear him, lords And be you silent and attentive too, For he that interrupts him shall not live."
+            "text": "Plantagenet shall speak first: hear him, lords; And be you silent and attentive too, For he that interrupts him shall not live."
         },
         {
             "speaker": "king henry the sixth",
-            "text": "Thinkst thou that I will leave my kingly throne, Wherein my grandsire and my father sat No: first shall war unpeople this my realm Ay, and their colours, often borne in France, And now in England to our hearts great sorrow, Shall be my windingsheet. Why faint you, lords My titles good, and better far than his."
+            "text": "Think'st thou that I will leave my kingly throne, Wherein my grandsire and my father sat? No: first shall war unpeople this my realm; Ay, and their colours, often borne in France, And now in England to our heart's great sorrow, Shall be my winding-sheet. Why faint you, lords? My title's good, and better far than his."
         },
         {
             "speaker": "warwick",
@@ -245,19 +245,19 @@
         },
         {
             "speaker": "york",
-            "text": "Twas by rebellion against his king."
+            "text": "'Twas by rebellion against his king."
         },
         {
             "speaker": "king henry the sixth",
-            "text": "[Aside]  I know not what to say my titles weak. Tell me, may not a king adopt an heir"
+            "text": "[Aside]  I know not what to say; my title's weak.-- Tell me, may not a king adopt an heir?"
         },
         {
             "speaker": "york",
-            "text": "What then"
+            "text": "What then?"
         },
         {
             "speaker": "king henry the sixth",
-            "text": "An if he may, then am I lawful king For Richard, in the view of many lords, Resignd the crown to Henry the Fourth, Whose heir my father was, and I am his."
+            "text": "An if he may, then am I lawful king; For Richard, in the view of many lords, Resign'd the crown to Henry the Fourth, Whose heir my father was, and I am his."
         },
         {
             "speaker": "york",
@@ -265,15 +265,15 @@
         },
         {
             "speaker": "warwick",
-            "text": "Suppose, my lords, he did it unconstraind, Think you twere prejudicial to his crown"
+            "text": "Suppose, my lords, he did it unconstrain'd, Think you 'twere prejudicial to his crown?"
         },
         {
             "speaker": "exeter",
-            "text": "No for he could not so resign his crown But that the next heir should succeed and reign."
+            "text": "No; for he could not so resign his crown But that the next heir should succeed and reign."
         },
         {
             "speaker": "king henry the sixth",
-            "text": "Art thou against us, Duke of Exeter"
+            "text": "Art thou against us, Duke of Exeter?"
         },
         {
             "speaker": "exeter",
@@ -281,7 +281,7 @@
         },
         {
             "speaker": "york",
-            "text": "Why whisper you, my lords, and answer not"
+            "text": "Why whisper you, my lords, and answer not?"
         },
         {
             "speaker": "exeter",
@@ -293,7 +293,7 @@
         },
         {
             "speaker": "northumberland",
-            "text": "Plantagenet, for all the claim thou layst, Think not that Henry shall be so deposed."
+            "text": "Plantagenet, for all the claim thou lay'st, Think not that Henry shall be so deposed."
         },
         {
             "speaker": "warwick",
@@ -301,7 +301,7 @@
         },
         {
             "speaker": "northumberland",
-            "text": "Thou art deceived: tis not thy southern power, Of Essex, Norfolk, Suffolk, nor of Kent, Which makes thee thus presumptuous and proud, Can set the duke up in despite of me."
+            "text": "Thou art deceived: 'tis not thy southern power, Of Essex, Norfolk, Suffolk, nor of Kent, Which makes thee thus presumptuous and proud, Can set the duke up in despite of me."
         },
         {
             "speaker": "clifford",
@@ -313,7 +313,7 @@
         },
         {
             "speaker": "york",
-            "text": "Henry of Lancaster, resign thy crown. What mutter you, or what conspire you, lords"
+            "text": "Henry of Lancaster, resign thy crown. What mutter you, or what conspire you, lords?"
         },
         {
             "speaker": "warwick",
@@ -324,7 +324,7 @@
         },
         {
             "speaker": "king henry the sixth",
-            "text": "My Lord of Warwick, hear me but one word: Let me for this my lifetime reign as king."
+            "text": "My Lord of Warwick, hear me but one word: Let me for this my life-time reign as king."
         },
         {
             "speaker": "york",
@@ -364,7 +364,7 @@
         },
         {
             "speaker": "westmoreland",
-            "text": "Farewell, fainthearted and degenerate king, In whose cold blood no spark of honour bides."
+            "text": "Farewell, faint-hearted and degenerate king, In whose cold blood no spark of honour bides."
         },
         {
             "speaker": "northumberland",
@@ -372,7 +372,7 @@
         },
         {
             "speaker": "clifford",
-            "text": "In dreadful war mayst thou be overcome, Or live in peace abandond and despised!"
+            "text": "In dreadful war mayst thou be overcome, Or live in peace abandon'd and despised!"
         },
         {
             "text": "Exeunt NORTHUMBERLAND, CLIFFORD, and WESTMORELAND"
@@ -391,11 +391,11 @@
         },
         {
             "speaker": "warwick",
-            "text": "Why should you sigh, my lord"
+            "text": "Why should you sigh, my lord?"
         },
         {
             "speaker": "king henry the sixth",
-            "text": "Not for myself, Lord Warwick, but my son, Whom I unnaturally shall disinherit. But be it as it may: I here entail The crown to thee and to thine heirs for ever Conditionally, that here thou take an oath To cease this civil war, and, whilst I live, To honour me as thy king and sovereign, And neither by treason nor hostility To seek to put me down and reign thyself."
+            "text": "Not for myself, Lord Warwick, but my son, Whom I unnaturally shall disinherit. But be it as it may: I here entail The crown to thee and to thine heirs for ever; Conditionally, that here thou take an oath To cease this civil war, and, whilst I live, To honour me as thy king and sovereign, And neither by treason nor hostility To seek to put me down and reign thyself."
         },
         {
             "speaker": "york",
@@ -422,11 +422,11 @@
         },
         {
             "speaker": "york",
-            "text": "Farewell, my gracious lord Ill to my castle."
+            "text": "Farewell, my gracious lord; I'll to my castle."
         },
         {
             "speaker": "warwick",
-            "text": "And Ill keep London with my soldiers."
+            "text": "And I'll keep London with my soldiers."
         },
         {
             "speaker": "norfolk",
@@ -448,7 +448,7 @@
         },
         {
             "speaker": "exeter",
-            "text": "Here comes the queen, whose looks bewray her anger: Ill steal away."
+            "text": "Here comes the queen, whose looks bewray her anger: I'll steal away."
         },
         {
             "speaker": "king henry the sixth",
@@ -456,7 +456,7 @@
         },
         {
             "speaker": "queen margaret",
-            "text": "Nay, go not from me I will follow thee."
+            "text": "Nay, go not from me; I will follow thee."
         },
         {
             "speaker": "king henry the sixth",
@@ -464,19 +464,19 @@
         },
         {
             "speaker": "queen margaret",
-            "text": "Who can be patient in such extremes Ah, wretched man! would I had died a maid And never seen thee, never borne thee son, Seeing thou hast proved so unnatural a father Hath he deserved to lose his birthright thus Hadst thou but loved him half so well as I, Or felt that pain which I did for him once, Or nourishd him as I did with my blood, Thou wouldst have left thy dearest heartblood there, Rather than have that savage duke thine heir And disinherited thine only son."
+            "text": "Who can be patient in such extremes? Ah, wretched man! would I had died a maid And never seen thee, never borne thee son, Seeing thou hast proved so unnatural a father Hath he deserved to lose his birthright thus? Hadst thou but loved him half so well as I, Or felt that pain which I did for him once, Or nourish'd him as I did with my blood, Thou wouldst have left thy dearest heart-blood there, Rather than have that savage duke thine heir And disinherited thine only son."
         },
         {
             "speaker": "prince edward",
-            "text": "Father, you cannot disinherit me: If you be king, why should not I succeed"
+            "text": "Father, you cannot disinherit me: If you be king, why should not I succeed?"
         },
         {
             "speaker": "king henry the sixth",
-            "text": "Pardon me, Margaret pardon me, sweet son: The Earl of Warwick and the duke enforced me."
+            "text": "Pardon me, Margaret; pardon me, sweet son: The Earl of Warwick and the duke enforced me."
         },
         {
             "speaker": "queen margaret",
-            "text": "Enforced thee! art thou king, and wilt be forced I shame to hear thee speak. Ah, timorous wretch! Thou hast undone thyself, thy son and me And given unto the house of York such head As thou shalt reign but by their sufferance. To entail him and his heirs unto the crown, What is it, but to make thy sepulchre And creep into it far before thy time Warwick is chancellor and the lord of Calais Stern Falconbridge commands the narrow seas The duke is made protector of the realm And yet shalt thou be safe such safety finds The trembling lamb environed with wolves. Had I been there, which am a silly woman, The soldiers should have tossd me on their pikes Before I would have granted to that act. But thou preferrst thy life before thine honour: And seeing thou dost, I here divorce myself Both from thy table, Henry, and thy bed, Until that act of parliament be repeald Whereby my son is disinherited. The northern lords that have forsworn thy colours Will follow mine, if once they see them spread And spread they shall be, to thy foul disgrace And utter ruin of the house of York. Thus do I leave thee. Come, son, lets away Our army is ready come, well after them."
+            "text": "Enforced thee! art thou king, and wilt be forced? I shame to hear thee speak. Ah, timorous wretch! Thou hast undone thyself, thy son and me; And given unto the house of York such head As thou shalt reign but by their sufferance. To entail him and his heirs unto the crown, What is it, but to make thy sepulchre And creep into it far before thy time? Warwick is chancellor and the lord of Calais; Stern Falconbridge commands the narrow seas; The duke is made protector of the realm; And yet shalt thou be safe? such safety finds The trembling lamb environed with wolves. Had I been there, which am a silly woman, The soldiers should have toss'd me on their pikes Before I would have granted to that act. But thou preferr'st thy life before thine honour: And seeing thou dost, I here divorce myself Both from thy table, Henry, and thy bed, Until that act of parliament be repeal'd Whereby my son is disinherited. The northern lords that have forsworn thy colours Will follow mine, if once they see them spread; And spread they shall be, to thy foul disgrace And utter ruin of the house of York. Thus do I leave thee. Come, son, let's away; Our army is ready; come, we'll after them."
         },
         {
             "speaker": "king henry the sixth",
@@ -488,26 +488,26 @@
         },
         {
             "speaker": "king henry the sixth",
-            "text": "Gentle son Edward, thou wilt stay with me"
+            "text": "Gentle son Edward, thou wilt stay with me?"
         },
         {
             "speaker": "queen margaret",
-            "text": "Ay, to be murderd by his enemies."
+            "text": "Ay, to be murder'd by his enemies."
         },
         {
             "speaker": "prince edward",
-            "text": "When I return with victory from the field Ill see your grace: till then Ill follow her."
+            "text": "When I return with victory from the field I'll see your grace: till then I'll follow her."
         },
         {
             "speaker": "queen margaret",
-            "text": "Come, son, away we may not linger thus."
+            "text": "Come, son, away; we may not linger thus."
         },
         {
             "text": "Exeunt QUEEN MARGARET and PRINCE EDWARD"
         },
         {
             "speaker": "king henry the sixth",
-            "text": "Poor queen! how love to me and to her son Hath made her break out into terms of rage! Revenged may she be on that hateful duke, Whose haughty spirit, winged with desire, Will cost my crown, and like an empty eagle Tire on the flesh of me and of my son! The loss of those three lords torments my heart: Ill write unto them and entreat them fair. Come, cousin you shall be the messenger."
+            "text": "Poor queen! how love to me and to her son Hath made her break out into terms of rage! Revenged may she be on that hateful duke, Whose haughty spirit, winged with desire, Will cost my crown, and like an empty eagle Tire on the flesh of me and of my son! The loss of those three lords torments my heart: I'll write unto them and entreat them fair. Come, cousin you shall be the messenger."
         },
         {
             "speaker": "exeter",

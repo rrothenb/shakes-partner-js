@@ -1,14 +1,14 @@
 {
     "sceneName": "Act 1, scene 2",
     "playName": "twelfth night",
-    "location": "The seacoast.",
+    "location": "The sea-coast.",
     "lines": [
         {
             "text": "Enter VIOLA, a Captain, and Sailors"
         },
         {
             "speaker": "viola",
-            "text": "What country, friends, is this"
+            "text": "What country, friends, is this?"
         },
         {
             "speaker": "captain",
@@ -16,7 +16,7 @@
         },
         {
             "speaker": "viola",
-            "text": "And what should I do in Illyria My brother he is in Elysium. Perchance he is not drownd: what think you, sailors"
+            "text": "And what should I do in Illyria? My brother he is in Elysium. Perchance he is not drown'd: what think you, sailors?"
         },
         {
             "speaker": "captain",
@@ -28,19 +28,19 @@
         },
         {
             "speaker": "captain",
-            "text": "True, madam: and, to comfort you with chance, Assure yourself, after our ship did split, When you and those poor number saved with you Hung on our driving boat, I saw your brother, Most provident in peril, bind himself, Courage and hope both teaching him the practise, To a strong mast that lived upon the sea Where, like Arion on the dolphins back, I saw him hold acquaintance with the waves So long as I could see."
+            "text": "True, madam: and, to comfort you with chance, Assure yourself, after our ship did split, When you and those poor number saved with you Hung on our driving boat, I saw your brother, Most provident in peril, bind himself, Courage and hope both teaching him the practise, To a strong mast that lived upon the sea; Where, like Arion on the dolphin's back, I saw him hold acquaintance with the waves So long as I could see."
         },
         {
             "speaker": "viola",
-            "text": "For saying so, theres gold: Mine own escape unfoldeth to my hope, Whereto thy speech serves for authority, The like of him. Knowst thou this country"
+            "text": "For saying so, there's gold: Mine own escape unfoldeth to my hope, Whereto thy speech serves for authority, The like of him. Know'st thou this country?"
         },
         {
             "speaker": "captain",
-            "text": "Ay, madam, well for I was bred and born Not three hours travel from this very place."
+            "text": "Ay, madam, well; for I was bred and born Not three hours' travel from this very place."
         },
         {
             "speaker": "viola",
-            "text": "Who governs here"
+            "text": "Who governs here?"
         },
         {
             "speaker": "captain",
@@ -48,7 +48,7 @@
         },
         {
             "speaker": "viola",
-            "text": "What is the name"
+            "text": "What is the name?"
         },
         {
             "speaker": "captain",
@@ -60,11 +60,11 @@
         },
         {
             "speaker": "captain",
-            "text": "And so is now, or was so very late For but a month ago I went from hence, And then twas fresh in murmur,as, you know, What great ones do the less will prattle of, That he did seek the love of fair Olivia."
+            "text": "And so is now, or was so very late; For but a month ago I went from hence, And then 'twas fresh in murmur,--as, you know, What great ones do the less will prattle of,-- That he did seek the love of fair Olivia."
         },
         {
             "speaker": "viola",
-            "text": "Whats she"
+            "text": "What's she?"
         },
         {
             "speaker": "captain",
@@ -76,15 +76,15 @@
         },
         {
             "speaker": "captain",
-            "text": "That were hard to compass Because she will admit no kind of suit, No, not the dukes."
+            "text": "That were hard to compass; Because she will admit no kind of suit, No, not the duke's."
         },
         {
             "speaker": "viola",
-            "text": "There is a fair behavior in thee, captain And though that nature with a beauteous wall Doth oft close in pollution, yet of thee I will believe thou hast a mind that suits With this thy fair and outward character. I prithee, and Ill pay thee bounteously, Conceal me what I am, and be my aid For such disguise as haply shall become The form of my intent. Ill serve this duke: Thou shall present me as an eunuch to him: It may be worth thy pains for I can sing And speak to him in many sorts of music That will allow me very worth his service. What else may hap to time I will commit Only shape thou thy silence to my wit."
+            "text": "There is a fair behavior in thee, captain; And though that nature with a beauteous wall Doth oft close in pollution, yet of thee I will believe thou hast a mind that suits With this thy fair and outward character. I prithee, and I'll pay thee bounteously, Conceal me what I am, and be my aid For such disguise as haply shall become The form of my intent. I'll serve this duke: Thou shall present me as an eunuch to him: It may be worth thy pains; for I can sing And speak to him in many sorts of music That will allow me very worth his service. What else may hap to time I will commit; Only shape thou thy silence to my wit."
         },
         {
             "speaker": "captain",
-            "text": "Be you his eunuch, and your mute Ill be: When my tongue blabs, then let mine eyes not see."
+            "text": "Be you his eunuch, and your mute I'll be: When my tongue blabs, then let mine eyes not see."
         },
         {
             "speaker": "viola",
