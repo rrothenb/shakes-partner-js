@@ -31,7 +31,7 @@ describe("Shakes Partner", function () {
             response[3].should.eventually.equal(
                 "Long live the king!"),
             response[4].should.eventually.equal(
-                "Bernardo")
+                "Bernardo.")
         ]);
     });
     it("should handle the scenario with doctor butts", function () {
@@ -46,18 +46,13 @@ describe("Shakes Partner", function () {
             response[0].should.eventually.match(
                 /doctor butts from henry the eighth is .* character.  Which act and scene\?/),
             response[1].should.eventually.equal(
-                "henry the eighth by william shakespeare.  Act 5, scene 2.  Before the councilchamber." +
-                " Pursuivants, Pages,  and c.  Enter CRANMER  I hope I am not too late and yet the gentleman, That was sent to me from the council, prayd me To make great haste. All fast what means this Ho! Who waits there Sure, you know me  Enter Keeper  Yes, my lord But yet I cannot help you.  Why  Enter DOCTOR BUTTS  Your " +
-                "grace must wait till you be calld for.  So."),
+                "henry the eighth by william shakespeare.  Act 5, scene 2.  Before the councilchamber. Pursuivants, Pages,  and c.  Enter CRANMER. I hope I am not too late and yet the gentleman, That was sent to me from the council, prayd me To make great haste. All fast what means this Ho! Who waits there Sure, you know me. Enter Keeper. Yes, my lord But yet I cannot help you. Why. Enter DOCTOR BUTTS. Your grace must wait till you be calld for. So."),
             response[2].should.eventually.equal(
-                "Exit  [Aside]Tis Butts, The kings physician.  as he passd along, How earnestly he cast his eyes upon me! Pray " +
-                "heaven, he sound not my disgrace! For certain, This is of purpose laid by some that hate me God turn their hearts! I never sought " +
-                "their malice To quench mine honour.  they would shame to make me Wait else at door, a fellowcounsellor, Mong boys, grooms, and lackeys." +
-                " But their pleasures Must be fulfilld, and I attend with patience.  Enter the KING HENRY VIII and DOCTOR BUTTS at a window above"),
+                "Exit. [Aside]Tis Butts, The kings physician.  as he passd along, How earnestly he cast his eyes upon me! Pray heaven, he sound not my disgrace! For certain, This is of purpose laid by some that hate me God turn their hearts! I never sought their malice To quench mine honour.  they would shame to make me Wait else at door, a fellowcounsellor, Mong boys, grooms, and lackeys. But their pleasures Must be fulfilld, and I attend with patience. Enter the KING HENRY VIII and DOCTOR BUTTS at a window above."),
             response[3].should.eventually.equal(
-                "Whats that, Butts"),
+                "Whats that, Butts."),
             response[4].should.eventually.equal(
-                "Body o me, where is it"),
+                "Body o me, where is it."),
             response[5].should.eventually.match(
                 /You did it!  You finished the scene!  .* job!/),
         ]);
@@ -97,8 +92,7 @@ describe("Shakes Partner", function () {
         run("LineIntent", {Words: "piss new father"});
 
         return response[2].should.eventually.equal(
-            "Ha! what is that  It will be dangerous to go on.  no further.  What makes this change  The matter  Hath he not passd the noble and the common  Cominius, no.  Have I had childrens voices  Tribunes, give way he" +
-            " shall to the marketplace.  The people are incensed against him.");
+            "Ha! what is that. It will be dangerous to go on.  no further. What makes this change. The matter. Hath he not passd the noble and the common. Cominius, no. Have I had childrens voices. Tribunes, give way he shall to the marketplace. The people are incensed against him.");
     });
     it("should handle getting a play when it expects a character");
     it("should handle getting a scene when it expects a character");

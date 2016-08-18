@@ -185,7 +185,7 @@ ShakesPartnerSkill.prototype.eventHandlers.onIntent = function (intentRequest, s
             console.log(nextLines.toString());
             return newAskResponse(
                 response,
-                String.join("  ", nextLines),
+                nextLines.join(" "),
                 "Say your line");
         }
     }
@@ -371,7 +371,7 @@ function collectLines(session, collectedLines) {
         }
         else {
             var line = text.text.replace(/:/g, ". ");
-            if (line.match(/.*[a-zA-Z]/)) {
+            if (line.match(/^.*[a-zA-Z]$/)) {
                 line += ".";
             }
             while (collectedLineSize + line.length > 7900 && collectedLines.length > 0) {
