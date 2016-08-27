@@ -168,6 +168,7 @@ ShakesPartnerSkill.prototype.eventHandlers.onIntent = function (intentRequest, s
             }
         }
         catch (e) {
+            session.attributes.scene = null;
             var firstSceneWithCharacter = require("./data/" + playName + "/charactersToScenes")[character][0];
             return newAskResponse(
                 response,

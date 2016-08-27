@@ -187,9 +187,14 @@ describe("Shakes Partner", function () {
     it("should handle a non-existant scene", function () {
         run("CharacterIntent", {Character: "bernardo"});
         run("SceneIntent", {Act: "10", Scene: "10"});
-        return response[1].should.eventually.equal(
-            "What I thought I heard you say was Act 10, scene 10, but that can't be right since that doesn't even occur in hamlet.  Why don't you try again?  Incidentally, the first scene that bernardo appears in is Act 1, scene 1.  Just so you know."
-        );
+        run("SceneIntent", {Act: "1", Scene: "1"});
+        return Promise.all([
+            response[1].should.eventually.equal(
+                "What I thought I heard you say was Act 10, scene 10, but that can't be right since that doesn't even occur in hamlet.  Why don't you try again?  Incidentally, the first scene that bernardo appears in is Act 1, scene 1.  Just so you know."),
+            response[2].should.eventually.equal(
+                "hamlet by william shakespeare.  Act 1, scene 1.  Elsinore. A platform before " +
+                "the castle.  FRANCISCO at his post. Enter to him BERNARDO."),
+        ]);
     });
     it("should limit spoken lines to no more than 8000 characters");
     it("should preface the spoken lines with an indication if it had to limit them");
