@@ -184,6 +184,13 @@ describe("Shakes Partner", function () {
         return response[0].should.eventually.equal(
             "beer narco is not a character that I recognize.  The closest matches I have are bernardo, princess, and reignier.  Please try saying your character again.");
     });
+    it("should handle a non-existant scene", function () {
+        run("CharacterIntent", {Character: "bernardo"});
+        run("SceneIntent", {Act: "10", Scene: "10"});
+        return response[1].should.eventually.equal(
+            "What I thought I heard you say was Act 10, scene 10, but that can't be right since that doesn't even occur in hamlet.  Why don't you try again?  Incidentally, the first scene that bernardo appears in is Act 1, scene 1.  Just so you know."
+        );
+    });
     it("should limit spoken lines to no more than 8000 characters");
     it("should preface the spoken lines with an indication if it had to limit them");
 });

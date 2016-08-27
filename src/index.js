@@ -144,30 +144,41 @@ ShakesPartnerSkill.prototype.eventHandlers.onIntent = function (intentRequest, s
         }
         var startingText = [];
         session.attributes.scene = sceneName;
-        if (collectLines(session, startingText)) {
-            delete session.attributes.scene;
-            var firstSceneWithCharacter = require("./data/" + playName + "/charactersToScenes.json")[character][0];
-            return newAskResponse(
-                response,
-                "You need to pick an act and a scene from " + playName + " that " + character + " actually appears in.  The first scene " + character + " is in is " + firstSceneWithCharacter,
-                "I don't recognize that.  You need to pick an act and a scene from " + playName);
-        } else {
-            var sceneDef = require("./data/" + playName + "/" + sceneName + ".json");
-            var responseText = playName + " by william shakespeare.  " + sceneName + ".  " + sceneDef.location;
-            if (!responseText.endsWith(".")) {
-                responseText += ".";
+        try {
+            if (collectLines(session, startingText)) {
+                delete session.attributes.scene;
+                var firstSceneWithCharacter = require("./data/" + playName + "/charactersToScenes")[character][0];
+                return newAskResponse(
+                    response,
+                    "You need to pick an act and a scene from " + playName + " that " + character + " actually appears in.  The first scene " + character + " is in is " + firstSceneWithCharacter,
+                    "I don't recognize that.  You need to pick an act and a scene from " + playName);
+            } else {
+                var sceneDef = require("./data/" + playName + "/" + sceneName);
+                var responseText = playName + " by william shakespeare.  " + sceneName + ".  " + sceneDef.location;
+                if (!responseText.endsWith(".")) {
+                    responseText += ".";
+                }
+                responseText += "  " + startingText.join(" ");
+                console.log(responseText);
+                console.log("length: " + responseText.length);
+                return newAskResponse(
+                    response,
+                    responseText,
+                    "You need to read your line.");
             }
-            responseText += "  " + startingText.join(" ");
-            console.log(responseText);
-            console.log("length: " + responseText.length);
+        }
+        catch (e) {
+            var firstSceneWithCharacter = require("./data/" + playName + "/charactersToScenes")[character][0];
             return newAskResponse(
                 response,
-                responseText,
-                "You need to read your line.");
+                "What I thought I heard you say was " + sceneName + ", but that can't be right since that doesn't even occur in " + playName +
+                ".  Why don't you try again?  Incidentally, the first scene that " + character + " appears in is " + firstSceneWithCharacter +
+                ".  Just so you know.",
+                "I don't recognize that.  You need to pick an act and a scene from " + playName);
         }
 
     }
-    var lines = require("./data/" + playName + "/" + sceneName + ".json").lines;
+    var lines = require("./data/" + playName + "/" + sceneName).lines;
     console.log("lineNumber: " + lineNumber);
     var doubleMetaphone = require('double-metaphone');
     var yourLine = lines[lineNumber].text.replace(/\\[[^\\]]*\\]/,"");
@@ -356,7 +367,7 @@ function collectLines(session, collectedLines) {
     }
     console.log(playName);
     console.log(sceneName);
-    var lines = require("./data/" + playName + "/" + sceneName + ".json").lines;
+    var lines = require("./data/" + playName + "/" + sceneName).lines;
     console.log(lines.length);
     console.log(lineNumber);
     console.log(character);
