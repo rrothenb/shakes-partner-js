@@ -52,8 +52,6 @@ AlexaSkill.prototype.eventHandlers = {
 
 AlexaSkill.prototype.execute = function (event, context) {
     try {
-        console.log("session applicationId: " + event.session.application.applicationId);
-
         // Validate that this request originated from authorized source.
         if (this._appId && event.session.application.applicationId !== this._appId) {
             console.log("The applicationIds don't match : " + event.session.application.applicationId + " and "

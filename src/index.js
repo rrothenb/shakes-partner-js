@@ -12,13 +12,9 @@ ShakesPartnerSkill.prototype = Object.create(AlexaSkill.prototype);
 ShakesPartnerSkill.prototype.constructor = ShakesPartnerSkill;
 
 ShakesPartnerSkill.prototype.eventHandlers.onSessionStarted = function (sessionStartedRequest, session) {
-    console.log("onSessionStarted requestId: " + sessionStartedRequest.requestId
-        + ", sessionId: " + session.sessionId);
 };
 
 ShakesPartnerSkill.prototype.eventHandlers.onLaunch = function (launchRequest, session, response) {
-    console.log("ShakesPartnerSkill onLaunch requestId: " + launchRequest.requestId + ", sessionId: " + session.sessionId);
-
     newAskResponse(
         response,
         "Which of Shakespeare's characters would you like to read for today?",
@@ -26,7 +22,6 @@ ShakesPartnerSkill.prototype.eventHandlers.onLaunch = function (launchRequest, s
 };
 
 ShakesPartnerSkill.prototype.eventHandlers.onIntent = function (intentRequest, session, response) {
-    console.log("ShakesPartnerSkill onIntent requestId: " + intentRequest.requestId + ", sessionId: " + session.sessionId);
     var character = session.attributes.character;
     var playName = session.attributes.play;
     var sceneName = session.attributes.scene;
@@ -35,12 +30,7 @@ ShakesPartnerSkill.prototype.eventHandlers.onIntent = function (intentRequest, s
     var intent = intentRequest.intent;
     var intentName = (intent != null) ? intent.name : null;
 
-    console.log("intentRequest: " + JSON.stringify(intentRequest));
     console.log(JSON.stringify(intent));
-    console.log("character: " + character);
-    console.log("playName: " + playName);
-    console.log("sceneName: " + sceneName);
-    console.log("lineNumber: " + lineNumber);
 
     if ("AMAZON.HelpIntent" == intentName) {
         return newAskResponse(
@@ -67,16 +57,13 @@ ShakesPartnerSkill.prototype.eventHandlers.onIntent = function (intentRequest, s
     }
     if (character == null) {
         character = getStringValue(intentRequest);
-        console.log("character: " + character);
         if (character == null) {
             return newAskResponse(
                 response,
                 "I don't recognize that.  You need to pick a character for whom you'll be reading.",
                 "I don't recognize that.  You need to pick a character for whom you'll be reading.");
         }
-        console.log("about to getPlays for " + character);
         var playNames = require("./data/charactersToPlays")[character];
-        console.log("plays: " + playNames);
         if (playNames == null) {
             return newAskResponse(
                 response,
@@ -84,7 +71,6 @@ ShakesPartnerSkill.prototype.eventHandlers.onIntent = function (intentRequest, s
                 "I don't recognize that.  You need to pick a character for whom you'll be reading.");
         }
         else if (playNames.length > 1) {
-            console.log("num plays: " + playNames.length);
             session.attributes.character = character
             return newAskResponse(
                 response,
@@ -93,7 +79,6 @@ ShakesPartnerSkill.prototype.eventHandlers.onIntent = function (intentRequest, s
         }
         else {
             playName = playNames[0];
-            console.log("playName: " + playName);
             session.attributes.character = character
             session.attributes.play = playName;
             if (character == playName) {
@@ -135,7 +120,6 @@ ShakesPartnerSkill.prototype.eventHandlers.onIntent = function (intentRequest, s
     }
     else if (sceneName == null) {
         sceneName = getSceneValue(intentRequest);
-        console.log(sceneName);
         if (sceneName == null) {
             return newAskResponse(
                 response,
@@ -159,8 +143,6 @@ ShakesPartnerSkill.prototype.eventHandlers.onIntent = function (intentRequest, s
                     responseText += ".";
                 }
                 responseText += "  " + startingText.join(" ");
-                console.log(responseText);
-                console.log("length: " + responseText.length);
                 return newAskResponse(
                     response,
                     responseText,
@@ -180,12 +162,8 @@ ShakesPartnerSkill.prototype.eventHandlers.onIntent = function (intentRequest, s
 
     }
     var lines = require("./data/" + playName + "/" + sceneName).lines;
-    console.log("lineNumber: " + lineNumber);
     var doubleMetaphone = require('double-metaphone');
     var yourLine = lines[lineNumber].text.replace(/\\[[^\\]]*\\]/,"");
-    console.log("Expected:" + yourLine);
-    var yourLineDM = doubleMetaphone(yourLine).join("");
-    console.log(yourLineDM);
     var words = getStringValue(intentRequest);
     if (intentName == "ContinueIntent") {
         session.attributes.lineNumber = lineNumber+1;
@@ -196,7 +174,6 @@ ShakesPartnerSkill.prototype.eventHandlers.onIntent = function (intentRequest, s
                 "You did it!  You finished the scene!  You did " + getSuperlative() + " job!");
         }
         else {
-            console.log(nextLines.toString());
             return newAskResponse(
                 response,
                 nextLines.join(" "),
@@ -210,16 +187,17 @@ ShakesPartnerSkill.prototype.eventHandlers.onIntent = function (intentRequest, s
             "Say your line");
     }
     else if (words != null) {
+        var yourLineDM = doubleMetaphone(yourLine).join("");
+        console.log("Expected:" + yourLine);
+        console.log(yourLineDM);
         console.log("Given: " + words);
         var wordsDM = doubleMetaphone(words).join("");
         console.log(wordsDM);
         var levenshtein = require('fast-levenshtein');
         var distance = levenshtein.get(yourLineDM, wordsDM);
-        console.log("Distance :" + distance);
-        console.log("length: " + yourLineDM.length);
         var percentDistance = distance*100/yourLineDM.length;
         percentDistance = percentDistance/(1.0/yourLineDM.length+1);
-        console.log("percentDistance: " + percentDistance);
+        console.log("Distance :" + distance + ", length: " + yourLineDM.length + ", percentDistance: " + percentDistance);
         if (percentDistance < 20) {
             session.attributes.lineNumber = lineNumber+1;
             var nextLines = [];
@@ -229,7 +207,6 @@ ShakesPartnerSkill.prototype.eventHandlers.onIntent = function (intentRequest, s
                     "You did it!  You finished the scene!  You did " + getSuperlative() + " job!");
             }
             else {
-                console.log(nextLines.toString());
                 return newAskResponse(
                     response,
                     nextLines.join(" "),
@@ -264,7 +241,6 @@ ShakesPartnerSkill.prototype.eventHandlers.onIntent = function (intentRequest, s
 };
 
 ShakesPartnerSkill.prototype.eventHandlers.onSessionEnded = function (sessionEndedRequest, session) {
-    console.log("onSessionEnded requestId: " + sessionEndedRequest.requestId + ", sessionId: " + session.sessionId);
 };
 
 function getStringValue(request) {
@@ -287,7 +263,6 @@ function getStringValue(request) {
 function getSceneValue(request) {
     var intent = request.intent;
     var name = intent.name;
-    console.log(name);
     if (name == "SceneIntent") {
         return "Act " + intent.slots["Act"].value + ", scene " + intent.slots["Scene"].value;
     }
@@ -366,18 +341,10 @@ function collectLines(session, collectedLines) {
     if (lineNumber == null) {
         lineNumber = 0;
     }
-    console.log(playName);
-    console.log(sceneName);
     var lines = require("./data/" + playName + "/" + sceneName).lines;
-    console.log(lines.length);
-    console.log(lineNumber);
-    console.log(character);
     for (var i=lineNumber;i<lines.length;i++) {
         var text = lines[i];
-        console.log(text);
         if (text.speaker != null && text.speaker == character) {
-            console.log("collectedLineSize: " + collectedLineSize);
-            console.log("lineNumber: " + i);
             if (linesTruncated) {
                 collectedLines.unshift("skipping ahead.");
             }
@@ -397,7 +364,6 @@ function collectLines(session, collectedLines) {
             collectedLineSize += line.length;
         }
     }
-    console.log(collectedLines.length);
     return true;
 }
 
@@ -416,9 +382,5 @@ function getClosestCharacters(character) {
 
 exports.handler = function (event, context) {
     var skill = new ShakesPartnerSkill();
-    console.log("event:");
-    console.log(event);
-    console.log("context:");
-    console.log(context);
     skill.execute(event, context);
 };
