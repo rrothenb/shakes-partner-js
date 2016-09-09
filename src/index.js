@@ -198,7 +198,7 @@ ShakesPartnerSkill.prototype.eventHandlers.onIntent = function (intentRequest, s
         var percentDistance = distance*100/yourLineDM.length;
         percentDistance = percentDistance/(1.0/yourLineDM.length+1);
         console.log("Distance :" + distance + ", length: " + yourLineDM.length + ", percentDistance: " + percentDistance);
-        if (percentDistance < 20) {
+        if (percentDistance < 25) {
             session.attributes.lineNumber = lineNumber+1;
             var nextLines = [];
             if (collectLines(session, nextLines)) {

@@ -167,7 +167,7 @@ describe("Shakes Partner", function () {
         run("SceneIntent", {Act: "1", Scene: "1"});
         run("LineIntent", {Words: "Looks like I got here just in time for some major party action!"});
         run("LineIntent", {Words: "Is anybody there?"});
-        run("LineIntent", {Words: "Who goes there?"});
+        run("LineIntent", {Words: "Who goes there now?"});
 
         return Promise.all([
             response[2].should.eventually.equal(
